@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "course-materials/part6-misc-github.html",
+    "href": "course-materials/part6-misc-github.html",
+    "title": "TBD",
+    "section": "",
+    "text": "ADD IMAGE HERE\n\nRest coming soon"
+  },
+  {
     "objectID": "course-materials/part0-setup.html",
     "href": "course-materials/part0-setup.html",
     "title": "Setup",
@@ -12,6 +19,20 @@
     "title": "Setup",
     "section": "Prerequisites",
     "text": "Prerequisites\nComing soon"
+  },
+  {
+    "objectID": "course-materials/part1-build-websites.html",
+    "href": "course-materials/part1-build-websites.html",
+    "title": "Creating your personal website using Quarto",
+    "section": "",
+    "text": "ADD IMAGE HERE\n\nRest coming soon"
+  },
+  {
+    "objectID": "course-materials/part3-creating-blogs.html",
+    "href": "course-materials/part3-creating-blogs.html",
+    "title": "Adding a blog to your Quarto website",
+    "section": "",
+    "text": "ADD IMAGE HERE\n\nRest coming soon"
   },
   {
     "objectID": "index.html",
@@ -40,5 +61,26 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "course-materials/part4-writing-blogs.html",
+    "href": "course-materials/part4-writing-blogs.html",
+    "title": "Writing skills for science communication",
+    "section": "",
+    "text": "ADD IMAGE HERE\n\nRest coming soon"
+  },
+  {
+    "objectID": "course-materials/part2-customizing-websites.html",
+    "href": "course-materials/part2-customizing-websites.html",
+    "title": "Customizing Quarto websites",
+    "section": "",
+    "text": "ADD IMAGE HERE\n\nRest coming soon"
+  },
+  {
+    "objectID": "course-materials/part5-github-portfolios.html",
+    "href": "course-materials/part5-github-portfolios.html",
+    "title": "GitHub as a professional portfolio",
+    "section": "",
+    "text": "ADD IMAGE HERE\n\nRest coming soon"
   }
 ]

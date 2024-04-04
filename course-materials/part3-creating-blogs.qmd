@@ -1,0 +1,12 @@
+---
+title: "Adding a blog to your Quarto website"
+subtitle: "Part 3"
+title-block-banner: true
+toc: true
+---
+
+::: {.center-text}
+ADD IMAGE HERE
+:::
+
+*Rest coming soon*

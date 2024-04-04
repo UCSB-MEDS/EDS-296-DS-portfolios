@@ -15,6 +15,18 @@ website:
         menu:
           - text: part 0 (setup)
             href: course-materials/part0-setup.qmd
+          - text: part 1 (building Quarto websites)
+            href: course-materials/part1-build-websites.qmd
+          - text: part 2 (customizing Quarto websites)
+            href: course-materials/part2-customizing-websites.qmd
+          - text: part 3 (blogging with Quarto)
+            href: course-materials/part3-creating-blogs.qmd
+          - text: part 4 (writing effective blogs)
+            href: course-materials/part4-writing-blogs.qmd
+          - text: part 5 (GitHub as a portfolio)
+            href: course-materials/part5-github-portfolios.qmd
+          - text: part 6 (misc. topics)
+            href: course-materials/part6-misc-github.qmd
       - icon: github
         menu:
           - text: Source Code
