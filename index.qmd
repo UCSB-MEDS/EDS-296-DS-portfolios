@@ -1,11 +1,50 @@
 ---
-title: "eds296-DS-portfolios"
+title: "Data science tools for building professional online portfolios"
+subtitle: "Master of Environmental Data Science (MEDS)"
+description: "Fall 2024"
 ---
 
-This is a Quarto website.
+::: {.center-text}
+ADD IMAGE HERE
+:::
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Course Description
+
+Having a polished online presence is essential for showcasing your skills, projects, expertise, and (importantly) your personality. Learners, collaborators, and future employers alike will look to your public online profiles to glean information about you and your work. As data scientists, this often means that they’ll head to one of two places: GitHub and/or your personal website. This course is designed to help you both lay the foundation for creating and maintaining these profiles in an organized, informative, and visually-appealing way. Over the next several weeks, you will:
+
+- build and deploy your personal website using popular data science tools and frameworks
+- create your first (of many!) data science blog posts
+- learn about how best to communicate your work to different audiences
+- understand where and how to document your projects and code
+- and more!
+
+Throughout the MEDS program, you’ll be asked to turn assignments and projects into science communication pieces on your personal website’s blog. These are excellent opportunities to build out your portfolio ahead of your job search. 
+
+## Teaching Team
+
+<br>
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-12}
+
+::: {.center-text .body-text-l}
+**Instructor**
+:::
 
 ```{r}
-1 + 1
+#| eval: true 
+#| echo: false
+#| fig-align: "center"
+#| out-width: "30%" 
+knitr::include_graphics("images/sam.png")
 ```
+
+::: {.center-text}
+[**Sam Csik**]{.teal-text}  
+**Email:** [scsik@ucsb.edu](mailto::scsik@ucsb.edu)  
+**Learn more:** [samanthacsik.github.io](https://samanthacsik.github.io/)  
+:::
+
+:::
+:::
+

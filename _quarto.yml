@@ -1,19 +1,38 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "eds296-DS-portfolios"
+  title: "EDS 296"
   navbar:
-    left:
+    right:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: home
+      - text: syllabus
+        href: https://docs.google.com/document/d/1FOpQ_0x8JCbJ6-U0TPsy4WeVPeYL4PIvDzaOUyDN-Vg/edit?usp=sharing
+        target: _blank
+      - text: course materials
+        menu:
+          - text: part 0 (setup)
+            href: course-materials/part0-setup.qmd
+      - icon: github
+        menu:
+          - text: Source Code
+            url:  https://github.com/samanthacsik/eds296-DS-portfolios
+          - text: Report a Bug
+            url:  https://github.com/samanthacsik/eds296-DS-portfolios/issues
+  page-footer:
+    background: dark
+    right: This website is built with [{{< fa brands github title="the github octocat logo" >}}](https://github.com/samanthacsik/EDS-240-data-viz), [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html) and [Quarto](https://quarto.org/)
+    left: |
+      <img src="images/bren-logo.png" alt="The Bren School of Environmental Science & Management logo" width="250"/>
+
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
-    toc: true
+    theme: meds-website-styles.scss
+    toc: false
+    page-layout: full
+    code-line-numbers: true
 
-editor: visual
 
