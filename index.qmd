@@ -4,8 +4,28 @@ subtitle: "Master of Environmental Data Science (MEDS)"
 description: "Fall 2024"
 ---
 
-::: {.center-text}
-ADD IMAGE HERE
+<br>
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-6}
+```{r}
+#| eval: true
+#| echo: false
+#| out-width: "40%"
+#| fig-align: "center"
+knitr::include_graphics("images/quarto-hex.png")
+```
+:::
+
+::: {.g-col-12 .g-col-md-6}
+```{r}
+#| eval: true
+#| echo: false
+#| out-width: "75%"
+#| fig-align: "center"
+knitr::include_graphics("images/github-logo.png")
+```
+:::
 :::
 
 ## Course Description

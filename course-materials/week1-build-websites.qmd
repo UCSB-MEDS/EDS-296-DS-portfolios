@@ -1,0 +1,85 @@
+---
+title: "Creating your personal website using Quarto"
+subtitle: "Week 0"
+description: "Friday September 27^th^, 2024"
+title-block-banner: true
+toc: true
+---
+
+::: {.center-text}
+```{r}
+#| eval: true
+#| echo: false
+#| fig-align: "center"
+#| out-width: "60%"
+#| fig-alt: "A schematic representing rendering of Quarto documents from .qmd, to knitr or jupyter, to plain text markdown, then converted by pandoc into any number of output types including html, PDF, or Word document."
+knitr::include_graphics("../images/horst-quarto-conversion.png")
+```
+
+::: {.center-text .body-text-s .gray-text}
+*Artwork by [Allison Horst](https://allisonhorst.com/allison-horst)*
+:::
+
+:::
+
+## Anticipated deliverable(s)
+
+By the end of today's class, you should have:
+
+- the scaffolding of a basic Quarto website built and deployed using GitHub Pages
+- a neatly-arranged landing page with your professional headshot and your chosen bio / info
+
+## Pre-class Prep
+
+Please be sure to complete the following before class:
+
+### Install software / Create accounts
+
+MEDS students should already have the following installed / created from summer session (but it's worth double-checking!):
+
+::: {.callout-note collapse=true icon=false}
+## To follow along, you'll need:
+- [R](https://cloud.r-project.org/) & [RStudio](https://posit.co/download/rstudio-desktop/#download) installed
+- Quarto installed – **Quarto is now included with RStudio v2022.07.1+ i.e. no need for a separate download / install if you have the latest version of RStudio**
+- A [GitHub](https://github.com/) account
+- [Git](https://git-scm.com/) installed / configured
+
+Please refer to the MEDS Installation Guide for [Mac](https://ucsb-meds.github.io/meds-install-mac.html) and [Windows](https://ucsb-meds.github.io/meds-install-windows.html) machines for detailed setup instructions (follow steps 1-7).
+:::
+
+### Gather materials to add to your website's landing page
+
+During this session, you'll have the opportunity to add some personal information to your website's landing page. It'll help to have an idea of what you might want to include (at least as a starting point -- your website's content will most certainly evolve over time). Consider the following before attending class:
+
+- **Have your professional headshot handy.** Your Bren photo is a great option here! Save your photo to your Desktop (or somewhere you can easily find again) for now.
+- **Draft your personal bio / blurb to include on your website's landing page.** Consider reusing your Bren bio, or even drafting a shortened, catchy version of it for your landing page. Save your text in a place you can quickly copy from during class (e.g. a Google Doc).
+- **Gather your important public profile links.** Your personal website is an excellent place to link out to your other public profiles in one, organized place. Bookmark / save the links you'd like to include (e.g. LinkedIn, GitHub, even your preferred email address)
+- **Consider which landing page template to use.** We'll be applying one of Quarto's five available [built-in templates](https://quarto.org/docs/websites/website-about.html#templates) when we create our website's landing page. Take a peek at the template previews and identify which one(s) you like most (e.g. I'm a fan of `jolla`, but used `tresles` for a long while). Consider how you'd like to arrange your personal bio / info given the layout of your top choice template.
+
+::: {.callout-tip collapse=true icon=false}
+## Looking for some landing page bio inspiration? Check out the following:
+Here are just a small handful of websites, each with a slightly different approach to their landing page bios.
+
+- [Samantha Csik](https://samanthacsik.github.io/) (yours truly)
+- [Ray Hunter](https://ramhunte.github.io/) (MESM 2024)
+- [Sam Muir](https://shmuir.github.io/) (MEDS 2024)
+- [Luna Catalán](https://lunacatalan.github.io/) (MEDS 2024)
+- [Oksana Protsukha](https://oksanaprotsukha.github.io/portfolio/) (MEDS 2025)
+- [Victoria Cutler](https://victoriacutler.github.io/) (MEDS 2023)
+- [Marie Rivers](https://marierivers.github.io/) (MEDS 2022)
+:::
+
+## Lecture Materials
+
+We'll walk through the steps of building and deploying our personal websites together in class, but you can find step-by-step instructions below, should you need to reference them at any point:
+
+::: {.center-text}
+[{{< fa file-lines title="A file with lines of text on it" >}} Instructional Documentation](https://ucsb-meds.github.io/creating-quarto-websites/){.btn role="button" target="_blank"} 
+:::
+
+## What should I continue working on?
+
+- **Refine the language / content on your landing page.** Try out different built-in templates, bio language, and arrangement of content until you settle on something that you like.
+- **Add additional pages to your website.** By default, Quarto creates a landing page (`index.qmd`) and a page titled, "About" (`about.qmd`) We also practiced adding a "Resources" page (`resources.qmd`) during class. Consider if you want to keep all of these (though note that you *must* keep `index.qmd`) or add additional pages. If you're not quite ready to add content to them, it's sufficient to include placeholder text to those pages (e.g. *Coming soon!*). Recall that you can add / remove pages by modifying your `_quarto.yml` file.
+
+**An important reminder:** A personal website is an ever-evolving project (I'm pretty sure I've rewritten the language across my website at least once a year since I first created it). Don't feel too much pressure to make it "perfect" -- you'll likely revisit the content / arrangement often, especially throughout different stages of your career!

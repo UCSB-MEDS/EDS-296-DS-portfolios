@@ -1,0 +1,30 @@
+---
+title: "Customizing Quarto websites"
+subtitle: "Week 3"
+description: "Friday October 11^th^, 2024"
+title-block-banner: true
+toc: true
+---
+
+::: {.center-text}
+ADD IMAGE HERE
+:::
+
+## Anticipated deliverable(s)
+
+*Coming soon*
+
+## Pre-class Prep
+
+*Coming soon*
+
+## Lecture Materials
+
+
+::: {.center-text}
+[{{< fa person-chalkboard title="A person motioning at a chalkboard" >}} lecture slides](https://ucsb-meds.github.io/customizing-quarto-websites/#/title-slide){.btn role="button" target="_blank"} 
+:::
+
+## What should I continue working on?
+
+*Coming soon*

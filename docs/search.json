@@ -1,45 +1,115 @@
 [
   {
-    "objectID": "course-materials/part6-misc-github.html",
-    "href": "course-materials/part6-misc-github.html",
-    "title": "TBD",
-    "section": "",
-    "text": "ADD IMAGE HERE\n\nRest coming soon"
-  },
-  {
-    "objectID": "course-materials/part0-setup.html",
-    "href": "course-materials/part0-setup.html",
-    "title": "Setup",
-    "section": "",
-    "text": "ADD IMAGE HERE"
-  },
-  {
-    "objectID": "course-materials/part0-setup.html#prerequisites",
-    "href": "course-materials/part0-setup.html#prerequisites",
-    "title": "Setup",
-    "section": "Prerequisites",
-    "text": "Prerequisites\nComing soon"
-  },
-  {
-    "objectID": "course-materials/part1-build-websites.html",
-    "href": "course-materials/part1-build-websites.html",
-    "title": "Creating your personal website using Quarto",
-    "section": "",
-    "text": "ADD IMAGE HERE\n\nRest coming soon"
-  },
-  {
-    "objectID": "course-materials/part3-creating-blogs.html",
-    "href": "course-materials/part3-creating-blogs.html",
+    "objectID": "course-materials/week3-creating-blogs.html",
+    "href": "course-materials/week3-creating-blogs.html",
     "title": "Adding a blog to your Quarto website",
     "section": "",
-    "text": "ADD IMAGE HERE\n\nRest coming soon"
+    "text": "ADD IMAGE HERE"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Data science tools for building professional online portfolios",
+    "objectID": "course-materials/week3-creating-blogs.html#anticipated-deliverables",
+    "href": "course-materials/week3-creating-blogs.html#anticipated-deliverables",
+    "title": "Adding a blog to your Quarto website",
+    "section": "Anticipated deliverable(s)",
+    "text": "Anticipated deliverable(s)\nComing soon"
+  },
+  {
+    "objectID": "course-materials/week3-creating-blogs.html#pre-class-prep",
+    "href": "course-materials/week3-creating-blogs.html#pre-class-prep",
+    "title": "Adding a blog to your Quarto website",
+    "section": "Pre-class Prep",
+    "text": "Pre-class Prep\nComing soon"
+  },
+  {
+    "objectID": "course-materials/week3-creating-blogs.html#lecture-materials",
+    "href": "course-materials/week3-creating-blogs.html#lecture-materials",
+    "title": "Adding a blog to your Quarto website",
+    "section": "Lecture Materials",
+    "text": "Lecture Materials\n\n Blog post (with instructions)"
+  },
+  {
+    "objectID": "course-materials/week3-creating-blogs.html#what-should-i-continue-working-on",
+    "href": "course-materials/week3-creating-blogs.html#what-should-i-continue-working-on",
+    "title": "Adding a blog to your Quarto website",
+    "section": "What should I continue working on?",
+    "text": "What should I continue working on?\nComing soon"
+  },
+  {
+    "objectID": "course-materials/week5-github-portfolios.html",
+    "href": "course-materials/week5-github-portfolios.html",
+    "title": "GitHub as a professional portfolio",
     "section": "",
     "text": "ADD IMAGE HERE"
+  },
+  {
+    "objectID": "course-materials/week5-github-portfolios.html#anticipated-deliverables",
+    "href": "course-materials/week5-github-portfolios.html#anticipated-deliverables",
+    "title": "GitHub as a professional portfolio",
+    "section": "Anticipated deliverable(s)",
+    "text": "Anticipated deliverable(s)\nComing soon"
+  },
+  {
+    "objectID": "course-materials/week5-github-portfolios.html#pre-class-prep",
+    "href": "course-materials/week5-github-portfolios.html#pre-class-prep",
+    "title": "GitHub as a professional portfolio",
+    "section": "Pre-class Prep",
+    "text": "Pre-class Prep\nComing soon"
+  },
+  {
+    "objectID": "course-materials/week5-github-portfolios.html#lecture-materials",
+    "href": "course-materials/week5-github-portfolios.html#lecture-materials",
+    "title": "GitHub as a professional portfolio",
+    "section": "Lecture Materials",
+    "text": "Lecture Materials\nComing soon"
+  },
+  {
+    "objectID": "course-materials/week5-github-portfolios.html#what-should-i-continue-working-on",
+    "href": "course-materials/week5-github-portfolios.html#what-should-i-continue-working-on",
+    "title": "GitHub as a professional portfolio",
+    "section": "What should I continue working on?",
+    "text": "What should I continue working on?\nComing soon"
+  },
+  {
+    "objectID": "course-materials/week4-writing-blogs.html",
+    "href": "course-materials/week4-writing-blogs.html",
+    "title": "Writing skills for science communication",
+    "section": "",
+    "text": "ADD IMAGE HERE"
+  },
+  {
+    "objectID": "course-materials/week4-writing-blogs.html#anticipated-deliverables",
+    "href": "course-materials/week4-writing-blogs.html#anticipated-deliverables",
+    "title": "Writing skills for science communication",
+    "section": "Anticipated deliverable(s)",
+    "text": "Anticipated deliverable(s)\nComing soon"
+  },
+  {
+    "objectID": "course-materials/week4-writing-blogs.html#pre-class-prep",
+    "href": "course-materials/week4-writing-blogs.html#pre-class-prep",
+    "title": "Writing skills for science communication",
+    "section": "Pre-class Prep",
+    "text": "Pre-class Prep\nComing soon"
+  },
+  {
+    "objectID": "course-materials/week4-writing-blogs.html#lecture-materials",
+    "href": "course-materials/week4-writing-blogs.html#lecture-materials",
+    "title": "Writing skills for science communication",
+    "section": "Lecture Materials",
+    "text": "Lecture Materials\nComing soon"
+  },
+  {
+    "objectID": "course-materials/week4-writing-blogs.html#what-should-i-continue-working-on",
+    "href": "course-materials/week4-writing-blogs.html#what-should-i-continue-working-on",
+    "title": "Writing skills for science communication",
+    "section": "What should I continue working on?",
+    "text": "What should I continue working on?\nComing soon"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "index.html#course-description",
@@ -56,31 +126,108 @@
     "text": "Teaching Team\n\n\n\n\nInstructor\n\n\n\n\n\n\n\n\n\n\n\nSam Csik\nEmail: scsik@ucsb.edu\nLearn more: samanthacsik.github.io"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "course-materials/week1-build-websites.html",
+    "href": "course-materials/week1-build-websites.html",
+    "title": "Creating your personal website using Quarto",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Artwork by Allison Horst"
   },
   {
-    "objectID": "course-materials/part4-writing-blogs.html",
-    "href": "course-materials/part4-writing-blogs.html",
-    "title": "Writing skills for science communication",
-    "section": "",
-    "text": "ADD IMAGE HERE\n\nRest coming soon"
+    "objectID": "course-materials/week1-build-websites.html#anticipated-deliverables",
+    "href": "course-materials/week1-build-websites.html#anticipated-deliverables",
+    "title": "Creating your personal website using Quarto",
+    "section": "Anticipated deliverable(s)",
+    "text": "Anticipated deliverable(s)\nBy the end of today’s class, you should have:\n\nthe scaffolding of a basic Quarto website built and deployed using GitHub Pages\na neatly-arranged landing page with your professional headshot and your chosen bio / info"
   },
   {
-    "objectID": "course-materials/part2-customizing-websites.html",
-    "href": "course-materials/part2-customizing-websites.html",
+    "objectID": "course-materials/week1-build-websites.html#pre-class-prep",
+    "href": "course-materials/week1-build-websites.html#pre-class-prep",
+    "title": "Creating your personal website using Quarto",
+    "section": "Pre-class Prep",
+    "text": "Pre-class Prep\nPlease be sure to complete the following before class:\n\nInstall software / Create accounts\nMEDS students should already have the following installed / created from summer session (but it’s worth double-checking!):\n\n\n\n\n\n\nTo follow along, you’ll need:\n\n\n\n\n\n\nR & RStudio installed\nQuarto installed – Quarto is now included with RStudio v2022.07.1+ i.e. no need for a separate download / install if you have the latest version of RStudio\nA GitHub account\nGit installed / configured\n\nPlease refer to the MEDS Installation Guide for Mac and Windows machines for detailed setup instructions (follow steps 1-7).\n\n\n\n\n\nGather materials to add to your website’s landing page\nDuring this session, you’ll have the opportunity to add some personal information to your website’s landing page. It’ll help to have an idea of what you might want to include (at least as a starting point – your website’s content will most certainly evolve over time). Consider the following before attending class:\n\nHave your professional headshot handy. Your Bren photo is a great option here! Save your photo to your Desktop (or somewhere you can easily find again) for now.\nDraft your personal bio / blurb to include on your website’s landing page. Consider reusing your Bren bio, or even drafting a shortened, catchy version of it for your landing page. Save your text in a place you can quickly copy from during class (e.g. a Google Doc).\nGather your important public profile links. Your personal website is an excellent place to link out to your other public profiles in one, organized place. Bookmark / save the links you’d like to include (e.g. LinkedIn, GitHub, even your preferred email address)\nConsider which landing page template to use. We’ll be applying one of Quarto’s five available built-in templates when we create our website’s landing page. Take a peek at the template previews and identify which one(s) you like most (e.g. I’m a fan of jolla, but used tresles for a long while). Consider how you’d like to arrange your personal bio / info given the layout of your top choice template.\n\n\n\n\n\n\n\nLooking for some landing page bio inspiration? Check out the following:\n\n\n\n\n\nHere are just a small handful of websites, each with a slightly different approach to their landing page bios.\n\nSamantha Csik (yours truly)\nRay Hunter (MESM 2024)\nSam Muir (MEDS 2024)\nLuna Catalán (MEDS 2024)\nOksana Protsukha (MEDS 2025)\nVictoria Cutler (MEDS 2023)\nMarie Rivers (MEDS 2022)"
+  },
+  {
+    "objectID": "course-materials/week1-build-websites.html#lecture-materials",
+    "href": "course-materials/week1-build-websites.html#lecture-materials",
+    "title": "Creating your personal website using Quarto",
+    "section": "Lecture Materials",
+    "text": "Lecture Materials\nWe’ll walk through the steps of building and deploying our personal websites together in class, but you can find step-by-step instructions below, should you need to reference them at any point:\n\n Instructional Documentation"
+  },
+  {
+    "objectID": "course-materials/week1-build-websites.html#what-should-i-continue-working-on",
+    "href": "course-materials/week1-build-websites.html#what-should-i-continue-working-on",
+    "title": "Creating your personal website using Quarto",
+    "section": "What should I continue working on?",
+    "text": "What should I continue working on?\n\nRefine the language / content on your landing page. Try out different built-in templates, bio language, and arrangement of content until you settle on something that you like.\nAdd additional pages to your website. By default, Quarto creates a landing page (index.qmd) and a page titled, “About” (about.qmd) We also practiced adding a “Resources” page (resources.qmd) during class. Consider if you want to keep all of these (though note that you must keep index.qmd) or add additional pages. If you’re not quite ready to add content to them, it’s sufficient to include placeholder text to those pages (e.g. Coming soon!). Recall that you can add / remove pages by modifying your _quarto.yml file.\n\nAn important reminder: A personal website is an ever-evolving project (I’m pretty sure I’ve rewritten the language across my website at least once a year since I first created it). Don’t feel too much pressure to make it “perfect” – you’ll likely revisit the content / arrangement often, especially throughout different stages of your career!"
+  },
+  {
+    "objectID": "course-materials/week6-misc-github.html",
+    "href": "course-materials/week6-misc-github.html",
+    "title": "TBD",
+    "section": "",
+    "text": "ADD IMAGE HERE"
+  },
+  {
+    "objectID": "course-materials/week6-misc-github.html#anticipated-deliverables",
+    "href": "course-materials/week6-misc-github.html#anticipated-deliverables",
+    "title": "TBD",
+    "section": "Anticipated deliverable(s)",
+    "text": "Anticipated deliverable(s)\nComing soon"
+  },
+  {
+    "objectID": "course-materials/week6-misc-github.html#pre-class-prep",
+    "href": "course-materials/week6-misc-github.html#pre-class-prep",
+    "title": "TBD",
+    "section": "Pre-class Prep",
+    "text": "Pre-class Prep\nComing soon"
+  },
+  {
+    "objectID": "course-materials/week6-misc-github.html#lecture-materials",
+    "href": "course-materials/week6-misc-github.html#lecture-materials",
+    "title": "TBD",
+    "section": "Lecture Materials",
+    "text": "Lecture Materials\nComing soon"
+  },
+  {
+    "objectID": "course-materials/week6-misc-github.html#what-should-i-continue-working-on",
+    "href": "course-materials/week6-misc-github.html#what-should-i-continue-working-on",
+    "title": "TBD",
+    "section": "What should I continue working on?",
+    "text": "What should I continue working on?\nComing soon"
+  },
+  {
+    "objectID": "course-materials/week2-customizing-websites.html",
+    "href": "course-materials/week2-customizing-websites.html",
     "title": "Customizing Quarto websites",
     "section": "",
-    "text": "ADD IMAGE HERE\n\nRest coming soon"
+    "text": "ADD IMAGE HERE"
   },
   {
-    "objectID": "course-materials/part5-github-portfolios.html",
-    "href": "course-materials/part5-github-portfolios.html",
-    "title": "GitHub as a professional portfolio",
-    "section": "",
-    "text": "ADD IMAGE HERE\n\nRest coming soon"
+    "objectID": "course-materials/week2-customizing-websites.html#anticipated-deliverables",
+    "href": "course-materials/week2-customizing-websites.html#anticipated-deliverables",
+    "title": "Customizing Quarto websites",
+    "section": "Anticipated deliverable(s)",
+    "text": "Anticipated deliverable(s)\nComing soon"
+  },
+  {
+    "objectID": "course-materials/week2-customizing-websites.html#pre-class-prep",
+    "href": "course-materials/week2-customizing-websites.html#pre-class-prep",
+    "title": "Customizing Quarto websites",
+    "section": "Pre-class Prep",
+    "text": "Pre-class Prep\nComing soon"
+  },
+  {
+    "objectID": "course-materials/week2-customizing-websites.html#lecture-materials",
+    "href": "course-materials/week2-customizing-websites.html#lecture-materials",
+    "title": "Customizing Quarto websites",
+    "section": "Lecture Materials",
+    "text": "Lecture Materials\n\n lecture slides"
+  },
+  {
+    "objectID": "course-materials/week2-customizing-websites.html#what-should-i-continue-working-on",
+    "href": "course-materials/week2-customizing-websites.html#what-should-i-continue-working-on",
+    "title": "Customizing Quarto websites",
+    "section": "What should I continue working on?",
+    "text": "What should I continue working on?\nComing soon"
   }
 ]

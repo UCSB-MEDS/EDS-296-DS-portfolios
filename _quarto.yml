@@ -13,20 +13,18 @@ website:
         target: _blank
       - text: course materials
         menu:
-          - text: part 0 (setup)
-            href: course-materials/part0-setup.qmd
-          - text: part 1 (building Quarto websites)
-            href: course-materials/part1-build-websites.qmd
-          - text: part 2 (customizing Quarto websites)
-            href: course-materials/part2-customizing-websites.qmd
-          - text: part 3 (blogging with Quarto)
-            href: course-materials/part3-creating-blogs.qmd
-          - text: part 4 (writing effective blogs)
-            href: course-materials/part4-writing-blogs.qmd
-          - text: part 5 (GitHub as a portfolio)
-            href: course-materials/part5-github-portfolios.qmd
-          - text: part 6 (misc. topics)
-            href: course-materials/part6-misc-github.qmd
+          - text: week 0 (9/27) 
+            href: course-materials/week1-build-websites.qmd
+          - text: week 2 (10/11) 
+            href: course-materials/week2-customizing-websites.qmd
+          - text: week 3 (10/18)
+            href: course-materials/week3-creating-blogs.qmd
+          - text: week 4 (10/25) 
+            href: course-materials/week4-writing-blogs.qmd
+          - text: week 5 (11/1)
+            href: course-materials/week5-github-portfolios.qmd
+          - text: week 6 (11/8)
+            href: course-materials/week6-misc-github.qmd
       - icon: github
         menu:
           - text: Source Code
