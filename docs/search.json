@@ -4,28 +4,28 @@
     "href": "course-materials/week3-creating-blogs.html",
     "title": "Adding a blog to your Quarto website",
     "section": "",
-    "text": "ADD IMAGE HERE"
+    "text": "Blog icon, by Brendan Mitchell"
   },
   {
     "objectID": "course-materials/week3-creating-blogs.html#anticipated-deliverables",
     "href": "course-materials/week3-creating-blogs.html#anticipated-deliverables",
     "title": "Adding a blog to your Quarto website",
     "section": "Anticipated deliverable(s)",
-    "text": "Anticipated deliverable(s)\nComing soon"
+    "text": "Anticipated deliverable(s)\nBy the end of today’s class, you should have:\n\na blog listing page as a new navbar tab on your Quarto website\nthe skeleton of your first blog post"
   },
   {
     "objectID": "course-materials/week3-creating-blogs.html#pre-class-prep",
     "href": "course-materials/week3-creating-blogs.html#pre-class-prep",
     "title": "Adding a blog to your Quarto website",
     "section": "Pre-class Prep",
-    "text": "Pre-class Prep\nComing soon"
+    "text": "Pre-class Prep\nPlease be sure to complete the following before class:\n\nConsider which listing type you’d like to use. A blog listing page is a web page that displays all of a blog’s posts. Quarto provides three built-in listing page types / styles to choose from. Check out the previews and identify which you might want to use."
   },
   {
     "objectID": "course-materials/week3-creating-blogs.html#lecture-materials",
     "href": "course-materials/week3-creating-blogs.html#lecture-materials",
     "title": "Adding a blog to your Quarto website",
     "section": "Lecture Materials",
-    "text": "Lecture Materials\n\n Blog post (with instructions)"
+    "text": "Lecture Materials\nInstructions for adding a blog to your existing Quarto website take the form of – you guessed it – a blog post \n\n Instructional blog post"
   },
   {
     "objectID": "course-materials/week3-creating-blogs.html#what-should-i-continue-working-on",
@@ -70,6 +70,62 @@
     "text": "What should I continue working on?\nComing soon"
   },
   {
+    "objectID": "course-materials/week0-build-websites.html",
+    "href": "course-materials/week0-build-websites.html",
+    "title": "Creating your personal website using Quarto",
+    "section": "",
+    "text": "Artwork by Allison Horst"
+  },
+  {
+    "objectID": "course-materials/week0-build-websites.html#anticipated-deliverables",
+    "href": "course-materials/week0-build-websites.html#anticipated-deliverables",
+    "title": "Creating your personal website using Quarto",
+    "section": "Anticipated deliverable(s)",
+    "text": "Anticipated deliverable(s)\nBy the end of today’s class, you should have:\n\nthe scaffolding of a basic Quarto website built and deployed using GitHub Pages\na neatly-arranged landing page with your professional headshot and your chosen bio / info"
+  },
+  {
+    "objectID": "course-materials/week0-build-websites.html#pre-class-prep",
+    "href": "course-materials/week0-build-websites.html#pre-class-prep",
+    "title": "Creating your personal website using Quarto",
+    "section": "Pre-class Prep",
+    "text": "Pre-class Prep\nPlease be sure to complete the following before class:\n\nInstall software / Create accounts\nMEDS students should already have the following installed / created from summer session (but it’s worth double-checking!):\n\n\n\n\n\n\nTo follow along, you’ll need:\n\n\n\n\n\n\nR & RStudio installed\nQuarto installed – Quarto is now included with RStudio v2022.07.1+ i.e. no need for a separate download / install if you have the latest version of RStudio\nA GitHub account\nGit installed / configured\n\nPlease refer to the MEDS Installation Guide for Mac and Windows machines for detailed setup instructions (follow steps 1-7).\n\n\n\n\n\nGather materials to add to your website’s landing page\nDuring this session, you’ll have the opportunity to add some personal information to your website’s landing page. It’ll help to have an idea of what you might want to include (at least as a starting point – your website’s content will most certainly evolve over time). Consider the following before attending class:\n\nHave your professional headshot handy. Your Bren photo is a great option here! Save your photo to your Desktop (or somewhere you can easily find again) for now.\nDraft your personal bio / blurb. Consider reusing your Bren bio, or even drafting a shortened, catchy version of it for your landing page. Save your text in a place you can quickly copy from during class (e.g. a Google Doc).\nGather your important public profile links. Your personal website is an excellent place to link out to your other public profiles in one, organized place. Bookmark / save the links you’d like to include (e.g. LinkedIn, GitHub, even your preferred email address)\nConsider which landing page template to use. We’ll be applying one of Quarto’s five available built-in templates when we create our website’s landing page. Take a peek at the template previews and identify which one(s) you like most (e.g. I’m a fan of jolla, but used trestles for a long while). Consider how you’d like to arrange your personal bio / info given the layout of your top choice template.\n\n\n\n\n\n\n\nLooking for some landing page bio inspiration? Check out the following:\n\n\n\n\n\nHere are just a small handful of websites, each with a slightly different approach to their landing page bios.\n\nSamantha Csik (yours truly)\nRay Hunter (MESM 2024)\nSam Muir (MEDS 2024)\nLuna Catalán (MEDS 2024)\nOksana Protsukha (MEDS 2025)\nVictoria Cutler (MEDS 2023)\nMarie Rivers (MEDS 2022)"
+  },
+  {
+    "objectID": "course-materials/week0-build-websites.html#lecture-materials",
+    "href": "course-materials/week0-build-websites.html#lecture-materials",
+    "title": "Creating your personal website using Quarto",
+    "section": "Lecture Materials",
+    "text": "Lecture Materials\nWe’ll walk through the steps of building and deploying our personal websites together in class, but you can find step-by-step instructions below, should you need to reference them at any point:\n\n Instructional Documentation"
+  },
+  {
+    "objectID": "course-materials/week0-build-websites.html#what-should-i-continue-working-on",
+    "href": "course-materials/week0-build-websites.html#what-should-i-continue-working-on",
+    "title": "Creating your personal website using Quarto",
+    "section": "What should I continue working on?",
+    "text": "What should I continue working on?\n\nRefine the language / content on your landing page. Try out different built-in templates, bio language, and arrangement of content until you settle on something that you like.\nAdd additional pages to your website. By default, Quarto creates a landing page (index.qmd) and a page titled, “About” (about.qmd) We also practiced adding a “Resources” page (resources.qmd) during class. Consider if you want to keep all of these (though note that you must keep index.qmd) or add additional pages. If you’re not quite ready to add content to them, it’s sufficient to include placeholder text to those pages (e.g. Coming soon!). Recall that you can add / remove pages by modifying your _quarto.yml file.\n\nAn important reminder: A personal website is an ever-evolving project (I’m pretty sure I’ve rewritten the language across my website at least once a year since I first created it). Don’t feel too much pressure to make it “perfect” – you’ll likely revisit the content / arrangement often, especially throughout different stages of your career!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#course-description",
+    "href": "index.html#course-description",
+    "title": "Data science tools for building professional online portfolios",
+    "section": "Course Description",
+    "text": "Course Description\nHaving a polished online presence is essential for showcasing your skills, projects, expertise, and (importantly) your personality. Learners, collaborators, and future employers alike will look to your public online profiles to glean information about you and your work. As data scientists, this often means that they’ll head to one of two places: GitHub and/or your personal website. This course is designed to help you both lay the foundation for creating and maintaining these profiles in an organized, informative, and visually-appealing way. Over the next several weeks, you will:\n\nbuild and deploy your personal website using popular data science tools and frameworks\ncreate your first (of many!) data science blog posts\nlearn about how best to communicate your work to different audiences\nunderstand where and how to document your projects and code\nand more!\n\nThroughout the MEDS program, you’ll be asked to turn assignments and projects into science communication pieces on your personal website’s blog. These are excellent opportunities to build out your portfolio ahead of your job search."
+  },
+  {
+    "objectID": "index.html#teaching-team",
+    "href": "index.html#teaching-team",
+    "title": "Data science tools for building professional online portfolios",
+    "section": "Teaching Team",
+    "text": "Teaching Team\n\n\n\n\nInstructor\n\n\n\n\n\n\n\n\n\n\n\nSam Csik\nEmail: scsik@ucsb.edu\nLearn more: samanthacsik.github.io"
+  },
+  {
     "objectID": "course-materials/week4-writing-blogs.html",
     "href": "course-materials/week4-writing-blogs.html",
     "title": "Writing skills for science communication",
@@ -103,62 +159,6 @@
     "title": "Writing skills for science communication",
     "section": "What should I continue working on?",
     "text": "What should I continue working on?\nComing soon"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "index.html#course-description",
-    "href": "index.html#course-description",
-    "title": "Data science tools for building professional online portfolios",
-    "section": "Course Description",
-    "text": "Course Description\nHaving a polished online presence is essential for showcasing your skills, projects, expertise, and (importantly) your personality. Learners, collaborators, and future employers alike will look to your public online profiles to glean information about you and your work. As data scientists, this often means that they’ll head to one of two places: GitHub and/or your personal website. This course is designed to help you both lay the foundation for creating and maintaining these profiles in an organized, informative, and visually-appealing way. Over the next several weeks, you will:\n\nbuild and deploy your personal website using popular data science tools and frameworks\ncreate your first (of many!) data science blog posts\nlearn about how best to communicate your work to different audiences\nunderstand where and how to document your projects and code\nand more!\n\nThroughout the MEDS program, you’ll be asked to turn assignments and projects into science communication pieces on your personal website’s blog. These are excellent opportunities to build out your portfolio ahead of your job search."
-  },
-  {
-    "objectID": "index.html#teaching-team",
-    "href": "index.html#teaching-team",
-    "title": "Data science tools for building professional online portfolios",
-    "section": "Teaching Team",
-    "text": "Teaching Team\n\n\n\n\nInstructor\n\n\n\n\n\n\n\n\n\n\n\nSam Csik\nEmail: scsik@ucsb.edu\nLearn more: samanthacsik.github.io"
-  },
-  {
-    "objectID": "course-materials/week1-build-websites.html",
-    "href": "course-materials/week1-build-websites.html",
-    "title": "Creating your personal website using Quarto",
-    "section": "",
-    "text": "Artwork by Allison Horst"
-  },
-  {
-    "objectID": "course-materials/week1-build-websites.html#anticipated-deliverables",
-    "href": "course-materials/week1-build-websites.html#anticipated-deliverables",
-    "title": "Creating your personal website using Quarto",
-    "section": "Anticipated deliverable(s)",
-    "text": "Anticipated deliverable(s)\nBy the end of today’s class, you should have:\n\nthe scaffolding of a basic Quarto website built and deployed using GitHub Pages\na neatly-arranged landing page with your professional headshot and your chosen bio / info"
-  },
-  {
-    "objectID": "course-materials/week1-build-websites.html#pre-class-prep",
-    "href": "course-materials/week1-build-websites.html#pre-class-prep",
-    "title": "Creating your personal website using Quarto",
-    "section": "Pre-class Prep",
-    "text": "Pre-class Prep\nPlease be sure to complete the following before class:\n\nInstall software / Create accounts\nMEDS students should already have the following installed / created from summer session (but it’s worth double-checking!):\n\n\n\n\n\n\nTo follow along, you’ll need:\n\n\n\n\n\n\nR & RStudio installed\nQuarto installed – Quarto is now included with RStudio v2022.07.1+ i.e. no need for a separate download / install if you have the latest version of RStudio\nA GitHub account\nGit installed / configured\n\nPlease refer to the MEDS Installation Guide for Mac and Windows machines for detailed setup instructions (follow steps 1-7).\n\n\n\n\n\nGather materials to add to your website’s landing page\nDuring this session, you’ll have the opportunity to add some personal information to your website’s landing page. It’ll help to have an idea of what you might want to include (at least as a starting point – your website’s content will most certainly evolve over time). Consider the following before attending class:\n\nHave your professional headshot handy. Your Bren photo is a great option here! Save your photo to your Desktop (or somewhere you can easily find again) for now.\nDraft your personal bio / blurb to include on your website’s landing page. Consider reusing your Bren bio, or even drafting a shortened, catchy version of it for your landing page. Save your text in a place you can quickly copy from during class (e.g. a Google Doc).\nGather your important public profile links. Your personal website is an excellent place to link out to your other public profiles in one, organized place. Bookmark / save the links you’d like to include (e.g. LinkedIn, GitHub, even your preferred email address)\nConsider which landing page template to use. We’ll be applying one of Quarto’s five available built-in templates when we create our website’s landing page. Take a peek at the template previews and identify which one(s) you like most (e.g. I’m a fan of jolla, but used tresles for a long while). Consider how you’d like to arrange your personal bio / info given the layout of your top choice template.\n\n\n\n\n\n\n\nLooking for some landing page bio inspiration? Check out the following:\n\n\n\n\n\nHere are just a small handful of websites, each with a slightly different approach to their landing page bios.\n\nSamantha Csik (yours truly)\nRay Hunter (MESM 2024)\nSam Muir (MEDS 2024)\nLuna Catalán (MEDS 2024)\nOksana Protsukha (MEDS 2025)\nVictoria Cutler (MEDS 2023)\nMarie Rivers (MEDS 2022)"
-  },
-  {
-    "objectID": "course-materials/week1-build-websites.html#lecture-materials",
-    "href": "course-materials/week1-build-websites.html#lecture-materials",
-    "title": "Creating your personal website using Quarto",
-    "section": "Lecture Materials",
-    "text": "Lecture Materials\nWe’ll walk through the steps of building and deploying our personal websites together in class, but you can find step-by-step instructions below, should you need to reference them at any point:\n\n Instructional Documentation"
-  },
-  {
-    "objectID": "course-materials/week1-build-websites.html#what-should-i-continue-working-on",
-    "href": "course-materials/week1-build-websites.html#what-should-i-continue-working-on",
-    "title": "Creating your personal website using Quarto",
-    "section": "What should I continue working on?",
-    "text": "What should I continue working on?\n\nRefine the language / content on your landing page. Try out different built-in templates, bio language, and arrangement of content until you settle on something that you like.\nAdd additional pages to your website. By default, Quarto creates a landing page (index.qmd) and a page titled, “About” (about.qmd) We also practiced adding a “Resources” page (resources.qmd) during class. Consider if you want to keep all of these (though note that you must keep index.qmd) or add additional pages. If you’re not quite ready to add content to them, it’s sufficient to include placeholder text to those pages (e.g. Coming soon!). Recall that you can add / remove pages by modifying your _quarto.yml file.\n\nAn important reminder: A personal website is an ever-evolving project (I’m pretty sure I’ve rewritten the language across my website at least once a year since I first created it). Don’t feel too much pressure to make it “perfect” – you’ll likely revisit the content / arrangement often, especially throughout different stages of your career!"
   },
   {
     "objectID": "course-materials/week6-misc-github.html",
@@ -200,34 +200,34 @@
     "href": "course-materials/week2-customizing-websites.html",
     "title": "Customizing Quarto websites",
     "section": "",
-    "text": "ADD IMAGE HERE"
+    "text": "The Sass and CSS logos"
   },
   {
     "objectID": "course-materials/week2-customizing-websites.html#anticipated-deliverables",
     "href": "course-materials/week2-customizing-websites.html#anticipated-deliverables",
     "title": "Customizing Quarto websites",
     "section": "Anticipated deliverable(s)",
-    "text": "Anticipated deliverable(s)\nComing soon"
+    "text": "Anticipated deliverable(s)\nBy the end of today’s class, you should have:\n\na stylesheet (.scss file) for customizing your website’s appearance"
   },
   {
     "objectID": "course-materials/week2-customizing-websites.html#pre-class-prep",
     "href": "course-materials/week2-customizing-websites.html#pre-class-prep",
     "title": "Customizing Quarto websites",
     "section": "Pre-class Prep",
-    "text": "Pre-class Prep\nComing soon"
+    "text": "Pre-class Prep\nPlease be sure to complete the following before class:\n\nBuild your color palette\nOne of the most exciting parts of building a website is deciding on which colors you’ll use. This can take some time and tweaking, so it’s helpful to think a bit about your palette beforehand. We’ll consider updating colors for the following website elements:\n\nNavigation Bar: navbar background color, foreground (text) color, hover highlight color\nMain Body: body background color, body text color, hyperlink color, in-line code color, inline-code background color\nPage Footer: footer background color\n\nCome to class with a list of HEX color codes that you’d like to try out on your website.\n\n\n\n\n\n\nExpand for tips on choosing your website’s color palette\n\n\n\n\n\n\nStick to about three colors. Choosing too many colors can overwhelm readers. Consider using different shades of the primary color throughout your site, with a couple complementing / contrasting colors for important highlighted text and / or features.\nUse a random color generator. My favorite is https://coolors.co/ – press the spacebar to generate new colors. When you see one (or more) that you like, “lock” them in place by clicking on the lock icon. Continue pressing the spacebar to generate new colors in the “unlocked” positions.\nGenerate a color palette from a photo / image. Have an interesting background in your headshot? Consider generating a palette off of it! Check out Color Thief for your color stealing needs.\nConsider contrast and colorblindness-friendly palettes. I love the Let’s get color blind Google Chrome extension for simulating color deficiencies in the web browser, and the coolers color contrast checker for calculating the contrast ratio of text and background colors (it’ll even suggest new colors to improve your contrast).\nGet inspired by other websites. And you don’t need to take inspiration only from Quarto websites. Just a small handful of examples sites with color schemes that I really love:\n\nAngelina Miller\nMeghan Hall\nEmily Hardison\nMeagan Brown (MEDS 2023)\nNicola Rennie\n\n\n\n\n\n\n\nSelect your typefaces / fonts\nYour typeface and font choices are just as important as your color choices! First, a few important definitions:\n\ntypeface (aka font family): the underlying visual design (e.g. Times New Roman, Helvetica, Roboto)\nfont: an implementation / variation of a typeface (e.g. bold, italic)\n\nWe’ll be importing and applying font families from Google Fonts. Explore the vast selection, and have the names of 1-2 font families ready to go for class.\n\n\n\n\n\n\nExpand for tips on choosing your font family(ies)\n\n\n\n\n\n\nStick to 1-2 font families. Just like colors, using too many typefaces can overwhelm a reader. You can use one typeface across your entire website, or alternatively, choose one typeface for things like header text and another for body text.\nWhen in doubt, use a sans-serif font family. Sans-serif fonts work great everywhere, but are especially ideal for body text since they’re cleaner and easier to read. If you do want to use a serif font, it’s best to reserve those for any header text.\nMake sure your font family choice(s) have a variety of styles. If your font family doesn’t include bold or italicized styles, you won’t actually be able to apply those styles to your website. For example, Nunito comes in a variety of weights (boldness levels) and italic, where Sen comes in a variety of weights, but not italic.\nCheck out some visually-pleasing font pairings. fontpair has hundreds of Google Font pairings to browse!"
   },
   {
     "objectID": "course-materials/week2-customizing-websites.html#lecture-materials",
     "href": "course-materials/week2-customizing-websites.html#lecture-materials",
     "title": "Customizing Quarto websites",
     "section": "Lecture Materials",
-    "text": "Lecture Materials\n\n lecture slides"
+    "text": "Lecture Materials\nThe code examples that we’ll walk through as a class (along with lots of other info), can be found in these slides:\n\n lecture slides"
   },
   {
     "objectID": "course-materials/week2-customizing-websites.html#what-should-i-continue-working-on",
     "href": "course-materials/week2-customizing-websites.html#what-should-i-continue-working-on",
     "title": "Customizing Quarto websites",
     "section": "What should I continue working on?",
-    "text": "What should I continue working on?\nComing soon"
+    "text": "What should I continue working on?\n\nTry different color combos and / or fonts. This is arguably the most fun part of building your website and where you can really let your personality and brand shine through. It can take a while to settle on something that you feel really represents you, and that’s okay (I’ve also changed my entire color scheme and font styles multiple times over the years).\nConsider writing / borrowing / adapting CSS rules to refine your website styling. You can take your website styling far just by defining Quarto’s Sass variables. However, if you’re looking to fine-tune the appearance of certain web page elements, you may consider turning to CSS. My preferred approach:\n\nfind a Quarto website (and accompanying source code on GitHub, which folks often link to somewhere on the site)\nidentify a page element that you like and take a peek at the underlying HTML (in Google Chrome: right click &gt; Inspect)\nidentify the HTML tag for that element and if it has any additional selectors (e.g. class or ID selectors)\nhead over to the stylesheet (often a .scss or .css file(s)) and search for the relevant selector(s) to see how they were created"
   }
 ]

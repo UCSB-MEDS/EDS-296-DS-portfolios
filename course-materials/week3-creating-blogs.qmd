@@ -7,22 +7,39 @@ toc: true
 ---
 
 ::: {.center-text}
-ADD IMAGE HERE
+```{r}
+#| eval: true
+#| echo: false
+#| fig-align: "center"
+#| out-width: "30%"
+#| fig-alt: "The Sass and CSS logos"
+knitr::include_graphics("../images/blog-icon.png")
+```
+
+::: {.center-text .body-text-s .gray-text}
+*Blog icon, by [Brendan Mitchell](https://theblogicon.wordpress.com/about/)*
+:::
 :::
 
 ## Anticipated deliverable(s)
 
-*Coming soon*
+By the end of today's class, you should have: 
+
+- a blog listing page as a new navbar tab on your Quarto website
+- the skeleton of your first blog post
 
 ## Pre-class Prep
 
-*Coming soon*
+Please be sure to complete the following before class:
+
+- [**Consider which listing type you'd like to use.**]{.teal-text} A blog listing page is a web page that displays all of a blog's posts. Quarto provides [three built-in listing page types / styles](https://quarto.org/docs/websites/website-listings.html#listing-types) to choose from. Check out the previews and identify which you might want to use.
 
 ## Lecture Materials
 
+Instructions for adding a blog to your existing Quarto website take the form of -- you guessed it -- a blog post {{< fa face-smile-wink title="a winking smiling face" >}}
 
 ::: {.center-text}
-[{{< fa blog title="blog icon" >}} Blog post (with instructions)](https://samanthacsik.github.io/posts/2022-10-24-quarto-blogs/){.btn role="button" target="_blank"} 
+[{{< fa blog title="blog icon" >}} Instructional blog post](https://samanthacsik.github.io/posts/2022-10-24-quarto-blogs/){.btn role="button" target="_blank"} 
 :::
 
 ## What should I continue working on?

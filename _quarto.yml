@@ -14,7 +14,7 @@ website:
       - text: course materials
         menu:
           - text: week 0 (9/27) 
-            href: course-materials/week1-build-websites.qmd
+            href: course-materials/week0-build-websites.qmd
           - text: week 2 (10/11) 
             href: course-materials/week2-customizing-websites.qmd
           - text: week 3 (10/18)

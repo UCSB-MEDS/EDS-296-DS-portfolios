@@ -7,19 +7,74 @@ toc: true
 ---
 
 ::: {.center-text}
-ADD IMAGE HERE
+```{r}
+#| eval: true
+#| echo: false
+#| fig-align: "center"
+#| out-width: "60%"
+#| fig-alt: "The Sass and CSS logos"
+knitr::include_graphics("../images/sass-css.png")
+```
+
+::: {.center-text .body-text-s .gray-text}
+*The Sass and CSS logos*
+:::
 :::
 
 ## Anticipated deliverable(s)
 
-*Coming soon*
+By the end of today's class, you should have: 
+
+- a stylesheet (`.scss` file) for customizing your website's appearance
 
 ## Pre-class Prep
 
-*Coming soon*
+Please be sure to complete the following before class:
+
+### Build your color palette
+
+One of the most exciting parts of building a website is deciding on which colors you'll use. This can take some time and tweaking, so it's helpful to think a bit about your palette beforehand. We'll consider updating colors for the following website elements: 
+
+1. **Navigation Bar:** navbar background color, foreground (text) color, hover highlight color
+2. **Main Body:** body background color, body text color, hyperlink color, in-line code color, inline-code background color
+3. **Page Footer:** footer background color
+
+[**Come to class with a list of HEX color codes that you'd like to try out on your website.**]{.teal-text}
+
+::: {.callout-tip collapse=true icon=false}
+## Expand for tips on choosing your website's color palette
+- **Stick to about three colors.** Choosing too many colors can overwhelm readers. Consider using different shades of the primary color throughout your site, with a couple complementing / contrasting colors for important highlighted text and / or features.
+- **Use a random color generator.** My favorite is <https://coolors.co/> -- press the spacebar to generate new colors. When you see one (or more) that you like, "lock" them in place by clicking on the lock icon. Continue pressing the spacebar to generate new colors in the "unlocked" positions.
+- **Generate a color palette from a photo / image.** Have an interesting background in your headshot? Consider generating a palette off of it! Check out [Color Thief](https://lokeshdhakar.com/projects/color-thief/) for your color stealing needs.
+- **Consider contrast and colorblindness-friendly palettes.** I love the [Let's get color blind](https://chromewebstore.google.com/detail/lets-get-color-blind/bkdgdianpkfahpkmphgehigalpighjck?pli=1) Google Chrome extension for simulating color deficiencies in the web browser, and the [coolers color contrast checker](https://coolors.co/contrast-checker/112a46-acc8e5) for calculating the contrast ratio of text and background colors (it'll even suggest new colors to improve your contrast).
+- **Get inspired by other websites.** And you don't need to take inspiration only from Quarto websites. Just a small handful of examples sites with color schemes that I really love:
+  - [Angelina Miller](https://angeliamiller.github.io/)
+  - [Meghan Hall](https://meghan.rbind.io/)
+  - [Emily Hardison](https://meghan.rbind.io/)
+  - [Meagan Brown](https://meaganbrown.github.io/) (MEDS 2023)
+  - [Nicola Rennie](https://nrennie.rbind.io/) 
+:::
+
+### Select your typefaces / fonts
+
+Your typeface and font choices are just as important as your color choices! First, a few important definitions:
+
+- **typeface (aka font family):** the underlying visual design (e.g. Times New Roman, Helvetica, Roboto)
+- **font:** an implementation / variation of a typeface (e.g. bold, italic)
+
+We'll be importing and applying font families from [Google Fonts](https://fonts.google.com/). [**Explore the vast selection, and have the names of 1-2 font families ready to go for class.**]{.teal-text} 
+
+::: {.callout-tip collapse=true icon=false}
+## Expand for tips on choosing your font family(ies)
+- **Stick to 1-2 font families.** Just like colors, using too many typefaces can overwhelm a reader. You can use one typeface across your entire website, or alternatively, choose one typeface for things like header text and another for body text.
+- **When in doubt, use a sans-serif font family.** [Sans-serif](https://fonts.google.com/knowledge/glossary/sans_serif) fonts work great everywhere, but are especially ideal for body text since they're cleaner and easier to read. If you do want to use a [serif font](https://fonts.google.com/knowledge/glossary/serif), it's best to reserve those for any header text.
+- **Make sure your font family choice(s) have a variety of styles.** If your font family doesn't include **bold** or *italicized* styles, you won't actually be able to apply those styles to your website. For example, [Nunito](https://fonts.google.com/specimen/Nunito?query=nunito) comes in a variety of weights (boldness levels) and italic, where [Sen](https://fonts.google.com/specimen/Sen?query=sen) comes in a variety of weights, but not italic.
+- **Check out some visually-pleasing font pairings.** [fontpair](https://www.fontpair.co/all) has hundreds of Google Font pairings to browse!
+:::
 
 ## Lecture Materials
 
+The code examples that we'll walk through as a class (along with lots of other info), can be found in these slides: 
 
 ::: {.center-text}
 [{{< fa person-chalkboard title="A person motioning at a chalkboard" >}} lecture slides](https://ucsb-meds.github.io/customizing-quarto-websites/#/title-slide){.btn role="button" target="_blank"} 
@@ -27,4 +82,9 @@ ADD IMAGE HERE
 
 ## What should I continue working on?
 
-*Coming soon*
+- **Try different color combos and / or fonts.** This is arguably the most fun part of building your website and where you can really let your personality and brand shine through. It can take a while to settle on something that you feel really represents *you*, and that's okay (I've also changed my entire color scheme and font styles multiple times over the years). 
+- **Consider writing / borrowing / adapting CSS rules to refine your website styling.** You can take your website styling *far* just by defining [Quarto's Sass variables](https://quarto.org/docs/output-formats/html-themes.html#sass-variables). However, if you're looking to fine-tune the appearance of certain web page elements, you may consider turning to CSS. My preferred approach: 
+  - find a Quarto website (and accompanying source code on GitHub, which folks often link to somewhere on the site)
+  - identify a page element that you like and take a peek at the underlying HTML (in Google Chrome: right click > Inspect)
+  - identify the HTML tag for that element and if it has any additional selectors (e.g. class or ID selectors)
+  - head over to the stylesheet (often a `.scss` or `.css` file(s)) and search for the relevant selector(s) to see how they were created
