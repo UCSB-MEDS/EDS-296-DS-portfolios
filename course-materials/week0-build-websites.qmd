@@ -12,8 +12,9 @@ toc: true
 #| echo: false
 #| fig-align: "center"
 #| out-width: "60%"
-#| fig-alt: "A schematic representing rendering of Quarto documents from .qmd, to knitr or jupyter, to plain text markdown, then converted by pandoc into any number of output types including html, PDF, or Word document."
-knitr::include_graphics("../images/horst-quarto-conversion.png")
+#| fig-alt: "A schematic representing the numerous supported languages (R, Python, Observable, Julia), which Quarto supports for writing a variety of file types (html, PDF, Word docs, and more)"
+# OLD fig-alt:"A schematic representing rendering of Quarto documents from .qmd, to knitr or jupyter, to plain text markdown, then converted by pandoc into any number of output types including html, PDF, or Word document."
+knitr::include_graphics("../images/horst-quarto.png")
 ```
 
 ::: {.center-text .body-text-s .gray-text}
