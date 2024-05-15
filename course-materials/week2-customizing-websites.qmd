@@ -39,18 +39,36 @@ One of the most exciting parts of building a website is deciding on which colors
 2. **Main Body:** body background color, body text color, hyperlink color, in-line code color, inline-code background color
 3. **Page Footer:** footer background color
 
-[**Come to class with a list of HEX color codes that you'd like to try out on your website.**]{.teal-text}
+We'll be using a language called [Sass](https://sass-lang.com/) to create variables for each of the colors we plan to use throughout our websites (more on that soon!). For a smooth in-class experience, it will be helpful for you to draft up your color variables ahead of time and save them to a place where you can easily copy them from (e.g. a Google Doc is totally sufficient). 
+
+[**Define your color variables using the syntax, `$variable-name: value;`, where you decide on your `variable-name`, and `value` is a HEX color code ([htmlcolorcodes.com](https://htmlcolorcodes.com/) is my favorite site for grabbing HEX codes).**]{.teal-text}
+
+For example, here are the color variables I'll use for my website during the workshop: 
+
+```{sass}
+#| eval: false
+#| echo: true
+#| code-line-numbers: false
+$dark-green: #858E79;
+$light-green: #D1D9CE;
+$cream: #FDFBF7;
+$gray: #64605f;
+$purple: #9158A2;
+$orange: #ad7237;
+```
+
+<!-- [**Come to class with a list of HEX color codes that you'd like to try out on your website.**]{.teal-text} -->
 
 ::: {.callout-tip collapse=true icon=false}
 ## Expand for tips on choosing your website's color palette
-- **Stick to about three colors.** Choosing too many colors can overwhelm readers. Consider using different shades of the primary color throughout your site, with a couple complementing / contrasting colors for important highlighted text and / or features.
+- **Stick to about 3-4 colors.** Choosing too many colors can overwhelm readers. Consider using different shades of the primary color throughout your site, with a couple complementing / contrasting colors for important highlighted text and / or features.
 - **Use a random color generator.** My favorite is <https://coolors.co/> -- press the spacebar to generate new colors. When you see one (or more) that you like, "lock" them in place by clicking on the lock icon. Continue pressing the spacebar to generate new colors in the "unlocked" positions.
 - **Generate a color palette from a photo / image.** Have an interesting background in your headshot? Consider generating a palette off of it! Check out [Color Thief](https://lokeshdhakar.com/projects/color-thief/) for your color stealing needs.
 - **Consider contrast and colorblindness-friendly palettes.** I love the [Let's get color blind](https://chromewebstore.google.com/detail/lets-get-color-blind/bkdgdianpkfahpkmphgehigalpighjck?pli=1) Google Chrome extension for simulating color deficiencies in the web browser, and the [coolers color contrast checker](https://coolors.co/contrast-checker/112a46-acc8e5) for calculating the contrast ratio of text and background colors (it'll even suggest new colors to improve your contrast).
 - **Get inspired by other websites.** And you don't need to take inspiration only from Quarto websites. Just a small handful of examples sites with color schemes that I really love:
   - [Angelina Miller](https://angeliamiller.github.io/)
   - [Meghan Hall](https://meghan.rbind.io/)
-  - [Emily Hardison](https://meghan.rbind.io/)
+  - [Emily Hardison](https://emilyhardison.github.io/)
   - [Meagan Brown](https://meaganbrown.github.io/) (MEDS 2023)
   - [Nicola Rennie](https://nrennie.rbind.io/) 
   - [Sylvia Canelón](https://silviacanelon.com/)
@@ -84,8 +102,10 @@ The code examples that we'll walk through as a class (along with lots of other i
 ## What should I continue working on?
 
 - **Try different color combos and / or fonts.** This is arguably the most fun part of building your website and where you can really let your personality and brand shine through. It can take a while to settle on something that you feel really represents *you*, and that's okay (I've also changed my entire color scheme and font styles multiple times over the years). 
-- **Consider writing / borrowing / adapting CSS rules to refine your website styling.** You can take your website styling *far* just by defining [Quarto's Sass variables](https://quarto.org/docs/output-formats/html-themes.html#sass-variables). However, if you're looking to fine-tune the appearance of certain web page elements, you may consider turning to CSS. My preferred approach: 
-  - find a Quarto website (and accompanying source code on GitHub, which folks often link to somewhere on the site)
-  - identify a page element that you like and take a peek at the underlying HTML (in Google Chrome: right click > Inspect)
-  - identify the HTML tag for that element and if it has any additional selectors (e.g. class or ID selectors)
-  - head over to the stylesheet (often a `.scss` or `.css` file(s)) and search for the relevant selector(s) to see how they were created
+- **Consider writing / borrowing / adapting CSS rules to refine your website styling.** You can take your website styling *far* just by defining [Quarto's Sass variables](https://quarto.org/docs/output-formats/html-themes.html#sass-variables). However, if you're looking to fine-tune the appearance of certain web page elements, you may consider turning to more CSS. Review the workshop slides for suggested approaches and tools for guiding your CSS-writing journeys. 
+
+<!-- My preferred approach:  -->
+<!--   - find a Quarto website (and accompanying source code on GitHub, which folks often link to somewhere on the site) -->
+<!--   - identify a page element that you like and take a peek at the underlying HTML (in Google Chrome: right click > Inspect) -->
+<!--   - identify the HTML tag for that element and if it has any additional selectors (e.g. class or ID selectors) -->
+<!--   - head over to the stylesheet (often a `.scss` or `.css` file(s)) and search for the relevant selector(s) to see how they were created -->

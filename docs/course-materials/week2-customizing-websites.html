@@ -21,6 +21,40 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
@@ -226,7 +260,18 @@ ul.task-list li input[type="checkbox"] {
 <li><strong>Main Body:</strong> body background color, body text color, hyperlink color, in-line code color, inline-code background color</li>
 <li><strong>Page Footer:</strong> footer background color</li>
 </ol>
-<p><span class="teal-text"><strong>Come to class with a list of HEX color codes that you’d like to try out on your website.</strong></span></p>
+<p>We’ll be using a language called <a href="https://sass-lang.com/">Sass</a> to create variables for each of the colors we plan to use throughout our websites (more on that soon!). For a smooth in-class experience, it will be helpful for you to draft up your color variables ahead of time and save them to a place where you can easily copy them from (e.g.&nbsp;a Google Doc is totally sufficient).</p>
+<p><span class="teal-text"><strong>Define your color variables using the syntax, <code>$variable-name: value;</code>, where you decide on your <code>variable-name</code>, and <code>value</code> is a HEX color code (<a href="https://htmlcolorcodes.com/">htmlcolorcodes.com</a> is my favorite site for grabbing HEX codes).</strong></span></p>
+<p>For example, here are the color variables I’ll use for my website during the workshop:</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb1" data-code-line-numbers="false"><pre class="sourceCode sass code-with-copy"><code class="sourceCode sass"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="va">$dark-green</span>: <span class="cn">#858E79</span>;</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="va">$light-green</span>: <span class="cn">#D1D9CE</span>;</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="va">$cream</span>: <span class="cn">#FDFBF7</span>;</span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="va">$gray</span>: <span class="cn">#64605f</span>;</span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a><span class="va">$purple</span>: <span class="cn">#9158A2</span>;</span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a><span class="va">$orange</span>: <span class="cn">#ad7237</span>;</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<!-- [**Come to class with a list of HEX color codes that you'd like to try out on your website.**]{.teal-text} -->
 <div class="callout callout-style-default callout-tip no-icon callout-titled">
 <div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
@@ -240,7 +285,7 @@ Expand for tips on choosing your website’s color palette
 <div id="callout-1" class="callout-1-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <ul>
-<li><strong>Stick to about three colors.</strong> Choosing too many colors can overwhelm readers. Consider using different shades of the primary color throughout your site, with a couple complementing / contrasting colors for important highlighted text and / or features.</li>
+<li><strong>Stick to about 3-4 colors.</strong> Choosing too many colors can overwhelm readers. Consider using different shades of the primary color throughout your site, with a couple complementing / contrasting colors for important highlighted text and / or features.</li>
 <li><strong>Use a random color generator.</strong> My favorite is <a href="https://coolors.co/" class="uri">https://coolors.co/</a> – press the spacebar to generate new colors. When you see one (or more) that you like, “lock” them in place by clicking on the lock icon. Continue pressing the spacebar to generate new colors in the “unlocked” positions.</li>
 <li><strong>Generate a color palette from a photo / image.</strong> Have an interesting background in your headshot? Consider generating a palette off of it! Check out <a href="https://lokeshdhakar.com/projects/color-thief/">Color Thief</a> for your color stealing needs.</li>
 <li><strong>Consider contrast and colorblindness-friendly palettes.</strong> I love the <a href="https://chromewebstore.google.com/detail/lets-get-color-blind/bkdgdianpkfahpkmphgehigalpighjck?pli=1">Let’s get color blind</a> Google Chrome extension for simulating color deficiencies in the web browser, and the <a href="https://coolors.co/contrast-checker/112a46-acc8e5">coolers color contrast checker</a> for calculating the contrast ratio of text and background colors (it’ll even suggest new colors to improve your contrast).</li>
@@ -248,7 +293,7 @@ Expand for tips on choosing your website’s color palette
 <ul>
 <li><a href="https://angeliamiller.github.io/">Angelina Miller</a></li>
 <li><a href="https://meghan.rbind.io/">Meghan Hall</a></li>
-<li><a href="https://meghan.rbind.io/">Emily Hardison</a></li>
+<li><a href="https://emilyhardison.github.io/">Emily Hardison</a></li>
 <li><a href="https://meaganbrown.github.io/">Meagan Brown</a> (MEDS 2023)</li>
 <li><a href="https://nrennie.rbind.io/">Nicola Rennie</a></li>
 <li><a href="https://silviacanelon.com/">Sylvia Canelón</a></li>
@@ -300,14 +345,13 @@ Expand for tips on choosing your font family(ies)
 <h2 class="anchored" data-anchor-id="what-should-i-continue-working-on">What should I continue working on?</h2>
 <ul>
 <li><strong>Try different color combos and / or fonts.</strong> This is arguably the most fun part of building your website and where you can really let your personality and brand shine through. It can take a while to settle on something that you feel really represents <em>you</em>, and that’s okay (I’ve also changed my entire color scheme and font styles multiple times over the years).</li>
-<li><strong>Consider writing / borrowing / adapting CSS rules to refine your website styling.</strong> You can take your website styling <em>far</em> just by defining <a href="https://quarto.org/docs/output-formats/html-themes.html#sass-variables">Quarto’s Sass variables</a>. However, if you’re looking to fine-tune the appearance of certain web page elements, you may consider turning to CSS. My preferred approach:
-<ul>
-<li>find a Quarto website (and accompanying source code on GitHub, which folks often link to somewhere on the site)</li>
-<li>identify a page element that you like and take a peek at the underlying HTML (in Google Chrome: right click &gt; Inspect)</li>
-<li>identify the HTML tag for that element and if it has any additional selectors (e.g.&nbsp;class or ID selectors)</li>
-<li>head over to the stylesheet (often a <code>.scss</code> or <code>.css</code> file(s)) and search for the relevant selector(s) to see how they were created</li>
-</ul></li>
+<li><strong>Consider writing / borrowing / adapting CSS rules to refine your website styling.</strong> You can take your website styling <em>far</em> just by defining <a href="https://quarto.org/docs/output-formats/html-themes.html#sass-variables">Quarto’s Sass variables</a>. However, if you’re looking to fine-tune the appearance of certain web page elements, you may consider turning to more CSS. Review the workshop slides for suggested approaches and tools for guiding your CSS-writing journeys.</li>
 </ul>
+<!-- My preferred approach:  -->
+<!--   - find a Quarto website (and accompanying source code on GitHub, which folks often link to somewhere on the site) -->
+<!--   - identify a page element that you like and take a peek at the underlying HTML (in Google Chrome: right click > Inspect) -->
+<!--   - identify the HTML tag for that element and if it has any additional selectors (e.g. class or ID selectors) -->
+<!--   - head over to the stylesheet (often a `.scss` or `.css` file(s)) and search for the relevant selector(s) to see how they were created -->
 
 
 </section>
