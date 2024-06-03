@@ -55,7 +55,7 @@ Throughout the MEDS program, you’ll be asked to turn assignments and projects 
 #| eval: true 
 #| echo: false
 #| fig-align: "center"
-#| out-width: "30%" 
+#| out-width: "25%" 
 knitr::include_graphics("images/sam.png")
 ```
 
