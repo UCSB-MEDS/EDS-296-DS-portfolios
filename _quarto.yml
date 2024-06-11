@@ -25,6 +25,12 @@ website:
             href: course-materials/week5-github-portfolios.qmd
           - text: week 6 (11/8)
             href: course-materials/week6-misc-github.qmd
+      - text: resources
+        menu: 
+          - text: guide for writing clean code
+            href: clean-code-guide.qmd
+          - text: MEDS installation guide
+            href: https://ucsb-meds.github.io/MEDS-installation-guide/
       - icon: github
         menu:
           - text: Source Code

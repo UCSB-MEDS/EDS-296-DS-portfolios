@@ -35,13 +35,6 @@
     "text": "What should I continue working on?\nComing soon"
   },
   {
-    "objectID": "course-materials/week5-github-portfolios.html",
-    "href": "course-materials/week5-github-portfolios.html",
-    "title": "GitHub as a professional portfolio",
-    "section": "",
-    "text": "ADD IMAGE HERE"
-  },
-  {
     "objectID": "course-materials/week5-github-portfolios.html#anticipated-deliverables",
     "href": "course-materials/week5-github-portfolios.html#anticipated-deliverables",
     "title": "GitHub as a professional portfolio",
@@ -68,13 +61,6 @@
     "title": "GitHub as a professional portfolio",
     "section": "What should I continue working on?",
     "text": "What should I continue working on?\nComing soon"
-  },
-  {
-    "objectID": "course-materials/week0-build-websites.html",
-    "href": "course-materials/week0-build-websites.html",
-    "title": "Creating your personal website using Quarto",
-    "section": "",
-    "text": "Artwork by Allison Horst"
   },
   {
     "objectID": "course-materials/week0-build-websites.html#anticipated-deliverables",
@@ -126,6 +112,34 @@
     "text": "Teaching Team\n\n\n\n\nInstructor\n\n\n\n\n\n\n\n\n\n\n\nSam Csik\nEmail: scsik@ucsb.edu\nLearn more: samanthacsik.github.io"
   },
   {
+    "objectID": "clean-code-guide.html",
+    "href": "clean-code-guide.html",
+    "title": "Writing clean code",
+    "section": "",
+    "text": "TODO\n\n\n\nadd conventions for Python\nWriting clean, easily readable, and reproducible code is just as an important part of your portfolio as is maintaining organized and well-documented GitHub repositories. Now is the time to practice this skill so that you can take your beautiful code and styling skills with you into the workforce!"
+  },
+  {
+    "objectID": "clean-code-guide.html#general-conventions",
+    "href": "clean-code-guide.html#general-conventions",
+    "title": "Writing clean code",
+    "section": "General conventions",
+    "text": "General conventions\nStick to these standards (as suggested by The tidyverse style guide) whenever possible:\n\nNaming conventions:\n\nSnake case for variable names – for example, my_data\nKebab case for file names – for example, my-script.R\n\n\n\n\n\n\n\n\n\n\n\nArt by Allison Horst\n\n\n\nWhitespace conventions:\n\nSpace around any infix operators (==, +, -, &lt;-, etc) – for example:\n\n\nmy_data_clean &lt;- my_data |&gt; \n  filter(x == 2023)\n\n\nNo space around operators with high precedence (::, :::, $, @, [, [[, ^, unary -, unary +, and :) – for example:\n\n\nsqrt(x^2 + y^2)\ndf$z\nx &lt;- 1:10\n\n\nSpace before a pipe, |&gt; or %&gt;%, and (most often) a new line after – for example:\n\n\nmy_data |&gt; \n  filter(...)\n\n\nSpace before a ggplot +, and a new line after – for example:\n\n\nggplot(data, aes(x = x, y = y)) +\n  geom_point()\n\n\nSpace between arguments, commas, and operators, but no space between a parentheses and the following or proceeding argument/value – for example:\n\n\nggplot(data, aes(x = x, y = y, color = z)) +\n  geom_point(alpha = 0.8)\n\n\nOnly one level of indentation when piping into a ggplot – for example:\n\n\ndata |&gt; \n  filter(...) |&gt; \n  ggplot(aes(x = x, y = y, fill = z)) +\n  geom_point()\n\n\nIf arguments to a ggplot layer don’t all fit on one line, put each argument on it’s own line and indent – for example:\n\n\nggplot(data, aes(x = x, y = y, color = z)) +\n  geom_point() + \n  labs(\n    x = \"My x-axis label\",\n    y = \"My y-axis label\",\n    title = \"My plot title\",\n    caption = \"My plot caption\"\n  )"
+  },
+  {
+    "objectID": "clean-code-guide.html#annotating-code",
+    "href": "clean-code-guide.html#annotating-code",
+    "title": "Writing clean code",
+    "section": "Annotating code",
+    "text": "Annotating code\nThe {ARTofR} package is wonderful for creating clean titles, dividers, and block comments for your code. Install the RStudio Addin, or call {ARTofR} functions in your console to generate comments, copy to your clipboard, and paste into your scripts.\nI’ve always opted for the console approach:\n\nLoading the package (library(ARTofR)) in your console (rather than in your script/qmd file)\nType your preferred divider (see the package README for options) and message, also in the console\nThe resulting divider is automatically copied to your clipboard\nPaste into your script\n\nA couple dividers that I use often:\n\nFor major section dividers, xxx_title2(\"text here\") renders as:\n\n\n##~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n##                                  text here                               ----\n##~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n\nFor subsection dividers, xxx_divider1(\"text here\") renders as:\n\n\n#............................text here...........................\n\n\nFor line-level annotations, I also often use (not created using {ARTofR}):\n\n\n# text here ---- \n\nHere’s a short example script demonstrating how I like to use these dividers:\n\n##~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n##                                    Setup                                 ----\n##~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n#.........................load libraries.........................\nlibrary(tidyverse)\nlibrary(palmerpenguins)\n\n#..........................import data...........................\n# ~ if you're reading in data, this is a great place to do it ~\n  \n##~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n##                          Data wrangling / cleaning                       ----\n##~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\npenguins_wrangled &lt;- penguins |&gt; \n  \n  # select relevant cols ----\n  select(species, bill_length_mm, bill_depth_mm, year) |&gt; \n  \n  # filter for year of interest ----\n  filter(year == 2009)\n\n##~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n##                             Data visualization                           ----\n##~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n# histogram of penguin bill lengths in the year 2009 ----\nggplot(penguins, aes(x = bill_length_m, fill = species)) +\n  geom_histogram()\n\n# scatterplot of penguin bill lengths by bill depths in the year 2009 ----\nggplot(penguins_wrangled, aes(x = bill_length_mm, y = bill_depth_mm, color = species)) +\n  geom_point()"
+  },
+  {
+    "objectID": "clean-code-guide.html#style-guides",
+    "href": "clean-code-guide.html#style-guides",
+    "title": "Writing clean code",
+    "section": "Style guides",
+    "text": "Style guides\n\nTidyverse style guide, by Hadley Wickham – a book that describes the style used throughout the {tidyverse}\nTidy design principles, by Hadley Wickham – a book to help you write better R code (currently under development)"
+  },
+  {
     "objectID": "course-materials/week4-writing-blogs.html",
     "href": "course-materials/week4-writing-blogs.html",
     "title": "Writing skills for science communication",
@@ -159,13 +173,6 @@
     "title": "Writing skills for science communication",
     "section": "What should I continue working on?",
     "text": "What should I continue working on?\nComing soon"
-  },
-  {
-    "objectID": "course-materials/week6-misc-github.html",
-    "href": "course-materials/week6-misc-github.html",
-    "title": "TBD",
-    "section": "",
-    "text": "ADD IMAGE HERE"
   },
   {
     "objectID": "course-materials/week6-misc-github.html#anticipated-deliverables",
