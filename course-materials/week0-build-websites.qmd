@@ -6,7 +6,6 @@ title-block-banner: true
 toc: true
 ---
 
-::: {.center-text}
 ```{r}
 #| eval: true
 #| echo: false
@@ -17,10 +16,8 @@ toc: true
 knitr::include_graphics("../images/horst-quarto.png")
 ```
 
-::: {.center-text .body-text-s .gray-text}
+::: {.center-text .gray-text}
 *Artwork by [Allison Horst](https://allisonhorst.com/allison-horst)*
-:::
-
 :::
 
 ## Anticipated deliverable(s)

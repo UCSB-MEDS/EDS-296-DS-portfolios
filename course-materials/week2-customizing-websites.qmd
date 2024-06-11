@@ -16,7 +16,7 @@ toc: true
 knitr::include_graphics("../images/sass-css.png")
 ```
 
-::: {.center-text .body-text-s .gray-text}
+::: {.center-text .gray-text}
 *The Sass and CSS logos*
 :::
 :::

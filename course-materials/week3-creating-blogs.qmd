@@ -16,7 +16,7 @@ toc: true
 knitr::include_graphics("../images/blog-icon.png")
 ```
 
-::: {.center-text .body-text-s .gray-text}
+::: {.center-text .gray-text}
 *Blog icon, by [Brendan Mitchell](https://theblogicon.wordpress.com/about/)*
 :::
 :::
