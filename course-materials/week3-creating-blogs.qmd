@@ -21,20 +21,20 @@ knitr::include_graphics("../images/blog-icon.png")
 :::
 :::
 
-## Anticipated deliverable(s)
+## {{< fa box-open title="an open box" >}} Anticipated deliverable(s) {#anticipated-deliverables}
 
 By the end of today's class, you should have: 
 
 - a blog listing page as a new navbar tab on your Quarto website
 - the skeleton of your first blog post
 
-## Pre-class Prep
+## {{< fa clipboard-list title="a clipboard with a To Do list" >}} Pre-class Prep {#pre-class-prep}
 
 Please be sure to complete the following before class:
 
-- [**Consider which listing type you'd like to use.**]{.teal-text} A blog listing page is a web page that displays all of a blog's posts. Quarto provides [three built-in listing page types / styles](https://quarto.org/docs/websites/website-listings.html#listing-types) to choose from. Check out the previews and identify which you might want to use.
+- [**Consider which blog listing page type you'd like to use.**]{.teal-text} A blog listing page is a web page that displays all of a blog's posts. Quarto provides [three built-in listing page types / styles](https://quarto.org/docs/websites/website-listings.html#listing-types){target="_blank"} to choose from. Check out the previews and identify which you might want to use ahead of class.
 
-## Lecture Materials
+## {{< fa person-chalkboard title="a person pointing at a chalkboard" >}} Lecture Materials {#lecture-materials}
 
 Instructions for adding a blog to your existing Quarto website take the form of -- you guessed it -- a blog post {{< fa face-smile-wink title="a winking smiling face" >}}
 
@@ -42,6 +42,6 @@ Instructions for adding a blog to your existing Quarto website take the form of 
 [{{< fa blog title="blog icon" >}} Instructional blog post](https://samanthacsik.github.io/posts/2022-10-24-quarto-blogs/){.btn role="button" target="_blank"} 
 :::
 
-## What should I continue working on?
+## {{< fa plus title="plus" >}} What should I continue working on? {#continue-working}
 
-*Coming soon*
+Next week, we'll be adding our first *real* blog posts to our websites. See the [week 4 pre-class prep instructions](week4-writing-blogs.qmd#pre-class-prep) for information on how to prepare.

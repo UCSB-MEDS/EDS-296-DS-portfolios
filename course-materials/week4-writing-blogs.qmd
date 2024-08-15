@@ -1,5 +1,5 @@
 ---
-title: "Writing skills for science communication"
+title: "Writing skills for data science blogging"
 subtitle: "Week 4"
 description: "Friday October 25^th^, 2024"
 title-block-banner: true
@@ -10,18 +10,28 @@ toc: true
 ADD IMAGE HERE
 :::
 
-## Anticipated deliverable(s)
+## {{< fa box-open title="an open box" >}} Anticipated deliverable(s) {#anticipated-deliverables}
 
 *Coming soon*
 
-## Pre-class Prep
+## {{< fa clipboard-list title="a clipboard with a To Do list" >}} Pre-class Prep {#pre-class-prep}
 
 *Coming soon*
 
-## Lecture Materials
+A. Read some data science-y blog posts
+
+::: {.callout-tip collapse=true}
+## title here
+- [An introduction to Python for R Users](https://rebeccabarter.com/blog/2023-09-11-from_r_to_python), by [Rebecca Barter](https://rebeccabarter.com/about)
+- [Porting the Openscapes website from blogdown to Quarto](https://samanthacsik.github.io/posts/2023-08-01-openscapes-website/), by [Sam Csik](https://samanthacsik.github.io)
+:::
+
+B. 
+
+## {{< fa person-chalkboard title="a person pointing at a chalkboard" >}} Lecture Materials {#lecture-materials}
 
 *Coming soon*
 
-## What should I continue working on?
+## {{< fa plus title="plus" >}} What should I continue working on? {#continue-working}
 
 *Coming soon*

@@ -18,18 +18,18 @@ knitr::include_graphics("../images/baracktocat.png")
 *[#56 Baraktocat](https://octodex.github.com/baracktocat/). See the full collection of octocats at <https://octodex.github.com/>.*
 :::
 
-## Anticipated deliverable(s)
+## {{< fa box-open title="an open box" >}} Anticipated deliverable(s) {#anticipated-deliverables}
 
 *Coming soon*
 
-## Pre-class Prep
+## {{< fa clipboard-list title="a clipboard with a To Do list" >}} Pre-class Prep {#pre-class-prep}
 
 *Coming soon*
 
-## Lecture Materials
+## {{< fa person-chalkboard title="a person pointing at a chalkboard" >}} Lecture Materials {#lecture-materials}
 
 *Coming soon*
 
-## What should I continue working on?
+## {{< fa plus title="plus" >}} What should I continue working on? {#continue-working}
 
 *Coming soon*
