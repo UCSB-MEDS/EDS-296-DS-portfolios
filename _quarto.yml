@@ -3,9 +3,10 @@ project:
   output-dir: docs
 
 website:
-  # announcement:
-  #   icon: info-circle
-  #   content: "This website is currently under development!"
+  announcement:
+    icon: info-circle
+    dismissable: false
+    content: "This website is currently under development! Updates are likely to continue until EDS 296 begins in Fall 2024."
   title: "EDS 296"
   navbar:
     right:
