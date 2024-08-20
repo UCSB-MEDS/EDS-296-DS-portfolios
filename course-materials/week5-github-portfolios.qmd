@@ -18,9 +18,13 @@ knitr::include_graphics("../images/octocat-original.png")
 *[#1 Original](https://octodex.github.com/original/) Octocat. See the full collection of octocats at <https://octodex.github.com/>.*
 :::
 
+<br>
+
 ## {{< fa box-open title="an open box" >}} Anticipated deliverable(s) {#anticipated-deliverables}
 
-*Coming soon*
+By the end of today's class, you should have:
+
+- 
 
 ## {{< fa clipboard-list title="a clipboard with a To Do list" >}} Pre-class Prep {#pre-class-prep}
 
@@ -28,7 +32,9 @@ knitr::include_graphics("../images/octocat-original.png")
 
 ## {{< fa person-chalkboard title="a person pointing at a chalkboard" >}} Lecture Materials {#lecture-materials}
 
-*Coming soon*
+::: {.center-text}
+[{{< fa file-lines title="A file with lines of text on it" >}} README Guidelines](https://ucsb-meds.github.io/README-guidelines/){.btn role="button" target="_blank"} 
+:::
 
 ## {{< fa plus title="plus" >}} What should I continue working on? {#continue-working}
 

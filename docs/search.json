@@ -39,7 +39,7 @@
     "href": "course-materials/week5-github-portfolios.html#anticipated-deliverables",
     "title": "GitHub as a professional portfolio",
     "section": " Anticipated deliverable(s)",
-    "text": "Anticipated deliverable(s)\nComing soon"
+    "text": "Anticipated deliverable(s)\nBy the end of today’s class, you should have:"
   },
   {
     "objectID": "course-materials/week5-github-portfolios.html#pre-class-prep",
@@ -53,7 +53,7 @@
     "href": "course-materials/week5-github-portfolios.html#lecture-materials",
     "title": "GitHub as a professional portfolio",
     "section": " Lecture Materials",
-    "text": "Lecture Materials\nComing soon"
+    "text": "Lecture Materials\n\n README Guidelines"
   },
   {
     "objectID": "course-materials/week5-github-portfolios.html#continue-working",
@@ -91,25 +91,18 @@
     "text": "What should I continue working on?\n\nRefine the language / content on your landing page. Try out different built-in templates, bio language, and arrangement of content until you settle on something that you like.\nAdd additional pages to your website. By default, Quarto creates a landing page (index.qmd) and a page titled, “About” (about.qmd) We also practiced adding a “Resources” page (resources.qmd) during class. Consider if you want to keep all of these (though note that you must keep index.qmd) or add additional pages. If you’re not quite ready to add content to them, it’s sufficient to include placeholder text to those pages (e.g. Coming soon!). Recall that you can add / remove pages by modifying your _quarto.yml file.\n\n\n\n\n\n\n\nAN IMPORTANT REMINDER: a personal website is an ever-evolving project\n\n\n\nI’m pretty sure I’ve rewritten the language across my website at least once a year since I first created it. Don’t feel too much pressure to make it “perfect” – you’ll likely revisit the content / arrangement often, especially throughout different stages of your career!"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "objectID": "course-materials/materials/blogging-tips.html#title-slide",
+    "href": "course-materials/materials/blogging-tips.html#title-slide",
+    "title": "Writing blogs",
+    "section": "title slide",
+    "text": "title slide"
   },
   {
-    "objectID": "index.html#course-description",
-    "href": "index.html#course-description",
-    "title": "Data science tools for building professional online portfolios",
-    "section": "Course Description",
-    "text": "Course Description\nHaving a polished online presence is essential for showcasing your skills, projects, expertise, and (importantly) your personality. Learners, collaborators, and future employers alike will look to your public online profiles to glean information about you and your work. As data scientists, this often means that they’ll head to one of two places: GitHub and/or your personal website. This course is designed to help you both lay the foundation for creating and maintaining these profiles in an organized, informative, and visually-appealing way. Over the next several weeks, you will:\n\nbuild and deploy your personal website using popular data science tools and frameworks\ncreate your first (of many!) data science blog posts\nlearn about how best to communicate your work to different audiences\nunderstand where and how to document your projects and code\nand more!\n\nThroughout the MEDS program, you’ll be asked to turn assignments and projects into science communication pieces on your personal website’s blog. These are excellent opportunities to build out your portfolio ahead of your job search."
-  },
-  {
-    "objectID": "index.html#teaching-team",
-    "href": "index.html#teaching-team",
-    "title": "Data science tools for building professional online portfolios",
-    "section": "Teaching Team",
-    "text": "Teaching Team\n\n\n\n\nInstructor\n\n\n\n\n\n\n\n\n\n\n\nSam Csik\nEmail: scsik@ucsb.edu\nLearn more: samanthacsik.github.io"
+    "objectID": "course-materials/materials/blogging-tips.html#tldr",
+    "href": "course-materials/materials/blogging-tips.html#tldr",
+    "title": "Writing blogs",
+    "section": "TL;DR",
+    "text": "TL;DR\nHT: Julie Lowndes"
   },
   {
     "objectID": "clean-code-guide.html",
@@ -140,39 +133,53 @@
     "text": "Style guides\n\nTidyverse style guide, by Hadley Wickham – a book that describes the style used throughout the {tidyverse}\nTidy design principles, by Hadley Wickham – a book to help you write better R code (currently under development)"
   },
   {
-    "objectID": "course-materials/week4-writing-blogs.html",
-    "href": "course-materials/week4-writing-blogs.html",
-    "title": "Writing skills for data science blogging",
+    "objectID": "index.html#course-description",
+    "href": "index.html#course-description",
+    "title": "Data science tools for building professional online portfolios",
+    "section": "Course Description",
+    "text": "Course Description\nHaving a polished online presence is essential for showcasing your skills, projects, expertise, and (importantly) your personality. Learners, collaborators, and future employers alike will look to your public online profiles to glean information about you and your work. As data scientists, this often means that they’ll head to one of two places: GitHub and/or your personal website. This course is designed to help you both lay the foundation for creating and maintaining these profiles in an organized, informative, and visually-appealing way. Over the next several weeks, you will:\n\nbuild and deploy your personal website using popular data science tools and frameworks\ncreate your first (of many!) data science blog posts\nlearn about how best to communicate your work to different audiences\nunderstand where and how to document your projects and code\nand more!\n\nThroughout the MEDS program, you’ll be asked to turn assignments and projects into science communication pieces on your personal website’s blog. These are excellent opportunities to build out your portfolio ahead of your job search."
+  },
+  {
+    "objectID": "index.html#teaching-team",
+    "href": "index.html#teaching-team",
+    "title": "Data science tools for building professional online portfolios",
+    "section": "Teaching Team",
+    "text": "Teaching Team\n\n\n\n\nInstructor\n\n\n\n\n\n\n\n\n\n\n\nSam Csik\nEmail: scsik@ucsb.edu\nLearn more: samanthacsik.github.io"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "ADD IMAGE HERE"
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "course-materials/week4-writing-blogs.html#anticipated-deliverables",
     "href": "course-materials/week4-writing-blogs.html#anticipated-deliverables",
     "title": "Writing skills for data science blogging",
     "section": " Anticipated deliverable(s)",
-    "text": "Anticipated deliverable(s)\nComing soon"
+    "text": "Anticipated deliverable(s)\nBy the end of today’s class, you should have:\n\nyour first data science blog post!"
   },
   {
     "objectID": "course-materials/week4-writing-blogs.html#pre-class-prep",
     "href": "course-materials/week4-writing-blogs.html#pre-class-prep",
     "title": "Writing skills for data science blogging",
     "section": " Pre-class Prep",
-    "text": "Pre-class Prep\nComing soon\nA. Read some data science-y blog posts\n\n\n\n\n\n\ntitle here\n\n\n\n\n\n\nAn introduction to Python for R Users, by Rebecca Barter\nPorting the Openscapes website from blogdown to Quarto, by Sam Csik"
+    "text": "Pre-class Prep\n\nA. Check out some data science-y blog posts\nReading other data science blogs is the best way to get a sense of not only the breadth of topics folks in the community are writing about, but also the tone, writing styles, and creative approaches you might take as a blogger. Check out a couple posts before class!\n\n\n\n\n\n\nA small collection of blog posts and data science blogs:\n\n\n\n\n\nA handful of posts to showcase some different writing styles and topics areas:\n\nAn introduction to Python for R Users, by Rebecca Barter\nPorting the Openscapes website from blogdown to Quarto, by Sam Csik\nGetting started with Apache Arrow, by Danielle Navarro\nSharing pictures of code, by Emil Hvitfeldt\nA simple project organization workflow, by Max Czapanskiy\n\nAnd a few additional fun blogs to keep an eye on:\n\nMeghan Hall\nMeghan Harris\nCrystal Lewis\nBeatriz Milz\nShannon Pileggi\nAlbert Rapp\nNicola Rennie\nCara Thompson\nIsabella Velásquez\n\nThis is only a small sampling of the many rad data science bloggers out there – if you stumble upon others that you enjoy, be sure to share them in the class Slack channel!\n\n\n\n\n\nB. Pick a function to blog about!\nToday, you’ll be heeding David Robinson’s advice and draft a blog post about a function or method"
   },
   {
     "objectID": "course-materials/week4-writing-blogs.html#lecture-materials",
     "href": "course-materials/week4-writing-blogs.html#lecture-materials",
     "title": "Writing skills for data science blogging",
     "section": " Lecture Materials",
-    "text": "Lecture Materials\nComing soon"
+    "text": "Lecture Materials\n\n lecture slides"
   },
   {
     "objectID": "course-materials/week4-writing-blogs.html#continue-working",
     "href": "course-materials/week4-writing-blogs.html#continue-working",
     "title": "Writing skills for data science blogging",
     "section": " What should I continue working on?",
-    "text": "What should I continue working on?\nComing soon"
+    "text": "What should I continue working on?\n\nContinue drafting / polishing your blog post.\nSeek feedback from others. Consider switching blog posts with one (or more) of your peers, or stick around for office hours to chat with me about your ideas!"
   },
   {
     "objectID": "course-materials/week6-misc-github.html#anticipated-deliverables",

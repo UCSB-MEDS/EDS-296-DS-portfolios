@@ -6,6 +6,8 @@ website:
   announcement:
     icon: info-circle
     dismissable: false
+    type: primary
+    position: above-navbar
     content: "This website is currently under development! Updates are likely to continue until EDS 296 begins in Fall 2024."
   title: "EDS 296"
   navbar:

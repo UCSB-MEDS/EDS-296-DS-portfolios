@@ -1,0 +1,16 @@
+---
+title: "Writing blogs"
+format: revealjs
+---
+
+## title slide
+
+---
+
+## TL;DR
+
+HT: Julie Lowndes
+
+---
+
+

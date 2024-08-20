@@ -6,32 +6,69 @@ title-block-banner: true
 toc: true
 ---
 
-::: {.center-text}
-ADD IMAGE HERE
+```{r}
+#| eval: true
+#| echo: false
+#| fig-align: "center"
+#| out-width: "70%"
+knitr::include_graphics("../images/drob-tweet.png")
+```
+
+::: {.center-text .gray-text}
+*A still-very-relevant tweet by [David Robinson](http://varianceexplained.org/r/start-blog/)*
 :::
+
+<br>
 
 ## {{< fa box-open title="an open box" >}} Anticipated deliverable(s) {#anticipated-deliverables}
 
-*Coming soon*
+By the end of today's class, you should have:
+
+- your first data science blog post!
 
 ## {{< fa clipboard-list title="a clipboard with a To Do list" >}} Pre-class Prep {#pre-class-prep}
 
-*Coming soon*
+### A. Check out some data science-y blog posts
 
-A. Read some data science-y blog posts
+Reading other data science blogs is the best way to get a sense of not only the breadth of topics folks in the community are writing about, but also the tone, writing styles, and creative approaches you might take as a blogger. Check out a couple posts before class! 
 
 ::: {.callout-tip collapse=true}
-## title here
+## A small collection of blog posts and data science blogs:
+
+A handful of posts to showcase some different writing styles and topics areas:
+
 - [An introduction to Python for R Users](https://rebeccabarter.com/blog/2023-09-11-from_r_to_python), by [Rebecca Barter](https://rebeccabarter.com/about)
 - [Porting the Openscapes website from blogdown to Quarto](https://samanthacsik.github.io/posts/2023-08-01-openscapes-website/), by [Sam Csik](https://samanthacsik.github.io)
+- [Getting started with Apache Arrow](https://blog.djnavarro.net/posts/2021-11-19_starting-apache-arrow-in-r/), by [Danielle Navarro](https://djnavarro.net/)
+- [Sharing pictures of code](https://emilhvitfeldt.com/post/sharing-code-pictures/), by [Emil Hvitfeldt](https://emilhvitfeldt.com/)
+- [A simple project organization workflow](https://flukeandfeather.com/posts/2023-06-20-project-organization/), by [Max Czapanskiy](https://flukeandfeather.com/)
+
+And a few additional fun blogs to keep an eye on:
+
+- [Meghan Hall](https://meghan.rbind.io/blog/)
+- [Meghan Harris](https://thetidytrekker.com/blog)
+- [Crystal Lewis](https://cghlewis.com/blog/)
+- [Beatriz Milz](https://beamilz.com/posts/en)
+- [Shannon Pileggi](https://www.pipinghotdata.com/blog)
+- [Albert Rapp](https://albert-rapp.de/blog)
+- [Nicola Rennie](https://nrennie.rbind.io/blog/)
+- [Cara Thompson](https://www.cararthompson.com/posts)
+- [Isabella Velásquez](https://ivelasq.rbind.io/)
+
+This is only a small sampling of the *many* rad data science bloggers out there -- if you stumble upon others that you enjoy, be sure to share them in the class Slack channel!
 :::
 
-B. 
+### B. Pick a function to blog about!
+
+Today, you'll be heeding David Robinson's advice and draft a blog post about a function or method
 
 ## {{< fa person-chalkboard title="a person pointing at a chalkboard" >}} Lecture Materials {#lecture-materials}
 
-*Coming soon*
+::: {.center-text}
+[{{< fa person-chalkboard title="A person motioning at a chalkboard" >}} lecture slides](materials/blogging-tips.qmd){.btn role="button" target="_blank"} 
+:::
 
 ## {{< fa plus title="plus" >}} What should I continue working on? {#continue-working}
 
-*Coming soon*
+1. [**Continue drafting / polishing your blog post.**]{.teal-text} 
+2. [**Seek feedback from others.**]{.teal-text} Consider switching blog posts with one (or more) of your peers, or stick around for office hours to chat with me about your ideas!
