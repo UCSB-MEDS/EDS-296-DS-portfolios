@@ -18,6 +18,17 @@ knitr::include_graphics("../images/baracktocat.png")
 *[#56 Baraktocat](https://octodex.github.com/baracktocat/). See the full collection of octocats at <https://octodex.github.com/>.*
 :::
 
+things to cover:
+
+- pinned repos
+- updating GitHub profile info
+- updating individual repo info (right-hand side)
+- hosting rendered docs with GH pages
+- GH issues
+- GH projects
+- GH actions
+- GH releases
+
 ## {{< fa box-open title="an open box" >}} Anticipated deliverable(s) {#anticipated-deliverables}
 
 *Coming soon*

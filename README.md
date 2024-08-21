@@ -10,6 +10,10 @@ Having a polished online presence is essential for showcasing your skills, proje
 - understand where and how to document your projects and code
 - and more!
 
+## Report a bug / issue
+
+Found something that doesn't look quite right? Feel free to file an [issue](https://github.com/UCSB-MEDS/EDS-296-DS-portfolios/issues) and include a concise, clear description, along with a link to the location on the website. Screenshots are always appreciated as well!
+
 ## License
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)
