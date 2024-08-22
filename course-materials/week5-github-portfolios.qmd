@@ -71,6 +71,8 @@ We'll discuss and practice writing effective GitHub READMEs together today, but 
 
 :::
 
+TODO: include this somewhere, [5 tips for making your GitHub profile page accessible](https://github.blog/developer-skills/github/5-tips-for-making-your-github-profile-page-accessible/)
+
 ## {{< fa plus title="plus" >}} What should I continue working on? {#continue-working}
 
 *Coming soon*

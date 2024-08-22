@@ -33,10 +33,15 @@ website:
             href: course-materials/week6-misc-github.qmd
       - text: resources
         menu: 
-          - text: guide for writing clean code
-            href: clean-code-guide.qmd
           - text: MEDS installation guide
             href: https://ucsb-meds.github.io/MEDS-installation-guide/
+            target: _blank
+          - text: Quarto documentation
+            href: https://quarto.org/
+            target: _blank
+          - text: GitHub documentation
+            href: https://docs.github.com/en
+            target: _blank
       - icon: github
         menu:
           - text: Source Code
