@@ -15,7 +15,7 @@ knitr::include_graphics("../images/baracktocat.png")
 ```
 
 ::: {.center-text .gray-text}
-*[#56 Baraktocat](https://octodex.github.com/baracktocat/). See the full collection of octocats at <https://octodex.github.com/>.*
+*[#56 Baraktocat](https://octodex.github.com/baracktocat/). See the [full collection of octocats](https://octodex.github.com/), or [create your own](https://myoctocat.com/).*
 :::
 
 things to cover:

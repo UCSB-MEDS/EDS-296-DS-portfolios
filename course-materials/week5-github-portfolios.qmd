@@ -15,7 +15,7 @@ knitr::include_graphics("../images/octocat-original.png")
 ```
 
 ::: {.center-text .gray-text}
-*[#1 Original](https://octodex.github.com/original/) Octocat. See the full collection of octocats at <https://octodex.github.com/>.*
+*[#1 Original](https://octodex.github.com/original/) Octocat. See the [full collection of octocats](https://octodex.github.com/), or [create your own](https://myoctocat.com/).*
 :::
 
 <br>
@@ -25,24 +25,27 @@ knitr::include_graphics("../images/octocat-original.png")
 By the end of today's class, you should have:
 
 - a polished and informative README added to one (or more) of your past MEDS homework assignment repositories
-- a GitHub profile README that 
+- a GitHub *profile* README to welcome visitors and showcase your interests / work 
 
 ## {{< fa clipboard-list title="a clipboard with a To Do list" >}} Pre-class Prep {#pre-class-prep}
 
-
 ### A. Choose a GitHub repo
 
-- choose a repo from past hw assignments (TODO: get links to assignments from Carmen, Ruth, Max, etc.)
+- TODO: choose a repo from past hw assignments (TODO: get links to assignments from Carmen, Ruth, Max, etc.)
 
 ### B. Draft up text to add to your GitHub profile README
 
+A GitHub *profile* README is a special README that is displayed on your profile's landing page (e.g. see [mine](https://github.com/samanthacsik){target="_blank"}). A well-crafted profile README not only welcomes visitors to your page, but can also help you stand out to potential collaborators or employers. 
+
+Consider what content you might want to include in *your* GitHub profile README. Take a look at a few examples, below, for inspiration, then draft up some text / images / etc. in a Google Doc (or other easily accessible location) to refer to during class.
+
 ::: {.callout-tip collapse=true}
-## Some example GitHub profile READMEs
-- [Samantha Csik](https://github.com/samanthacsik)
-- [Allison Horst]()
-- [Alex Phillips](https://github.com/alatleephillips)
-- [Silvia Canelón](https://github.com/spcanelon)
-- [Crystal Lewis](https://github.com/Cghlewis)
+## A few example GitHub profile READMEs
+- [Allison Horst](https://github.com/allisonhorst){target="_blank"}
+- [Alex Phillips](https://github.com/alatleephillips){target="_blank"}
+- [Silvia Canelón](https://github.com/spcanelon){target="_blank"}
+- [Crystal Lewis](https://github.com/Cghlewis){target="_blank"}
+- [Awesome GitHub Profile READMEs](https://zzetao.github.io/awesome-github-profile/){target="_blank"} (a collection of great profile READMEs)
 :::
 
 ## {{< fa person-chalkboard title="a person pointing at a chalkboard" >}} Lecture Materials {#lecture-materials}
@@ -71,7 +74,10 @@ We'll discuss and practice writing effective GitHub READMEs together today, but 
 
 :::
 
-TODO: include this somewhere, [5 tips for making your GitHub profile page accessible](https://github.blog/developer-skills/github/5-tips-for-making-your-github-profile-page-accessible/)
+- TODO: include this somewhere, [5 tips for making your GitHub profile page accessible](https://github.blog/developer-skills/github/5-tips-for-making-your-github-profile-page-accessible/)
+- https://myoctocat.com/ 
+- add profile image, and fill out left-hand side info
+- move github orgs to week 6?
 
 ## {{< fa plus title="plus" >}} What should I continue working on? {#continue-working}
 
