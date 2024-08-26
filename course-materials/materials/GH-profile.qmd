@@ -1,0 +1,120 @@
+---
+format: 
+  revealjs:
+    slide-number: true
+    # code-link: true
+    highlight-style: a11y
+    chalkboard: true
+    theme: 
+      - ../../meds-slides-styles.scss
+---
+
+## {#title-slide data-menu-title="Title Slide" background="#053660"} 
+
+[EDS 296: Data Science Portfolios]{.custom-title}
+
+[*Customizing your GitHub profile*]{.custom-subtitle}
+
+<hr class="hr-teal">
+
+[November 1st, 2024]{.custom-subtitle3}
+
+---
+
+## {#GH-portfolio data-menu-title="GitHub is a portfolio"} 
+
+[GitHub *is* a portfolio]{.slide-title}
+
+<hr>
+
+Yes, it's a place to safely preserve versions of our work (in case our computers implode).
+
+But it's also (often) a place where current and / or potential collaborators and employers can:
+
+- explore your code
+- see your documentation
+- get a sense of your organizational practices and workflows
+- understand how you collaborate on projects (and with who)
+- learn about you as a person who has interests and a personality
+
+---
+
+## {#photo-bio data-menu-title="Add a photo & bio"} 
+
+[Add a photo and bio]{.slide-title}
+
+<hr>
+
+- an absolute must do
+- takes little time
+- photo makes your commits/contributions more easily recognizable
+- be sure to link your personal website!
+
+---
+
+## {#pin-repos data-menu-title="Pin your top repos"} 
+
+[Pin the repos you're proudest of]{.slide-title}
+
+<hr>
+
+- order them
+- each should be well-organized and have a README
+    - updating individual repo info (right-hand side)
+- your personal website is a great one to add!
+- hw assignments or other projects that you're proud of
+- change your pinned repos as necessary
+
+---
+
+## {#contributions data-menu-title="Contributions"} 
+
+[Contributions show your commits]{.slide-title}
+
+<hr>
+
+- fun!
+- indicates quantity, not quality
+
+::: {.footer}
+Troubleshooting or trying to understand your contributions map? Check out this help documentation: [Why are my contributions now showing up on my profile?](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/why-are-my-contributions-not-showing-up-on-my-profile)
+:::
+
+---
+
+## {#profile-readme data-menu-title="Profile README"} 
+
+[Add a profile README]{.slide-title}
+
+<hr>
+
+::: {.footer}
+See [GitHub documentation](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) for more info on profile READMEs 
+:::
+
+---
+
+## {#accessibility data-menu-title="Accessibility"} 
+
+[Make your GitHub profile page accessible]{.slide-title}
+
+<hr>
+
+[5 tips for making your GitHub profile page accessible](https://github.blog/developer-skills/github/5-tips-for-making-your-github-profile-page-accessible/)
+
+---
+
+Some additional great resources
+
+- [Creating an Impressive GitHub Profile: A Guide for Developers](https://www.linkedin.com/pulse/creating-impressive-github-profile-guide-developers-zamir-khotov-gqdyf/)
+- [7 Tips to Build Your GitHub Profile Like a PRO](https://dev.to/quira/7-tips-to-build-your-github-profile-like-a-pro-38bg)
+
+---
+
+## {#gh-social data-menu-title="GH as social media"} 
+
+[GH social]{.slide-title}
+
+<hr>
+
+

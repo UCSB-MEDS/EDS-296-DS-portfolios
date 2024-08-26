@@ -25,19 +25,26 @@ knitr::include_graphics("../images/octocat-original.png")
 By the end of today's class, you should have:
 
 - a polished and informative README added to one (or more) of your past MEDS homework assignment repositories
-- a GitHub *profile* README to welcome visitors and showcase your interests / work 
+- a thoughtfully curated GitHub landing page, including a profile picture and bio, pinned repositories, and a *profile* README that welcomes visitors and showcases your interests / work 
 
 ## {{< fa clipboard-list title="a clipboard with a To Do list" >}} Pre-class Prep {#pre-class-prep}
 
-### A. Choose a GitHub repo
+Please be sure to complete the following before class:
 
-- TODO: choose a repo from past hw assignments (TODO: get links to assignments from Carmen, Ruth, Max, etc.)
+### A. Choose a GitHub repo from a a past homework assignment
+
+README files are used to provide essential information about software projects. We'll practice writing effective READMEs, using a past MEDS homework assignment as an example. [**Before coming to class, choose a GitHub repository from the list of past homework assignments, below:**]{.teal-text}
+ 
+- get
+- HWs
+- from
+- Ruth / Carmen
 
 ### B. Draft up text to add to your GitHub profile README
 
-A GitHub *profile* README is a special README that is displayed on your profile's landing page (e.g. see [mine](https://github.com/samanthacsik){target="_blank"}). A well-crafted profile README not only welcomes visitors to your page, but can also help you stand out to potential collaborators or employers. 
+A GitHub *profile* README is a special README that is displayed on your profile's landing page (e.g. see [mine](https://github.com/samanthacsik){target="_blank"}). A well-crafted profile README not only welcomes visitors to your page, but can also help you stand out to potential collaborators or employers. It's helpful to include a short bio and highlight some current projects / interests.
 
-Consider what content you might want to include in *your* GitHub profile README. Take a look at a few examples, below, for inspiration, then draft up some text / images / etc. in a Google Doc (or other easily accessible location) to refer to during class.
+Consider what content you might want to include in *your* GitHub profile README. Take a look at a few examples for inspiration, then [**draft up some text / images / etc. in a Google Doc (or other easily accessible location) to refer to during class**]{.teal-text} (it's okay if this is just a first pass -- you can continue to iterate!).
 
 ::: {.callout-tip collapse=true}
 ## A few example GitHub profile READMEs
@@ -48,37 +55,33 @@ Consider what content you might want to include in *your* GitHub profile README.
 - [Awesome GitHub Profile READMEs](https://zzetao.github.io/awesome-github-profile/){target="_blank"} (a collection of great profile READMEs)
 :::
 
+### C. Have a profile picture handy
+
+We'll update our GitHub profile picture during class, if you haven't done so already. [**Save it to an easy to find place (e.g your desktop).**]{.teal-text}
+
 ## {{< fa person-chalkboard title="a person pointing at a chalkboard" >}} Lecture Materials {#lecture-materials}
 
 We'll discuss and practice writing effective GitHub READMEs together today, but you'll also be asked to refer back to these materials throughout your time in MEDS. Find README guidelines, as well as instructions for adding a GitHub profile README and creating a GitHub organization, below:
 
 ::: {.grid}
 
-::: {.g-col-12 .g-col-md-4}
+::: {.g-col-12 .g-col-md-6}
 ::: {.center-text}
 [{{< fa file-lines title="A file with lines of text on it" >}} README Guidelines](https://ucsb-meds.github.io/README-guidelines/){.btn role="button" target="_blank"} 
 :::
 :::
 
-::: {.g-col-12 .g-col-md-4}
+::: {.g-col-12 .g-col-md-6}
 ::: {.center-text}
-[{{< fa file-lines title="A file with lines of text on it" >}} Add a profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme){.btn role="button" target="_blank"} 
-:::
-:::
-
-::: {.g-col-12 .g-col-md-4}
-::: {.center-text}
-[{{< fa file-lines title="A file with lines of text on it" >}} Create a GitHub Organization](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch){.btn role="button" target="_blank"} 
+[{{< fa file-lines title="A file with lines of text on it" >}} Update your GH profile](materials/GH-profile.qmd){.btn role="button" target="_blank"} 
 :::
 :::
 
 :::
-
-- TODO: include this somewhere, [5 tips for making your GitHub profile page accessible](https://github.blog/developer-skills/github/5-tips-for-making-your-github-profile-page-accessible/)
-- https://myoctocat.com/ 
-- add profile image, and fill out left-hand side info
-- move github orgs to week 6?
 
 ## {{< fa plus title="plus" >}} What should I continue working on? {#continue-working}
 
-*Coming soon*
+1. [**Put any finishing touches on your homework repo's README.**]{.teal-text} If you're feeling particularly inspired, you can also add / update READMEs for your other homework (or even personal) repositories as well. Come see me at student hours if you'd like feedback!
+2. [**Complete your GitHub profile bio and README.**]{.teal-text} Remember, your README should evolve with you. Consider revisiting it a few times throughout the year to make updates as you start (and complete) projects. You can add / switch out your pinned repos as well. 
+
+

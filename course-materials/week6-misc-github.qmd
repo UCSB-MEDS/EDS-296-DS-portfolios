@@ -20,14 +20,13 @@ knitr::include_graphics("../images/baracktocat.png")
 
 things to cover:
 
-- pinned repos
-- updating GitHub profile info
-- updating individual repo info (right-hand side)
+- GH orgs
 - hosting rendered docs with GH pages
 - GH issues
 - GH projects
 - GH actions
 - GH releases
+- wikis
 
 ## {{< fa box-open title="an open box" >}} Anticipated deliverable(s) {#anticipated-deliverables}
 
@@ -35,11 +34,23 @@ things to cover:
 
 ## {{< fa clipboard-list title="a clipboard with a To Do list" >}} Pre-class Prep {#pre-class-prep}
 
+Please be sure to complete the following before class:
+
 *Coming soon*
 
 ## {{< fa person-chalkboard title="a person pointing at a chalkboard" >}} Lecture Materials {#lecture-materials}
 
 *Coming soon*
+
+<!-- ::: {.grid} -->
+
+<!-- ::: {.g-col-12 .g-col-md-4} -->
+<!-- ::: {.center-text} -->
+<!-- [{{< fa file-lines title="A file with lines of text on it" >}} Create a GitHub Organization](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch){.btn role="button" target="_blank"}  -->
+<!-- ::: -->
+<!-- ::: -->
+
+<!-- ::: -->
 
 ## {{< fa plus title="plus" >}} What should I continue working on? {#continue-working}
 

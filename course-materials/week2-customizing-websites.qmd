@@ -80,7 +80,7 @@ Your typeface and font choices are just as important as your color choices! Firs
 - **typeface (aka font family):** the underlying visual design (e.g. Times New Roman, Helvetica, Roboto)
 - **font:** an implementation / variation of a typeface (e.g. Times New Roman in bold, Times New Roman in  italic)
 
-We'll be importing and applying font families from [Google Fonts](https://fonts.google.com/). [**Explore the vast selection, and have the names of 1-2 font families ready to go for class.**]{.teal-text} 
+We'll import and apply font families from [Google Fonts](https://fonts.google.com/). [**Explore the vast selection, and have the names of 1-2 font families ready to go for class.**]{.teal-text} 
 
 ::: {.callout-tip collapse=true icon=false}
 ## Expand for tips on choosing your font family(ies)

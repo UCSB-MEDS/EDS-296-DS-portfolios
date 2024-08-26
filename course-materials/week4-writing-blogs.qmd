@@ -28,6 +28,8 @@ By the end of today's class, you should have:
 
 ## {{< fa clipboard-list title="a clipboard with a To Do list" >}} Pre-class Prep {#pre-class-prep}
 
+Please be sure to complete the following before class:
+
 ### A. Check out some data science-y blog posts
 
 Reading other data science blogs is the best way to get a sense of not only the breadth of topics folks in the community are writing about, but also the tone, writing styles, and creative approaches you might take as a blogger. Check out a couple posts before class! 
@@ -60,7 +62,9 @@ This is only a small sampling of the *many* rad data science bloggers out there 
 
 ### B. Pick a function to blog about!
 
-Today, you'll be heeding David Robinson's advice and draft a blog post about a function or method
+Today, you'll be heeding David Robinson's advice and draft a blog post about a function or method...
+
+Target audience -- next MEDS cohort (new learners)
 
 ## {{< fa person-chalkboard title="a person pointing at a chalkboard" >}} Lecture Materials {#lecture-materials}
 

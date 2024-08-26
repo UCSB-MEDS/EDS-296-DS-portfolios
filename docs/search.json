@@ -39,28 +39,28 @@
     "href": "course-materials/week5-github-portfolios.html#anticipated-deliverables",
     "title": "GitHub as a professional portfolio",
     "section": " Anticipated deliverable(s)",
-    "text": "Anticipated deliverable(s)\nBy the end of today’s class, you should have:\n\na polished and informative README added to one (or more) of your past MEDS homework assignment repositories\na GitHub profile README to welcome visitors and showcase your interests / work"
+    "text": "Anticipated deliverable(s)\nBy the end of today’s class, you should have:\n\na polished and informative README added to one (or more) of your past MEDS homework assignment repositories\na thoughtfully curated GitHub landing page, including a profile picture and bio, pinned repositories, and a profile README that welcomes visitors and showcases your interests / work"
   },
   {
     "objectID": "course-materials/week5-github-portfolios.html#pre-class-prep",
     "href": "course-materials/week5-github-portfolios.html#pre-class-prep",
     "title": "GitHub as a professional portfolio",
     "section": " Pre-class Prep",
-    "text": "Pre-class Prep\n\nA. Choose a GitHub repo\n\nTODO: choose a repo from past hw assignments (TODO: get links to assignments from Carmen, Ruth, Max, etc.)\n\n\n\nB. Draft up text to add to your GitHub profile README\nA GitHub profile README is a special README that is displayed on your profile’s landing page (e.g. see mine). A well-crafted profile README not only welcomes visitors to your page, but can also help you stand out to potential collaborators or employers.\nConsider what content you might want to include in your GitHub profile README. Take a look at a few examples, below, for inspiration, then draft up some text / images / etc. in a Google Doc (or other easily accessible location) to refer to during class.\n\n\n\n\n\n\nA few example GitHub profile READMEs\n\n\n\n\n\n\nAllison Horst\nAlex Phillips\nSilvia Canelón\nCrystal Lewis\nAwesome GitHub Profile READMEs (a collection of great profile READMEs)"
+    "text": "Pre-class Prep\nPlease be sure to complete the following before class:\n\nA. Choose a GitHub repo from a a past homework assignment\nREADME files are used to provide essential information about software projects. We’ll practice writing effective READMEs, using a past MEDS homework assignment as an example. Before coming to class, choose a GitHub repository from the list of past homework assignments, below:\n\nget\nHWs\nfrom\nRuth / Carmen\n\n\n\nB. Draft up text to add to your GitHub profile README\nA GitHub profile README is a special README that is displayed on your profile’s landing page (e.g. see mine). A well-crafted profile README not only welcomes visitors to your page, but can also help you stand out to potential collaborators or employers. It’s helpful to include a short bio and highlight some current projects / interests.\nConsider what content you might want to include in your GitHub profile README. Take a look at a few examples for inspiration, then draft up some text / images / etc. in a Google Doc (or other easily accessible location) to refer to during class (it’s okay if this is just a first pass – you can continue to iterate!).\n\n\n\n\n\n\nA few example GitHub profile READMEs\n\n\n\n\n\n\nAllison Horst\nAlex Phillips\nSilvia Canelón\nCrystal Lewis\nAwesome GitHub Profile READMEs (a collection of great profile READMEs)\n\n\n\n\n\n\nC. Have a profile picture handy\nWe’ll update our GitHub profile picture during class, if you haven’t done so already. Save it to an easy to find place (e.g your desktop)."
   },
   {
     "objectID": "course-materials/week5-github-portfolios.html#lecture-materials",
     "href": "course-materials/week5-github-portfolios.html#lecture-materials",
     "title": "GitHub as a professional portfolio",
     "section": " Lecture Materials",
-    "text": "Lecture Materials\nWe’ll discuss and practice writing effective GitHub READMEs together today, but you’ll also be asked to refer back to these materials throughout your time in MEDS. Find README guidelines, as well as instructions for adding a GitHub profile README and creating a GitHub organization, below:\n\n\n\n README Guidelines\n\n\n\n\n Add a profile README\n\n\n\n\n Create a GitHub Organization\n\n\n\n\nTODO: include this somewhere, 5 tips for making your GitHub profile page accessible\nhttps://myoctocat.com/\nadd profile image, and fill out left-hand side info\nmove github orgs to week 6?"
+    "text": "Lecture Materials\nWe’ll discuss and practice writing effective GitHub READMEs together today, but you’ll also be asked to refer back to these materials throughout your time in MEDS. Find README guidelines, as well as instructions for adding a GitHub profile README and creating a GitHub organization, below:\n\n\n\n README Guidelines\n\n\n\n\n Update your GH profile"
   },
   {
     "objectID": "course-materials/week5-github-portfolios.html#continue-working",
     "href": "course-materials/week5-github-portfolios.html#continue-working",
     "title": "GitHub as a professional portfolio",
     "section": " What should I continue working on?",
-    "text": "What should I continue working on?\nComing soon"
+    "text": "What should I continue working on?\n\nPut any finishing touches on your homework repo’s README. If you’re feeling particularly inspired, you can also add / update READMEs for your other homework (or even personal) repositories as well. Come see me at student hours if you’d like feedback!\nComplete your GitHub profile bio and README. Remember, your README should evolve with you. Consider revisiting it a few times throughout the year to make updates as you start (and complete) projects. You can add / switch out your pinned repos as well."
   },
   {
     "objectID": "course-materials/week0-build-websites.html#anticipated-deliverables",
@@ -91,18 +91,81 @@
     "text": "What should I continue working on?\n\nRefine the language / content on your landing page. Try out different built-in templates, bio language, and arrangement of content until you settle on something that you like.\nAdd additional pages to your website. By default, Quarto creates a landing page (index.qmd) and a page titled, “About” (about.qmd) We also practiced adding a “Resources” page (resources.qmd) during class. Consider if you want to keep all of these (though note that you must keep index.qmd) or add additional pages. If you’re not quite ready to add content to them, it’s sufficient to include placeholder text to those pages (e.g. Coming soon!). Recall that you can add / remove pages by modifying your _quarto.yml file.\n\n\n\n\n\n\n\nAN IMPORTANT REMINDER: a personal website is an ever-evolving project\n\n\n\nI’m pretty sure I’ve rewritten the language across my website at least once a year since I first created it. Don’t feel too much pressure to make it “perfect” – you’ll likely revisit the content / arrangement often, especially throughout different stages of your career!"
   },
   {
-    "objectID": "course-materials/materials/blogging-tips.html#title-slide",
-    "href": "course-materials/materials/blogging-tips.html#title-slide",
-    "title": "Writing blogs",
-    "section": "title slide",
-    "text": "title slide"
+    "objectID": "course-materials/materials/GH-profile.html#title-slide",
+    "href": "course-materials/materials/GH-profile.html#title-slide",
+    "title": "EDS 296",
+    "section": "",
+    "text": "EDS 296: Data Science Portfolios\nCustomizing your GitHub profile\n\nNovember 1st, 2024"
   },
   {
-    "objectID": "course-materials/materials/blogging-tips.html#tldr",
-    "href": "course-materials/materials/blogging-tips.html#tldr",
-    "title": "Writing blogs",
-    "section": "TL;DR",
-    "text": "TL;DR\nHT: Julie Lowndes"
+    "objectID": "course-materials/materials/GH-profile.html#GH-portfolio",
+    "href": "course-materials/materials/GH-profile.html#GH-portfolio",
+    "title": "EDS 296",
+    "section": "",
+    "text": "GitHub is a portfolio\n\nYes, it’s a place to safely preserve versions of our work (in case our computers implode).\nBut it’s also (often) a place where current and / or potential collaborators and employers can:\n\nexplore your code\nsee your documentation\nget a sense of your organizational practices and workflows\nunderstand how you collaborate on projects (and with who)\nlearn about you as a person who has interests and a personality"
+  },
+  {
+    "objectID": "course-materials/materials/GH-profile.html#photo-bio",
+    "href": "course-materials/materials/GH-profile.html#photo-bio",
+    "title": "EDS 296",
+    "section": "",
+    "text": "Add a photo and bio\n\n\nan absolute must do\ntakes little time\nphoto makes your commits/contributions more easily recognizable\nbe sure to link your personal website!"
+  },
+  {
+    "objectID": "course-materials/materials/GH-profile.html#pin-repos",
+    "href": "course-materials/materials/GH-profile.html#pin-repos",
+    "title": "EDS 296",
+    "section": "",
+    "text": "Pin the repos you’re proudest of\n\n\norder them\neach should be well-organized and have a README\n\nupdating individual repo info (right-hand side)\n\nyour personal website is a great one to add!\nhw assignments or other projects that you’re proud of\nchange your pinned repos as necessary"
+  },
+  {
+    "objectID": "course-materials/materials/GH-profile.html#contributions",
+    "href": "course-materials/materials/GH-profile.html#contributions",
+    "title": "EDS 296",
+    "section": "",
+    "text": "Contributions show your commits\n\n\nfun!\nindicates quantity, not quality\n\n\nTroubleshooting or trying to understand your contributions map? Check out this help documentation: Why are my contributions now showing up on my profile?"
+  },
+  {
+    "objectID": "course-materials/materials/GH-profile.html#profile-readme",
+    "href": "course-materials/materials/GH-profile.html#profile-readme",
+    "title": "EDS 296",
+    "section": "",
+    "text": "Add a profile README\n\n\nSee GitHub documentation for more info on profile READMEs"
+  },
+  {
+    "objectID": "course-materials/materials/GH-profile.html#accessibility",
+    "href": "course-materials/materials/GH-profile.html#accessibility",
+    "title": "EDS 296",
+    "section": "",
+    "text": "Make your GitHub profile page accessible\n\n5 tips for making your GitHub profile page accessible"
+  },
+  {
+    "objectID": "course-materials/materials/GH-profile.html#gh-social",
+    "href": "course-materials/materials/GH-profile.html#gh-social",
+    "title": "EDS 296",
+    "section": "",
+    "text": "GH social"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#course-description",
+    "href": "index.html#course-description",
+    "title": "Data science tools for building professional online portfolios",
+    "section": "Course Description",
+    "text": "Course Description\nHaving a polished online presence is essential for showcasing your skills, projects, expertise, and (importantly) your personality. Learners, collaborators, and future employers alike will look to your public online profiles to glean information about you and your work. As data scientists, this often means that they’ll head to one of two places: GitHub and/or your personal website. This course is designed to help you both lay the foundation for creating and maintaining these profiles in an organized, informative, and visually-appealing way. Over the next several weeks, you will:\n\nbuild and deploy your personal website using popular data science tools and frameworks\ncreate your first (of many!) data science blog posts\nlearn about how best to communicate your work to different audiences\nunderstand where and how to document your projects and code\nand more!\n\nThroughout the MEDS program, you’ll be asked to turn assignments and projects into science communication pieces on your personal website’s blog. These are excellent opportunities to build out your portfolio ahead of your job search."
+  },
+  {
+    "objectID": "index.html#teaching-team",
+    "href": "index.html#teaching-team",
+    "title": "Data science tools for building professional online portfolios",
+    "section": "Teaching Team",
+    "text": "Teaching Team\n\n\n\n\nInstructor\n\n\n\n\n\n\n\n\n\n\n\nSam Csik\nEmail: scsik@ucsb.edu\nLearn more: samanthacsik.github.io"
   },
   {
     "objectID": "clean-code-guide.html",
@@ -133,25 +196,18 @@
     "text": "Style guides\n\nTidyverse style guide, by Hadley Wickham – a book that describes the style used throughout the {tidyverse}\nTidy design principles, by Hadley Wickham – a book to help you write better R code (currently under development)"
   },
   {
-    "objectID": "index.html#course-description",
-    "href": "index.html#course-description",
-    "title": "Data science tools for building professional online portfolios",
-    "section": "Course Description",
-    "text": "Course Description\nHaving a polished online presence is essential for showcasing your skills, projects, expertise, and (importantly) your personality. Learners, collaborators, and future employers alike will look to your public online profiles to glean information about you and your work. As data scientists, this often means that they’ll head to one of two places: GitHub and/or your personal website. This course is designed to help you both lay the foundation for creating and maintaining these profiles in an organized, informative, and visually-appealing way. Over the next several weeks, you will:\n\nbuild and deploy your personal website using popular data science tools and frameworks\ncreate your first (of many!) data science blog posts\nlearn about how best to communicate your work to different audiences\nunderstand where and how to document your projects and code\nand more!\n\nThroughout the MEDS program, you’ll be asked to turn assignments and projects into science communication pieces on your personal website’s blog. These are excellent opportunities to build out your portfolio ahead of your job search."
+    "objectID": "course-materials/materials/blogging-tips.html#title-slide",
+    "href": "course-materials/materials/blogging-tips.html#title-slide",
+    "title": "Writing blogs",
+    "section": "title slide",
+    "text": "title slide"
   },
   {
-    "objectID": "index.html#teaching-team",
-    "href": "index.html#teaching-team",
-    "title": "Data science tools for building professional online portfolios",
-    "section": "Teaching Team",
-    "text": "Teaching Team\n\n\n\n\nInstructor\n\n\n\n\n\n\n\n\n\n\n\nSam Csik\nEmail: scsik@ucsb.edu\nLearn more: samanthacsik.github.io"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "objectID": "course-materials/materials/blogging-tips.html#tldr",
+    "href": "course-materials/materials/blogging-tips.html#tldr",
+    "title": "Writing blogs",
+    "section": "TL;DR",
+    "text": "TL;DR\nHT: Julie Lowndes"
   },
   {
     "objectID": "course-materials/week4-writing-blogs.html#anticipated-deliverables",
@@ -165,7 +221,7 @@
     "href": "course-materials/week4-writing-blogs.html#pre-class-prep",
     "title": "Writing skills for data science blogging",
     "section": " Pre-class Prep",
-    "text": "Pre-class Prep\n\nA. Check out some data science-y blog posts\nReading other data science blogs is the best way to get a sense of not only the breadth of topics folks in the community are writing about, but also the tone, writing styles, and creative approaches you might take as a blogger. Check out a couple posts before class!\n\n\n\n\n\n\nA small collection of blog posts and data science blogs:\n\n\n\n\n\nA handful of posts to showcase some different writing styles and topics areas:\n\nAn introduction to Python for R Users, by Rebecca Barter\nPorting the Openscapes website from blogdown to Quarto, by Sam Csik\nGetting started with Apache Arrow, by Danielle Navarro\nSharing pictures of code, by Emil Hvitfeldt\nA simple project organization workflow, by Max Czapanskiy\n\nAnd a few additional fun blogs to keep an eye on:\n\nMeghan Hall\nMeghan Harris\nCrystal Lewis\nBeatriz Milz\nShannon Pileggi\nAlbert Rapp\nNicola Rennie\nCara Thompson\nIsabella Velásquez\n\nThis is only a small sampling of the many rad data science bloggers out there – if you stumble upon others that you enjoy, be sure to share them in the class Slack channel!\n\n\n\n\n\nB. Pick a function to blog about!\nToday, you’ll be heeding David Robinson’s advice and draft a blog post about a function or method"
+    "text": "Pre-class Prep\nPlease be sure to complete the following before class:\n\nA. Check out some data science-y blog posts\nReading other data science blogs is the best way to get a sense of not only the breadth of topics folks in the community are writing about, but also the tone, writing styles, and creative approaches you might take as a blogger. Check out a couple posts before class!\n\n\n\n\n\n\nA small collection of blog posts and data science blogs:\n\n\n\n\n\nA handful of posts to showcase some different writing styles and topics areas:\n\nAn introduction to Python for R Users, by Rebecca Barter\nPorting the Openscapes website from blogdown to Quarto, by Sam Csik\nGetting started with Apache Arrow, by Danielle Navarro\nSharing pictures of code, by Emil Hvitfeldt\nA simple project organization workflow, by Max Czapanskiy\n\nAnd a few additional fun blogs to keep an eye on:\n\nMeghan Hall\nMeghan Harris\nCrystal Lewis\nBeatriz Milz\nShannon Pileggi\nAlbert Rapp\nNicola Rennie\nCara Thompson\nIsabella Velásquez\n\nThis is only a small sampling of the many rad data science bloggers out there – if you stumble upon others that you enjoy, be sure to share them in the class Slack channel!\n\n\n\n\n\nB. Pick a function to blog about!\nToday, you’ll be heeding David Robinson’s advice and draft a blog post about a function or method…\nTarget audience – next MEDS cohort (new learners)"
   },
   {
     "objectID": "course-materials/week4-writing-blogs.html#lecture-materials",
@@ -200,7 +256,7 @@
     "href": "course-materials/week6-misc-github.html#pre-class-prep",
     "title": "TBD",
     "section": " Pre-class Prep",
-    "text": "Pre-class Prep\nComing soon"
+    "text": "Pre-class Prep\nPlease be sure to complete the following before class:\nComing soon"
   },
   {
     "objectID": "course-materials/week6-misc-github.html#lecture-materials",
@@ -235,7 +291,7 @@
     "href": "course-materials/week2-customizing-websites.html#pre-class-prep",
     "title": "Customizing Quarto websites",
     "section": " Pre-class Prep",
-    "text": "Pre-class Prep\nPlease be sure to complete the following before class:\n\nA. Build your color palette\nOne of the most exciting parts of building a website is deciding on which colors you’ll use. This can take some time and tweaking, so it’s helpful to think a bit about your palette beforehand. We’ll consider updating colors for the following website elements:\n\nNavigation Bar: navbar background color, foreground (text) color, hover highlight color\nMain Body: body background color, body text color, hyperlink color, in-line code color, inline-code background color\nPage Footer: footer background color\n\nWe’ll be using a language called Sass to create variables for each of the colors we plan to use throughout our websites (more on that soon!). For a smooth in-class experience, it will be helpful for you to draft up your color variables ahead of time and save them to a place where you can easily copy them from (e.g. a Google Doc is totally sufficient).\nDefine your color variables using the syntax, $variable-name: value;, where you decide on your variable-name, and value is a HEX color code (htmlcolorcodes.com is my favorite site for grabbing HEX codes).\nFor example, here are the color variables I’ll use for my website during the workshop:\n\n$dark-green: #858E79;\n$light-green: #D1D9CE;\n$cream: #FDFBF7;\n$gray: #64605f;\n$purple: #9158A2;\n$orange: #ad7237;\n\n\n\n\n\n\n\n\nExpand for tips on choosing your website’s color palette\n\n\n\n\n\n\nStick to about 3-4 colors. Choosing too many colors can overwhelm readers. Consider using different shades of the primary color throughout your site, with a couple complementing / contrasting colors for important highlighted text and / or features.\nUse a random color generator. My favorite is https://coolors.co/ – press the space bar to generate new colors. When you see one (or more) that you like, “lock” them in place by clicking on the lock icon. Continue pressing the space bar to generate new colors in the “unlocked” positions.\nGenerate a color palette from a photo / image. Have an interesting background in your headshot? Consider generating a palette off of it! Check out Color Thief for all your color stealing needs.\nConsider contrast and colorblindness-friendly palettes. I love the Let’s get color blind Google Chrome extension for simulating color deficiencies in the web browser, and the coolers color contrast checker for calculating the contrast ratio of text and background colors (it’ll even suggest new colors to improve your contrast).\nGet inspired by other websites. And you don’t need to take inspiration only from Quarto websites. Just a small handful of examples sites with color schemes that I really love:\n\nAngelina Miller\nMeghan Hall\nMeagan Brown (MEDS 2023)\nNicola Rennie\nSylvia Canelón\n\n\n\n\n\n\n\nB. Select your typefaces / fonts\nYour typeface and font choices are just as important as your color choices! First, a few important definitions:\n\ntypeface (aka font family): the underlying visual design (e.g. Times New Roman, Helvetica, Roboto)\nfont: an implementation / variation of a typeface (e.g. Times New Roman in bold, Times New Roman in italic)\n\nWe’ll be importing and applying font families from Google Fonts. Explore the vast selection, and have the names of 1-2 font families ready to go for class.\n\n\n\n\n\n\nExpand for tips on choosing your font family(ies)\n\n\n\n\n\n\nStick to 1-2 font families. Just like colors, using too many typefaces can overwhelm a reader. You can use one typeface across your entire website, or alternatively, choose one typeface for things like header text and another for body text.\nWhen in doubt, use a sans-serif font family. Sans-serif fonts work great everywhere, but are especially ideal for body text since they’re cleaner and easier to read. If you do want to use a serif font, it’s best to reserve those for any header text.\nMake sure your font family choice(s) have a variety of styles. If your font family doesn’t include bold or italicized styles, you won’t actually be able to apply those styles to your website. For example, Nunito comes in a variety of weights (boldness levels) and italic, where Sen comes in a variety of weights, but not italic.\nCheck out some visually-pleasing font pairings. fontpair has hundreds of Google Font pairings to browse!"
+    "text": "Pre-class Prep\nPlease be sure to complete the following before class:\n\nA. Build your color palette\nOne of the most exciting parts of building a website is deciding on which colors you’ll use. This can take some time and tweaking, so it’s helpful to think a bit about your palette beforehand. We’ll consider updating colors for the following website elements:\n\nNavigation Bar: navbar background color, foreground (text) color, hover highlight color\nMain Body: body background color, body text color, hyperlink color, in-line code color, inline-code background color\nPage Footer: footer background color\n\nWe’ll be using a language called Sass to create variables for each of the colors we plan to use throughout our websites (more on that soon!). For a smooth in-class experience, it will be helpful for you to draft up your color variables ahead of time and save them to a place where you can easily copy them from (e.g. a Google Doc is totally sufficient).\nDefine your color variables using the syntax, $variable-name: value;, where you decide on your variable-name, and value is a HEX color code (htmlcolorcodes.com is my favorite site for grabbing HEX codes).\nFor example, here are the color variables I’ll use for my website during the workshop:\n\n$dark-green: #858E79;\n$light-green: #D1D9CE;\n$cream: #FDFBF7;\n$gray: #64605f;\n$purple: #9158A2;\n$orange: #ad7237;\n\n\n\n\n\n\n\n\nExpand for tips on choosing your website’s color palette\n\n\n\n\n\n\nStick to about 3-4 colors. Choosing too many colors can overwhelm readers. Consider using different shades of the primary color throughout your site, with a couple complementing / contrasting colors for important highlighted text and / or features.\nUse a random color generator. My favorite is https://coolors.co/ – press the space bar to generate new colors. When you see one (or more) that you like, “lock” them in place by clicking on the lock icon. Continue pressing the space bar to generate new colors in the “unlocked” positions.\nGenerate a color palette from a photo / image. Have an interesting background in your headshot? Consider generating a palette off of it! Check out Color Thief for all your color stealing needs.\nConsider contrast and colorblindness-friendly palettes. I love the Let’s get color blind Google Chrome extension for simulating color deficiencies in the web browser, and the coolers color contrast checker for calculating the contrast ratio of text and background colors (it’ll even suggest new colors to improve your contrast).\nGet inspired by other websites. And you don’t need to take inspiration only from Quarto websites. Just a small handful of examples sites with color schemes that I really love:\n\nAngelina Miller\nMeghan Hall\nMeagan Brown (MEDS 2023)\nNicola Rennie\nSylvia Canelón\n\n\n\n\n\n\n\nB. Select your typefaces / fonts\nYour typeface and font choices are just as important as your color choices! First, a few important definitions:\n\ntypeface (aka font family): the underlying visual design (e.g. Times New Roman, Helvetica, Roboto)\nfont: an implementation / variation of a typeface (e.g. Times New Roman in bold, Times New Roman in italic)\n\nWe’ll import and apply font families from Google Fonts. Explore the vast selection, and have the names of 1-2 font families ready to go for class.\n\n\n\n\n\n\nExpand for tips on choosing your font family(ies)\n\n\n\n\n\n\nStick to 1-2 font families. Just like colors, using too many typefaces can overwhelm a reader. You can use one typeface across your entire website, or alternatively, choose one typeface for things like header text and another for body text.\nWhen in doubt, use a sans-serif font family. Sans-serif fonts work great everywhere, but are especially ideal for body text since they’re cleaner and easier to read. If you do want to use a serif font, it’s best to reserve those for any header text.\nMake sure your font family choice(s) have a variety of styles. If your font family doesn’t include bold or italicized styles, you won’t actually be able to apply those styles to your website. For example, Nunito comes in a variety of weights (boldness levels) and italic, where Sen comes in a variety of weights, but not italic.\nCheck out some visually-pleasing font pairings. fontpair has hundreds of Google Font pairings to browse!"
   },
   {
     "objectID": "course-materials/week2-customizing-websites.html#lecture-materials",
