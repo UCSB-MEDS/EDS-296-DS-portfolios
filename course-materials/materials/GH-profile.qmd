@@ -27,43 +27,132 @@ format:
 
 <hr>
 
-Yes, it's a place to safely preserve versions of our work (in case our computers implode).
+<br>
 
-But it's also (often) a place where current and / or potential collaborators and employers can:
 
-- explore your code
-- see your documentation
-- get a sense of your organizational practices and workflows
-- understand how you collaborate on projects (and with who)
-- learn about you as a person who has interests and a personality
+[Yes, it's a place to safely preserve versions of our work (in case our computers implode).]{.body-text-m}
+
+<br>
+
+. . . 
+
+[But it's also (often) a place where current and / or potential collaborators and employers can:]{.body-text-m}
+
+[{{< fa code title="code, </>" >}}]{.teal-text} explore your code
+
+[{{< fa file-lines title="a file with lines" >}}]{.teal-text} see your documentation
+
+[{{< fa sitemap title="a sitemap diagram" >}}]{.teal-text} get a sense of your organizational practices and workflows
+
+[{{< fa people-carry-box title="two people carrying a box together" >}}]{.teal-text} understand how you collaborate on projects (and with who)
+
+[{{< fa user title="a person" >}}]{.teal-text} learn about you as a person who has interests and a personality
 
 ---
 
 ## {#photo-bio data-menu-title="Add a photo & bio"} 
 
-[Add a photo and bio]{.slide-title}
+[Personalize your profile]{.slide-title}
 
 <hr>
 
-- an absolute must do
-- takes little time
-- photo makes your commits/contributions more easily recognizable
-- be sure to link your personal website!
+:::: {.columns}
+
+::: {.column width="50%"}
+```{r}
+#| eval: true
+#| echo: false
+#| out-width: "70%"
+#| fig-align: "center"
+knitr::include_graphics("images/identicon.png")
+```
+
+::: {.center-text .gray-text .body-text-s}
+By default, your profile photo is a unique [Identicon](https://github.blog/news-insights/company-news/identicons/), which is generated from your GitHub user ID -- pretty cool! But you should absolutely update this with your photo.
+:::
+:::
+
+::: {.column width="50%"}
+- Why? Takes very little time and "gives a sense of authenticity"
+- Photo makes your commits / contributions more easily recognizable
+- Short bio is a nice quick intro + links to your public profiles / website(s)
+
+<br>
+
+::: {.center-text .blue-box}
+[**To update your profile image and information:**]{.dark-blue-text} 
+
+*Click on your profile image, which takes you directly to your settings page*
+:::
+:::
+::::
+
+::: {.footer}
+Find more information on [GitHub Docs](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile)
+:::
 
 ---
 
-## {#pin-repos data-menu-title="Pin your top repos"} 
+## {#pin-repos1 data-menu-title="Pin your top repos 1"} 
 
 [Pin the repos you're proudest of]{.slide-title}
 
 <hr>
 
-- order them
-- each should be well-organized and have a README
-    - updating individual repo info (right-hand side)
-- your personal website is a great one to add!
-- hw assignments or other projects that you're proud of
-- change your pinned repos as necessary
+:::: {.columns}
+
+<br>
+
+::: {.column width="50%"}
+- **Each should be well-organized**, have a README, and ideally a short description (update "About" section)
+- **Order them** from most > least "important"
+- **Update your pinned repos** as necessary
+- *Which repos should you pin?*
+    - personal website is a great place to start!
+    - personal projects
+    - course projects
+    - capstone repo(s)
+    
+:::
+
+::: {.column width="50%"}
+
+<br>
+<br>
+
+::: {.center-text .blue-box}
+[**To pin (up to six) repositories:**]{.dark-blue-text}
+
+**A.** *Navigate to your desired repo > click Pin (top right)*, or
+
+**B.** *If you already have a pinned repo(s): navigate to you landing page > click Customize your pins > check up to 6 boxes*
+:::
+:::
+::::
+
+::: {.footer}
+Find more information on [GitHub Docs](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/pinning-items-to-your-profile)
+:::
+
+---
+
+## {#pin-repos2 data-menu-title="Pin your top repos 2"} 
+
+[Pin the repos you're proudest of]{.slide-title}
+
+<hr>
+
+```{r}
+#| eval: true
+#| echo: false
+#| out-width: "100%"
+#| fig-align: "center"
+knitr::include_graphics("images/pin-tour.png")
+```
+
+::: {.footer}
+Find more information on [GitHub Docs](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/pinning-items-to-your-profile)
+:::
 
 ---
 
@@ -73,8 +162,21 @@ But it's also (often) a place where current and / or potential collaborators and
 
 <hr>
 
-- fun!
-- indicates quantity, not quality
+<br>
+
+- Greener squares = more commits
+- An indicator of how much you're coding
+- Indicates quantity, not quality
+
+<br>
+
+```{r}
+#| eval: true
+#| echo: false
+#| out-width: "100%"
+#| fig-align: "center"
+knitr::include_graphics("images/contributions.png")
+```
 
 ::: {.footer}
 Troubleshooting or trying to understand your contributions map? Check out this help documentation: [Why are my contributions now showing up on my profile?](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/why-are-my-contributions-not-showing-up-on-my-profile)

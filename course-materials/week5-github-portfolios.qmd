@@ -35,10 +35,13 @@ Please be sure to complete the following before class:
 
 README files are used to provide essential information about software projects. We'll practice writing effective READMEs, using a past MEDS homework assignment as an example. [**Before coming to class, choose a GitHub repository from the list of past homework assignments, below:**]{.teal-text}
  
+::: {.callout-important}
+## TODO
 - get
 - HWs
 - from
-- Ruth / Carmen
+- Ruth & Carmen
+:::
 
 ### B. Draft up text to add to your GitHub profile README
 
@@ -61,7 +64,7 @@ We'll update our GitHub profile picture during class, if you haven't done so alr
 
 ## {{< fa person-chalkboard title="a person pointing at a chalkboard" >}} Lecture Materials {#lecture-materials}
 
-We'll discuss and practice writing effective GitHub READMEs together today, but you'll also be asked to refer back to these materials throughout your time in MEDS. Find README guidelines, as well as instructions for adding a GitHub profile README and creating a GitHub organization, below:
+We'll discuss and practice writing effective GitHub READMEs together today, but you'll also be asked to refer back to these materials throughout your time in MEDS. Find README guidelines, as well as guidance and instructions for customizing your GitHub profile:
 
 ::: {.grid}
 

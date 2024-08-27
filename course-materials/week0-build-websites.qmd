@@ -51,6 +51,14 @@ During this session, you'll have the opportunity to add some personal informatio
 
 1. [**Have your professional headshot handy.**]{.teal-text} Your Bren photo is a great option here! Save your photo to your Desktop (or somewhere you can easily find again) for now.
 2. [**Draft your personal bio / blurb.**]{.teal-text} Consider reusing your Bren bio, or even drafting a shortened, catchy version of it for your landing page. Save your text in a place you can quickly copy from during class (e.g. a Google Doc).
+
+::: {.callout-important}
+## TODO: add suggestions
+
+- guidance on website language
+- keep things evergreen
+:::
+
 3. [**Gather your important public profile links.**]{.teal-text} Your personal website is an excellent place to link out to your other public profiles in one, organized place. Bookmark / save the links you'd like to include (e.g. LinkedIn, GitHub, even your preferred email address)
 4. [**Consider which landing page template to use.**]{.teal-text} We'll be applying one of Quarto's five available [built-in templates](https://quarto.org/docs/websites/website-about.html#templates) when we create our website's landing page. Take a peek at the template previews and identify which one(s) you like most (e.g. I'm a fan of `jolla`, but used `trestles` for a long while). Consider how you'd like to arrange your personal bio / info given the layout of your top choice template.
 
