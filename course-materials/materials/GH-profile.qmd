@@ -95,19 +95,18 @@ Find more information on [GitHub Docs](https://docs.github.com/en/account-and-pr
 
 ## {#pin-repos1 data-menu-title="Pin your top repos 1"} 
 
-[Pin the repos you're proudest of]{.slide-title}
+[Pin the repos that demonstrate your skills]{.slide-title}
 
 <hr>
 
 :::: {.columns}
 
-<br>
-
 ::: {.column width="50%"}
 - **Each should be well-organized**, have a README, and ideally a short description (update "About" section)
 - **Order them** from most > least "important"
 - **Update your pinned repos** as necessary
-- *Which repos should you pin?*
+- **Which repos should you pin?**
+  - *"things that do the best job of communicating the skills that you're bringing to the table"* (A. Haddad)
     - personal website is a great place to start!
     - personal projects
     - course projects
@@ -117,6 +116,8 @@ Find more information on [GitHub Docs](https://docs.github.com/en/account-and-pr
 
 ::: {.column width="50%"}
 
+<br>
+<br>
 <br>
 <br>
 
@@ -138,7 +139,7 @@ Find more information on [GitHub Docs](https://docs.github.com/en/account-and-pr
 
 ## {#pin-repos2 data-menu-title="Pin your top repos 2"} 
 
-[Pin the repos you're proudest of]{.slide-title}
+[Pin the repos that demonstrate your skills]{.slide-title}
 
 <hr>
 
@@ -164,11 +165,11 @@ Find more information on [GitHub Docs](https://docs.github.com/en/account-and-pr
 
 <br>
 
+::: {.body-text-m}
 - Greener squares = more commits
-- An indicator of how much you're coding
-- Indicates quantity, not quality
-
-<br>
+- An *indicator of how much you're coding
+- *Indicates quantity, not quality
+:::
 
 ```{r}
 #| eval: true

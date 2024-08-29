@@ -50,30 +50,28 @@ Please refer to the [MEDS Installation Guide](https://ucsb-meds.github.io/MEDS-i
 During this session, you'll have the opportunity to add some personal information to your website's landing page. It'll help to have an idea of what you might want to include (at least as a starting point -- your website's content will most certainly evolve over time). Consider the following before attending class:
 
 1. [**Have your professional headshot handy.**]{.teal-text} Your Bren photo is a great option here! Save your photo to your Desktop (or somewhere you can easily find again) for now.
-2. [**Draft your personal bio / blurb.**]{.teal-text} Consider reusing your Bren bio, or even drafting a shortened, catchy version of it for your landing page. Save your text in a place you can quickly copy from during class (e.g. a Google Doc).
-
-::: {.callout-important}
-## TODO: add suggestions
-
-- guidance on website language
-- keep things evergreen
-:::
-
-3. [**Gather your important public profile links.**]{.teal-text} Your personal website is an excellent place to link out to your other public profiles in one, organized place. Bookmark / save the links you'd like to include (e.g. LinkedIn, GitHub, even your preferred email address)
-4. [**Consider which landing page template to use.**]{.teal-text} We'll be applying one of Quarto's five available [built-in templates](https://quarto.org/docs/websites/website-about.html#templates) when we create our website's landing page. Take a peek at the template previews and identify which one(s) you like most (e.g. I'm a fan of `jolla`, but used `trestles` for a long while). Consider how you'd like to arrange your personal bio / info given the layout of your top choice template.
+2. [**Consider which landing page template to use.**]{.teal-text} We'll be applying one of Quarto's five available [built-in templates](https://quarto.org/docs/websites/website-about.html#templates) when we create our website's landing page. Take a peek at the template previews and identify which one(s) you like most (e.g. I'm a fan of `jolla`, but used `trestles` for a long while). Consider how you'd like to arrange your personal bio / info given the layout of your top choice template.
+3. [**Draft your personal bio / blurb.**]{.teal-text} Consider reusing parts of your Bren bio, or even drafting a shortened, catchy version of it for your landing page (and make note of the tips, below!). Save your text in a place you can quickly copy from during class (e.g. a Google Doc).
 
 ::: {.callout-tip collapse=true icon=false}
-## Looking for some landing page bio inspiration? Check out the following:
-Here are just a small handful of websites, each with a slightly different approach to their landing page bios.
+## Some considerations and tips for website bios / language
+- **Adjust your bio to fit your chosen landing page [templates](https://quarto.org/docs/websites/website-about.html#templates).** For example, `jolla` works well with short bios or even taglines, while `trestles` might be a better choice if you're looking to add longer and / or multiple sections. 
+- **Adopt an "evergreen content" mindset where possible (especially on your landing page).** "Evergreen content" is a marketing term that is used to describe content that remains relevant and interesting long after it's published. Carefully considering how you phrase information on your website can help it withstand the test of time (at least for a while) and make website maintenance a bit easier. A couple sustainable language swap examples:
+    - "Two years ago, I..." > "In 2022, I..."
+    <!-- - "I'm a Master of Environmental Data Science student interested in..." > "I'm an environmental data scientist interested in..." -->
+    - "I'm currently working on..." > "I have experience / expertise in..."
+- **Check out a few example websites for bio inspiration.** Here are just a small handful fo websites, each with a slightly different approach to their landing page bios:
+    - [Samantha Csik](https://samanthacsik.github.io/){target="_blank"} (yours truly)
+    - [Nick Lyon](https://njlyon0.github.io/) (NCEAS Data Analyst)
+    - [Daphne Virlar-Knight](https://dvirlar2.github.io/){target="_blank"} (MESM 2020)
+    - [Ray Hunter](https://ramhunte.github.io/){target="_blank"} (MESM 2024)
+    - [Sam Muir](https://shmuir.github.io/){target="_blank"} (MEDS 2024)
+    - [Luna Catalán](https://lunacatalan.github.io/){target="_blank"} (MEDS 2024)
+    - [Victoria Cutler](https://victoriacutler.github.io/){target="_blank"} (MEDS 2023)
 
-- [Samantha Csik](https://samanthacsik.github.io/){target="_blank"} (yours truly)
-- [Ray Hunter](https://ramhunte.github.io/){target="_blank"} (MESM 2024)
-- [Sam Muir](https://shmuir.github.io/){target="_blank"} (MEDS 2024)
-- [Luna Catalán](https://lunacatalan.github.io/){target="_blank"} (MEDS 2024)
-- [Oksana Protsukha](https://oksanaprotsukha.github.io/portfolio/){target="_blank"} (MEDS 2025)
-- [Victoria Cutler](https://victoriacutler.github.io/){target="_blank"} (MEDS 2023)
-- [Marie Rivers](https://marierivers.github.io/){target="_blank"} (MEDS 2022)
 :::
+
+4. [**Gather your important public profile links.**]{.teal-text} Your personal website is an excellent place to link out to your other public profiles in one, organized place. Bookmark / save the links you'd like to include (e.g. LinkedIn, GitHub, even your preferred email address)
 
 ## {{< fa person-chalkboard title="a person pointing at a chalkboard" >}} Lecture Materials {#lecture-materials}
 

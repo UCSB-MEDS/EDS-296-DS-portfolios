@@ -29,7 +29,17 @@ By the end of today's class, you should have:
 
 ## {{< fa clipboard-list title="a clipboard with a To Do list" >}} Pre-class Prep {#pre-class-prep}
 
-Please be sure to complete the following before class:
+This week's pre-class prep involves thinking about your own **personal "branding package"** -- a collection of visual and messaging resources (e.g. colors, fonts, logos) used to create a uniform image of a brand. Here, that brand is *you!* Feel free to approach steps A - C (below) in the order that makes the most creative sense to you. You may also consider checking out these resources on branding first:
+
+::: {.callout-important collapse=true}
+## TODO Resouces on developing a personal brand
+- add
+- tips
+- here
+
+- come up with 5 adjectives to describe yourself
+- match colors to adjectives
+:::
 
 ### A. Build your color palette
 
@@ -39,9 +49,9 @@ One of the most exciting parts of building a website is deciding on which colors
 2. **Main Body:** body background color, body text color, hyperlink color, in-line code color, inline-code background color
 3. **Page Footer:** footer background color
 
-We'll be using a language called [Sass](https://sass-lang.com/) to create variables for each of the colors we plan to use throughout our websites (more on that soon!). For a smooth in-class experience, it will be helpful for you to draft up your color variables ahead of time and save them to a place where you can easily copy them from (e.g. a Google Doc is totally sufficient). 
+We'll be using a language called [Sass](https://sass-lang.com/) to create variables for each of the colors we plan to use throughout our websites (more on that soon!). 
 
-[**Define your color variables using the syntax, `$variable-name: value;`, where you decide on your `variable-name`, and `value` is a HEX color code ([htmlcolorcodes.com](https://htmlcolorcodes.com/) is my favorite site for grabbing HEX codes).**]{.teal-text}
+[**For a smooth in-class experience, it will be helpful for you to draft up your color variables ahead of time and save them to a place where you can easily copy them from (e.g. a Google Doc is totally sufficient). Define your color variables using the syntax, `$variable-name: value;`, where you decide on your `variable-name`, and `value` is a HEX color code ([htmlcolorcodes.com](https://htmlcolorcodes.com/) is my favorite site for grabbing HEX codes).**]{.teal-text}
 
 For example, here are the color variables I'll use for my website during the workshop: 
 
@@ -59,18 +69,21 @@ $orange: #ad7237;
 
 <!-- [**Come to class with a list of HEX color codes that you'd like to try out on your website.**]{.teal-text} -->
 
-::: {.callout-tip collapse=true icon=false}
-## Expand for tips on choosing your website's color palette
+::: {.callout-tip collapse=true}
+## Tips on choosing your website's color palette
 - **Stick to about 3-4 colors.** Choosing too many colors can overwhelm readers. Consider using different shades of the primary color throughout your site, with a couple complementing / contrasting colors for important highlighted text and / or features.
 - **Use a random color generator.** My favorite is <https://coolors.co/> -- press the space bar to generate new colors. When you see one (or more) that you like, "lock" them in place by clicking on the lock icon. Continue pressing the space bar to generate new colors in the "unlocked" positions.
 - **Generate a color palette from a photo / image.** Have an interesting background in your headshot? Consider generating a palette off of it! Check out [Color Thief](https://lokeshdhakar.com/projects/color-thief/) for all your color stealing needs.
 - **Consider contrast and colorblindness-friendly palettes.** I love the [Let's get color blind](https://chromewebstore.google.com/detail/lets-get-color-blind/bkdgdianpkfahpkmphgehigalpighjck?pli=1) Google Chrome extension for simulating color deficiencies in the web browser, and the [coolers color contrast checker](https://coolors.co/contrast-checker/112a46-acc8e5) for calculating the contrast ratio of text and background colors (it'll even suggest new colors to improve your contrast).
 - **Get inspired by other websites.** And you don't need to take inspiration only from Quarto websites. Just a small handful of examples sites with color schemes that I really love:
-  - [Angelina Miller](https://angeliamiller.github.io/)
-  - [Meghan Hall](https://meghan.rbind.io/)
-  - [Meagan Brown](https://meaganbrown.github.io/) (MEDS 2023)
-  - [Nicola Rennie](https://nrennie.rbind.io/) 
-  - [Sylvia Canelón](https://silviacanelon.com/)
+  - [Angelina Miller](https://angeliamiller.github.io/){target="_blank"}
+  - [Meghan Hall](https://meghan.rbind.io/){target="_blank"}
+  - [Meagan Brown](https://meaganbrown.github.io/){target="_blank"} (MEDS 2023)
+  - [Nicola Rennie](https://nrennie.rbind.io/){target="_blank"}
+  - [Sylvia Canelón](https://silviacanelon.com/){target="_blank"}
+  - [Ella Kaye](https://ellakaye.co.uk/about.html){target="_blank"}
+  - [Robert Mitchell](https://robertmitchellv.com/){target="_blank"}
+  - [Maya Gans](https://maya.rbind.io/){target="_blank"}
 :::
 
 ### B. Select your typefaces / fonts
@@ -80,14 +93,32 @@ Your typeface and font choices are just as important as your color choices! Firs
 - **typeface (aka font family):** the underlying visual design (e.g. Times New Roman, Helvetica, Roboto)
 - **font:** an implementation / variation of a typeface (e.g. Times New Roman in bold, Times New Roman in  italic)
 
-We'll import and apply font families from [Google Fonts](https://fonts.google.com/). [**Explore the vast selection, and have the names of 1-2 font families ready to go for class.**]{.teal-text} 
+We'll import and apply font families from [Google Fonts](https://fonts.google.com/). [**Explore the vast selection, and choose 1-2 font families. Add their names and hyperlinks to your Google Doc for safe keeping.**]{.teal-text} 
 
-::: {.callout-tip collapse=true icon=false}
-## Expand for tips on choosing your font family(ies)
+::: {.callout-tip collapse=true}
+## Tips on choosing your font family(ies)
 - **Stick to 1-2 font families.** Just like colors, using too many typefaces can overwhelm a reader. You can use one typeface across your entire website, or alternatively, choose one typeface for things like header text and another for body text.
 - **When in doubt, use a sans-serif font family.** [Sans-serif](https://fonts.google.com/knowledge/glossary/sans_serif) fonts work great everywhere, but are especially ideal for body text since they're cleaner and easier to read. If you do want to use a [serif font](https://fonts.google.com/knowledge/glossary/serif), it's best to reserve those for any header text.
 - **Make sure your font family choice(s) have a variety of styles.** If your font family doesn't include **bold** or *italicized* styles, you won't actually be able to apply those styles to your website. For example, [Nunito](https://fonts.google.com/specimen/Nunito?query=nunito) comes in a variety of weights (boldness levels) and italic, where [Sen](https://fonts.google.com/specimen/Sen?query=sen) comes in a variety of weights, but not italic.
 - **Check out some visually-pleasing font pairings.** [fontpair](https://www.fontpair.co/all) has hundreds of Google Font pairings to browse!
+:::
+
+### C. (Optional) Create a personal logo and / or favicon
+
+Quarto supports adding a personal logo to the top left corner of your website's navbar (e.g. see [my website](https://samanthacsik.github.io/)). While completely optional, logos can be attention-grabbing and memorable, offering a way to distinguish yourself. [**If you'd like to start workshopping your own logo, check out the following resources:**]{.teal-text}
+
+::: {.callout-important collapse=true}
+## TODO: Tips on creating a personal logo
+
+- General tips: 
+  - Keep it simple
+  - Consider incorporating your name or initials (though not necessarily required)
+  - Colors and fonts should match / complement the rest of your branding package
+- Try out one of these free logo makers:
+  - [Adobe Express](https://www.adobe.com/express/create/logo) (this is what I used for my personal logo)
+  - [Canva](https://www.canva.com/create/logos/)
+  - [Wix](https://www.wix.com/logo/maker)
+  
 :::
 
 ## {{< fa person-chalkboard title="a person pointing at a chalkboard" >}} Lecture Materials {#lecture-materials}
@@ -103,8 +134,3 @@ The code examples that we'll walk through as a class (along with lots of other i
 1. [**Try different color combos and / or fonts.**]{.teal-text} This is arguably the most fun part of building your website and where you can really let your personality and brand shine through. It can take a while to settle on something that you feel really represents *you*, and that's okay (I've also changed my entire color scheme and font styles multiple times over the years). 
 2. [**Consider writing / borrowing / adapting CSS rules to refine your website styling.**]{.teal-text} You can take your website styling *far* just by defining [Quarto's Sass variables](https://quarto.org/docs/output-formats/html-themes.html#sass-variables). However, if you're looking to fine-tune the appearance of certain web page elements, you may consider turning to more CSS. Review the workshop slides for suggested approaches and tools for guiding your CSS-writing journeys. 
 
-<!-- My preferred approach:  -->
-<!--   - find a Quarto website (and accompanying source code on GitHub, which folks often link to somewhere on the site) -->
-<!--   - identify a page element that you like and take a peek at the underlying HTML (in Google Chrome: right click > Inspect) -->
-<!--   - identify the HTML tag for that element and if it has any additional selectors (e.g. class or ID selectors) -->
-<!--   - head over to the stylesheet (often a `.scss` or `.css` file(s)) and search for the relevant selector(s) to see how they were created -->

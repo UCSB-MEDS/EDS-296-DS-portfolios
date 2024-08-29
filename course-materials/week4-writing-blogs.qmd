@@ -35,11 +35,12 @@ Please be sure to complete the following before class:
 Reading other data science blogs is the best way to get a sense of not only the breadth of topics folks in the community are writing about, but also the tone, writing styles, and creative approaches you might take as a blogger. Check out a couple posts before class! 
 
 ::: {.callout-tip collapse=true}
-## A small collection of blog posts and data science blogs:
+## A small collection of data science posts and blogs:
 
 A handful of posts to showcase some different writing styles and topics areas:
 
 - [An introduction to Python for R Users](https://rebeccabarter.com/blog/2023-09-11-from_r_to_python), by [Rebecca Barter](https://rebeccabarter.com/about)
+- [My first live coding interview](https://maya.rbind.io/posts/live-coding-interview/), by [Maya Gans](https://maya.rbind.io/)
 - [Porting the Openscapes website from blogdown to Quarto](https://samanthacsik.github.io/posts/2023-08-01-openscapes-website/), by [Sam Csik](https://samanthacsik.github.io)
 - [Getting started with Apache Arrow](https://blog.djnavarro.net/posts/2021-11-19_starting-apache-arrow-in-r/), by [Danielle Navarro](https://djnavarro.net/)
 - [Sharing pictures of code](https://emilhvitfeldt.com/post/sharing-code-pictures/), by [Emil Hvitfeldt](https://emilhvitfeldt.com/)
@@ -62,17 +63,29 @@ This is only a small sampling of the *many* rad data science bloggers out there 
 
 ### B. Pick a function to blog about!
 
+::: {.callout-important}
+## TODO come back to this
+:::
+
 Today, you'll be heeding David Robinson's advice and draft a blog post about a function or method...
 
 Target audience -- next MEDS cohort (new learners)
 
 ## {{< fa person-chalkboard title="a person pointing at a chalkboard" >}} Lecture Materials {#lecture-materials}
 
+::: {.callout-important}
+## TODO come back to this
+:::
+
 ::: {.center-text}
 [{{< fa person-chalkboard title="A person motioning at a chalkboard" >}} lecture slides](materials/blogging-tips.qmd){.btn role="button" target="_blank"} 
 :::
 
 ## {{< fa plus title="plus" >}} What should I continue working on? {#continue-working}
+
+::: {.callout-important}
+## TODO come back to this
+:::
 
 1. [**Continue drafting / polishing your blog post.**]{.teal-text} 
 2. [**Seek feedback from others.**]{.teal-text} Consider switching blog posts with one (or more) of your peers, or stick around for office hours to chat with me about your ideas!
