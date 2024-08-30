@@ -109,7 +109,7 @@
     "href": "course-materials/materials/GH-profile.html#photo-bio",
     "title": "EDS 296",
     "section": "",
-    "text": "Personalize your profile\n\n\n\n\n\n\n\n\n\n\n\n\n\nBy default, your profile photo is a unique Identicon, which is generated from your GitHub user ID – pretty cool! But you should absolutely update this with your photo.\n\n\n\nWhy? Takes very little time and “gives a sense of authenticity”\nPhoto makes your commits / contributions more easily recognizable\nShort bio is a nice quick intro + links to your public profiles / website(s)\n\n\n\nTo update your profile image and information:\nClick on your profile image, which takes you directly to your settings page\n\n\n\nFind more information on GitHub Docs"
+    "text": "Personalize your profile\n\n\n\n\n\n\n\n\n\n\n\n\n\nBy default, your profile photo is a unique Identicon, which is generated from your GitHub user ID – pretty cool! But you should absolutely update this with your photo.\n\n\n\nTakes very little time and “gives a sense of authenticity”\nPhoto makes your commits / contributions more easily recognizable\nShort bio is a nice quick intro + links to your public profiles / website(s)\n\n\n\nTo update your profile image and information:\nClick on your profile image, which takes you directly to your settings page\n\n\n\nFind more information on GitHub Docs"
   },
   {
     "objectID": "course-materials/materials/GH-profile.html#pin-repos1",
@@ -133,11 +133,18 @@
     "text": "Contributions show your commits\n\n\n\n\nGreener squares = more commits\nAn *indicator of how much you’re coding\n*Indicates quantity, not quality\n\n\n\n\nTroubleshooting or trying to understand your contributions map? Check out this help documentation: Why are my contributions now showing up on my profile?"
   },
   {
-    "objectID": "course-materials/materials/GH-profile.html#profile-readme",
-    "href": "course-materials/materials/GH-profile.html#profile-readme",
+    "objectID": "course-materials/materials/GH-profile.html#profile-readme1",
+    "href": "course-materials/materials/GH-profile.html#profile-readme1",
     "title": "EDS 296",
     "section": "",
-    "text": "Add a profile README\n\n\nSee GitHub documentation for more info on profile READMEs"
+    "text": "Add a profile README\n\n \n\n\nSee GitHub documentation for more info on profile READMEs"
+  },
+  {
+    "objectID": "course-materials/materials/GH-profile.html#profile-readme2",
+    "href": "course-materials/materials/GH-profile.html#profile-readme2",
+    "title": "EDS 296",
+    "section": "",
+    "text": "Add a profile README\n\n\n\n\nA place to introduce yourself!\nConsider including:\n\nA version of your bio\n\nImpactful contributions you’ve made (and context)\nPersonal project descriptions + links\nSomething(s) that you’re currently working on\nGuidance on connecting with your professional communities where you’re involved\n\nSome template suggestions are provided when you first create your repo / initialize your README. Check out the Emoji Cheat Sheet for easily adding more Emojis\n\n\n \n\nTo add a profile README:\n1. Create a new repo and give it the same name as your GitHub username (e.g. my repo is named “samanthacsik”)\n2. Make sure your repo is Public and initialize it with a README\n3. Click the Edit README button to edit directly in the browser (I find this easier than cloning and editing locally)\n\n\n\nSee the GitHub documentation for more info on profile READMEs"
   },
   {
     "objectID": "course-materials/materials/GH-profile.html#accessibility",

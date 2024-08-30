@@ -7,6 +7,8 @@ format:
     chalkboard: true
     theme: 
       - ../../meds-slides-styles.scss
+editor_options: 
+  chunk_output_type: console
 ---
 
 ## {#title-slide data-menu-title="Title Slide" background="#053660"} 
@@ -73,7 +75,7 @@ By default, your profile photo is a unique [Identicon](https://github.blog/news-
 :::
 
 ::: {.column width="50%"}
-- Why? Takes very little time and "gives a sense of authenticity"
+- Takes very little time and "gives a sense of authenticity"
 - Photo makes your commits / contributions more easily recognizable
 - Short bio is a nice quick intro + links to your public profiles / website(s)
 
@@ -185,14 +187,69 @@ Troubleshooting or trying to understand your contributions map? Check out this h
 
 ---
 
-## {#profile-readme data-menu-title="Profile README"} 
+## {#profile-readme1 data-menu-title="Profile README 1"} 
 
 [Add a profile README]{.slide-title}
 
 <hr>
 
+<br>
+<br>
+
+```{r}
+#| eval: true
+#| echo: false
+#| out-width: "100%"
+#| fig-align: "center"
+knitr::include_graphics("images/octocat-profile-readme-edited.png")
+```
+
 ::: {.footer}
 See [GitHub documentation](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) for more info on profile READMEs 
+:::
+
+---
+
+## {#profile-readme2 data-menu-title="Profile README 2"} 
+
+[Add a profile README]{.slide-title}
+
+<hr>
+
+:::: {.columns}
+
+::: {.column width="50%"}
+- A place to introduce yourself! 
+- Consider including:
+  - A version of **your bio**  
+  - **Impactful contributions** you've made (and context)
+  - **Personal project** descriptions + links
+  - Something(s) that you're **currently working on**
+  - Guidance on connecting with your **professional communities** where you're involved
+- Some template suggestions are provided when you first create your repo / initialize your README. Check out the [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/) for easily adding more Emojis
+  
+:::
+
+::: {.column width="50%"}
+
+<br>
+<br>
+
+::: {.center-text .blue-box}
+[**To add a profile README:**]{.dark-blue-text}
+
+**1.** *Create a new repo and give it the **same name** as your GitHub username (e.g. [my repo](https://github.com/samanthacsik/samanthacsik) is named "samanthacsik")*
+
+**2.** *Make sure your repo is **Public** and initialize it with a **README***
+
+**3.** *Click the **Edit README** button to edit directly in the browser (I find this easier than cloning and editing locally)*
+:::
+:::
+
+::::
+
+::: {.footer}
+See the [GitHub documentation](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) for more info on profile READMEs
 :::
 
 ---
@@ -219,5 +276,4 @@ Some additional great resources
 [GH social]{.slide-title}
 
 <hr>
-
 
