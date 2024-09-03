@@ -53,7 +53,7 @@
     "href": "course-materials/week5-github-portfolios.html#lecture-materials",
     "title": "GitHub as a professional portfolio",
     "section": " Lecture Materials",
-    "text": "Lecture Materials\nWe’ll discuss and practice writing effective GitHub READMEs together today, but you’ll also be asked to refer back to these materials throughout your time in MEDS. Find README guidelines, as well as guidance and instructions for customizing your GitHub profile:\n\n\n\n README Guidelines\n\n\n\n\n Update your GH profile"
+    "text": "Lecture Materials\nWe’ll discuss and practice writing effective GitHub READMEs together today, but you’ll also be asked to refer back to these materials throughout your time in MEDS. Find README guidelines, as well as guidance and instructions for customizing your GitHub profile:\n\n\n\n README Guidelines\n\n\n\n\n README (slides)\n\n\n\n\n Update your GH profile"
   },
   {
     "objectID": "course-materials/week5-github-portfolios.html#continue-working",
@@ -168,25 +168,137 @@
     "text": "Improve your GitHub profile page accessibility\n\nA few simple ways to ensure that assistive technology can help users understand and navigate your README:\n\nMake links descriptive: assistive technologies present links in isolation, so provide context\n\ne.g. opt for “Find the EDS 296-1F course description…” rather than “Find the EDS 296-1F course description here”\n\nAdd alt text to images: screen readers read alt text descriptions out loud\n\ne.g. in markdown syntax, ![This is alt text](image-url.com), or in html, &lt;img src=\"image-url.com\" alt=\"This is alt text\"&gt;\n\nUse proper heading structure: helps people understand content structure and more easily navigate sections\n\ne.g. use # for your title, then the appropriate level-header thereafter (don’t skip levels)\n\nStructure lists with proper markup: helps people understand lists as they are intended\n\ne.g. use * or - for each list item, rather than special characters or emojis\n\n\n\nThe above pointers come from the github.blog post, 5 tips for making your GitHub profile page accessible"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "course-materials/materials/readme-guidelines-slides.html#title-slide",
+    "href": "course-materials/materials/readme-guidelines-slides.html#title-slide",
+    "title": "EDS 296",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "EDS 296: Data Science Portfolios\nREADME Guidelines\n\nNovember 1st, 2024"
   },
   {
-    "objectID": "index.html#course-description",
-    "href": "index.html#course-description",
-    "title": "Data science tools for building professional online portfolios",
-    "section": "Course Description",
-    "text": "Course Description\nHaving a polished online presence is essential for showcasing your skills, projects, expertise, and (importantly) your personality. Learners, collaborators, and future employers alike will look to your public online profiles to glean information about you and your work. As data scientists, this often means that they’ll head to one of two places: GitHub and / or your personal website. This course is designed to help you both lay the foundation for creating and maintaining these profiles in an organized, informative, and visually-appealing way. Over the next several weeks, you will:\n\nbuild and deploy your personal website using popular data science tools and frameworks\ncreate your first (of many!) data science blog posts\nlearn about how best to communicate your work to different audiences\nunderstand where and how to document your projects and code\nand more!\n\nThroughout the MEDS program, you’ll be asked to turn assignments and projects into science communication pieces on your personal websites blog. These are excellent opportunities to build out your portfolio ahead of your job search."
+    "objectID": "course-materials/materials/readme-guidelines-slides.html#official-guidelines",
+    "href": "course-materials/materials/readme-guidelines-slides.html#official-guidelines",
+    "title": "EDS 296",
+    "section": "",
+    "text": "Reference the “official” README guidelines\n\nThese slides are adapted from the MEDS README Guidelines (mostly because it helps me stay on track while teaching ). Please be sure to reference the “official” guidelines document when you return to these in the future.\n\n\nhttps://ucsb-meds.github.io/README-guidelines/"
   },
   {
-    "objectID": "index.html#teaching-team",
-    "href": "index.html#teaching-team",
-    "title": "Data science tools for building professional online portfolios",
-    "section": "Teaching Team",
-    "text": "Teaching Team\n\n\n\n\nInstructor\n\n\n\n\n\n\n\n\n\n\n\nSam Csik\nEmail: scsik@ucsb.edu\nLearn more: samanthacsik.github.io"
+    "objectID": "course-materials/materials/readme-guidelines-slides.html#readme",
+    "href": "course-materials/materials/readme-guidelines-slides.html#readme",
+    "title": "EDS 296",
+    "section": "",
+    "text": "READMEs provide essential project info\n\n\n\n\n\nDate back to at least 1974 with the invention of PDP-10\nText files that live in project directories (often the root directory)\nInclude info about the software / produce to users, developers, and / or contributors\nALL CAPS because ASCII system sorts upppercase before lowercase letters (ls lists READMEs near the top)\nGitHub displays a repo’s (root directory) README on its landing page\n\nwritten in Markdown\n\n\n\n\n\n\n\n\n\n\n\n\n\nSome have suggested that the README name is a play on Lewis Carroll’s “Eat Me” and “Drink Me” scene from Alice’s Adventures in Wonderland. Image source: 150 years of “Alice in Wonderland”"
+  },
+  {
+    "objectID": "course-materials/materials/readme-guidelines-slides.html#always-include-readme",
+    "href": "course-materials/materials/readme-guidelines-slides.html#always-include-readme",
+    "title": "EDS 296",
+    "section": "",
+    "text": "You should always include a README\n\nGitHub makes this easy! Check the “Add a README file” box each time to create a repo on GitHub:\n\nIf you’re creating a repo locally first, add a README to your project’s root directory using the command touch README.md (in the Terminal) or click New File &gt; Text File &gt; type README.md &gt; OK (in RStudio’s Files pane).\n\n\n\nWhat you include in a given README will look different depending on the project.\n\n\n\n\nBut there are some guidelines you should follow…"
+  },
+  {
+    "objectID": "course-materials/materials/readme-guidelines-slides.html#always-include",
+    "href": "course-materials/materials/readme-guidelines-slides.html#always-include",
+    "title": "EDS 296",
+    "section": "",
+    "text": "Things you should always include in your repo READMEs\n\n\nThese 6 core elements are required for all MEDS-related homework assignments and projects.\n\n\nA short, but descriptive title\nA brief explanation of the repository’s purpose\nA concise description of what’s housed in the repository\nDetails regarding data access\nA list of authors or contributors (for collaborative work)\nReferences / acknowledgements\n\n\n\nLet’s work on adding these elements to an existing MEDS assignment repository. Navigate to your chosen repo now.\n(Example screenshots from https://github.com/samanthacsik/strava-dashboard)"
+  },
+  {
+    "objectID": "course-materials/materials/readme-guidelines-slides.html#1a-title",
+    "href": "course-materials/materials/readme-guidelines-slides.html#1a-title",
+    "title": "EDS 296",
+    "section": "",
+    "text": "1. A short, but descriptive title\n\nA README’s title is set to the repository name by default - change this!\n\n\nBy default, this README title was strava-dashboard (the name of the repo) – here, I’ve updated it to something a bit more descriptive."
+  },
+  {
+    "objectID": "course-materials/materials/readme-guidelines-slides.html#1b-title",
+    "href": "course-materials/materials/readme-guidelines-slides.html#1b-title",
+    "title": "EDS 296",
+    "section": "",
+    "text": "1. A short, but descriptive title\n\n    \n\nUpdate your repo’s README title, then share with your neighbor\n\n\n\n\n−+\n01:00"
+  },
+  {
+    "objectID": "course-materials/materials/readme-guidelines-slides.html#2a-purpose",
+    "href": "course-materials/materials/readme-guidelines-slides.html#2a-purpose",
+    "title": "EDS 296",
+    "section": "",
+    "text": "2. A brief explanation of the repository’s purpose\n\nParagraphs or a bulleted list are both acceptable options. You may also include an image or logo that represents the project.\n\n\nIn this example, I include a bulleted list that describes the (personal and professional) motivations for this project."
+  },
+  {
+    "objectID": "course-materials/materials/readme-guidelines-slides.html#2b-purpose",
+    "href": "course-materials/materials/readme-guidelines-slides.html#2b-purpose",
+    "title": "EDS 296",
+    "section": "",
+    "text": "2. A brief explanation of the repository’s purpose\n\n    \n\nAdd a brief description to your repo’s README, then share with your neighbor\n\n\n\n\n−+\n03:00"
+  },
+  {
+    "objectID": "course-materials/materials/readme-guidelines-slides.html#3a-files-housed",
+    "href": "course-materials/materials/readme-guidelines-slides.html#3a-files-housed",
+    "title": "EDS 296",
+    "section": "",
+    "text": "3a. A concise description of what’s housed in the repository\n\nThis includes information about the repository structure or file organization.\n\n\nA repo “map” of the folder structure and important / necessary files for making this shiny app run.\nOpen and close a code block with three backticks. Use the pipe, |, along with these (somewhat odd) characters, ├── & └──, to construct a folder / file map of your repo."
+  },
+  {
+    "objectID": "course-materials/materials/readme-guidelines-slides.html#3b-files-housed",
+    "href": "course-materials/materials/readme-guidelines-slides.html#3b-files-housed",
+    "title": "EDS 296",
+    "section": "",
+    "text": "3b. A concise description of what’s housed in the repository\n\n   \n\nAdd a section to describe the contents of your repo (you may choose to create a repo map), then share with your neighbor.\n\n\n\n\n−+\n04:00"
+  },
+  {
+    "objectID": "course-materials/materials/readme-guidelines-slides.html#4a-data-access",
+    "href": "course-materials/materials/readme-guidelines-slides.html#4a-data-access",
+    "title": "EDS 296",
+    "section": "",
+    "text": "4a. Details regarding data access\n\nAny necessary information on where data lives (e.g. is it housed in the repo, on a server, in a library/package etc.) and how to access it in order to run the code\n\n\nInformation on what tools (i.e. {rStrava}) I used to scrape my data, where that data retrieval / wrangling occurs, and where I save my cleaned data to. Also note that I mention a wiki – more on that soon."
+  },
+  {
+    "objectID": "course-materials/materials/readme-guidelines-slides.html#4b-data-access",
+    "href": "course-materials/materials/readme-guidelines-slides.html#4b-data-access",
+    "title": "EDS 296",
+    "section": "",
+    "text": "4a. Details regarding data access\n\n    \n\nAdd any important information regarding your data source(s), then share with your neighbor.\n\n\n\n\n−+\n03:00"
+  },
+  {
+    "objectID": "course-materials/materials/readme-guidelines-slides.html#5a-authors",
+    "href": "course-materials/materials/readme-guidelines-slides.html#5a-authors",
+    "title": "EDS 296",
+    "section": "",
+    "text": "5a. A list of authors or contributors (for collaborative work)\n\nConsider hyperlinking collaborators’ GitHub profiles or other professional profile\n\n\nA not totally necessary contributors section (I’m the only contributor, so far)."
+  },
+  {
+    "objectID": "course-materials/materials/readme-guidelines-slides.html#5b-authors",
+    "href": "course-materials/materials/readme-guidelines-slides.html#5b-authors",
+    "title": "EDS 296",
+    "section": "",
+    "text": "5b. A list of authors or contributors (for collaborative work)\n\n  \n\nIf you chose a repository that contains collaborative work, add authorship information. Then share with your neighbor.\n\n\n\n\n−+\n03:00"
+  },
+  {
+    "objectID": "course-materials/materials/readme-guidelines-slides.html#6a-refs",
+    "href": "course-materials/materials/readme-guidelines-slides.html#6a-refs",
+    "title": "EDS 296",
+    "section": "",
+    "text": "6a. References / acknowledgements\n\nAdd references in an appropriate, consistent format (including links). Don’t forget to add references for data sets too!\n\n\nMy acknowledgements section includes links to a variety of blog posts, articles, and software that I referenced / used while building my dashboard. It also, importantly (though not at all necessary), includes a pup pic."
+  },
+  {
+    "objectID": "course-materials/materials/readme-guidelines-slides.html#6b-refs",
+    "href": "course-materials/materials/readme-guidelines-slides.html#6b-refs",
+    "title": "EDS 296",
+    "section": "",
+    "text": "6b. References\n\n    \n\nAdd any necessary references / acknowledgements, then share with your neighbor.\n\n\n\n\n−+\n02:00"
+  },
+  {
+    "objectID": "course-materials/materials/readme-guidelines-slides.html#concise",
+    "href": "course-materials/materials/readme-guidelines-slides.html#concise",
+    "title": "EDS 296",
+    "section": "",
+    "text": "Keep READMEs as concise as possible\n\n  \n\n\n“The lack of a README is a powerful red flag, but even a lengthy README is not indicative of there being high quality. The ideal README is as short as it can be without being any shorter. Detailed documentation is good – make separate pages for it! – but keep your README succinct.”\n\n\n\n-Kira Oakley in her article, Art of README"
+  },
+  {
+    "objectID": "course-materials/materials/readme-guidelines-slides.html#wikis",
+    "href": "course-materials/materials/readme-guidelines-slides.html#wikis",
+    "title": "EDS 296",
+    "section": "",
+    "text": "Use wikis to share long-form documentation"
   },
   {
     "objectID": "clean-code-guide.html",
@@ -215,6 +327,27 @@
     "title": "Writing clean code",
     "section": "Style guides",
     "text": "Style guides\n\nTidyverse style guide, by Hadley Wickham – a book that describes the style used throughout the {tidyverse}\nTidy design principles, by Hadley Wickham – a book to help you write better R code (currently under development)"
+  },
+  {
+    "objectID": "index.html#course-description",
+    "href": "index.html#course-description",
+    "title": "Data science tools for building professional online portfolios",
+    "section": "Course Description",
+    "text": "Course Description\nHaving a polished online presence is essential for showcasing your skills, projects, expertise, and (importantly) your personality. Learners, collaborators, and future employers alike will look to your public online profiles to glean information about you and your work. As data scientists, this often means that they’ll head to one of two places: GitHub and / or your personal website. This course is designed to help you both lay the foundation for creating and maintaining these profiles in an organized, informative, and visually-appealing way. Over the next several weeks, you will:\n\nbuild and deploy your personal website using popular data science tools and frameworks\ncreate your first (of many!) data science blog posts\nlearn about how best to communicate your work to different audiences\nunderstand where and how to document your projects and code\nand more!\n\nThroughout the MEDS program, you’ll be asked to turn assignments and projects into science communication pieces on your personal websites blog. These are excellent opportunities to build out your portfolio ahead of your job search."
+  },
+  {
+    "objectID": "index.html#teaching-team",
+    "href": "index.html#teaching-team",
+    "title": "Data science tools for building professional online portfolios",
+    "section": "Teaching Team",
+    "text": "Teaching Team\n\n\n\n\nInstructor\n\n\n\n\n\n\n\n\n\n\n\nSam Csik\nEmail: scsik@ucsb.edu\nLearn more: samanthacsik.github.io"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "course-materials/materials/blogging-tips.html#title-slide",
@@ -270,7 +403,7 @@
     "href": "course-materials/week6-misc-github.html#anticipated-deliverables",
     "title": "TBD",
     "section": " Anticipated deliverable(s)",
-    "text": "Anticipated deliverable(s)\nComing soon"
+    "text": "Anticipated deliverable(s)\n\na configured GitHub Actions (GHA) workflow that rebuilds / redeploys your personal website when changes are pushed to GitHub"
   },
   {
     "objectID": "course-materials/week6-misc-github.html#pre-class-prep",

@@ -30,7 +30,7 @@ things to cover:
 
 ## {{< fa box-open title="an open box" >}} Anticipated deliverable(s) {#anticipated-deliverables}
 
-*Coming soon*
+- a configured GitHub Actions (GHA) workflow that rebuilds / redeploys your personal website when changes are pushed to GitHub
 
 ## {{< fa clipboard-list title="a clipboard with a To Do list" >}} Pre-class Prep {#pre-class-prep}
 

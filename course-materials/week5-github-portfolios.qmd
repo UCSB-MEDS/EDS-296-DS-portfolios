@@ -135,13 +135,20 @@ We'll discuss and practice writing effective GitHub READMEs together today, but 
 
 ::: {.grid}
 
-::: {.g-col-12 .g-col-md-6}
+::: {.g-col-12 .g-col-md-4}
 ::: {.center-text}
 [{{< fa file-lines title="A file with lines of text on it" >}} README Guidelines](https://ucsb-meds.github.io/README-guidelines/){.btn role="button" target="_blank"} 
 :::
 :::
 
-::: {.g-col-12 .g-col-md-6}
+::: {.g-col-12 .g-col-md-4}
+::: {.center-text}
+[{{< fa tv title="a TV monitor" >}} README  (slides)](materials/readme-guidelines-slides.qmd){.btn role="button" target="_blank"} 
+:::
+:::
+
+
+::: {.g-col-12 .g-col-md-4}
 ::: {.center-text}
 [{{< fa file-lines title="A file with lines of text on it" >}} Update your GH profile](materials/GH-profile.qmd){.btn role="button" target="_blank"} 
 :::
