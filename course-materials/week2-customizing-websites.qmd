@@ -114,6 +114,7 @@ Quarto supports adding a personal logo to the top left corner of your website's 
   - Keep it simple
   - Consider incorporating your name or initials (though not necessarily required)
   - Colors and fonts should match / complement the rest of your branding package
+- Consider creating a [favicon](https://en.wikipedia.org/wiki/Favicon) (image displayed in a web browser's address bar) that matches / complements your logo
 - Try out one of these free logo makers:
   - [Adobe Express](https://www.adobe.com/express/create/logo) (this is what I used for my personal logo)
   - [Canva](https://www.canva.com/create/logos/)

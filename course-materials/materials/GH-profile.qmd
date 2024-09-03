@@ -225,8 +225,8 @@ See [GitHub documentation](https://docs.github.com/en/account-and-profile/settin
   - **Impactful contributions** you've made (and context)
   - **Personal project** descriptions + links
   - Something(s) that you're **currently working on**
-  - Guidance on connecting with your **professional communities** where you're involved
-- Some template suggestions are provided when you first create your repo / initialize your README. Check out the [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/) for easily adding more Emojis
+  - Guidance on how to connect with your **professional communities**
+- Some template suggestions are provided when you first create your repo / initialize your README (and check out the [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/))
   
 :::
 
@@ -254,26 +254,69 @@ See the [GitHub documentation](https://docs.github.com/en/account-and-profile/se
 
 ---
 
-## {#accessibility data-menu-title="Accessibility"} 
+## {#explore-other-profile-readmes data-menu-title="Explore other profile READMEs"} 
 
-[Make your GitHub profile page accessible]{.slide-title}
+[Explore / adapt from other profile READMEs]{.slide-title2}
 
 <hr>
 
-[5 tips for making your GitHub profile page accessible](https://github.blog/developer-skills/github/5-tips-for-making-your-github-profile-page-accessible/)
+See someone with a really cool README? Check out the source code! Navigate to their profile README repo > click on the `README.md` file > switch to "Code" view:
+
+<br>
+
+```{r}
+#| eval: true
+#| echo: false
+#| out-width: "100%"
+#| fig-align: "center"
+knitr::include_graphics("images/profile-readme-source.gif")
+```
+
+<br>
 
 ---
 
-Some additional great resources
+## {#consider-accessibility data-menu-title="Accessibility"} 
 
-- [Creating an Impressive GitHub Profile: A Guide for Developers](https://www.linkedin.com/pulse/creating-impressive-github-profile-guide-developers-zamir-khotov-gqdyf/)
-- [7 Tips to Build Your GitHub Profile Like a PRO](https://dev.to/quira/7-tips-to-build-your-github-profile-like-a-pro-38bg)
+[{{< fa universal-access title="universal access" >}} Always consider web accessibility]{.slide-title}
+
+<hr>
+
+<br>
+<br>
+<br>
+
+::: {.body-text-m}
+>Web accessibility means that **websites, tools, and technologies are designed and developed so that people with disabilities can use them**. More specifically, people can perceive, understand, navigate, and interact with the Web, and contribute to the Web
+:::
+
+::: {.right-align-text}
+[-W3C Web Accessibility Initiative](https://www.w3.org/WAI/fundamentals/accessibility-intro/)
+:::
 
 ---
 
-## {#gh-social data-menu-title="GH as social media"} 
+## {#gh-accessibility data-menu-title="GH Accessibility"} 
 
-[GH social]{.slide-title}
+[Improve your GitHub profile page accessibility]{.slide-title2}
 
 <hr>
+
+*A few simple ways to ensure that assistive technology can help users understand and navigate your README:*
+
+1. **Make links descriptive:** assistive technologies present links in isolation, so provide context
+    - e.g. opt for *"Find the [EDS 296-1F course description](https://bren.ucsb.edu/courses/eds-296-1f)..."* rather than *"Find the EDS 296-1F course description [here](https://bren.ucsb.edu/courses/eds-296-1f)"*
+
+2. **Add alt text to images:** screen readers read alt text descriptions out loud
+    - e.g. in markdown syntax, `![This is alt text](image-url.com)`, or in html, `<img src="image-url.com" alt="This is alt text">`
+
+3. **Use proper heading structure:** helps people understand content structure and more easily navigate sections
+    - e.g. use `#` for your title, then the appropriate level-header thereafter (don't skip levels)
+
+4. **Structure lists with proper markup:** helps people understand lists as they are intended
+    - e.g. use `*` or `-` for each list item, rather than special characters or emojis
+
+::: {.footer}
+The above pointers come from the [github.blog](https://github.blog/) post, [5 tips for making your GitHub profile page accessible](https://github.blog/developer-skills/github/5-tips-for-making-your-github-profile-page-accessible/)
+:::
 

@@ -31,7 +31,7 @@ By the end of today's class, you should have:
 
 Please be sure to complete the following before class:
 
-### A. Watch Abigail Haddad's posit::conf(2024) talk, *GitHub: How To Tell Your Professional Story* (20 min)
+### A. Watch Abigail Haddad's posit::conf(2024) talk, *GitHub: How To Tell Your Professional Story* (15 min)
 
 [Abigail Haddad](https://github.com/abigailhaddad) is a Machine Learning Engineer at the US Department of Homeland Security. Her [posit::conf(2024)](https://posit.co/conference/) talk, titled, **GitHub: How To Tell Your Professional Story** is an excellent primer for thinking about GitHub as a professional portfolio. [**I *hope* Posit will have this year's talk recordings posted before this class, but just in case they don't, you can watch my [screen recorded version](https://drive.google.com/file/d/1G0Cv9eWRP5HuLyj5FZ46zDbDG2EcPtwV/view?usp=sharing) (you'll need to use your @ucsb.edu account to access Google Drive).**]{.teal-text}
 

@@ -56,17 +56,16 @@ During this session, you'll have the opportunity to add some personal informatio
 ::: {.callout-tip collapse=true icon=false}
 ## Some considerations and tips for website bios / language
 - **Adjust your bio to fit your chosen landing page [templates](https://quarto.org/docs/websites/website-about.html#templates).** For example, `jolla` works well with short bios or even taglines, while `trestles` might be a better choice if you're looking to add longer and / or multiple sections. 
-- **Adopt an "evergreen content" mindset where possible (especially on your landing page).** "Evergreen content" is a marketing term that is used to describe content that remains relevant and interesting long after it's published. Carefully considering how you phrase information on your website can help it withstand the test of time (at least for a while) and make website maintenance a bit easier. A couple sustainable language swap examples:
+- **Adopt an "evergreen content" mindset where possible (especially on your landing page).** "Evergreen content" is a marketing term that is used to describe content that remains relevant and interesting long after it's published. Carefully considering how you phrase information on your website can help it withstand the test of time (or at least for a while) and make website maintenance a bit easier. A couple sustainable language swap examples:
     - "Two years ago, I..." > "In 2022, I..."
     <!-- - "I'm a Master of Environmental Data Science student interested in..." > "I'm an environmental data scientist interested in..." -->
-    - "I'm currently working on..." > "I have experience / expertise in..."
+    - "I'm currently working on..." > "I have experience / expertise / interest in..."
 - **Check out a few example websites for bio inspiration.** Here are just a small handful fo websites, each with a slightly different approach to their landing page bios:
     - [Samantha Csik](https://samanthacsik.github.io/){target="_blank"} (yours truly)
-    - [Nick Lyon](https://njlyon0.github.io/) (NCEAS Data Analyst)
+    - [Nick Lyon](https://njlyon0.github.io/){target="_blank"} (NCEAS Data Analyst)
     - [Daphne Virlar-Knight](https://dvirlar2.github.io/){target="_blank"} (MESM 2020)
     - [Ray Hunter](https://ramhunte.github.io/){target="_blank"} (MESM 2024)
     - [Sam Muir](https://shmuir.github.io/){target="_blank"} (MEDS 2024)
-    - [Luna Catalán](https://lunacatalan.github.io/){target="_blank"} (MEDS 2024)
     - [Victoria Cutler](https://victoriacutler.github.io/){target="_blank"} (MEDS 2023)
 
 :::
