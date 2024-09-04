@@ -1,5 +1,5 @@
 ---
-title: "TBD"
+title: "Using GitHub features to demonstrate programming and workflow competencies"
 subtitle: "Week 6"
 description: "Friday November 8^th^, 2024"
 title-block-banner: true
@@ -31,6 +31,8 @@ things to cover:
 ## {{< fa box-open title="an open box" >}} Anticipated deliverable(s) {#anticipated-deliverables}
 
 - a configured GitHub Actions (GHA) workflow that rebuilds / redeploys your personal website when changes are pushed to GitHub
+- tbd
+- tbd
 
 ## {{< fa clipboard-list title="a clipboard with a To Do list" >}} Pre-class Prep {#pre-class-prep}
 

@@ -271,7 +271,7 @@ knitr::include_graphics("images/strava-files.png")
 ::: {.center-text .gray-text .body-text-s}
 A repo "map" of the folder structure and important / necessary files for making this shiny app run. 
 
-Open and close a code block with three backticks. Use the pipe, `|`, along with these (somewhat odd) characters, `├──` & `└──`, to construct a folder / file map of your repo.
+Open and close a code block with three backticks at the start and end. Use the pipe, `|`, along with these (somewhat odd) characters, `├──` & `└──`, to construct a folder / file map of your repo.
 :::
 
 ---
@@ -501,6 +501,78 @@ countdown::countdown(
 
 <hr>
 
+From [GitHub Docs](https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis): 
 
+>"You can use your repository’s wiki to share long-form content about your project, such as how to use it, how you designed it, or its core principles"
 
+:::: {.columns}
 
+::: {.column width="50%"}
+```{r}
+#| eval: true
+#| echo: false
+#| out-width: "100%"
+#| fig-align: "center"
+knitr::include_graphics("images/openscapes-wiki.png")
+```
+
+::: {.center-text .gray-text .body-text-s}
+The [Openscapes website wiki](https://github.com/Openscapes/website-new)
+:::
+:::
+
+::: {.column width="50%"}
+<br>
+
+- move any documentation-style info from your README to a wiki, as appropriate
+- you can link to wiki pages from your README
+- each wiki page should focus on a single topic
+:::
+
+::::
+
+---
+
+## {#up-next data-menu-title="Up next"} 
+
+[Up next, account-level READMEs]{.slide-title}
+
+<hr>
+
+READMEs aren't just for repositories -- we can create account-level READMEs to introduce individual users or organizations:
+
+<br>
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+::: {.center-text .gray-text .body-text-s}
+A GitHub profile README
+:::
+
+```{r}
+#| eval: true
+#| echo: false
+#| out-width: "100%"
+#| fig-align: "center"
+knitr::include_graphics("images/sam-readme.png")
+```
+:::
+
+::: {.column width="50%"}
+
+::: {.center-text .gray-text .body-text-s}
+A organization README
+:::
+
+```{r}
+#| eval: true
+#| echo: false
+#| out-width: "100%"
+#| fig-align: "center"
+knitr::include_graphics("images/org-readme.png")
+```
+:::
+
+::::
