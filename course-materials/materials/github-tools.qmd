@@ -1,0 +1,95 @@
+---
+format: 
+  revealjs:
+    slide-number: true
+    # code-link: true
+    highlight-style: a11y
+    chalkboard: true
+    theme: 
+      - ../../meds-slides-styles.scss
+editor_options: 
+  chunk_output_type: console
+---
+
+## {#title-slide data-menu-title="Title Slide" background="#053660"} 
+
+[EDS 296: Data Science Portfolios]{.custom-title}
+
+[*GitHub Tools*]{.custom-subtitle}
+
+<hr class="hr-teal">
+
+[November 8th, 2024]{.custom-subtitle3}
+
+---
+
+## {#show-skills data-menu-title="Demonstrate by doing"} 
+
+[Demonstrate by doing]{.slide-title}
+
+<hr>
+
+Showcase your technical proficiency and programming skills -- coding, workflows, collaborating -- by using GitHub's many tools and features
+
+Can do so on your own personal repos / projects and also while collaborating with others
+
+---
+
+## {#issues data-menu-title="Issues"} 
+
+[Track ideas & TODOs using GitHub issues]{.slide-title}
+
+<hr>
+
+- create, label, assign issues
+- integrate issues with projects and commits
+
+---
+
+how to create, tag, commit issue
+
+---
+
+## {#projects data-menu-title="Projects"} 
+
+[Organize and prioritize issues using GitHub projects]{.slide-title}
+
+<hr>
+
+- create project board
+- add issues and tasks to projects
+
+---
+
+steps for creating a project board
+
+---
+
+## {#GHP data-menu-title="GitHub Pages"} 
+
+[Hosting reports, documents, websites, etc with GitHub Pages]{.slide-title}
+
+<hr>
+
+---
+
+how to GHP
+
+---
+
+## {#GHA data-menu-title="GitHub Actions"} 
+
+[Automate workflows with GitHub Actions]{.slide-title}
+
+<hr>
+
+---
+
+## {#GH-orgs data-menu-title="GitHub Organizations"} 
+
+[Automate workflows with GitHub Actions]{.slide-title}
+
+<hr>
+
+
+

@@ -32,14 +32,16 @@ By the end of today's class, you should have:
 
 Please be sure to complete the following before class:
 
-- [**Consider which blog listing page type you'd like to use.**]{.teal-text} A blog listing page is a web page that displays all of a blog's posts. Quarto provides [three built-in listing page types / styles](https://quarto.org/docs/websites/website-listings.html#listing-types){target="_blank"} to choose from. Check out the previews and identify which you might want to use ahead of class.
+### A. Choose your listing page style
+
+A blog listing page is a web page that displays all of a blog's posts. Quarto provides [three built-in listing page styles](https://quarto.org/docs/websites/website-listings.html#listing-types){target="_blank"} to choose from. [**Check out the previews and identify which you might want to use ahead of class.**]{.teal-text}
 
 ## {{< fa person-chalkboard title="a person pointing at a chalkboard" >}} Lecture Materials {#lecture-materials}
 
 Instructions for adding a blog to your existing Quarto website take the form of -- you guessed it -- a blog post {{< fa face-smile-wink title="a winking smiling face" >}}
 
 ::: {.center-text}
-[{{< fa blog title="blog icon" >}} Instructional blog post](https://samanthacsik.github.io/posts/2022-10-24-quarto-blogs/){.btn role="button" target="_blank"} 
+[{{< fa blog title="blog icon" >}} Adding a Quarto blog](https://samanthacsik.github.io/posts/2022-10-24-quarto-blogs/){.btn role="button" target="_blank"} 
 :::
 
 ## {{< fa plus title="plus" >}} What should I continue working on? {#continue-working}

@@ -1,5 +1,5 @@
 ---
-title: "Using GitHub features to demonstrate programming and workflow competencies"
+title: "GitHub grab bag + portfolio share outs"
 subtitle: "Week 6"
 description: "Friday November 8^th^, 2024"
 title-block-banner: true
@@ -18,42 +18,54 @@ knitr::include_graphics("../images/baracktocat.png")
 *[#56 Baraktocat](https://octodex.github.com/baracktocat/). See the [full collection of octocats](https://octodex.github.com/), or [create your own](https://myoctocat.com/).*
 :::
 
-things to cover:
-
-- GH orgs
-- hosting rendered docs with GH pages
-- GH issues
-- GH projects
-- GH actions
-- GH releases
-- wikis
-
 ## {{< fa box-open title="an open box" >}} Anticipated deliverable(s) {#anticipated-deliverables}
 
 - a configured GitHub Actions (GHA) workflow that rebuilds / redeploys your personal website when changes are pushed to GitHub
-- tbd
-- tbd
+- a practice (i.e. can delete afterterwards)...
+  - organization
+  - issue(s)
+  - project
 
 ## {{< fa clipboard-list title="a clipboard with a To Do list" >}} Pre-class Prep {#pre-class-prep}
 
 Please be sure to complete the following before class:
 
-*Coming soon*
+### A. Prepare to share your portfolio
+
+We can learn *a lot* by exploring each other's portfolios -- this includes getting ideas about fun design choices / elements, writing styles, decisions on what to include (and where), etc. We'll wrap up the second half of class with a quick share out of each of our portfolios.
+
+[**Complete [your slide](https://docs.google.com/presentation/d/161jFMfXe6nom0EECl8rf4vep2uXvKpBU6SsVbTnMUL4/edit?usp=sharing) ahead of class and be sure to include the following:**]{.teal-text}
+
+- a screenshot from *one* of your portfolios (this can be any personal website page, your GitHub profile, a repository README -- something that you're excited to show off!)
+- the corresponding URL (so your peers can find you {{< fa face-smile-beam title="a smiling face with squinty eyes" >}})
+
+[**You should also be prepared to talk *briefly* (1-2min) about a design element, feature, piece of writing, etc. that you're particularly proud / fond of.**]{.teal-text}
 
 ## {{< fa person-chalkboard title="a person pointing at a chalkboard" >}} Lecture Materials {#lecture-materials}
 
-*Coming soon*
+::: {.grid}
 
-<!-- ::: {.grid} -->
+::: {.g-col-12 .g-col-md-6}
+::: {.center-text}
+[{{< fa person-chalkboard title="A person motioning at a chalkboard" >}} GitHub grab bag](materials/github-tools.qmd){.btn role="button" target="_blank"} 
+:::
+:::
 
-<!-- ::: {.g-col-12 .g-col-md-4} -->
-<!-- ::: {.center-text} -->
-<!-- [{{< fa file-lines title="A file with lines of text on it" >}} Create a GitHub Organization](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch){.btn role="button" target="_blank"}  -->
-<!-- ::: -->
-<!-- ::: -->
+::: {.g-col-12 .g-col-md-6}
+::: {.center-text}
+[{{< fa share title="a curved arrow" >}} portfolio share out](https://docs.google.com/presentation/d/161jFMfXe6nom0EECl8rf4vep2uXvKpBU6SsVbTnMUL4/edit?usp=sharing){.btn role="button" target="_blank"} 
+:::
+:::
 
-<!-- ::: -->
+:::
 
 ## {{< fa plus title="plus" >}} What should I continue working on? {#continue-working}
 
-*Coming soon*
+1. [**Continue creating organized / polished GitHub repositories:**]{.teal-text} Consider this a part of your standard data science workflow from here on out. Your repos should be easy for someone else to navigate and understand using your README (and possibly other documentation, e.g. wiki).
+2. [**Iterate on, and *importantly*, maintain your personal website:**]{.teal-text} Your website establishes your personal brand and acts as your centralized portfolio. Now that it's out in the world, it's important that you maintain it! It should accurately reflect you and your work -- return to it regularly to add new projects and content, and be sure to update text / content as necessary.   
+3. [**Link to your personal website on your resume / cv:**]{.teal-text} Add your website URL to your resume (somewhere in your header typically makes the most sense).
+4. [**Link to your polished GitHub repositories on your resume / cv, too!:**]{.teal-text} You may decide to highlight course and / or capstone projects, personal projects, etc. on your resume -- this is an awesome opportunity to link directly to your associated GitHub repository as well. Ensure that these repos are well-organized and documented.
+
+::: {.callout-important}
+## TODO: get resume template from Miya
+:::

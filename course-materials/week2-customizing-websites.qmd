@@ -127,7 +127,7 @@ Quarto supports adding a personal logo to the top left corner of your website's 
 The code examples that we'll walk through as a class (along with lots of other info), can be found in these slides: 
 
 ::: {.center-text}
-[{{< fa person-chalkboard title="A person motioning at a chalkboard" >}} lecture slides](https://ucsb-meds.github.io/customizing-quarto-websites/#/title-slide){.btn role="button" target="_blank"} 
+[{{< fa person-chalkboard title="A person motioning at a chalkboard" >}} Customizing Quarto websites](https://ucsb-meds.github.io/customizing-quarto-websites/#/title-slide){.btn role="button" target="_blank"} 
 :::
 
 ## {{< fa plus title="plus" >}} What should I continue working on? {#continue-working}

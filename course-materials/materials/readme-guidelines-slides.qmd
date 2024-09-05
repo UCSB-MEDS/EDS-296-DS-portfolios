@@ -58,7 +58,7 @@ knitr::include_graphics("images/readme-guidelines.png")
 
 - Date back to [at least 1974](https://medium.com/@NSomar/readme-md-history-and-components-a365aff07f10) with the invention of [PDP-10](https://en.wikipedia.org/wiki/PDP-10)
 - Text files that live in project directories (often the *root* directory)
-- Include info about the software / produce to users, developers, and / or contributors
+- Include info about the software / product to users, developers, and / or contributors
 - ALL CAPS because [ASCII](https://en.wikipedia.org/wiki/ASCII) system sorts upppercase before lowercase letters (`ls` lists READMEs near the top)
 - GitHub displays a repo's (root directory) README on its landing page
   - written in Markdown
@@ -95,7 +95,7 @@ GitHub makes this easy! Check the "Add a README file" box each time to create a 
 knitr::include_graphics("images/initialize-readme.png")
 ```
 
-If you're creating a repo locally first, add a README to your project's root directory using the command `touch README.md` (in the Terminal) or click **New File** > **Text File** > type `README.md` > **OK** (in RStudio's Files pane).
+If you're creating a repo locally first, add a README to your project's root directory using the command, `touch README.md` (in the Terminal), or click **New File** > **Text File** > type `README.md` > **OK** (in RStudio's Files pane).
 
 <br>
 
@@ -276,6 +276,51 @@ Open and close a code block with three backticks at the start and end. Use the p
 
 ---
 
+## {#3a-files-org data-menu-title="3. organized files"} 
+
+[An aside: remember to organize your files!]{.slide-title}
+
+<hr>
+
+This is also a reminder to create an intuitive folder structure within your repository! Reorganize files as needed / appropriate. Here's one example of an intuitive repo structure -- this will vary depending on your project:
+
+```{r}
+#| eval: true
+#| echo: false
+#| out-width: "100%"
+#| fig-align: "center"
+knitr::include_graphics("images/repo-structure.png")
+```
+
+```{md}
+#| eval: false
+#| #| echo: false
+.
+├── data/ 
+│   └── raw/
+│   └── processed/ 
+|
+├── scratch/ 
+│   └── trying-things-out.R 
+|
+├── analysis/                  
+│   └── data-cleaning.R 
+│   └── analysis.R
+│   └── functions/
+│       └── fxn-A.R
+│       └── fxn-B.R
+|
+├── outputs/ 
+│   └── plots/
+|
+├── reports/ 
+│   └── final-report.qmd 
+|
+└── my-project.RProj
+```
+
+---
+
 ## {#3b-files-housed data-menu-title="3. files housed"} 
 
 [3b. A concise description of what's housed in the repository]{.slide-title}
@@ -344,7 +389,7 @@ Information on what tools (i.e. `{rStrava}`) I used to scrape my data, where tha
 <br>
 
 ::: {.center-text .teal-text .body-text-xl}
-Add any important information regarding your data source(s), then share with your neighbor.
+Add any important information regarding your data source(s) / access, then share with your neighbor.
 :::
 
 ```{r}
