@@ -83,10 +83,10 @@ We'll walk through the steps of building and deploying our personal websites tog
 
 ## {{< fa plus title="plus" >}} What should I continue working on? {#continue-working}
 
-1. [**Refine the language / content on your landing page.**]{.teal-text} Try out different built-in templates, bio language, and arrangement of content until you settle on something that you like.
-2. [**Add additional pages to your website.**]{.teal-text} By default, Quarto creates a landing page (`index.qmd`) and a page titled, "About" (`about.qmd`) We also practiced adding a "Resources" page (`resources.qmd`) during class. Consider if you want to keep all of these (though note that you *must* keep `index.qmd`) or add additional pages. If you're not quite ready to add content to them, it's sufficient to include placeholder text to those pages (e.g. *Coming soon!*). Recall that you can add / remove pages by modifying your `_quarto.yml` file.
+1. [**Build your personal branding guide.**]{.teal-text} Next week, you'll learn how to customize your website so that it better reflects you and your goals, motivations, values, and interests. To do so effectively, you'll first want to spend some time thinking intentionally about your *personal brand*. See the next [pre-class prep](week2-customizing-websites.qmd#pre-class-prep) for detailed instructions on how to prepare your personal branding guide.
 
-::: {.callout-tip}
-## **AN IMPORTANT REMINDER: a personal website is an ever-evolving project** 
-I'm pretty sure I've rewritten the language across my website at least once a year since I first created it. Don't feel too much pressure to make it "perfect" -- you'll likely revisit the content / arrangement often, especially throughout different stages of your career!
-:::
+
+<!-- ::: {.callout-tip} -->
+<!-- ## **AN IMPORTANT REMINDER: a personal website is an ever-evolving project**  -->
+<!-- I'm pretty sure I've rewritten the language across my website at least once a year since I first created it. Don't feel too much pressure to make it "perfect" -- you'll likely revisit the content / arrangement often, especially throughout different stages of your career! -->
+<!-- ::: -->

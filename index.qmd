@@ -68,3 +68,14 @@ knitr::include_graphics("images/sam.png")
 :::
 :::
 
+## Acknowledgements
+
+TODO: 
+
+- [Alex Phillips]()
+- [Miya Scheble]()
+- [Amanda Asquith-Caya]()
+- [Ruth Oliver]()
+- [Carmen Galaz Garcia]()
+- [Julien Brun]()
+- [Max Czapanskiy]()

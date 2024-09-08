@@ -43,6 +43,8 @@ We can learn *a lot* by exploring each other's portfolios -- this includes getti
 
 ## {{< fa person-chalkboard title="a person pointing at a chalkboard" >}} Lecture Materials {#lecture-materials}
 
+We'll begin class with an overview of some of GitHub's many tools for organizing, collaborating, and managing data science / software projects, then wrap up with a share out of snippets from each of your portfolios:
+
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-6}

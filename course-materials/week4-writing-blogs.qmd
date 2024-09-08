@@ -24,9 +24,11 @@ knitr::include_graphics("../images/drob-tweet.png")
 
 By the end of today's class, you should have:
 
-- your first data science blog post!
+- a draft of your first data science blog post!
 
 ## {{< fa clipboard-list title="a clipboard with a To Do list" >}} Pre-class Prep {#pre-class-prep}
+
+https://docs.google.com/presentation/d/1dxviUquj4xTNY5pzoGSL-pukWgqC_nPqM9jCemiRAuY/edit#slide=id.g20e7ef3cb4c_0_365
 
 Please be sure to complete the following before class:
 
@@ -39,24 +41,24 @@ Reading other data science blogs is the best way to get a sense of not only the 
 
 A handful of posts to showcase some different writing styles and topics areas:
 
-- [An introduction to Python for R Users](https://rebeccabarter.com/blog/2023-09-11-from_r_to_python), by [Rebecca Barter](https://rebeccabarter.com/about)
-- [My first live coding interview](https://maya.rbind.io/posts/live-coding-interview/), by [Maya Gans](https://maya.rbind.io/)
-- [Porting the Openscapes website from blogdown to Quarto](https://samanthacsik.github.io/posts/2023-08-01-openscapes-website/), by [Sam Csik](https://samanthacsik.github.io)
-- [Getting started with Apache Arrow](https://blog.djnavarro.net/posts/2021-11-19_starting-apache-arrow-in-r/), by [Danielle Navarro](https://djnavarro.net/)
-- [Sharing pictures of code](https://emilhvitfeldt.com/post/sharing-code-pictures/), by [Emil Hvitfeldt](https://emilhvitfeldt.com/)
-- [A simple project organization workflow](https://flukeandfeather.com/posts/2023-06-20-project-organization/), by [Max Czapanskiy](https://flukeandfeather.com/)
+- [An introduction to Python for R Users](https://rebeccabarter.com/blog/2023-09-11-from_r_to_python){target="_blank"}, by [Rebecca Barter](https://rebeccabarter.com/about){target="_blank"}
+- [My first live coding interview](https://maya.rbind.io/posts/live-coding-interview/){target="_blank"}, by [Maya Gans](https://maya.rbind.io/){target="_blank"}
+- [Porting the Openscapes website from blogdown to Quarto](https://samanthacsik.github.io/posts/2023-08-01-openscapes-website/){target="_blank"}, by [Sam Csik](https://samanthacsik.github.io){target="_blank"}
+- [Getting started with Apache Arrow](https://blog.djnavarro.net/posts/2021-11-19_starting-apache-arrow-in-r/){target="_blank"}, by [Danielle Navarro](https://djnavarro.net/){target="_blank"}
+- [Sharing pictures of code](https://emilhvitfeldt.com/post/sharing-code-pictures/){target="_blank"}, by [Emil Hvitfeldt](https://emilhvitfeldt.com/){target="_blank"}
+- [A simple project organization workflow](https://flukeandfeather.com/posts/2023-06-20-project-organization/){target="_blank"}, by [Max Czapanskiy](https://flukeandfeather.com/){target="_blank"}
 
 And a few additional fun blogs to keep an eye on:
 
-- [Meghan Hall](https://meghan.rbind.io/blog/)
-- [Meghan Harris](https://thetidytrekker.com/blog)
-- [Crystal Lewis](https://cghlewis.com/blog/)
-- [Beatriz Milz](https://beamilz.com/posts/en)
-- [Shannon Pileggi](https://www.pipinghotdata.com/blog)
-- [Albert Rapp](https://albert-rapp.de/blog)
-- [Nicola Rennie](https://nrennie.rbind.io/blog/)
-- [Cara Thompson](https://www.cararthompson.com/posts)
-- [Isabella Velásquez](https://ivelasq.rbind.io/)
+- [Meghan Hall](https://meghan.rbind.io/blog/){target="_blank"}
+- [Meghan Harris](https://thetidytrekker.com/blog){target="_blank"}
+- [Crystal Lewis](https://cghlewis.com/blog/){target="_blank"}
+- [Beatriz Milz](https://beamilz.com/posts/en){target="_blank"}
+- [Shannon Pileggi](https://www.pipinghotdata.com/blog){target="_blank"}
+- [Albert Rapp](https://albert-rapp.de/blog){target="_blank"}
+- [Nicola Rennie](https://nrennie.rbind.io/blog/){target="_blank"}
+- [Cara Thompson](https://www.cararthompson.com/posts){target="_blank"}
+- [Isabella Velásquez](https://ivelasq.rbind.io/){target="_blank"}
 
 This is only a small sampling of the *many* rad data science bloggers out there -- if you stumble upon others that you enjoy, be sure to share them in the class Slack channel!
 :::

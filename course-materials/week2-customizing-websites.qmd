@@ -1,6 +1,6 @@
 ---
 title: "Customizing Quarto websites"
-subtitle: "Week 3"
+subtitle: "Week 2"
 description: "Friday October 11^th^, 2024"
 title-block-banner: true
 toc: true
@@ -29,20 +29,85 @@ By the end of today's class, you should have:
 
 ## {{< fa clipboard-list title="a clipboard with a To Do list" >}} Pre-class Prep {#pre-class-prep}
 
-This week's pre-class prep involves thinking about your own **personal "branding package"** -- a collection of visual and messaging resources (e.g. colors, fonts, logos) used to create a uniform image of a brand. Here, that brand is *you!* Feel free to approach steps A - C (below) in the order that makes the most creative sense to you. You may also consider checking out these resources on branding first:
+### A. Create your own personal branding guide
 
-::: {.callout-important collapse=true}
-## TODO Resouces on developing a personal brand
-- add
-- tips
-- here
+This week's pre-class prep is to create your own personal branding guide -- a collection of visual and messaging resources (e.g. colors, fonts, logos, key words) used to create a uniform image of a brand. Here, that brand is *you!*
 
-- come up with 5 adjectives to describe yourself
-- match colors to adjectives
+***Why is it important that you consider your brand identity?*** Bren Teaching Faculty and science communication professional, [Alex Phillips](https://www.alexandraatleephillips.com/){target="_blank"}, summarizes this nicely in her talk [Establishing Your Online Presence](https://docs.google.com/presentation/d/1PVLZdL8CLbauFW-Ev1bxhiJCXlsWI3J2i4pCNrsEmsA/edit#slide=id.p){target="_blank"}. She explains that establishing your brand identity:
+
+- gives you more control over your online presence 
+- creates consistency, which builds trustworthiness and credibility
+- filters decision-making about your online content
+
+[**Fill out this [personal branding guide template](https://docs.google.com/document/d/1_GDgYPRR5hZzodwXyJV2aBWKU_OTBY3JOwi0dlSyBAQ/edit){target="_blank"} ahead of class. Read through sections I - VI, below, for guidance.**]{.teal-text} Here is [my personal branding guide](https://docs.google.com/document/d/1mJTS_ky_RY5JGFDoAGA004z01gMw2-Lu0w_ONtvl2DE/edit?usp=sharing){target="_blank"}, as an example. 
+
+#### I. Write down your personal branding adjectives and key messages
+
+::: {.callout-note collapse=true icon=false}
+## {{< fa key title="key" >}} Expand for information on branding adjectives and key messages
+
+**Your personal branding adjectives are words that *guide* how you present yourself and your brand.** While you don't need to explicitly state these words on your website (though you certainly can!), they serve to: 
+
+- define your brand's personality
+- connect with your target audience(s)
+- shape your tone (in both your writing, visual, and overall aesthetic styles)
+
+[**Write down 3-5 *adjectives* to describe your personal brand.**]{.teal-text}
+
+Consider:
+
+- How do you want people to perceive you?
+- What do you want to communicate about yourself?
+- What are your qualities, motivations, values, strengths? Your personal branding adjectives *do not* need to describe everything you *already are* -- they can be descriptors of your long-term goals, values, and motivations. 
+- You can check out some curated lists as a starting point -- see lists by [Lead Through Strengths](https://leadthroughstrengths.com/personal-branding/) and [Branding by Juls](https://brandingbyjuls.com/blog/f/60-adjectives-to-help-describe-your-brands-personality), or explore the many others online
+
+[**Once you've determined your personal branding adjectives, jot down a few *key messages* that capture the core ideas you want to convey about your brand.**]{.teal-text}
+
+Consider: 
+
+- How do these key messages incorporate / add context to your personal branding adjectives?
+- Aim for ~2-3 sentences (can be bullet points)
+- Similar to your adjectives, these key messages do not need to be explicitly stated somewhere on your website. However, you may find that they work well as taglines on your landing page (or even your LinkedIn profile), or help you construct your website bio.
 :::
 
-### A. Build your color palette
+#### II. Define your target audience(s)
 
+::: {.callout-note collapse=true icon=false}
+## {{< fa bullseye title="bullseye" >}} Expand for information on defining your target audience(s)
+
+Your brand does not need to speak to or reach *everyone* -- instead, you should have a target audience(s) in mind. Knowing your audience helps you make decisions on:
+
+- what types of content you publish
+- how you arrange content 
+- what level or types of details you need to include 
+- your tone
+
+[**Write down your target audience(s).**]{.teal-text}
+:::
+
+#### III. Select your typefaces / fonts
+
+::: {.callout-note collapse=true icon=false}
+## {{< fa font title="a styled 'A'" >}} Expand for information on selecting typefaces / fonts
+First, a few important definitions:
+
+- **typeface (aka font family):** the underlying visual design (e.g. Times New Roman, Helvetica, Roboto)
+- **font:** an implementation / variation of a typeface (e.g. Times New Roman in bold, Times New Roman in  italic)
+
+During class, we'll learn how to import font families from [Google Fonts](https://fonts.google.com/) for use across our website. [**Explore the vast selection, and choose 1-2 font families. Add their names and hyperlinks to your personal branding guide.**]{.teal-text} 
+
+#### **Tips on choosing your font family(ies):**
+
+- **Stick to 1-2 font families.** Using too many typefaces can overwhelm a reader. You can use one typeface across your entire website, or alternatively, choose one typeface for things like header text and another for body text.
+- **When in doubt, use a sans-serif font family.** [Sans-serif](https://fonts.google.com/knowledge/glossary/sans_serif) fonts work great everywhere, but are especially ideal for body text since they're cleaner and easier to read. If you do want to use a [serif font](https://fonts.google.com/knowledge/glossary/serif), it's best to reserve those for any header text.
+- **Make sure your font family choice(s) have a variety of styles.** If your font family doesn't include **bold** or *italicized* styles, you won't actually be able to apply those styles to your website. For example, [Nunito](https://fonts.google.com/specimen/Nunito?query=nunito) comes in a variety of weights (boldness levels) and italic, where [Sen](https://fonts.google.com/specimen/Sen?query=sen) comes in a variety of weights, but not italic.
+- **Check out some visually-pleasing font pairings.** [fontpair](https://www.fontpair.co/all) has hundreds of Google Font pairings to browse!
+:::
+
+#### IV. Build your color palette
+
+::: {.callout-note collapse=true icon=false}
+## {{< fa palette title="paint palette" >}} Expand for information on building color palettes
 One of the most exciting parts of building a website is deciding on which colors you'll use. This can take some time and tweaking, so it's helpful to think a bit about your palette beforehand. We'll consider updating colors for the following website elements: 
 
 1. **Navigation Bar:** navbar background color, foreground (text) color, hover highlight color
@@ -51,7 +116,7 @@ One of the most exciting parts of building a website is deciding on which colors
 
 We'll be using a language called [Sass](https://sass-lang.com/) to create variables for each of the colors we plan to use throughout our websites (more on that soon!). 
 
-[**For a smooth in-class experience, it will be helpful for you to draft up your color variables ahead of time and save them to a place where you can easily copy them from (e.g. a Google Doc is totally sufficient). Define your color variables using the syntax, `$variable-name: value;`, where you decide on your `variable-name`, and `value` is a HEX color code ([htmlcolorcodes.com](https://htmlcolorcodes.com/) is my favorite site for grabbing HEX codes).**]{.teal-text}
+[**It's helpful to draft up your color variables ahead of time (and save them to your personal branding guide) so that you easily copy them into your stylesheet during class. Define your color variables using the syntax, `$variable-name: value;`, where you decide on your `variable-name`, and `value` is a HEX color code ([htmlcolorcodes.com](https://htmlcolorcodes.com/) is my favorite site for grabbing HEX codes).**]{.teal-text}
 
 For example, here are the color variables I'll use for my website during the workshop: 
 
@@ -67,53 +132,35 @@ $purple: #9158A2;
 $orange: #ad7237;
 ```
 
-<!-- [**Come to class with a list of HEX color codes that you'd like to try out on your website.**]{.teal-text} -->
-
-::: {.callout-tip collapse=true}
-## Tips on choosing your website's color palette
+#### Tips on choosing your color palette:
 - **Stick to about 3-4 colors.** Choosing too many colors can overwhelm readers. Consider using different shades of the primary color throughout your site, with a couple complementing / contrasting colors for important highlighted text and / or features.
+- **Consider what emotions your color choices evoke:** Colors influence perceptions, emotions, and even behavior. Consider which colors best reflect your branding adjectives and key messages. See [this post on color psychology](https://blog.hubspot.com/the-hustle/psychology-of-color), by HubSpot for guidance.
 - **Use a random color generator.** My favorite is <https://coolors.co/> -- press the space bar to generate new colors. When you see one (or more) that you like, "lock" them in place by clicking on the lock icon. Continue pressing the space bar to generate new colors in the "unlocked" positions.
-- **Generate a color palette from a photo / image.** Have an interesting background in your headshot? Consider generating a palette off of it! Check out [Color Thief](https://lokeshdhakar.com/projects/color-thief/) for all your color stealing needs.
-- **Consider contrast and colorblindness-friendly palettes.** I love the [Let's get color blind](https://chromewebstore.google.com/detail/lets-get-color-blind/bkdgdianpkfahpkmphgehigalpighjck?pli=1) Google Chrome extension for simulating color deficiencies in the web browser, and the [coolers color contrast checker](https://coolors.co/contrast-checker/112a46-acc8e5) for calculating the contrast ratio of text and background colors (it'll even suggest new colors to improve your contrast).
+- **Generate a color palette from a photo / image.** Have an interesting background in your headshot? Consider generating a palette off of it! Check out [Color Thief](https://lokeshdhakar.com/projects/color-thief/) for all your color stealing needs. Alternatively, explore pre-made palettes generated from [trending Adobe Stock photos](https://color.adobe.com/trends).
+- **Consider contrast and colorblindness-friendly palettes.** I love the [Let's get color blind](https://chromewebstore.google.com/detail/lets-get-color-blind/bkdgdianpkfahpkmphgehigalpighjck?pli=1) Google Chrome extension for simulating color deficiencies in the web browser, and the [coolers color contrast checker](https://coolors.co/contrast-checker/112a46-acc8e5) for calculating the contrast ratio of text and background colors (it'll even suggest modified colors to improve your contrast, if needed).
 - **Get inspired by other websites.** And you don't need to take inspiration only from Quarto websites. Just a small handful of examples sites with color schemes that I really love:
   - [Angelina Miller](https://angeliamiller.github.io/){target="_blank"}
   - [Meghan Hall](https://meghan.rbind.io/){target="_blank"}
-  - [Meagan Brown](https://meaganbrown.github.io/){target="_blank"} (MEDS 2023)
   - [Nicola Rennie](https://nrennie.rbind.io/){target="_blank"}
   - [Sylvia Canelón](https://silviacanelon.com/){target="_blank"}
   - [Ella Kaye](https://ellakaye.co.uk/about.html){target="_blank"}
   - [Robert Mitchell](https://robertmitchellv.com/){target="_blank"}
   - [Maya Gans](https://maya.rbind.io/){target="_blank"}
+  
 :::
 
-### B. Select your typefaces / fonts
+#### V. (Optional) Create a personal logo and / or favicon
 
-Your typeface and font choices are just as important as your color choices! First, a few important definitions:
+::: {.callout-note collapse=true icon=false}
+## {{< fa face-smile title="smiling face" >}} Expand for information on creating a personal logo
 
-- **typeface (aka font family):** the underlying visual design (e.g. Times New Roman, Helvetica, Roboto)
-- **font:** an implementation / variation of a typeface (e.g. Times New Roman in bold, Times New Roman in  italic)
+Quarto supports adding a personal logo to the top left corner of your website's navbar (e.g. see [my website](https://samanthacsik.github.io/)). While completely optional, logos can be attention-grabbing and memorable, offering a way to distinguish yourself. [**If you'd like to start workshopping your own logo, consider the following tips and try out some free logo makers:**]{.teal-text}
 
-We'll import and apply font families from [Google Fonts](https://fonts.google.com/). [**Explore the vast selection, and choose 1-2 font families. Add their names and hyperlinks to your Google Doc for safe keeping.**]{.teal-text} 
+#### Tips & resources for creating a personal logo:
 
-::: {.callout-tip collapse=true}
-## Tips on choosing your font family(ies)
-- **Stick to 1-2 font families.** Just like colors, using too many typefaces can overwhelm a reader. You can use one typeface across your entire website, or alternatively, choose one typeface for things like header text and another for body text.
-- **When in doubt, use a sans-serif font family.** [Sans-serif](https://fonts.google.com/knowledge/glossary/sans_serif) fonts work great everywhere, but are especially ideal for body text since they're cleaner and easier to read. If you do want to use a [serif font](https://fonts.google.com/knowledge/glossary/serif), it's best to reserve those for any header text.
-- **Make sure your font family choice(s) have a variety of styles.** If your font family doesn't include **bold** or *italicized* styles, you won't actually be able to apply those styles to your website. For example, [Nunito](https://fonts.google.com/specimen/Nunito?query=nunito) comes in a variety of weights (boldness levels) and italic, where [Sen](https://fonts.google.com/specimen/Sen?query=sen) comes in a variety of weights, but not italic.
-- **Check out some visually-pleasing font pairings.** [fontpair](https://www.fontpair.co/all) has hundreds of Google Font pairings to browse!
-:::
-
-### C. (Optional) Create a personal logo and / or favicon
-
-Quarto supports adding a personal logo to the top left corner of your website's navbar (e.g. see [my website](https://samanthacsik.github.io/)). While completely optional, logos can be attention-grabbing and memorable, offering a way to distinguish yourself. [**If you'd like to start workshopping your own logo, check out the following resources:**]{.teal-text}
-
-::: {.callout-important collapse=true}
-## TODO: Tips on creating a personal logo
-
-- General tips: 
-  - Keep it simple
-  - Consider incorporating your name or initials (though not necessarily required)
-  - Colors and fonts should match / complement the rest of your branding package
+- Keep it simple
+- Consider incorporating your name or initials (though not necessarily required)
+- Colors and fonts should match / complement the rest of your branding package
 - Consider creating a [favicon](https://en.wikipedia.org/wiki/Favicon) (image displayed in a web browser's address bar) that matches / complements your logo
 - Try out one of these free logo makers:
   - [Adobe Express](https://www.adobe.com/express/create/logo) (this is what I used for my personal logo)
@@ -122,9 +169,21 @@ Quarto supports adding a personal logo to the top left corner of your website's 
   
 :::
 
+#### VI. Curate potential image assets
+
+::: {.callout-note collapse=true icon=false}
+## {{< fa image title="photo image" >}} Expand for information on image assets
+
+**Branding image assets are visual elements that help to define a brand's identity.**
+
+These include your logo, headshot, and any other photos / images you plan to use across your website. You might also include images that influence the overall aesthetic of your brand, but that might not necessarily be used as content on your site.
+
+[**Begin gathering your image assets and add them to your personal branding guide.**]{.teal-text}
+:::
+
 ## {{< fa person-chalkboard title="a person pointing at a chalkboard" >}} Lecture Materials {#lecture-materials}
 
-The code examples that we'll walk through as a class (along with lots of other info), can be found in these slides: 
+We'll spend our class time learning how to style our Quarto websites using a variety of approaches -- from modifying our `_quarto.yml` file, to creating a stylesheet with Sass variables and CSS rules. Have your personal branding guide ready to reference throughout! All code and examples that we'll cover can be found in these slides: 
 
 ::: {.center-text}
 [{{< fa person-chalkboard title="A person motioning at a chalkboard" >}} Customizing Quarto websites](https://ucsb-meds.github.io/customizing-quarto-websites/#/title-slide){.btn role="button" target="_blank"} 
@@ -132,6 +191,9 @@ The code examples that we'll walk through as a class (along with lots of other i
 
 ## {{< fa plus title="plus" >}} What should I continue working on? {#continue-working}
 
-1. [**Try different color combos and / or fonts.**]{.teal-text} This is arguably the most fun part of building your website and where you can really let your personality and brand shine through. It can take a while to settle on something that you feel really represents *you*, and that's okay (I've also changed my entire color scheme and font styles multiple times over the years). 
-2. [**Consider writing / borrowing / adapting CSS rules to refine your website styling.**]{.teal-text} You can take your website styling *far* just by defining [Quarto's Sass variables](https://quarto.org/docs/output-formats/html-themes.html#sass-variables). However, if you're looking to fine-tune the appearance of certain web page elements, you may consider turning to more CSS. Review the workshop slides for suggested approaches and tools for guiding your CSS-writing journeys. 
+1. [**Seek feedback on your personal brand from those who know you well.**]{.teal-text} Would they use the same adjectives to describe you? What strengths and characteristics do they perceive that you hadn't identified yourself? What emotions do your colors, fonts, imagery, and tone evoke? ***It's important to remember that your personal brand can (and should) evolve with you! This week is just a starting point.***
+2. [**Revisit and revise your landing page content / bio, as needed.**]{.teal-text} Does your landing page bio fit your personal brand? Consider what information you include and your tone -- does it make sense to revise your bio to better fit your brand? Consider if your chosen [template](https://quarto.org/docs/websites/website-about.html#templates) suits your needs, or if a different layout might work better. 
+3. [**Add pages to your website.**]{.teal-text} Has thinking deeply about your personal brand inspired ideas for different web pages? Go ahead and add them! Recall that you can add / remove pages by modifying your `_quarto.yml` file. See [last class' materials](https://ucsb-meds.github.io/creating-quarto-websites/#add-additional-pages-to-your-website) if you need a reminder of how to do so. It's sufficient to include placeholder text to those pages (e.g. *Coming soon!*) if you're not quite ready to complete them. You may also remove pages (e.g. `about.qmd` and `resources.qmd`) if you don't plan to use them (though note that you *must* keep `index.qmd`).
+4. [**Try different color combos and / or fonts.**]{.teal-text} This is arguably the most fun part of building your website and where you can really let your personality and brand shine through. It can take a while to settle on something that you feel really represents *you*, and that's okay (I've changed my entire color scheme and font styles multiple times over the years). 
+5. [**Consider writing / borrowing / adapting CSS rules to refine your website styling.**]{.teal-text} You can take your website styling *far* just by defining [Quarto's Sass variables](https://quarto.org/docs/output-formats/html-themes.html#sass-variables). However, if you're looking to fine-tune the appearance of certain web page elements, you may consider turning to more CSS. Review the [workshop slides](https://ucsb-meds.github.io/customizing-quarto-websites/#/title-slide) for suggested approaches and tools for guiding your CSS-writing journeys. 
 
