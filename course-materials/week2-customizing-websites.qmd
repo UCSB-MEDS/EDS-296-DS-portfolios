@@ -25,6 +25,7 @@ knitr::include_graphics("../images/sass-css.png")
 
 By the end of today's class, you should have: 
 
+- your personal branding guide *(to be completed ahead of class)*
 - a stylesheet (`.scss` file) for customizing your website's appearance
 
 ## {{< fa clipboard-list title="a clipboard with a To Do list" >}} Pre-class Prep {#pre-class-prep}
@@ -35,9 +36,26 @@ This week's pre-class prep is to create your own personal branding guide -- a co
 
 ***Why is it important that you consider your brand identity?*** Bren Teaching Faculty and science communication professional, [Alex Phillips](https://www.alexandraatleephillips.com/){target="_blank"}, summarizes this nicely in her talk [Establishing Your Online Presence](https://docs.google.com/presentation/d/1PVLZdL8CLbauFW-Ev1bxhiJCXlsWI3J2i4pCNrsEmsA/edit#slide=id.p){target="_blank"}. She explains that establishing your brand identity:
 
-- gives you more control over your online presence 
+- gives you more control over your online presence
+  <!-- - e.g. you're not constrained by a platform's (e.g. LinkedIn) layout or style -->
 - creates consistency, which builds trustworthiness and credibility
+  <!-- - e.g. consistent messaging and focus encourages visitors to return for more -->
 - filters decision-making about your online content
+  <!-- - e.g. if you want your brand to promote your expertise in data science, is your website the right place to also add your travel blog? -->
+
+::: {.callout-tip collapse=true}
+## Interested in reading more about the benefits of developing a personal brand? Check out these resources:
+
+Many thanks to [Miya Scheble](https://bren.ucsb.edu/people/miya-scheble) (MEDS career Development Program Manager) for sharing these resources!
+
+- [How to build your personal brand as a newbie data analyst.](https://brighteze.medium.com/how-to-build-your-personal-brand-as-a-newbie-data-analyst-257a0697eb1d), by [Bright](https://brighteze.medium.com/)
+- [Building a Personal Brand in Data Science: Your Key to Career Advancement](https://www.linkedin.com/pulse/building-personal-brand-data-science-your-key-career-advancement/), by [Kannan Kasi](https://www.linkedin.com/in/kannankasi/)
+- [Using data science to build a personal brand](https://www.linkedin.com/pulse/using-data-science-build-personal-brand-abigail-abby-shockley-phd/), by [Abigail (Abby) Shockley](https://www.linkedin.com/in/acshock/)
+- [How To Build a Personal Brand: 10 Tips](https://graduate.northeastern.edu/resources/tips-for-building-your-personal-brand/), by [Shayna Joubert](https://www.linkedin.com/in/shaynajoubert/)
+- [How to Build a Personal Brand Website: 5 Essentials to Include](https://www.kadencewp.com/blog/how-to-build-a-personal-brand-website-5-essentials-to-include/), by [Kathryn Lang](https://www.kadencewp.com/author/klangithemes/)
+- [Building a Data Science Brand](https://www.discoverdatascience.org/articles/building-a-data-science-brand/), by [Kate Strachnyi](https://www.datacated.com/about)
+
+:::
 
 [**Fill out this [personal branding guide template](https://docs.google.com/document/d/1_GDgYPRR5hZzodwXyJV2aBWKU_OTBY3JOwi0dlSyBAQ/edit){target="_blank"} ahead of class. Read through sections I - VI, below, for guidance.**]{.teal-text} Here is [my personal branding guide](https://docs.google.com/document/d/1mJTS_ky_RY5JGFDoAGA004z01gMw2-Lu0w_ONtvl2DE/edit?usp=sharing){target="_blank"}, as an example. 
 
@@ -67,7 +85,7 @@ Consider:
 
 - How do these key messages incorporate / add context to your personal branding adjectives?
 - Aim for ~2-3 sentences (can be bullet points)
-- Similar to your adjectives, these key messages do not need to be explicitly stated somewhere on your website. However, you may find that they work well as taglines on your landing page (or even your LinkedIn profile), or help you construct your website bio.
+- Similar to your adjectives, these key messages do not need to be explicitly stated somewhere on your website. However, you may find that they work well as taglines on your landing page (or even your LinkedIn profile), or help you (re)frame your website bio.
 :::
 
 #### II. Define your target audience(s)
@@ -83,6 +101,12 @@ Your brand does not need to speak to or reach *everyone* -- instead, you should 
 - your tone
 
 [**Write down your target audience(s).**]{.teal-text}
+
+Some examples include:
+
+- potential employers (feel free to be more specific here as well, e.g. potential employers in the environmental data science sector)
+- early career data scientists or environmental scientists
+- environmental data scientists who are also passionate about X ([Jadey Ryan](https://jadeyryan.com/) is a great example of this!)
 :::
 
 #### III. Select your typefaces / fonts
@@ -133,7 +157,7 @@ $orange: #ad7237;
 ```
 
 #### Tips on choosing your color palette:
-- **Stick to about 3-4 colors.** Choosing too many colors can overwhelm readers. Consider using different shades of the primary color throughout your site, with a couple complementing / contrasting colors for important highlighted text and / or features.
+- **Stick to about 3-4 main colors.** Choosing too many colors can overwhelm readers. Consider using different shades of the primary color throughout your site, with a couple complementing / contrasting colors for important highlighted text and / or features. A good general rule of thumb is the [60-30-10 rule](https://www.freecodecamp.org/news/the-60-30-10-rule-in-design/) -- your primary color should be used in ~60% of your design, the secondary color should take up ~30%, and your accent color ~10%.
 - **Consider what emotions your color choices evoke:** Colors influence perceptions, emotions, and even behavior. Consider which colors best reflect your branding adjectives and key messages. See [this post on color psychology](https://blog.hubspot.com/the-hustle/psychology-of-color), by HubSpot for guidance.
 - **Use a random color generator.** My favorite is <https://coolors.co/> -- press the space bar to generate new colors. When you see one (or more) that you like, "lock" them in place by clicking on the lock icon. Continue pressing the space bar to generate new colors in the "unlocked" positions.
 - **Generate a color palette from a photo / image.** Have an interesting background in your headshot? Consider generating a palette off of it! Check out [Color Thief](https://lokeshdhakar.com/projects/color-thief/) for all your color stealing needs. Alternatively, explore pre-made palettes generated from [trending Adobe Stock photos](https://color.adobe.com/trends).
@@ -160,7 +184,7 @@ Quarto supports adding a personal logo to the top left corner of your website's 
 
 - Keep it simple
 - Consider incorporating your name or initials (though not necessarily required)
-- Colors and fonts should match / complement the rest of your branding package
+- Colors and fonts should match / complement the rest of your branding guide
 - Consider creating a [favicon](https://en.wikipedia.org/wiki/Favicon) (image displayed in a web browser's address bar) that matches / complements your logo
 - Try out one of these free logo makers:
   - [Adobe Express](https://www.adobe.com/express/create/logo) (this is what I used for my personal logo)
@@ -183,7 +207,7 @@ These include your logo, headshot, and any other photos / images you plan to use
 
 ## {{< fa person-chalkboard title="a person pointing at a chalkboard" >}} Lecture Materials {#lecture-materials}
 
-We'll spend our class time learning how to style our Quarto websites using a variety of approaches -- from modifying our `_quarto.yml` file, to creating a stylesheet with Sass variables and CSS rules. Have your personal branding guide ready to reference throughout! All code and examples that we'll cover can be found in these slides: 
+We'll spend our class time learning how to style our Quarto websites using a variety of approaches -- from modifying our `_quarto.yml` file, to creating a stylesheet with Sass variables and CSS rules. **Have your personal branding guide ready to reference throughout!** All code and examples that we'll cover can be found in these slides: 
 
 ::: {.center-text}
 [{{< fa person-chalkboard title="A person motioning at a chalkboard" >}} Customizing Quarto websites](https://ucsb-meds.github.io/customizing-quarto-websites/#/title-slide){.btn role="button" target="_blank"} 
@@ -193,7 +217,7 @@ We'll spend our class time learning how to style our Quarto websites using a var
 
 1. [**Seek feedback on your personal brand from those who know you well.**]{.teal-text} Would they use the same adjectives to describe you? What strengths and characteristics do they perceive that you hadn't identified yourself? What emotions do your colors, fonts, imagery, and tone evoke? ***It's important to remember that your personal brand can (and should) evolve with you! This week is just a starting point.***
 2. [**Revisit and revise your landing page content / bio, as needed.**]{.teal-text} Does your landing page bio fit your personal brand? Consider what information you include and your tone -- does it make sense to revise your bio to better fit your brand? Consider if your chosen [template](https://quarto.org/docs/websites/website-about.html#templates) suits your needs, or if a different layout might work better. 
-3. [**Add pages to your website.**]{.teal-text} Has thinking deeply about your personal brand inspired ideas for different web pages? Go ahead and add them! Recall that you can add / remove pages by modifying your `_quarto.yml` file. See [last class' materials](https://ucsb-meds.github.io/creating-quarto-websites/#add-additional-pages-to-your-website) if you need a reminder of how to do so. It's sufficient to include placeholder text to those pages (e.g. *Coming soon!*) if you're not quite ready to complete them. You may also remove pages (e.g. `about.qmd` and `resources.qmd`) if you don't plan to use them (though note that you *must* keep `index.qmd`).
-4. [**Try different color combos and / or fonts.**]{.teal-text} This is arguably the most fun part of building your website and where you can really let your personality and brand shine through. It can take a while to settle on something that you feel really represents *you*, and that's okay (I've changed my entire color scheme and font styles multiple times over the years). 
+3. [**Add pages to your website.**]{.teal-text} Has thinking deeply about your personal brand inspired ideas for different web pages? Go ahead and add them! Recall that you can add / remove pages by modifying your `_quarto.yml` file (see [last class' materials](https://ucsb-meds.github.io/creating-quarto-websites/#add-additional-pages-to-your-website) if you need a reminder of how to do so). It's sufficient to include placeholder text to those pages (e.g. *Coming soon!*) if you're not quite ready to complete them. You may also remove pages (e.g. `about.qmd` and `resources.qmd`) if you don't plan to use them (though note that you *must* keep `index.qmd`).
+4. [**Finish applying your colors to different website elements using [Quarto's Sass variables](https://quarto.org/docs/output-formats/html-themes.html#sass-variables).**]{.teal-text} And test out different color combos and / or fonts, if you're not totally satisfied with your original choices. This is arguably the most fun part of building your website and where you can really let your personality and brand shine through. It can take a while to settle on something that you feel really represents *you*, and that's okay (I've changed my entire color scheme and font styles multiple times over the years). 
 5. [**Consider writing / borrowing / adapting CSS rules to refine your website styling.**]{.teal-text} You can take your website styling *far* just by defining [Quarto's Sass variables](https://quarto.org/docs/output-formats/html-themes.html#sass-variables). However, if you're looking to fine-tune the appearance of certain web page elements, you may consider turning to more CSS. Review the [workshop slides](https://ucsb-meds.github.io/customizing-quarto-websites/#/title-slide) for suggested approaches and tools for guiding your CSS-writing journeys. 
 

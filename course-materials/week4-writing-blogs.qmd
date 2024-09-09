@@ -28,11 +28,15 @@ By the end of today's class, you should have:
 
 ## {{< fa clipboard-list title="a clipboard with a To Do list" >}} Pre-class Prep {#pre-class-prep}
 
-https://docs.google.com/presentation/d/1dxviUquj4xTNY5pzoGSL-pukWgqC_nPqM9jCemiRAuY/edit#slide=id.g20e7ef3cb4c_0_365
+<!-- https://docs.google.com/presentation/d/1dxviUquj4xTNY5pzoGSL-pukWgqC_nPqM9jCemiRAuY/edit#slide=id.g20e7ef3cb4c_0_365 -->
 
 Please be sure to complete the following before class:
 
 ### A. Check out some data science-y blog posts
+
+::: {.callout-important}
+## TODO come back to this
+:::
 
 Reading other data science blogs is the best way to get a sense of not only the breadth of topics folks in the community are writing about, but also the tone, writing styles, and creative approaches you might take as a blogger. Check out a couple posts before class! 
 
@@ -63,15 +67,28 @@ And a few additional fun blogs to keep an eye on:
 This is only a small sampling of the *many* rad data science bloggers out there -- if you stumble upon others that you enjoy, be sure to share them in the class Slack channel!
 :::
 
-### B. Pick a function to blog about!
+### B. Add potential blog post topics / ideas to your personal branding guide (part VII)
 
 ::: {.callout-important}
 ## TODO come back to this
 :::
 
-Today, you'll be heeding David Robinson's advice and draft a blog post about a function or method...
+<!-- - have a list of blog post topics ahead of time -- why would someone come to your website and what can you provide them? no one is just going to come to your website -- when no one does, they discover why they should come back; see resource / interesteing story; build a pattern of trust with your website and brand -->
+<!-- - what would be somehting that would bring someone to my page; be strategic; give options for ideas -->
+<!-- - highlighting how a function works; advice that you wish you had before (don't be prescriptive, but give them ideas) -->
+<!-- - have them read 2 posts in class and highlight what they do or don't like about them in class; can think about tone, framing, humor, illustrations/visuals (what did they add/subtract); writing is subjective! -->
 
-Target audience -- next MEDS cohort (new learners)
+<!-- - have a draft outline of a blog post; by end of course, there should a fully finished blog; can amplify on social media -->
+
+<!-- - storytelling -- core pieces + embellishments (e.g. humor;j should add some but don't have to add all of them) -->
+
+<!-- - rescue was usign a super frustrating fxn but then found a new bettter one! -->
+
+<!-- - can break the rules; should have a story but not all of it has to be a part of the story necessarily -->
+
+<!-- - read some curated SECTIONS of blog posts and discuss things like tone, audience, humor, visuals (things they liked/didnt like as both a reader and a writer -->
+<!-- - draft an outline of their blog post in class and maybe exchange with someone for thoughts -->
+
 
 ## {{< fa person-chalkboard title="a person pointing at a chalkboard" >}} Lecture Materials {#lecture-materials}
 
@@ -89,5 +106,5 @@ Target audience -- next MEDS cohort (new learners)
 ## TODO come back to this
 :::
 
-1. [**Continue drafting / polishing your blog post.**]{.teal-text} 
+1. [**Continue drafting, writing, and polishing your blog post.**]{.teal-text} You (most likely) won't have a fully-written blog post by the end of class today, but **you should plan to complete and publish your post by the end of this class.**
 2. [**Seek feedback from others.**]{.teal-text} Consider switching blog posts with one (or more) of your peers, or stick around for office hours to chat with me about your ideas!

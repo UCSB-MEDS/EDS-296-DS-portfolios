@@ -83,7 +83,7 @@ We'll walk through the steps of building and deploying our personal websites tog
 
 ## {{< fa plus title="plus" >}} What should I continue working on? {#continue-working}
 
-1. [**Build your personal branding guide.**]{.teal-text} Next week, you'll learn how to customize your website so that it better reflects you and your goals, motivations, values, and interests. To do so effectively, you'll first want to spend some time thinking intentionally about your *personal brand*. See the next [pre-class prep](week2-customizing-websites.qmd#pre-class-prep) for detailed instructions on how to prepare your personal branding guide.
+1. [**Build your personal branding guide.**]{.teal-text} Next class, you'll learn how to customize your website so that it better reflects you and your goals, motivations, values, and interests. To do so effectively, you'll first want to spend some time thinking intentionally about your *personal brand*. See the next [pre-class prep](week2-customizing-websites.qmd#pre-class-prep) for detailed instructions on how to prepare your personal branding guide.
 
 
 <!-- ::: {.callout-tip} -->
