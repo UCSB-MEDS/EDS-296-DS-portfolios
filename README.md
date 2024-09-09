@@ -2,7 +2,7 @@
 
 ![Screenshot 2024-09-03 at 12 30 58 PM](https://github.com/user-attachments/assets/80aa7341-b982-49a5-9cb8-6b4e04f45068)
 
-Code for the [EDS 296-1F course website](https://ucsb-meds.github.io/EDS-296-DS-portfolios/).
+This repository houses the code for the [EDS 296-1F course website](https://ucsb-meds.github.io/EDS-296-DS-portfolios/).
 
 ## Course Description
 
