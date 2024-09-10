@@ -10,7 +10,7 @@ toc: true
 #| eval: true
 #| echo: false
 #| fig-align: "center"
-#| out-width: "70%"
+#| out-width: "60%"
 knitr::include_graphics("../images/drob-tweet.png")
 ```
 
@@ -24,21 +24,52 @@ knitr::include_graphics("../images/drob-tweet.png")
 
 By the end of today's class, you should have:
 
-- a draft of your first data science blog post!
+- a draft of your first data science blog post
 
 ## {{< fa clipboard-list title="a clipboard with a To Do list" >}} Pre-class Prep {#pre-class-prep}
 
-<!-- https://docs.google.com/presentation/d/1dxviUquj4xTNY5pzoGSL-pukWgqC_nPqM9jCemiRAuY/edit#slide=id.g20e7ef3cb4c_0_365 -->
-
 Please be sure to complete the following before class:
 
-### A. Check out some data science-y blog posts
+### A. Add potential blog post topics / ideas to your personal branding guide (part VII)
 
-::: {.callout-important}
-## TODO come back to this
+Coming up with topics to blog about can feel intimidating (especially in the beginning), however your personal branding guide can help to steer you in a productive direction. Recall that your personal brand shapes how you present yourself, not only in your aesthetic choices, but also the types of content you choose to publish and the tone you use throughout. 
+
+A few data science bloggers who have a recognizable brand: 
+
+- **[Cédric Scherer's blog](https://www.cedricscherer.com/)** is one of the first places I turn to when I'm looking for **data viz / `{ggplot2}` content**
+- **[Crystal Lewis' blog](https://cghlewis.com/blog/)** features lots of tutorials and conversations about **data management practices**
+- **[Danielle Navarro's blog](https://blog.djnavarro.net/)** chronicles her experiences **learning new tools** and approaches (and doesn't shy away from using lots of **humor** in the process)
+
+**NOTE:** You (most likely) will not have your brand identity fully sorted and solidified by this point (and that's perfectly okay!). The above examples are meant to show how working towards finding your brand can (over time) help build a pattern of trust that draws visitors back to your website.
+
+[**Review your personal branding guide and jot down some potential blog post ideas / topics that fit your brand identity (part VII; refer back to the [template](https://docs.google.com/document/d/1_GDgYPRR5hZzodwXyJV2aBWKU_OTBY3JOwi0dlSyBAQ/edit){target="_blank"}, if necessary). Be prepared to select *one* of your ideas during class, where you'll begin to actually draft your first blog post. Consider the following:**]{.teal-text}
+
+- What do your personal branding adjectives and key messages say about you and your interests? 
+- What topics blend your current interests and expertise with your future learning goals?
+- What might draw someone to *your* website over a different website? Consider how your brand can help to define your niche.
+- Not all data science blog posts need to be technical (e.g. include example code) -- reflections and commentary on different aspects of your data science journey can be equally as valuable.
+- Ultimately, you should be choosing something you're excited to write about (it can be easier to engage a reader when you yourself are jazzed about the topic)!
+
+::: {.callout-tip collapse=true}
+## Need some help kickstarting the creatvity? Here are some potential blog post topics / ideas to consider:
+
+- how your past professional or personal interests led you to pursue a degree in environmental data science
+- non-data science skills / experiences that you've found to be transferable to your data science learning journey (in perhaps surprising / unexpected ways) 
+- advice you wish you had before beginning a data science program
+- reflecting on the MEDS 6-week summer coding bootcamp
+- your journey towards discovering your personal brand identity / building your website(!)
+- what early data science skills you've found most valuable or surprising (so far), and why
+- a mini tutorial on a focused data science skill / topic, e.g. 
+  - how to use a particularly helpful function(s)
+  - a data science workflow or organizational procedure you've adopted, and why
+  - building a data visualization or other creative product
+
+It's still valuable (and important) to think about how your framing, tone, and focus within each of these suggested topic areas fits your brand identity.
 :::
 
-Reading other data science blogs is the best way to get a sense of not only the breadth of topics folks in the community are writing about, but also the tone, writing styles, and creative approaches you might take as a blogger. Check out a couple posts before class! 
+### B. (Optional) Check out some data science-y blog posts
+
+Reading other data science blogs is the best way to get a sense of not only the breadth of topics that folks in the community are writing about, but also the tone, writing styles, and creative approaches you might take as a blogger. We'll discuss some snippets from example blog posts during class, though you should feel free to explore some blogs ahead of time, if you're eager:
 
 ::: {.callout-tip collapse=true}
 ## A small collection of data science posts and blogs:
@@ -50,7 +81,6 @@ A handful of posts to showcase some different writing styles and topics areas:
 - [Porting the Openscapes website from blogdown to Quarto](https://samanthacsik.github.io/posts/2023-08-01-openscapes-website/){target="_blank"}, by [Sam Csik](https://samanthacsik.github.io){target="_blank"}
 - [Getting started with Apache Arrow](https://blog.djnavarro.net/posts/2021-11-19_starting-apache-arrow-in-r/){target="_blank"}, by [Danielle Navarro](https://djnavarro.net/){target="_blank"}
 - [Sharing pictures of code](https://emilhvitfeldt.com/post/sharing-code-pictures/){target="_blank"}, by [Emil Hvitfeldt](https://emilhvitfeldt.com/){target="_blank"}
-- [A simple project organization workflow](https://flukeandfeather.com/posts/2023-06-20-project-organization/){target="_blank"}, by [Max Czapanskiy](https://flukeandfeather.com/){target="_blank"}
 
 And a few additional fun blogs to keep an eye on:
 
@@ -61,33 +91,12 @@ And a few additional fun blogs to keep an eye on:
 - [Shannon Pileggi](https://www.pipinghotdata.com/blog){target="_blank"}
 - [Albert Rapp](https://albert-rapp.de/blog){target="_blank"}
 - [Nicola Rennie](https://nrennie.rbind.io/blog/){target="_blank"}
+- [Cédric Scherer](https://www.cedricscherer.com/){target="_blank"}
 - [Cara Thompson](https://www.cararthompson.com/posts){target="_blank"}
 - [Isabella Velásquez](https://ivelasq.rbind.io/){target="_blank"}
 
 This is only a small sampling of the *many* rad data science bloggers out there -- if you stumble upon others that you enjoy, be sure to share them in the class Slack channel!
 :::
-
-### B. Add potential blog post topics / ideas to your personal branding guide (part VII)
-
-::: {.callout-important}
-## TODO come back to this
-:::
-
-<!-- - have a list of blog post topics ahead of time -- why would someone come to your website and what can you provide them? no one is just going to come to your website -- when no one does, they discover why they should come back; see resource / interesteing story; build a pattern of trust with your website and brand -->
-<!-- - what would be somehting that would bring someone to my page; be strategic; give options for ideas -->
-<!-- - highlighting how a function works; advice that you wish you had before (don't be prescriptive, but give them ideas) -->
-<!-- - have them read 2 posts in class and highlight what they do or don't like about them in class; can think about tone, framing, humor, illustrations/visuals (what did they add/subtract); writing is subjective! -->
-
-<!-- - have a draft outline of a blog post; by end of course, there should a fully finished blog; can amplify on social media -->
-
-<!-- - storytelling -- core pieces + embellishments (e.g. humor;j should add some but don't have to add all of them) -->
-
-<!-- - rescue was usign a super frustrating fxn but then found a new bettter one! -->
-
-<!-- - can break the rules; should have a story but not all of it has to be a part of the story necessarily -->
-
-<!-- - read some curated SECTIONS of blog posts and discuss things like tone, audience, humor, visuals (things they liked/didnt like as both a reader and a writer -->
-<!-- - draft an outline of their blog post in class and maybe exchange with someone for thoughts -->
 
 
 ## {{< fa person-chalkboard title="a person pointing at a chalkboard" >}} Lecture Materials {#lecture-materials}
@@ -102,9 +111,5 @@ This is only a small sampling of the *many* rad data science bloggers out there 
 
 ## {{< fa plus title="plus" >}} What should I continue working on? {#continue-working}
 
-::: {.callout-important}
-## TODO come back to this
-:::
-
-1. [**Continue drafting, writing, and polishing your blog post.**]{.teal-text} You (most likely) won't have a fully-written blog post by the end of class today, but **you should plan to complete and publish your post by the end of this class.**
-2. [**Seek feedback from others.**]{.teal-text} Consider switching blog posts with one (or more) of your peers, or stick around for office hours to chat with me about your ideas!
+1. [**Seek feedback on your draft / plan from others.**]{.teal-text} Consider switching blog post drafts with one (or more) of your peers, or stick around for office hours to chat with me about your ideas!
+2. [**Continue drafting, writing, and polishing your blog post.**]{.teal-text} You (most likely) won't have a fully-written blog post by the end of class today, but ***you should plan to complete and publish your post by the end of this class.***

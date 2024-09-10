@@ -61,7 +61,7 @@ knitr::include_graphics("images/sam-brand-slide.png")
 
 - my brand overview:
 
->*"I want my brand to reflect my enthusiasm for data science education and inclusive pedagogical approaches, as well as my active participation in co-learning communities. The content I include focuses on data science tutorials and reflections around workflows, collaboration, and pedagogy. My mental and physical health benefits from active time outdoors -- my color palette (greens and warm highlights) is inspired by some of my favorite natural spaces that I recreate in, and reflects a calming / welcoming tone."*
+>*"I want my brand to reflect my enthusiasm for data science education and inclusive pedagogical approaches, as well as my active participation in co-learning communities. The content I include focuses on data science tutorials and reflections around workflows, collaboration, and pedagogy. My mental and physical health benefits from active time outdoors -- my color palette (greens and warm accents) is inspired by some of my favorite natural spaces that I recreate in, and reflects a calming / welcoming tone."*
 :::
 
 ## {{< fa person-chalkboard title="a person pointing at a chalkboard" >}} Lecture Materials {#lecture-materials}
@@ -88,6 +88,12 @@ We'll begin class with an overview of some of GitHub's many tools for organizing
 
 :::
 
+<!-- ::: {.callout-note} -->
+<!-- ## (Optional) Have your personal website added to your Bren profile -->
+
+
+<!-- ::: -->
+
 ## {{< fa plus title="plus" >}} What should I continue working on? {#continue-working}
 
 1. [**Continue creating organized / polished GitHub repositories:**]{.teal-text} Consider this a part of your standard data science workflow from here on out. Your repos should be easy for someone else to navigate and understand using your README (and possibly other documentation, e.g. wiki).
@@ -98,3 +104,5 @@ We'll begin class with an overview of some of GitHub's many tools for organizing
 ::: {.callout-important}
 ## TODO: get resume template from Miya
 :::
+
+
