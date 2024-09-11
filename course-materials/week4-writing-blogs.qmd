@@ -38,9 +38,9 @@ A few data science bloggers who have a recognizable brand:
 
 - **[Cédric Scherer's blog](https://www.cedricscherer.com/)** is one of the first places I turn to when I'm looking for **data viz / `{ggplot2}` content**
 - **[Crystal Lewis' blog](https://cghlewis.com/blog/)** features lots of tutorials and conversations about **data management practices**
-- **[Danielle Navarro's blog](https://blog.djnavarro.net/)** chronicles her experiences **learning new tools** and approaches (and doesn't shy away from using lots of **humor** in the process)
+- **[Danielle Navarro's blog](https://blog.djnavarro.net/)** largely chronicles her experiences **learning new tools** and **creating generative art**
 
-**NOTE:** You (most likely) will not have your brand identity fully sorted and solidified by this point (and that's perfectly okay!). The above examples are meant to show how working towards finding your brand can (over time) help build a pattern of trust that draws visitors back to your website.
+**NOTE:** You (most likely) will not have your brand identity fully sorted and solidified by this point (and that's perfectly okay!). The above examples are meant to show how working towards finding your brand can (over time) help build a pattern of trust that draws visitors back to your website in search of familiar content.
 
 [**Review your personal branding guide and jot down some potential blog post ideas / topics that fit your brand identity (part VII; refer back to the [template](https://docs.google.com/document/d/1_GDgYPRR5hZzodwXyJV2aBWKU_OTBY3JOwi0dlSyBAQ/edit){target="_blank"}, if necessary). Be prepared to select *one* of your ideas during class, where you'll begin to actually draft your first blog post. Consider the following:**]{.teal-text}
 
@@ -79,7 +79,7 @@ A handful of posts to showcase some different writing styles and topics areas:
 - [An introduction to Python for R Users](https://rebeccabarter.com/blog/2023-09-11-from_r_to_python){target="_blank"}, by [Rebecca Barter](https://rebeccabarter.com/about){target="_blank"}
 - [My first live coding interview](https://maya.rbind.io/posts/live-coding-interview/){target="_blank"}, by [Maya Gans](https://maya.rbind.io/){target="_blank"}
 - [Porting the Openscapes website from blogdown to Quarto](https://samanthacsik.github.io/posts/2023-08-01-openscapes-website/){target="_blank"}, by [Sam Csik](https://samanthacsik.github.io){target="_blank"}
-- [Getting started with Apache Arrow](https://blog.djnavarro.net/posts/2021-11-19_starting-apache-arrow-in-r/){target="_blank"}, by [Danielle Navarro](https://djnavarro.net/){target="_blank"}
+- [Generative art with grid](https://blog.djnavarro.net/posts/2023-03-31_generative-art-with-grid/){target="_blank"}, by [Danielle Navarro](https://djnavarro.net/){target="_blank"}
 - [Sharing pictures of code](https://emilhvitfeldt.com/post/sharing-code-pictures/){target="_blank"}, by [Emil Hvitfeldt](https://emilhvitfeldt.com/){target="_blank"}
 
 And a few additional fun blogs to keep an eye on:
@@ -106,7 +106,7 @@ This is only a small sampling of the *many* rad data science bloggers out there 
 :::
 
 ::: {.center-text}
-[{{< fa person-chalkboard title="A person motioning at a chalkboard" >}} lecture slides](materials/blogging-tips.qmd){.btn role="button" target="_blank"} 
+[{{< fa person-chalkboard title="A person motioning at a chalkboard" >}} writing data science blogs](materials/blogging-tips.qmd){.btn role="button" target="_blank"} 
 :::
 
 ## {{< fa plus title="plus" >}} What should I continue working on? {#continue-working}

@@ -1,19 +1,426 @@
 ---
-title: "Writing blogs"
-format: revealjs
+format: 
+  revealjs:
+    slide-number: true
+    # code-link: true
+    highlight-style: a11y
+    chalkboard: true
+    theme: 
+      - ../../meds-slides-styles.scss
+editor_options: 
+  chunk_output_type: console
 ---
 
-## title slide
+## {#title-slide data-menu-title="Title Slide" background="#053660"} 
+
+[EDS 296: Data Science Portfolios]{.custom-title}
+
+[*Blogging for data science*]{.custom-subtitle}
+
+<hr class="hr-teal">
+
+[October 25th, 2024]{.custom-subtitle3}
 
 ---
 
-## TL;DR
+## {#raise-hand data-menu-title="Raise hands"} 
 
-HT: Julie Lowndes
+::: {.center-text .body-text-l}
+Raise your hand if you enjoy writing (you can be honest)
+:::
+
+. . . 
+
+::: {.center-text .body-text-l}
+Raise your hand if you've ever blogged
+:::
+
+. . . 
+
+::: {.center-text .body-text-l}
+Raise your hand if you've ever felt like this:
+:::
+
+```{r}
+#| eval: true
+#| echo: false
+#| out-width: "60%"
+#| fig-align: "center"
+knitr::include_graphics("images/writing-meme.png")
+```
 
 ---
 
-<https://docs.google.com/presentation/d/1dxviUquj4xTNY5pzoGSL-pukWgqC_nPqM9jCemiRAuY/edit#slide=id.g20e7ef3cb4c_0_365>
+## {#blogging data-menu-title="Blogging?"} 
+
+[Blogging . . . in a data science program??]{.slide-title}
+
+<hr>
+
+<br>
+
+[It's actually quite popular!]{.body-text-m}  
+
+<br>
+
+. . . 
+
+[And I cannot overstate just how much my learning benefits from reading personal data science blogs. Just a few reasons:]{.body-text-m} 
+
+<br>
+
+- often **shorter** than book chapters
+- a **versatile medium** that can incorporate storytelling, humor, and non-traditional media (e.g. gifs, memes, videos, etc.) -- things that make the **author relatable**!
+- posts on **niche topics** that I haven't always found clear documentation for elsewhere
+- **networking** / getting to know active participants in the data science world
+
+---
+
+## {#visibility data-menu-title="Visibility"} 
+
+[Your blog can draw viewers to your website]{.slide-title}
+
+<hr>
+
+```{r}
+#| eval: true
+#| echo: false
+#| out-width: "60%"
+#| fig-align: "center"
+knitr::include_graphics("images/analytics-quarto-blog.png")
+```
+
+::: {.footer}
+A screenshot from my Google Analytics dashboard. My most highly-visited page is consistently [this blog post](https://samanthacsik.github.io/posts/2022-10-24-quarto-blogs/).
+
+<!-- Disclaimer: I don't really know what I'm doing when it comes to managing / understanding a lot that Google Analytics has to offer.  -->
+:::
+
+---
+
+## {#promote data-menu-title="Promoting posts"} 
+
+[Drive engagement by promoting your posts]{.slide-title2}
+
+<hr>
+
+```{r}
+#| eval: true
+#| echo: false
+#| out-width: "60%"
+#| fig-align: "center"
+knitr::include_graphics("images/analytics-linkedin-post.png")
+```
+
+::: {.footer}
+A screenshot from my Google Analytics dashboard. Views peaked when I [shared my blog post on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7181031975984488449/). 
+
+<!-- Disclaimer: I don't really know what I'm doing when it comes to managing / understanding a lot that Google Analytics has to offer.  -->
+:::
+
+---
+
+## {#intimidating data-menu-title="Writing can be intimidating"} 
+
+[Writing (in any form) can feel intimidating . . .]{.slide-title2}
+
+<hr>
+
+<br>
+
+[. . . but I hope that after today and over the next ~7 months, you'll find *blogging* to be:]{.body-text-m}
+
+<br>
+
+- a creative and flexible outlet
+- a motivator for learning new skills
+- a way to reflect on your work / find closure after a large effort
+- a fun way to showcase / market your technical skills (both programming and writing)
+
+---
+
+## {#look-at-posts data-menu-title="Look at some posts"} 
+
+[Writing (in any form) can feel intimidating . . .]{.slide-title2}
+
+<hr>
+
+The best way to get a sense of what data science blog posts *can* be like is (IMHO) to read some yourself. 
+
+With your partner, choose and read / skim one of the following blog posts: 
+
+- [1974...bird attacks?](https://allisonhorst.github.io/posts/2022-10-14-bird-attacks/), by [Allison Horst](https://allisonhorst.github.io/)
+- [My first live coding interview](https://maya.rbind.io/posts/live-coding-interview/), by [Maya Gans](https://maya.rbind.io/)
+- [Four ways to streamline your R workflows](https://nrennie.rbind.io/blog/four-ways-streamline-r-workflows/), by [Nicola Rennie](https://nrennie.rbind.io/)
+- [Porting the Openscapes website from blogdown to Quarto](https://samanthacsik.github.io/posts/2023-08-01-openscapes-website/), by [Sam Csik](https://samanthacsik.github.io/)
+
+We'll read just a few short snippets from a handful of data science blogs to see:
+
+- the breadth of topics folks write about
+- different writing styles, including tone
+- imagery and media you might include
+- create approaches
+
+---
+
+OKAY SO HOW DO WE DO THIS OURSELVES? 
+
+there are a few steps to structure your approach to blogging:
+
+1. decide on a topic -- in MEDS, you'll be asked to turn course assignments into scicomm pieces on your personal blog to help grow your portfolio; today (and beyond MEDS), you'll choose a topic that helps to promote your brand
+2. consider, then outline your story (framework)
+3. consider add-ons (humor, hooks, metaphors, characters)
+
+---
+
+there are a few steps to structure your approach to blogging:
+
+1. **decide on a topic -- in MEDS, you'll be asked to turn course assignments into scicomm pieces on your personal blog to help grow your portfolio; today (and beyond MEDS), you'll choose a topic that helps to promote your brand**
+2. consider, then outline your story (framework)
+3. consider add-ons (humor, hooks, metaphors, characters)
+
+---
+
+GIVE BACKGROUND / EXAMPLES OF TOPICS
+
+---
+
+YOUR TURN
+
+- discuss with your partner your topic of choice and how it fits with your intended brand image; it can help to pull up your personal branding guide for reference
+
+[add timer]
+
+---
+
+there are a few steps to structure your approach to blogging:
+
+1. decide on a topic -- in MEDS, you'll be asked to turn course assignments into scicomm pieces on your personal blog to help grow your portfolio; today (and beyond MEDS), you'll choose a topic that helps to promote your brand
+2. **consider, then outline your story (framework)**
+3. consider add-ons (humor, hooks, metaphors, characters)
+
+---
+
+## {#power-of-stories data-menu-title="Power of storytelling"} 
+
+[Storytelling is a powerful mechanism for effective (data) science communication]{.slide-title2}
+
+<hr>
+
+[Communicating via stories has been found to:]{.body-text-l}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+- Increase likelihood of people remembering information
+- Reduce disbelief and counter-arguing 
+- Make people feel the experience as if it was their own
+- Be much more convincing than just data or code
+- Increase engagement with a more general audience
+:::
+
+::: {.column width="50%"}
+
+```{r}
+#| eval: true
+#| echo: false
+#| out-width: "80%"
+#| fig-align: "center"
+knitr::include_graphics("images/storytelling.png")
+```
+
+::: {.center-text .body-text-s .gray-text}
+Image source: Shutterstock
+:::
+
+:::
+
+::::
+
+::: {.footer}
+From [Alex Phillips'](https://www.alexandraatleephillips.com/) [ESM 438](https://bren.ucsb.edu/courses/esm-438) course materials [(week 2 slides)](https://docs.google.com/presentation/d/1dxviUquj4xTNY5pzoGSL-pukWgqC_nPqM9jCemiRAuY/edit#slide=id.g1a32b3a6943_0_0)
+:::
+
+---
+
+## {#freytags-pyramid data-menu-title="Freytag's Pyramid"} 
+
+[Good stories build narrative tension over time with a distinct beginning, middle, and end]{.slide-title2}
+
+<hr>
+
+```{r}
+#| eval: true
+#| echo: false
+#| out-width: "100%"
+#| fig-align: "center"
+knitr::include_graphics("images/freytags-pyramid.png")
+```
+
+<br>
+
+::: {.footer}
+From [Alex Phillips'](https://www.alexandraatleephillips.com/) [ESM 438](https://bren.ucsb.edu/courses/esm-438) course materials [(week 2 slides)](https://docs.google.com/presentation/d/1dxviUquj4xTNY5pzoGSL-pukWgqC_nPqM9jCemiRAuY/edit#slide=id.g20e7ef3cb4c_0_575)
+:::
+
+---
+
+## {#starwars-exposition data-menu-title="Starwars exposition"} 
+
+[Example: Starwars (A New Hope)]{.slide-title}
+
+<hr>
+
+<br>
+
+```{r}
+#| eval: true
+#| echo: false
+#| out-width: "100%"
+#| fig-align: "center"
+knitr::include_graphics("images/starwars-exposition.png")
+```
+
+<br>
+
+::: {.footer}
+Adapted from [Alex Phillips'](https://www.alexandraatleephillips.com/) [ESM 438](https://bren.ucsb.edu/courses/esm-438) course materials [(week 2 slides)](https://docs.google.com/presentation/d/1dxviUquj4xTNY5pzoGSL-pukWgqC_nPqM9jCemiRAuY/edit#slide=id.g20e7ef3cb4c_0_438) and [this article on Freytag's Pyramid](https://nofilmschool.com/freytag-s-pyramid)
+:::
+
+---
+
+## {#starwars-incident data-menu-title="Starwars incident"} 
+
+[Example: Starwars (A New Hope)]{.slide-title}
+
+<hr>
+
+<br>
+
+```{r}
+#| eval: true
+#| echo: false
+#| out-width: "100%"
+#| fig-align: "center"
+knitr::include_graphics("images/starwars-incident.png")
+```
+
+<br>
+
+::: {.footer}
+Adapted from [Alex Phillips'](https://www.alexandraatleephillips.com/) [ESM 438](https://bren.ucsb.edu/courses/esm-438) course materials [(week 2 slides)](https://docs.google.com/presentation/d/1dxviUquj4xTNY5pzoGSL-pukWgqC_nPqM9jCemiRAuY/edit#slide=id.g20e7ef3cb4c_0_438) and [this article on Freytag's Pyramid](https://nofilmschool.com/freytag-s-pyramid)
+:::
+
+---
+
+## {#starwars-rising-action data-menu-title="Starwars rising action"} 
+
+[Example: Starwars (A New Hope)]{.slide-title}
+
+<hr>
+
+<br>
+
+```{r}
+#| eval: true
+#| echo: false
+#| out-width: "100%"
+#| fig-align: "center"
+knitr::include_graphics("images/starwars-rising-action.png")
+```
+
+<br>
+
+::: {.footer}
+Adapted from [Alex Phillips'](https://www.alexandraatleephillips.com/) [ESM 438](https://bren.ucsb.edu/courses/esm-438) course materials [(week 2 slides)](https://docs.google.com/presentation/d/1dxviUquj4xTNY5pzoGSL-pukWgqC_nPqM9jCemiRAuY/edit#slide=id.g20e7ef3cb4c_0_438) and [this article on Freytag's Pyramid](https://nofilmschool.com/freytag-s-pyramid)
+:::
+
+---
+
+## {#starwars-climax data-menu-title="Starwars climax"} 
+
+[Example: Starwars (A New Hope)]{.slide-title}
+
+<hr>
+
+<br>
+
+```{r}
+#| eval: true
+#| echo: false
+#| out-width: "100%"
+#| fig-align: "center"
+knitr::include_graphics("images/starwars-climax.png")
+```
+
+<br>
+
+::: {.footer}
+Adapted from [Alex Phillips'](https://www.alexandraatleephillips.com/) [ESM 438](https://bren.ucsb.edu/courses/esm-438) course materials [(week 2 slides)](https://docs.google.com/presentation/d/1dxviUquj4xTNY5pzoGSL-pukWgqC_nPqM9jCemiRAuY/edit#slide=id.g20e7ef3cb4c_0_438) and [this article on Freytag's Pyramid](https://nofilmschool.com/freytag-s-pyramid)
+:::
+
+---
+
+## {#starwars-falling-action data-menu-title="Starwars falling action"} 
+
+[Example: Starwars (A New Hope)]{.slide-title}
+
+<hr>
+
+<br>
+
+```{r}
+#| eval: true
+#| echo: false
+#| out-width: "100%"
+#| fig-align: "center"
+knitr::include_graphics("images/starwars-falling-action.png")
+```
+
+<br>
+
+::: {.footer}
+Adapted from [Alex Phillips'](https://www.alexandraatleephillips.com/) [ESM 438](https://bren.ucsb.edu/courses/esm-438) course materials [(week 2 slides)](https://docs.google.com/presentation/d/1dxviUquj4xTNY5pzoGSL-pukWgqC_nPqM9jCemiRAuY/edit#slide=id.g20e7ef3cb4c_0_438) and [this article on Freytag's Pyramid](https://nofilmschool.com/freytag-s-pyramid)
+:::
+
+---
+
+## {#starwars-resolution data-menu-title="Starwars resolution"} 
+
+[Example: Starwars (A New Hope)]{.slide-title}
+
+<hr>
+
+<br>
+
+```{r}
+#| eval: true
+#| echo: false
+#| out-width: "100%"
+#| fig-align: "center"
+knitr::include_graphics("images/starwars-resolution.png")
+```
+
+<br>
+
+::: {.footer}
+Adapted from [Alex Phillips'](https://www.alexandraatleephillips.com/) [ESM 438](https://bren.ucsb.edu/courses/esm-438) course materials [(week 2 slides)](https://docs.google.com/presentation/d/1dxviUquj4xTNY5pzoGSL-pukWgqC_nPqM9jCemiRAuY/edit#slide=id.g20e7ef3cb4c_0_438) and [this article on Freytag's Pyramid](https://nofilmschool.com/freytag-s-pyramid)
+:::
+
+---
+
+You're allowed to bend or break the rules!
+
+It can be difficult to balance story telling and technical tutorials (or times throughout MEDS where you'll be asked to turn your course projects into blog posts), but consider creative ways to engage your readers. 
+
+Oftentimes, you'll see data science bloggers tell their story in the intro and (sometimes also) concluding paragraphs of their post (and leave the body of the post for all the technical bits): 
+
+- https://maya.rbind.io/posts/live-coding-interview/ 
+- https://meghan.rbind.io/blog/2020-08-03-last-change/ 
+- https://thetidytrekker.com/post/making-circular-maps/making-circular-maps 
+- https://samanthacsik.github.io/posts/2021-09-21-distill-blogs/
+
+Pick one of blog post examples below and discuss with your partner what aspects of the story engaged you as a reader. What other elements (tone, humor, metaphors, hooks, etc.) resonated with you?
 
 ---
 
@@ -28,3 +435,28 @@ HT: Julie Lowndes
 - read some curated SECTIONS of blog posts and discuss things like tone, audience, humor, visuals (things they liked/didnt like as both a reader and a writer
 - draft an outline of their blog post in class and maybe exchange with someone for thoughts
 
+---
+
+## Other tips
+
+If a long post, consider including a TL;DR (Too Long; Didn't Read)
+
+HT: Julie Lowndes
+
+---
+
+## Other tips
+
+include media! screenshots, outputs, code, gifs, etc.
+
+one example: https://samanthacsik.github.io/posts/2023-08-01-openscapes-website/
+
+--- 
+
+some final takeaways: 
+
+- i think it's okay to sometimes use your blog as a stream-of-consiousness brain dump of ideas / examples for yourself, but giving some thought to your post's structure, story, tone, and theme can serve your brand (credibility/trustworthy)
+
+Potential tip: assign these style posts a category (e.g. quick-thoughts, raw-reflections, code-bites, short-takes; thanks ChatGPT for these suggestions)
+  
+  

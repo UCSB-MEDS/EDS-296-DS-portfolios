@@ -91,5 +91,11 @@ how to GHP
 
 <hr>
 
+- What are they?
+
+- Examples of things we can use GHA for?
+
+- How to automate deployment of a GHP site using GHA:
+
 
 
