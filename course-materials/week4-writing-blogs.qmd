@@ -113,3 +113,7 @@ This is only a small sampling of the *many* rad data science bloggers out there 
 
 1. [**Seek feedback on your draft / plan from others.**]{.teal-text} Consider switching blog post drafts with one (or more) of your peers, or stick around for office hours to chat with me about your ideas!
 2. [**Continue drafting, writing, and polishing your blog post.**]{.teal-text} You (most likely) won't have a fully-written blog post by the end of class today, but ***you should plan to complete and publish your post by the end of this class.***
+
+## {{< fa utensils title="a fork and knife" >}} (Optional) Lunch with an NCEAS Data Scientist
+
+*There is no lunch today!*
