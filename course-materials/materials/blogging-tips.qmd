@@ -49,6 +49,12 @@ Raise your hand if you've ever felt like this:
 knitr::include_graphics("images/writing-meme.png")
 ```
 
+. . . 
+
+::: {.center-text .body-text-l}
+Same . . .
+:::
+
 ---
 
 ## {#blogging data-menu-title="Blogging?"} 
@@ -65,13 +71,13 @@ knitr::include_graphics("images/writing-meme.png")
 
 . . . 
 
-[And I cannot overstate just how much my learning benefits from reading personal data science blogs. Just a few reasons:]{.body-text-m} 
+[And I *cannot overstate* just how much my learning journey benefits from reading personal data science blogs. Just a few reasons:]{.body-text-m} 
 
 <br>
 
-- often **shorter** than book chapters
+- oftentimes **shorter** and / or **more approachable** than book chapters or documentation
 - a **versatile medium** that can incorporate storytelling, humor, and non-traditional media (e.g. gifs, memes, videos, etc.) -- things that make the **author relatable**!
-- posts on **niche topics** that I haven't always found clear documentation for elsewhere
+- posts on **niche topics or approaches** that I haven't always found clear documentation for elsewhere
 - **networking** / getting to know active participants in the data science world
 
 ---
@@ -139,75 +145,270 @@ A screenshot from my Google Analytics dashboard. Views peaked when I [shared my 
 
 ---
 
-## {#look-at-posts data-menu-title="Look at some posts"} 
+## {#how-to data-menu-title="How to?"} 
 
-[Writing (in any form) can feel intimidating . . .]{.slide-title2}
-
-<hr>
-
-The best way to get a sense of what data science blog posts *can* be like is (IMHO) to read some yourself. 
-
-With your partner, choose and read / skim one of the following blog posts: 
-
-- [1974...bird attacks?](https://allisonhorst.github.io/posts/2022-10-14-bird-attacks/), by [Allison Horst](https://allisonhorst.github.io/)
-- [My first live coding interview](https://maya.rbind.io/posts/live-coding-interview/), by [Maya Gans](https://maya.rbind.io/)
-- [Four ways to streamline your R workflows](https://nrennie.rbind.io/blog/four-ways-streamline-r-workflows/), by [Nicola Rennie](https://nrennie.rbind.io/)
-- [Porting the Openscapes website from blogdown to Quarto](https://samanthacsik.github.io/posts/2023-08-01-openscapes-website/), by [Sam Csik](https://samanthacsik.github.io/)
-
-We'll read just a few short snippets from a handful of data science blogs to see:
-
-- the breadth of topics folks write about
-- different writing styles, including tone
-- imagery and media you might include
-- create approaches
-
----
-
-OKAY SO HOW DO WE DO THIS OURSELVES? 
-
-there are a few steps to structure your approach to blogging:
-
-1. decide on a topic -- in MEDS, you'll be asked to turn course assignments into scicomm pieces on your personal blog to help grow your portfolio; today (and beyond MEDS), you'll choose a topic that helps to promote your brand
-2. consider, then outline your story (framework)
-3. consider add-ons (humor, hooks, metaphors, characters)
-
----
-
-there are a few steps to structure your approach to blogging:
-
-1. **decide on a topic -- in MEDS, you'll be asked to turn course assignments into scicomm pieces on your personal blog to help grow your portfolio; today (and beyond MEDS), you'll choose a topic that helps to promote your brand**
-2. consider, then outline your story (framework)
-3. consider add-ons (humor, hooks, metaphors, characters)
-
----
-
-GIVE BACKGROUND / EXAMPLES OF TOPICS
-
----
-
-YOUR TURN
-
-- discuss with your partner your topic of choice and how it fits with your intended brand image; it can help to pull up your personal branding guide for reference
-
-[add timer]
-
----
-
-there are a few steps to structure your approach to blogging:
-
-1. decide on a topic -- in MEDS, you'll be asked to turn course assignments into scicomm pieces on your personal blog to help grow your portfolio; today (and beyond MEDS), you'll choose a topic that helps to promote your brand
-2. **consider, then outline your story (framework)**
-3. consider add-ons (humor, hooks, metaphors, characters)
-
----
-
-## {#power-of-stories data-menu-title="Power of storytelling"} 
-
-[Storytelling is a powerful mechanism for effective (data) science communication]{.slide-title2}
+[Okay, where do we actually start?]{.slide-title}
 
 <hr>
 
-[Communicating via stories has been found to:]{.body-text-l}
+<br>
+
+[There's no single formula, but here are some steps you might consider taking to help you along your writing journey:]{.body-text-m}
+
+<br>
+
+. . . 
+
+[[{{< fa lightbulb title="lightbulb" >}}]{.teal-text} Find your topic]{.body-text-m}
+
+<br>
+
+. . . 
+
+[[{{< fa book-open title="an open book" >}}]{.teal-text} Craft your story]{.body-text-m}
+
+<br>
+
+. . . 
+
+[[{{< fa wand-sparkles title="a wand with sparkles" >}}]{.teal-text} Add embellishments]{.body-text-m}
+
+<br>
+
+. . . 
+
+[[{{< fa file-pen title="a file and pen" >}}]{.teal-text} Write it!]{.body-text-m}
+
+
+---
+
+## {#find-topic data-menu-title="Find your topic"} 
+
+[{{< fa lightbulb title="lightbulb" >}} Find your topic]{.slide-title}
+
+<hr>
+
+<br>
+<br>
+
+. . . 
+
+[Sometimes, the topic will be **chosen for you** (e.g. MEDS course assignments)]{.body-text-m}
+
+<br>
+
+. . . 
+
+[Other times, you'll have **full creative freedom** on what to blog about]{.body-text-m}
+
+<br>
+
+. . . 
+
+[If that feels intimidating, that's okay! Lean on your **personal brand** for some guidance]{.body-text-m}
+
+---
+
+## {#find-topic-ex1 data-menu-title="Find your topic (example 1)"} 
+
+[{{< fa lightbulb title="lightbulb" >}} Find your topic (EXAMPLE, branding guide)]{.slide-title2}
+
+<hr>
+
+::: {.center-text}
+*I'll put myself in the hot seat first! Here's [my branding guide](https://docs.google.com/document/d/1mJTS_ky_RY5JGFDoAGA004z01gMw2-Lu0w_ONtvl2DE/edit?usp=sharing) for reference.*
+:::
+
+<br>
+
+. . . 
+
+::: {.center-text .body-text-m}
+**Approachable · Educational · Spirited · Resolute** 
+:::
+
+<br>
+
+. . . 
+
+::: {.center-text .body-text-m}
+Learners · Educators · (Potential Employers)
+:::
+
+<br>
+
+. . . 
+
+- I'm a **passionate data science educator** interested in creative and inclusive pedagogical approaches
+- I **love learning** and I'm most productive when I surround myself with supportive communities. I value **contributing back to those communities** by sharing open source **educational materials** and participating in my local data science communities. 
+- I don't want to only be defined by my work! Spending time outdoors -- particularly **hiking** --  is where I find a lot of **joy**. 
+
+---
+
+## {#find-topic-idea1 data-menu-title="Find your topic (ex, idea 1)"} 
+
+[{{< fa lightbulb title="lightbulb" >}} Find your topic (EXAMPLE, idea 1/4)]{.slide-title2}
+
+<hr>
+
+<br>
+
+[**Working with APIs (tutorial):  comparing workflows using [Strava v3 API](https://developers.strava.com/docs/reference/) vs `{rStrava}` for scraping data**]{.body-text-m}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+- combines my personal and professional interests
+- builds off existing projects ([my Strava dashboard](https://samanthacsik.shinyapps.io/strava_dashboard/))
+- a learning opportunity (APIs have always been intimidating to me) 
+- something I could also bring into MEDS teaching materials (multipurpose!)
+:::
+
+::: {.column width="50%"}
+```{r}
+#| eval: true
+#| echo: false
+#| out-width: "100%"
+#| fig-align: "center"
+knitr::include_graphics("images/strava-dash.png")
+```
+
+::: {.center-text .body-text-s .gray-text}
+My [Strava dashboard](https://samanthacsik.shinyapps.io/strava_dashboard/), a personal project where I use my hiking data to learn about building `{shiny}` dashboards
+:::
+
+:::
+
+::::
+
+---
+
+## {#find-topic-idea2 data-menu-title="Find your topic (ex, idea 2)"} 
+
+[{{< fa lightbulb title="lightbulb" >}} Find your topic (EXAMPLE, idea 2/4)]{.slide-title2}
+
+<hr>
+
+<br>
+
+[**Using the Quarto [closeread extension](https://closeread.netlify.app/) for creating scrollytelling articles (example / tutorial)**]{.body-text-m}
+
+- something I'd like to learn / bring into EDS 240 (again, multipurpose!)
+- it's new! (shows that I try to stay up-to-date)
+
+<br>
+
+```{r}
+#| eval: true
+#| echo: false
+#| out-width: "100%"
+#| fig-align: "center"
+knitr::include_graphics("images/posit-banner.png")
+```
+
+---
+
+## {#find-topic-idea3 data-menu-title="Find your topic (ex, idea 3)"} 
+
+[{{< fa lightbulb title="lightbulb" >}} Find your topic (EXAMPLE, idea 3/4)]{.slide-title2}
+
+<hr>
+
+<br>
+
+[**Combatting imposter syndrome as a data science educator**]{.body-text-m}
+
+- relatable for (*I think*) lots of learners and educators
+- something that's often on the mind
+
+```{r}
+#| eval: true
+#| echo: false
+#| out-width: "100%"
+#| fig-align: "center"
+knitr::include_graphics("images/imposter-syndrome.png")
+```
+
+::: {.footer}
+Image Source: [Johns Hopkins](https://biomedicalodyssey.blogs.hopkinsmedicine.org/2023/02/no-you-are-not-an-impostor-the-impostor-syndrome-myth/)
+:::
+
+---
+
+## {#find-topic-idea4 data-menu-title="Find your topic (ex, idea 4)"} 
+
+[{{< fa lightbulb title="lightbulb" >}} Find your topic (EXAMPLE, idea 4/4)]{.slide-title2}
+
+<hr>
+
+<br>
+
+[**Reflecting on three years of ES x MEDS Hack~2~O**]{.body-text-m}
+
+- I really enjoy reflecting on teaching experiences
+- focuses on community-building around data science education
+- no Hack~2~O this year, so it feels fitting to spend some time that would have been used for planning on reflecting
+
+```{r}
+#| eval: true
+#| echo: false
+#| out-width: "100%"
+#| fig-align: "center"
+knitr::include_graphics("images/hack20-hex.png")
+```
+
+---
+
+## {#discuss-ideas data-menu-title="Your turn - discuss ideas"} 
+
+[{{< fa lightbulb title="lightbulb" >}} Find your topic (YOUR TURN)]{.slide-title2}
+
+<hr>
+
+<br>
+
+[**Share with your partner:**]{.body-text-m}
+
+- your personal brand adjectives, target audience(s), and key messages
+- two different brainstormed blog post topics, and how they fit your brand
+- which of your topic ideas you'd like to pursue, and why
+
+<br>
+
+[**After listening to your partner:**]{.body-text-m}
+
+- share what excites you about their chosen topic
+- TBD
+
+```{r}
+countdown::countdown(
+  minutes = 5,
+  # right = 0,
+  # Fanfare when it's over
+  play_sound = TRUE,
+  color_border              = "#FFFFFF",
+  color_text                = "#7aa81e",
+  color_running_background  = "#7aa81e",
+  color_running_text        = "#FFFFFF",
+  color_finished_background = "#ffa07a",
+  color_finished_text       = "#FFFFFF",
+  font_size = "2em",
+  )
+```
+
+---
+
+## {#craft-story data-menu-title="Craft story"} 
+
+[{{< fa book-open title="an open book" >}} Craft your story]{.slide-title2}
+
+<hr>
+
+[Storytelling is a powerful mechanism for effective (data) science communication]{.body-text-m}
+
+<br>
+
+**Communicating via stories has been found to:**
 
 :::: {.columns}
 
@@ -245,9 +446,13 @@ From [Alex Phillips'](https://www.alexandraatleephillips.com/) [ESM 438](https:/
 
 ## {#freytags-pyramid data-menu-title="Freytag's Pyramid"} 
 
-[Good stories build narrative tension over time with a distinct beginning, middle, and end]{.slide-title2}
+[{{< fa book-open title="an open book" >}} Craft your story]{.slide-title2}
 
 <hr>
+
+[Good stories build narrative tension over time with a distinct beginning, middle, and end]{.body-text-m}
+
+<br>
 
 ```{r}
 #| eval: true
@@ -406,6 +611,46 @@ knitr::include_graphics("images/starwars-resolution.png")
 ::: {.footer}
 Adapted from [Alex Phillips'](https://www.alexandraatleephillips.com/) [ESM 438](https://bren.ucsb.edu/courses/esm-438) course materials [(week 2 slides)](https://docs.google.com/presentation/d/1dxviUquj4xTNY5pzoGSL-pukWgqC_nPqM9jCemiRAuY/edit#slide=id.g20e7ef3cb4c_0_438) and [this article on Freytag's Pyramid](https://nofilmschool.com/freytag-s-pyramid)
 :::
+
+---
+
+BREAK
+
+---
+
+## {#look-at-posts data-menu-title="Look at some posts"} 
+
+[Writing (in any form) can feel intimidating . . .]{.slide-title2}
+
+<hr>
+
+The best way to get a sense of what data science blog posts *can* be like is (IMHO) to read some yourself. 
+
+With your partner, choose and read / skim one of the following blog posts: 
+
+- [1974...bird attacks?](https://allisonhorst.github.io/posts/2022-10-14-bird-attacks/), by [Allison Horst](https://allisonhorst.github.io/)
+- [My first live coding interview](https://maya.rbind.io/posts/live-coding-interview/), by [Maya Gans](https://maya.rbind.io/)
+- [Four ways to streamline your R workflows](https://nrennie.rbind.io/blog/four-ways-streamline-r-workflows/), by [Nicola Rennie](https://nrennie.rbind.io/)
+- [Porting the Openscapes website from blogdown to Quarto](https://samanthacsik.github.io/posts/2023-08-01-openscapes-website/), by [Sam Csik](https://samanthacsik.github.io/)
+
+We'll read just a few short snippets from a handful of data science blogs to see:
+
+- the breadth of topics folks write about
+- different writing styles, including tone
+- imagery and media you might include
+- create approaches
+
+---
+
+
+---
+
+YOUR TURN
+
+- discuss with your partner your topic of choice and how it fits with your intended brand image; it can help to pull up your personal branding guide for reference
+
+[add timer]
+
 
 ---
 

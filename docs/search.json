@@ -39,7 +39,7 @@
     "href": "course-materials/week3-creating-blogs.html#optional-lunch-with-an-nceas-data-scientist",
     "title": "Adding a blog to your Quarto website",
     "section": " (Optional) Lunch with an NCEAS Data Scientist",
-    "text": "(Optional) Lunch with an NCEAS Data Scientist\nJoin us on the NCEAS Terrace for a networking lunch today (12 - 1pm) with Ben Halpern and Zhe Wang!\n\nAs the Executive Director, Ben sets the vision and programmatic direction for NCEAS. He also serves as a principal investigator on several projects and working groups. Ben is also a professor at the Bren School of Environmental Science & Management at the University of California, Santa Barbara. His research interests are primarily in marine ecology and conservation planning, but span a wide range of disciplines. He has led several research initiatives that have influenced ocean management, including a global analysis of the effectiveness of marine protected areas (MPAs), a global assessment of the cumulative impacts of human activities on oceans, and the development and global application of the Ocean Health Index.\nZhe is a Postdoctoral Fellow working in the iceplant mapping project. With the background in remote sensing and deep learning, she has been working on developing an eproducible deep learning workflows aimed at identifying invasive iceplant using the remote sensing imagery. She got two masters in GIS and C.S., respectively. And she got her PhD. in Geography."
+    "text": "(Optional) Lunch with an NCEAS Data Scientist\nPlease see the fall lunch schedule for details on today’s NCEAS guests!"
   },
   {
     "objectID": "course-materials/week5-github-portfolios.html#anticipated-deliverables",
@@ -74,7 +74,7 @@
     "href": "course-materials/week5-github-portfolios.html#optional-lunch-with-an-nceas-data-scientist",
     "title": "GitHub as a professional portfolio",
     "section": " (Optional) Lunch with an NCEAS Data Scientist",
-    "text": "(Optional) Lunch with an NCEAS Data Scientist\nJoin us on the NCEAS Terrace for a networking lunch today (12 - 1pm) with Abby Meyer and Carlo Broderick!\n\nAbby is a Geospatial Developer for the McClintock Lab, developing software for marine conservation planning and fisheries management. They work specifically on reporting tools for SeaSketch, a web-based mapping application used for collaborative marine spatial planning.\nCarlo Carlo Broderick is a data analyst for the Western Wildfire Resilience Index (WWRI). The WWRI is a science communication tool designed to help people and policymakers understand how resilient their communities are to wildfires. Carlo collaborates with two other data analysts and the broader WWRI team to research, develop, and implement WWRI’s methodology. His work focuses on the creation and calculation of the index through reproducible, open source, and collaborative data science. Carlo holds a master’s degree in Environmental Data Science from UC Santa Barbara, a Project Management Professional (PMP) certification from UC Berkeley, and a bachelor’s degree in Environmental Studies and Economics from UC Santa Cruz. His professional background includes supply chain visibility, SAS project management, and sustainability-focused scientific administration. Passionate about utilizing data science to measure and manage environmental externalities, Carlo has a special interest in satellite image and machine learning (SIML) technology and it’s potential impact on sustainable development. His passion for environmental economics can be found in his flaming hot composable plastic takes and his strong aversion to market failures."
+    "text": "(Optional) Lunch with an NCEAS Data Scientist\nPlease see the fall lunch schedule for details on today’s NCEAS guests!"
   },
   {
     "objectID": "course-materials/week0-build-websites.html#anticipated-deliverables",
@@ -109,7 +109,7 @@
     "href": "course-materials/week0-build-websites.html#optional-lunch-with-an-nceas-data-scientist",
     "title": "Creating your personal website using Quarto",
     "section": " (Optional) Lunch with an NCEAS Data Scientist",
-    "text": "(Optional) Lunch with an NCEAS Data Scientist\nJoin us on the NCEAS Terrace for a networking lunch today (12 - 1pm) with Millie Chapman and Camila Vargas Poulsen!\n\nMillie is a postdoc at the NCEAS and a core team member at Climate Change AI (CCAI). Her research is at the intersection of decision theory, ecology, and data justice, asking how we can develop more effective and equitable strategies to meet global biodiversity targets in an age of AI (https://milliechapman.info/). Millie received my PhD from the University of California Berkeley in the department of Environmental Science, Policy, and Management (ESPM).\nCamila is part of the Learning Hub team. She helps manage, maintain, and develop NCEAS’s growing data science training portfolio. She coordinates and conducts training sessions and provides data support to working groups. Previously, Camila has worked as a data manager for the Palmyra Atoll Data Library (PADL) and as a research assistant at the Marine Science Institute, UCSB, curating historical California fisheries data and looking into models to quantify abandoned or lost fishing gear in the ocean. She has also researched social-ecological systems, working with small-scale fisher communities in Chile to understand how collective action can improve coastal resource management. Camila has a Master’s in Environmental Science & Management from the Bren School at UCSB and a B.Sc in Biology from Pontificia Universidad Católica de Chile.”"
+    "text": "(Optional) Lunch with an NCEAS Data Scientist\nPlease see the fall lunch schedule for details on today’s NCEAS guests!"
   },
   {
     "objectID": "course-materials/materials/GH-profile.html#title-slide",
@@ -452,14 +452,14 @@
     "href": "course-materials/materials/blogging-tips.html#raise-hand",
     "title": "EDS 296",
     "section": "",
-    "text": "Raise your hand if you enjoy writing (you can be honest)\n\n\n\nRaise your hand if you’ve ever blogged\n\n\n\n\nRaise your hand if you’ve ever felt like this:"
+    "text": "Raise your hand if you enjoy writing (you can be honest)\n\n\n\nRaise your hand if you’ve ever blogged\n\n\n\n\nRaise your hand if you’ve ever felt like this:\n\n\n\n\n\n\n\n\n\n\n\n\n\nSame . . ."
   },
   {
     "objectID": "course-materials/materials/blogging-tips.html#blogging",
     "href": "course-materials/materials/blogging-tips.html#blogging",
     "title": "EDS 296",
     "section": "",
-    "text": "Blogging . . . in a data science program??\n\n\nIt’s actually quite popular!\n\n\nAnd I cannot overstate just how much my learning benefits from reading personal data science blogs. Just a few reasons:\n\n\noften shorter than book chapters\na versatile medium that can incorporate storytelling, humor, and non-traditional media (e.g. gifs, memes, videos, etc.) – things that make the author relatable!\nposts on niche topics that I haven’t always found clear documentation for elsewhere\nnetworking / getting to know active participants in the data science world"
+    "text": "Blogging . . . in a data science program??\n\n\nIt’s actually quite popular!\n\n\nAnd I cannot overstate just how much my learning journey benefits from reading personal data science blogs. Just a few reasons:\n\n\noftentimes shorter and / or more approachable than book chapters or documentation\na versatile medium that can incorporate storytelling, humor, and non-traditional media (e.g. gifs, memes, videos, etc.) – things that make the author relatable!\nposts on niche topics or approaches that I haven’t always found clear documentation for elsewhere\nnetworking / getting to know active participants in the data science world"
   },
   {
     "objectID": "course-materials/materials/blogging-tips.html#visibility",
@@ -483,25 +483,74 @@
     "text": "Writing (in any form) can feel intimidating . . .\n\n\n. . . but I hope that after today and over the next ~7 months, you’ll find blogging to be:\n\n\na creative and flexible outlet\na motivator for learning new skills\na way to reflect on your work / find closure after a large effort\na fun way to showcase / market your technical skills (both programming and writing)"
   },
   {
-    "objectID": "course-materials/materials/blogging-tips.html#look-at-posts",
-    "href": "course-materials/materials/blogging-tips.html#look-at-posts",
+    "objectID": "course-materials/materials/blogging-tips.html#how-to",
+    "href": "course-materials/materials/blogging-tips.html#how-to",
     "title": "EDS 296",
     "section": "",
-    "text": "Writing (in any form) can feel intimidating . . .\n\nThe best way to get a sense of what data science blog posts can be like is (IMHO) to read some yourself.\nWith your partner, choose and read / skim one of the following blog posts:\n\n1974…bird attacks?, by Allison Horst\nMy first live coding interview, by Maya Gans\nFour ways to streamline your R workflows, by Nicola Rennie\nPorting the Openscapes website from blogdown to Quarto, by Sam Csik\n\nWe’ll read just a few short snippets from a handful of data science blogs to see:\n\nthe breadth of topics folks write about\ndifferent writing styles, including tone\nimagery and media you might include\ncreate approaches"
+    "text": "Okay, where do we actually start?\n\n\nThere’s no single formula, but here are some steps you might consider taking to help you along your writing journey:\n\n\n Find your topic\n\n\n\n Craft your story\n\n\n\n Add embellishments\n\n\n\n Write it!"
   },
   {
-    "objectID": "course-materials/materials/blogging-tips.html#power-of-stories",
-    "href": "course-materials/materials/blogging-tips.html#power-of-stories",
+    "objectID": "course-materials/materials/blogging-tips.html#find-topic",
+    "href": "course-materials/materials/blogging-tips.html#find-topic",
     "title": "EDS 296",
     "section": "",
-    "text": "Storytelling is a powerful mechanism for effective (data) science communication\n\nCommunicating via stories has been found to:\n\n\n\nIncrease likelihood of people remembering information\nReduce disbelief and counter-arguing\nMake people feel the experience as if it was their own\nBe much more convincing than just data or code\nIncrease engagement with a more general audience\n\n\n\n\n\n\n\n\n\n\n\n\nImage source: Shutterstock\n\n\n\nFrom Alex Phillips’ ESM 438 course materials (week 2 slides)"
+    "text": "Find your topic\n\n \n\nSometimes, the topic will be chosen for you (e.g. MEDS course assignments)\n\n\n\nOther times, you’ll have full creative freedom on what to blog about\n\n\n\nIf that feels intimidating, that’s okay! Lean on your personal brand for some guidance"
+  },
+  {
+    "objectID": "course-materials/materials/blogging-tips.html#find-topic-ex1",
+    "href": "course-materials/materials/blogging-tips.html#find-topic-ex1",
+    "title": "EDS 296",
+    "section": "",
+    "text": "Find your topic (EXAMPLE, branding guide)\n\n\nI’ll put myself in the hot seat first! Here’s my branding guide for reference.\n\n\n\n\nApproachable · Educational · Spirited · Resolute\n\n\n\n\n\nLearners · Educators · (Potential Employers)\n\n\n\n\n\nI’m a passionate data science educator interested in creative and inclusive pedagogical approaches\nI love learning and I’m most productive when I surround myself with supportive communities. I value contributing back to those communities by sharing open source educational materials and participating in my local data science communities.\nI don’t want to only be defined by my work! Spending time outdoors – particularly hiking – is where I find a lot of joy."
+  },
+  {
+    "objectID": "course-materials/materials/blogging-tips.html#find-topic-idea1",
+    "href": "course-materials/materials/blogging-tips.html#find-topic-idea1",
+    "title": "EDS 296",
+    "section": "",
+    "text": "Find your topic (EXAMPLE, idea 1/4)\n\n\nWorking with APIs (tutorial): comparing workflows using Strava v3 API vs {rStrava} for scraping data\n\n\n\ncombines my personal and professional interests\nbuilds off existing projects (my Strava dashboard)\na learning opportunity (APIs have always been intimidating to me)\nsomething I could also bring into MEDS teaching materials (multipurpose!)\n\n\n\n\n\n\n\n\n\n\n\n\nMy Strava dashboard, a personal project where I use my hiking data to learn about building {shiny} dashboards"
+  },
+  {
+    "objectID": "course-materials/materials/blogging-tips.html#find-topic-idea2",
+    "href": "course-materials/materials/blogging-tips.html#find-topic-idea2",
+    "title": "EDS 296",
+    "section": "",
+    "text": "Find your topic (EXAMPLE, idea 2/4)\n\n\nUsing the Quarto closeread extension for creating scrollytelling articles (example / tutorial)\n\nsomething I’d like to learn / bring into EDS 240 (again, multipurpose!)\nit’s new! (shows that I try to stay up-to-date)"
+  },
+  {
+    "objectID": "course-materials/materials/blogging-tips.html#find-topic-idea3",
+    "href": "course-materials/materials/blogging-tips.html#find-topic-idea3",
+    "title": "EDS 296",
+    "section": "",
+    "text": "Find your topic (EXAMPLE, idea 3/4)\n\n\nCombatting imposter syndrome as a data science educator\n\nrelatable for (I think) lots of learners and educators\nsomething that’s often on the mind\n\n\n\nImage Source: Johns Hopkins"
+  },
+  {
+    "objectID": "course-materials/materials/blogging-tips.html#find-topic-idea4",
+    "href": "course-materials/materials/blogging-tips.html#find-topic-idea4",
+    "title": "EDS 296",
+    "section": "",
+    "text": "Find your topic (EXAMPLE, idea 4/4)\n\n\nReflecting on three years of ES x MEDS Hack2O\n\nI really enjoy reflecting on teaching experiences\nfocuses on community-building around data science education\nno Hack2O this year, so it feels fitting to spend some time that would have been used for planning on reflecting"
+  },
+  {
+    "objectID": "course-materials/materials/blogging-tips.html#discuss-ideas",
+    "href": "course-materials/materials/blogging-tips.html#discuss-ideas",
+    "title": "EDS 296",
+    "section": "",
+    "text": "Find your topic (YOUR TURN)\n\n\nShare with your partner:\n\nyour personal brand adjectives, target audience(s), and key messages\ntwo different brainstormed blog post topics, and how they fit your brand\nwhich of your topic ideas you’d like to pursue, and why\n\n\nAfter listening to your partner:\n\nshare what excites you about their chosen topic\nTBD\n\n\n\n\n−+\n05:00"
+  },
+  {
+    "objectID": "course-materials/materials/blogging-tips.html#craft-story",
+    "href": "course-materials/materials/blogging-tips.html#craft-story",
+    "title": "EDS 296",
+    "section": "",
+    "text": "Craft your story\n\nStorytelling is a powerful mechanism for effective (data) science communication\n\nCommunicating via stories has been found to:\n\n\n\nIncrease likelihood of people remembering information\nReduce disbelief and counter-arguing\nMake people feel the experience as if it was their own\nBe much more convincing than just data or code\nIncrease engagement with a more general audience\n\n\n\n\n\n\n\n\n\n\n\n\nImage source: Shutterstock\n\n\n\nFrom Alex Phillips’ ESM 438 course materials (week 2 slides)"
   },
   {
     "objectID": "course-materials/materials/blogging-tips.html#freytags-pyramid",
     "href": "course-materials/materials/blogging-tips.html#freytags-pyramid",
     "title": "EDS 296",
     "section": "",
-    "text": "Good stories build narrative tension over time with a distinct beginning, middle, and end\n\n\n\n\nFrom Alex Phillips’ ESM 438 course materials (week 2 slides)"
+    "text": "Craft your story\n\nGood stories build narrative tension over time with a distinct beginning, middle, and end\n\n\n\n\nFrom Alex Phillips’ ESM 438 course materials (week 2 slides)"
   },
   {
     "objectID": "course-materials/materials/blogging-tips.html#starwars-exposition",
@@ -546,6 +595,13 @@
     "text": "Example: Starwars (A New Hope)\n\n\n\n\n\nAdapted from Alex Phillips’ ESM 438 course materials (week 2 slides) and this article on Freytag’s Pyramid"
   },
   {
+    "objectID": "course-materials/materials/blogging-tips.html#look-at-posts",
+    "href": "course-materials/materials/blogging-tips.html#look-at-posts",
+    "title": "EDS 296",
+    "section": "",
+    "text": "Writing (in any form) can feel intimidating . . .\n\nThe best way to get a sense of what data science blog posts can be like is (IMHO) to read some yourself.\nWith your partner, choose and read / skim one of the following blog posts:\n\n1974…bird attacks?, by Allison Horst\nMy first live coding interview, by Maya Gans\nFour ways to streamline your R workflows, by Nicola Rennie\nPorting the Openscapes website from blogdown to Quarto, by Sam Csik\n\nWe’ll read just a few short snippets from a handful of data science blogs to see:\n\nthe breadth of topics folks write about\ndifferent writing styles, including tone\nimagery and media you might include\ncreate approaches"
+  },
+  {
     "objectID": "course-materials/materials/blogging-tips.html#other-tips",
     "href": "course-materials/materials/blogging-tips.html#other-tips",
     "title": "EDS 296",
@@ -571,7 +627,7 @@
     "href": "course-materials/week4-writing-blogs.html#pre-class-prep",
     "title": "Writing skills for data science blogging",
     "section": " Pre-class Prep",
-    "text": "Pre-class Prep\nPlease be sure to complete the following before class:\n\nA. Add potential blog post topics / ideas to your personal branding guide (part VII)\nComing up with topics to blog about can feel intimidating (especially in the beginning), however your personal branding guide can help to steer you in a productive direction. Recall that your personal brand shapes how you present yourself, not only in your aesthetic choices, but also the types of content you choose to publish and the tone you use throughout.\nA few data science bloggers who have a recognizable brand:\n\nCédric Scherer’s blog is one of the first places I turn to when I’m looking for data viz / {ggplot2} content\nCrystal Lewis’ blog features lots of tutorials and conversations about data management practices\nDanielle Navarro’s blog largely chronicles her experiences learning new tools and creating generative art\n\nNOTE: You (most likely) will not have your brand identity fully sorted and solidified by this point (and that’s perfectly okay!). The above examples are meant to show how working towards finding your brand can (over time) help build a pattern of trust that draws visitors back to your website in search of familiar content.\nReview your personal branding guide and jot down some potential blog post ideas / topics that fit your brand identity (part VII; refer back to the template, if necessary). Be prepared to select one of your ideas during class, where you’ll begin to actually draft your first blog post. Consider the following:\n\nWhat do your personal branding adjectives and key messages say about you and your interests?\nWhat topics blend your current interests and expertise with your future learning goals?\nWhat might draw someone to your website over a different website? Consider how your brand can help to define your niche.\nNot all data science blog posts need to be technical (e.g. include example code) – reflections and commentary on different aspects of your data science journey can be equally as valuable.\nUltimately, you should be choosing something you’re excited to write about (it can be easier to engage a reader when you yourself are jazzed about the topic)!\n\n\n\n\n\n\n\nNeed some help kickstarting the creatvity? Here are some potential blog post topics / ideas to consider:\n\n\n\n\n\n\nhow your past professional or personal interests led you to pursue a degree in environmental data science\nnon-data science skills / experiences that you’ve found to be transferable to your data science learning journey (in perhaps surprising / unexpected ways)\nadvice you wish you had before beginning a data science program\nreflecting on the MEDS 6-week summer coding bootcamp\nyour journey towards discovering your personal brand identity / building your website(!)\nwhat early data science skills you’ve found most valuable or surprising (so far), and why\na mini tutorial on a focused data science skill / topic, e.g. \n\nhow to use a particularly helpful function(s)\na data science workflow or organizational procedure you’ve adopted, and why\nbuilding a data visualization or other creative product\n\n\nIt’s still valuable (and important) to think about how your framing, tone, and focus within each of these suggested topic areas fits your brand identity.\n\n\n\n\n\nB. (Optional) Check out some data science-y blog posts\nReading other data science blogs is the best way to get a sense of not only the breadth of topics that folks in the community are writing about, but also the tone, writing styles, and creative approaches you might take as a blogger. We’ll discuss some snippets from example blog posts during class, though you should feel free to explore some blogs ahead of time, if you’re eager:\n\n\n\n\n\n\nA small collection of data science posts and blogs:\n\n\n\n\n\nA handful of posts to showcase some different writing styles and topics areas:\n\nAn introduction to Python for R Users, by Rebecca Barter\nMy first live coding interview, by Maya Gans\nPorting the Openscapes website from blogdown to Quarto, by Sam Csik\nGenerative art with grid, by Danielle Navarro\nSharing pictures of code, by Emil Hvitfeldt\n\nAnd a few additional fun blogs to keep an eye on:\n\nMeghan Hall\nMeghan Harris\nCrystal Lewis\nBeatriz Milz\nShannon Pileggi\nAlbert Rapp\nNicola Rennie\nCédric Scherer\nCara Thompson\nIsabella Velásquez\n\nThis is only a small sampling of the many rad data science bloggers out there – if you stumble upon others that you enjoy, be sure to share them in the class Slack channel!"
+    "text": "Pre-class Prep\nPlease be sure to complete the following before class:\n\nA. Add potential blog post topics / ideas to your personal branding guide (part VII)\nComing up with topics to blog about can feel intimidating (especially in the beginning), however your personal branding guide can help to steer you in a productive direction. Recall that your personal brand shapes how you present yourself, not only in your aesthetic choices, but also the types of content you choose to publish and the tone you use throughout.\n\n\n\n\n\n\nA few data science bloggers who have a recognizable brand:\n\n\n\n\nCédric Scherer’s blog is one of the first places I turn to when I’m looking for data viz / {ggplot2} content\nCrystal Lewis’ blog features lots of tutorials and conversations about data management practices\nDanielle Navarro’s blog largely chronicles her experiences learning new tools and creating generative art\n\nNOTE: You (most likely) will not have your brand identity fully sorted and solidified by this point (and that’s perfectly okay!). The above examples are meant to show how working towards finding your brand can (over time) help build a pattern of trust that draws visitors back to your website in search of familiar content.\n\n\nReview your personal branding guide and jot down some potential blog post ideas / topics that fit your brand identity (part VII; refer back to the template, if necessary). Be prepared to select one of your ideas during class, where you’ll begin to actually draft your first blog post. Consider the following:\n\nWhat do your personal branding adjectives and key messages say about you and your interests?\nWhat topics blend your current interests and expertise with your future learning goals?\nWhat might draw someone to your website over a different website? Consider how your brand can help to define your niche.\nNot all data science blog posts need to be technical (e.g. include example code) – reflections and commentary on different aspects of your data science journey can be equally as valuable.\nUltimately, you should be choosing something you’re excited to write about (it can be easier to engage a reader when you yourself are jazzed about the topic)!\n\n\n\n\n\n\n\nNeed some help kickstarting the creatvity? Here are some potential blog post topics / ideas to consider:\n\n\n\n\n\n\nhow your past professional or personal interests led you to pursue a degree in environmental data science\nnon-data science skills / experiences that you’ve found to be transferable to your data science learning journey (in perhaps surprising / unexpected ways)\nadvice you wish you had before beginning a data science graduate program\nreflecting on the MEDS 6-week summer coding bootcamp\nyour journey towards discovering your personal brand identity / building your website(!)\nwhat early data science skills you’ve found most valuable or surprising (so far), and why\na mini tutorial on a focused data science skill / topic, e.g. \n\nhow to a particularly function(s) or package has helped overcome a data challenge, and why\na data science workflow or organizational procedure you’ve adopted, and why\nbuilding a data visualization or other creative product\n\n\nIt’s still valuable (and important) to think about how your framing, tone, and focus within each of these suggested topic areas fits your brand identity.\n\n\n\n\n\nB. (Optional) Check out some data science-y blog posts\nReading other data science blogs is the best way to get a sense of not only the breadth of topics that folks in the community are writing about, but also the tone, writing styles, and creative approaches you might take as a blogger. We’ll discuss some examples blog posts during class, though you should feel free to explore ahead of time, if you’re eager:\n\n\n\n\n\n\nA small collection of data science posts and blogs:\n\n\n\n\n\nA handful of posts to showcase some different writing styles and topics areas:\n\nAn introduction to Python for R Users, by Rebecca Barter\nMy first live coding interview, by Maya Gans\nPorting the Openscapes website from blogdown to Quarto, by Sam Csik\nGenerative art with grid, by Danielle Navarro\nSlidecrafting 101: Layout, by Emil Hvitfeldt\n\nAnd a few additional fun blogs to keep an eye on:\n\nMeghan Hall\nMeghan Harris\nCrystal Lewis\nBeatriz Milz\nShannon Pileggi\nAlbert Rapp\nNicola Rennie\nCédric Scherer\nCara Thompson\nIsabella Velásquez\n\nThis is only a small sampling of the many rad data science bloggers out there – if you stumble upon others that you enjoy, be sure to share them in the class Slack channel!"
   },
   {
     "objectID": "course-materials/week4-writing-blogs.html#lecture-materials",
@@ -627,7 +683,7 @@
     "href": "course-materials/week6-misc-github.html#optional-lunch-with-an-nceas-data-scientist",
     "title": "GitHub grab bag + personal brand share outs",
     "section": " (Optional) Lunch with an NCEAS Data Scientist",
-    "text": "(Optional) Lunch with an NCEAS Data Scientist\nJoin us on the NCEAS Terrace for a networking lunch today (12 - 1pm) with Cristina Mancilla and Erica Nielsen!\n\nCristina (she/her) is the Community Engagement Officer at NCEAS and the LTER Network Office. She works closely with the Advancing Public Engagement Across LTERs (APEAL) project team to facilitate co-creation and support project management. Cristina also works on advancing DEIJ in environmental data science, synthesis science, and ecology within and through the projects and research at NCEAS. Her research experience includes pollination ecology, small-scale fisheries transitions, and community forest planning. Cristina cares deeply about centering environmental justice in the implementation and search for environmental solutions. Cristina is from the Rio Grande Valley of South Texas. She received her Master’s degree in Environmental Science and Management from the Bren School at UCSB. She has a Bachelor of Arts degree in Biology and Environmental Studies from Williams College.\nErica is a Point Conception Institute Anthony LaFetra Research Fellow, where she helps coordinate TNC’s coastal research collaborations at the Dangermond Preserve. She also focuses on synthesizing existing coastal biodiversity data to understand ecological dynamics and species range shifts under climate change to inform conservation practice both locally and globally."
+    "text": "(Optional) Lunch with an NCEAS Data Scientist\nPlease see the fall lunch schedule for details on today’s NCEAS guests!"
   },
   {
     "objectID": "course-materials/week2-customizing-websites.html",
@@ -669,6 +725,6 @@
     "href": "course-materials/week2-customizing-websites.html#optional-lunch-with-an-nceas-data-scientist",
     "title": "Customizing Quarto websites",
     "section": " (Optional) Lunch with an NCEAS Data Scientist",
-    "text": "(Optional) Lunch with an NCEAS Data Scientist\nJoin us on the NCEAS Terrace for a networking lunch today (12 - 1pm) with Rachel King and Joe DeCesaro!\n\nRachel is a postdoc and data analyst on the Digital Assets for Nature project, working to catalogue and summarize the extent of current digital monitoring efforts of the natural world. With a background in ecosystem and plant ecology, Rachel has conducted research that investigates the interactions between plants and soil and how humans may alter these relationships. This work can further our understanding of ecosystem responses to climate change as well as how to restore function to landscapes negatively impacted by humans. More recently, Rachel worked as an Analyst at NCEAS to create maps of prey resources for endangered vertebrate species across California drylands, with a particular focus on the Blunt-nosed leopard lizard. Rachel completed a Ph.D. in Ecology, Evolution and Behavior at the University of Minnesota-Twin Cities and a B.A. in Biology at Scripps College.\nJoe is a data analyst currently working on the the environmental justice implications of global food systems and the effects of aquaculture from climate change. He started this role after getting his master’s degree in Environmental Data Science from UCSB. Previously, he worked as an environmental engineer to help various types of facilities follow environmental regulations for their operations. He received his undergraduate degree in materials engineering from Cal Poly - SLO."
+    "text": "(Optional) Lunch with an NCEAS Data Scientist\nPlease see the fall lunch schedule for details on today’s NCEAS guests!"
   }
 ]
