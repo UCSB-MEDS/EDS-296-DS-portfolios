@@ -179,6 +179,15 @@ A screenshot from my Google Analytics dashboard. Views peaked when I [shared my 
 
 [[{{< fa file-pen title="a file and pen" >}}]{.teal-text} Write it!]{.body-text-m}
 
+---
+
+## {#find-topic-start data-menu-title="Find your topic (start)" background="#047C90"} 
+
+[{{< fa lightbulb title="lightbulb" >}} Find your topic]{.slide-title}
+
+<div class="vertical-center center-text">
+<p class="custom-subtitle bottombr">{{< fa lightbulb title="lightbulb" >}} Find your topic</p>
+</div>
 
 ---
 
@@ -191,7 +200,6 @@ A screenshot from my Google Analytics dashboard. Views peaked when I [shared my 
 <br>
 <br>
 
-. . . 
 
 [Sometimes, the topic will be **chosen for you** (e.g. MEDS course assignments)]{.body-text-m}
 
@@ -209,9 +217,9 @@ A screenshot from my Google Analytics dashboard. Views peaked when I [shared my 
 
 ---
 
-## {#find-topic-ex1 data-menu-title="Find your topic (example 1)"} 
+## {#find-topic-ex1 data-menu-title="Find your topic (Sam example)"} 
 
-[{{< fa lightbulb title="lightbulb" >}} Find your topic (EXAMPLE, branding guide)]{.slide-title2}
+[{{< fa lightbulb title="lightbulb" >}} EXAMPLE: Sam's branding guide]{.slide-title2}
 
 <hr>
 
@@ -245,9 +253,9 @@ Learners · Educators · (Potential Employers)
 
 ---
 
-## {#find-topic-idea1 data-menu-title="Find your topic (ex, idea 1)"} 
+## {#find-topic-idea1 data-menu-title="Find your topic (Sam topic 1)"} 
 
-[{{< fa lightbulb title="lightbulb" >}} Find your topic (EXAMPLE, idea 1/4)]{.slide-title2}
+[{{< fa lightbulb title="lightbulb" >}} EXAMPLE: Sam's post ideas (1/4)]{.slide-title2}
 
 <hr>
 
@@ -283,9 +291,9 @@ My [Strava dashboard](https://samanthacsik.shinyapps.io/strava_dashboard/), a pe
 
 ---
 
-## {#find-topic-idea2 data-menu-title="Find your topic (ex, idea 2)"} 
+## {#find-topic-idea2 data-menu-title="Find your topic (Sam topic 2)"} 
 
-[{{< fa lightbulb title="lightbulb" >}} Find your topic (EXAMPLE, idea 2/4)]{.slide-title2}
+[{{< fa lightbulb title="lightbulb" >}} EXAMPLE: Sam's post ideas (2/4)]{.slide-title2}
 
 <hr>
 
@@ -308,9 +316,9 @@ knitr::include_graphics("images/posit-banner.png")
 
 ---
 
-## {#find-topic-idea3 data-menu-title="Find your topic (ex, idea 3)"} 
+## {#find-topic-idea3 data-menu-title="Find your topic (Sam topic 3)"} 
 
-[{{< fa lightbulb title="lightbulb" >}} Find your topic (EXAMPLE, idea 3/4)]{.slide-title2}
+[{{< fa lightbulb title="lightbulb" >}} EXAMPLE: Sam's post ideas (3/4)]{.slide-title2}
 
 <hr>
 
@@ -335,9 +343,9 @@ Image Source: [Johns Hopkins](https://biomedicalodyssey.blogs.hopkinsmedicine.or
 
 ---
 
-## {#find-topic-idea4 data-menu-title="Find your topic (ex, idea 4)"} 
+## {#find-topic-idea4 data-menu-title="Find your topic (Sam topic 4)"} 
 
-[{{< fa lightbulb title="lightbulb" >}} Find your topic (EXAMPLE, idea 4/4)]{.slide-title2}
+[{{< fa lightbulb title="lightbulb" >}} EXAMPLE: Sam's post ideas (4/4)]{.slide-title2}
 
 <hr>
 
@@ -361,7 +369,7 @@ knitr::include_graphics("images/hack20-hex.png")
 
 ## {#discuss-ideas data-menu-title="Your turn - discuss ideas"} 
 
-[{{< fa lightbulb title="lightbulb" >}} Find your topic (YOUR TURN)]{.slide-title2}
+[{{< fa lightbulb title="lightbulb" >}} YOUR TURN]{.slide-title2}
 
 <hr>
 
@@ -375,14 +383,19 @@ knitr::include_graphics("images/hack20-hex.png")
 
 <br>
 
-[**After listening to your partner:**]{.body-text-m}
+[**After listening to your partner, share:**]{.body-text-m}
 
-- share what excites you about their chosen topic
-- TBD
+- what excites you about their chosen topic
+- if there are variations / angles your partner might consider taking to better fit their brand
+- any other initial, constructive thoughts you might have
+
+<br>
+
+[***I'll reset the timer when you and your partner switch roles!***]{.body-text-m}
 
 ```{r}
 countdown::countdown(
-  minutes = 5,
+  minutes = 4,
   # right = 0,
   # Fanfare when it's over
   play_sound = TRUE,
@@ -395,6 +408,14 @@ countdown::countdown(
   font_size = "2em",
   )
 ```
+
+---
+
+## {#craft-story-start data-menu-title="Craft story (start)" background="#047C90"} 
+
+<div class="vertical-center center-text">
+<p class="custom-subtitle bottombr">{{< fa book-open title="an open book" >}} Craft your story</p>
+</div>
 
 ---
 
@@ -446,7 +467,7 @@ From [Alex Phillips'](https://www.alexandraatleephillips.com/) [ESM 438](https:/
 
 ## {#freytags-pyramid data-menu-title="Freytag's Pyramid"} 
 
-[{{< fa book-open title="an open book" >}} Craft your story]{.slide-title2}
+[{{< fa book-open title="an open book" >}} One storytelling approach: build tension]{.slide-title2}
 
 <hr>
 
@@ -472,7 +493,7 @@ From [Alex Phillips'](https://www.alexandraatleephillips.com/) [ESM 438](https:/
 
 ## {#starwars-exposition data-menu-title="Starwars exposition"} 
 
-[Example: Starwars (A New Hope)]{.slide-title}
+[{{< fa book-open title="an open book" >}} EXAMPLE: Starwars (A New Hope)]{.slide-title2}
 
 <hr>
 
@@ -496,7 +517,7 @@ Adapted from [Alex Phillips'](https://www.alexandraatleephillips.com/) [ESM 438]
 
 ## {#starwars-incident data-menu-title="Starwars incident"} 
 
-[Example: Starwars (A New Hope)]{.slide-title}
+[{{< fa book-open title="an open book" >}} EXAMPLE: Starwars (A New Hope)]{.slide-title2}
 
 <hr>
 
@@ -520,7 +541,7 @@ Adapted from [Alex Phillips'](https://www.alexandraatleephillips.com/) [ESM 438]
 
 ## {#starwars-rising-action data-menu-title="Starwars rising action"} 
 
-[Example: Starwars (A New Hope)]{.slide-title}
+[{{< fa book-open title="an open book" >}} EXAMPLE: Starwars (A New Hope)]{.slide-title2}
 
 <hr>
 
@@ -544,7 +565,7 @@ Adapted from [Alex Phillips'](https://www.alexandraatleephillips.com/) [ESM 438]
 
 ## {#starwars-climax data-menu-title="Starwars climax"} 
 
-[Example: Starwars (A New Hope)]{.slide-title}
+[{{< fa book-open title="an open book" >}} EXAMPLE: Starwars (A New Hope)]{.slide-title2}
 
 <hr>
 
@@ -568,7 +589,7 @@ Adapted from [Alex Phillips'](https://www.alexandraatleephillips.com/) [ESM 438]
 
 ## {#starwars-falling-action data-menu-title="Starwars falling action"} 
 
-[Example: Starwars (A New Hope)]{.slide-title}
+[{{< fa book-open title="an open book" >}} EXAMPLE: Starwars (A New Hope)]{.slide-title2}
 
 <hr>
 
@@ -592,7 +613,7 @@ Adapted from [Alex Phillips'](https://www.alexandraatleephillips.com/) [ESM 438]
 
 ## {#starwars-resolution data-menu-title="Starwars resolution"} 
 
-[Example: Starwars (A New Hope)]{.slide-title}
+[{{< fa book-open title="an open book" >}} EXAMPLE: Starwars (A New Hope)]{.slide-title2}
 
 <hr>
 
@@ -611,6 +632,313 @@ knitr::include_graphics("images/starwars-resolution.png")
 ::: {.footer}
 Adapted from [Alex Phillips'](https://www.alexandraatleephillips.com/) [ESM 438](https://bren.ucsb.edu/courses/esm-438) course materials [(week 2 slides)](https://docs.google.com/presentation/d/1dxviUquj4xTNY5pzoGSL-pukWgqC_nPqM9jCemiRAuY/edit#slide=id.g20e7ef3cb4c_0_438) and [this article on Freytag's Pyramid](https://nofilmschool.com/freytag-s-pyramid)
 :::
+
+---
+
+## {#sam-story data-menu-title="Storytelling (EXAMPLE - Sam)"} 
+
+[{{< fa book-open title="an open book" >}} EXAMPLE: My first ever blog post]{.slide-title2}
+
+<hr>
+
+```{r}
+#| eval: true
+#| echo: false
+#| out-width: "100%"
+#| fig-align: "center"
+knitr::include_graphics("images/sam-post-pyramid.png")
+```
+
+<br>
+
+::: {.footer}
+[Why create presentations slides bout blogging when you can just blog about it instead?](https://samanthacsik.github.io/posts/2021-09-21-distill-blogs/)
+:::
+
+---
+
+## {#rescue data-menu-title="Rescue"} 
+
+[{{< fa book-open title="an open book" >}} An alternative structure: "Rescue"]{.slide-title2}
+
+<hr>
+
+Freytag's Pyramid is not the only story structure! Consider "rescue":
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+<br>
+<br>
+<br>
+
+>*"The key to this story's progression is that the audience steps into the story at a high point in the character's fortunes. They then experience a traumatic loss—followed by a recovery aided by [data] science — as the story unfolds"* 
+:::
+
+::: {.column width="50%"}
+```{r}
+#| eval: true
+#| echo: false
+#| out-width: "80%"
+#| fig-align: "center"
+knitr::include_graphics("images/rescue.png")
+```
+:::
+
+::::
+
+::: {.footer}
+Quote and image from [Green et al 2018](https://www.facetsjournal.com/doi/full/10.1139/facets-2016-0079#sec-3) 
+:::
+
+---
+
+## {#rescue-ex data-menu-title="Rescue (EXAMPLE - Maya)"} 
+
+[{{< fa book-open title="an open book" >}} EXAMPLE (Rescue): Maya Gans]{.slide-title2}
+
+<hr>
+
+From [My First Live Coding Interview](https://maya.rbind.io/posts/live-coding-interview/), by [Maya Gans](https://maya.rbind.io/):
+
+::: {.body-text-s}
+>***Intro:** "Yesterday I interviewed for a position maintaining and creating ShinyApps. To call that a JOB is crazy to me. I love developing reactive web applications, the fact that you can get paid to do that is still mind blowing. I’m realizing that having fun at work is actually a possibility!*
+>
+>*That said, the data scientist position usually includes a live coding portion. I went into it trying to treat my first one as practice, but every second I didn’t spend typing spanned an eternity. It was horrifying… but thinking about how to solve these questions was also kind of really fun?*
+>
+>*I’m fairly certain I won’t get the job. But I’m also certain it was an experience to learn and grow. The interview was so intense that it was pretty easy to recall the questions almost verbatim. I wanted to explore the questions again on my own with no pressure. And I’d love input on how to answer these more elegantly!"*
+>
+>***Conclusion:** "I left the interview feeling exhausted and deflated. I found myself asking: if I can’t answer these questions, what am I doing trying to become a data scientist? But now that I’ve spent a day to reflect, the interview was an incredible learning experience. It pinpointed concrete areas where I can grow and I honestly had fun thinking about these problems. I’m not sure I’ll ever perform smoothly under pressure, but at the very least I now have a function to separate duplicates from unique values!"*
+
+:::
+
+```{r}
+countdown::countdown(
+  minutes = 2,
+  # right = 0,
+  # Fanfare when it's over
+  play_sound = TRUE,
+  color_border              = "#FFFFFF",
+  color_text                = "#7aa81e",
+  color_running_background  = "#7aa81e",
+  color_running_text        = "#FFFFFF",
+  color_finished_background = "#ffa07a",
+  color_finished_text       = "#FFFFFF",
+  font_size = "2em",
+  )
+```
+
+---
+
+## {#mystery data-menu-title="Discovery"} 
+
+[{{< fa book-open title="an open book" >}} An alternative structure: "Discovery"]{.slide-title2}
+
+<hr>
+
+Or "discovery":
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+<br>
+<br>
+<br>
+
+>*"tbd"* 
+:::
+
+::: {.column width="50%"}
+```{r}
+#| eval: true
+#| echo: false
+#| out-width: "80%"
+#| fig-align: "center"
+knitr::include_graphics("images/discovery.png")
+```
+:::
+
+::::
+
+::: {.footer}
+Quote and image from [Green et al 2018](https://www.facetsjournal.com/doi/full/10.1139/facets-2016-0079#sec-3) 
+:::
+
+---
+
+## {#discovery-ex data-menu-title="Discovery (EXAMPLE - Jadey)"} 
+
+[{{< fa book-open title="an open book" >}} EXAMPLE (Discovery): Jadey Ryan]{.slide-title2}
+
+<hr>
+
+From [Notes from live code review of `{soils}`](https://jadeyryan.com/blog/2024-01-22_package-review/), by [Jadey Ryan](https://jadeyryan.com/):
+
+::: {.body-text-s}
+>***Intro:** "A couple days ago, three ✨expert✨ R package developers and reviewers looked at my package:*
+>
+>*[Nicholas Tierney](https://aus.social/@njtierney)*
+>
+>*[Miles McBain](https://fosstodon.org/@milesmcbain)*
+>
+>*[Adam Sparks](https://rstats.me/@adamhsparks)*
+>
+>*The idea to livestream a R package review came from Nick Tierney. Others favorited, boosted, and commented on the Mastodon post, including myself. I’ve been working on this {soils} R package and am in the review/revise period of package development. Before I could get second thoughts, I volunteered this package for review. I was quite nervous about putting my work out there for critique, but I’m so happy that I did. And so grateful that Nick, Miles, and Adam all shared their brilliance! 🧠😇*
+>
+>*I’ve re-watched the session a few times to soak up all the gold nuggets of good practices, tips and tricks, and overall understanding of the package review process. Below, I’ve included the recording of the session, bullet point summaries of what I learned, what I did well, and what I can improve, and then my unpolished and mostly disorganized notes."*
+:::
+
+```{r}
+countdown::countdown(
+  minutes = 2,
+  # right = 0,
+  # Fanfare when it's over
+  play_sound = TRUE,
+  color_border              = "#FFFFFF",
+  color_text                = "#7aa81e",
+  color_running_background  = "#7aa81e",
+  color_running_text        = "#FFFFFF",
+  color_finished_background = "#ffa07a",
+  color_finished_text       = "#FFFFFF",
+  font_size = "2em",
+  )
+```
+
+---
+
+## {#intro-concl data-menu-title="Intro / Conclusion"} 
+
+[{{< fa book-open title="an open book" >}} Storytelling / scene-setting in an intro (and conclusion)]{.slide-title2}
+
+<hr>
+
+<br>
+
+Freytag's Pyramid
+
+[**A common approach:**]{.body-text-m}
+
+- storytelling / scene-setting in the intro (and maybe conclusion)
+- technical instruction / tutorial-style writing in the body
+
+
+Here are a few exampes: 
+
+
+
+. . . 
+
+Of course, there's no one *right* way to blog (or storytell for that matter) -- don't let this constrain you! 
+
+
+<!-- --- -->
+
+<!-- ## {#sam-story data-menu-title="Storytelling (EXAMPLE - Sam)"}  -->
+
+<!-- [{{< fa book-open title="an open book" >}} Craft your story -- variants]{.slide-title2} -->
+
+<!-- <hr> -->
+
+<!-- ```{r} -->
+<!-- #| eval: true -->
+<!-- #| echo: false -->
+<!-- #| out-width: "100%" -->
+<!-- #| fig-align: "center" -->
+<!-- knitr::include_graphics("images/story-shapes.png") -->
+<!-- ``` -->
+
+<!-- ::: {.footer} -->
+<!-- Source: [Green et al. 2018](https://doi.org/10.1139/facets-2016-0079), courtesy of [Alex Phillips](https://docs.google.com/presentation/d/1dxviUquj4xTNY5pzoGSL-pukWgqC_nPqM9jCemiRAuY/edit#slide=id.g20e7ef3cb4c_0_510) -->
+<!-- ::: -->
+
+<!-- --- -->
+
+## {#discuss-blog-stories data-menu-title="Storytelling (EXAMPLE - discuss)"} 
+
+[{{< fa book-open title="an open book" >}} EXAMPLE: Discuss additional blog post stories]{.slide-title2}
+
+<hr>
+
+[**With a partner, choose and skim one of the following blog posts:**]{.body-text-m}
+
+- [An introduction to Python for R Users](https://rebeccabarter.com/blog/2023-09-11-from_r_to_python){target="_blank"}, by [Rebecca Barter](https://rebeccabarter.com/about){target="_blank"}
+- [My first live coding interview](https://maya.rbind.io/posts/live-coding-interview/){target="_blank"}, by [Maya Gans](https://maya.rbind.io/){target="_blank"}
+- [Creating typewriter-styled maps in {ggplot2}](https://nrennie.rbind.io/blog/creating-typewriter-maps-r/), by [Nicola Rennie](https://nrennie.rbind.io/)
+- [Porting the Openscapes website from blogdown to Quarto](https://samanthacsik.github.io/posts/2023-08-01-openscapes-website/){target="_blank"}, by [Sam Csik](https://samanthacsik.github.io){target="_blank"}
+- [Slidecrafting 101: Layout](https://emilhvitfeldt.com/post/slidecraft-layout/){target="_blank"}, by [Emil Hvitfeldt](https://emilhvitfeldt.com/){target="_blank"}
+
+[**Be prepared to share out:**]{.body-text-m}
+
+- how the author used a story to engage the reader (or not -- not every blog post will use a storytelling approach)
+  - If there is a clear story line, where does it actually take place within the blog post?
+- any other aspects that did or did not resonate with you
+
+```{r}
+countdown::countdown(
+  minutes = 6,
+  # right = 0,
+  # Fanfare when it's over
+  play_sound = TRUE,
+  color_border              = "#FFFFFF",
+  color_text                = "#7aa81e",
+  color_running_background  = "#7aa81e",
+  color_running_text        = "#FFFFFF",
+  color_finished_background = "#ffa07a",
+  color_finished_text       = "#FFFFFF",
+  font_size = "2em",
+  )
+```
+
+---
+
+## {#discuss-your-story data-menu-title="Your turn - discuss your story"} 
+
+[{{< fa book-open title="an open book" >}} YOUR TURN]{.slide-title2}
+
+<hr>
+
+<br>
+
+[**On your own, begin brainstorming *your* story. Consider:**]{.body-text-m}
+
+- 
+- what inspired you to blog about your chosen topic? 
+- how does your chosen topic relate to your personal and professional interests? 
+- was there a specific incident or catalyst that inspired your curiosity around this topic?
+- what is the tension?
+- what are your short and long-term learning goals and how does this topic fit within them?
+- recall the key messages your wrote in your branding guide -- can you tell a story that helps to support those key messages?
+- who will be reading this blog post (remember your target audience!)?
+
+```{r}
+countdown::countdown(
+  minutes = 10,
+  # right = 0,
+  # Fanfare when it's over
+  play_sound = TRUE,
+  color_border              = "#FFFFFF",
+  color_text                = "#7aa81e",
+  color_running_background  = "#7aa81e",
+  color_running_text        = "#FFFFFF",
+  color_finished_background = "#ffa07a",
+  color_finished_text       = "#FFFFFF",
+  font_size = "2em",
+  )
+```
+
+---
+
+- what is the source of tension? (e.g. I thought I had figured out how to solve my data science problem, but package/function/approach X actually didn't quite do what I needed. I had to explore alternatives, and after a lot of trial and error, I landed on approach Y. Let me tell you )
+
+[**Begin outlining ]
+
+
+
+---
+
+
 
 ---
 
@@ -647,7 +975,7 @@ We'll read just a few short snippets from a handful of data science blogs to see
 
 YOUR TURN
 
-- discuss with your partner your topic of choice and how it fits with your intended brand image; it can help to pull up your personal branding guide for reference
+- discuss with your partner your topic of choice and how it fits with your intended brand image; it can help to pull up your personal branding guide, for reference
 
 [add timer]
 
