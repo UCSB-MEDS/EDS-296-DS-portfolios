@@ -92,6 +92,7 @@ And a few additional fun blogs to keep an eye on:
 - [Meghan Hall](https://meghan.rbind.io/blog/){target="_blank"}
 - [Meghan Harris](https://thetidytrekker.com/blog){target="_blank"}
 - [Crystal Lewis](https://cghlewis.com/blog/){target="_blank"}
+- [Cosima Meyer](https://cosimameyer.com/#post){target="_blank"}
 - [Beatriz Milz](https://beamilz.com/posts/en){target="_blank"}
 - [Shannon Pileggi](https://www.pipinghotdata.com/blog){target="_blank"}
 - [Albert Rapp](https://albert-rapp.de/blog){target="_blank"}
@@ -100,6 +101,7 @@ And a few additional fun blogs to keep an eye on:
 - [Cara Thompson](https://www.cararthompson.com/posts){target="_blank"}
 - [Nick Tierney](https://www.njtierney.com/)
 - [Isabella Velásquez](https://ivelasq.rbind.io/){target="_blank"}
+- [rostrum.blog](https://www.rostrum.blog/){target="_blank"} (by [Matt Dray](https://www.matt-dray.com/){target="_blank"} and [Adriana De Palma](https://adrianadepalma.com/){target="_blank"})
 
 This is only a small sampling of the *many* rad data science bloggers out there -- if you stumble upon others that you enjoy, be sure to share them in the class Slack channel!
 :::
@@ -107,9 +109,7 @@ This is only a small sampling of the *many* rad data science bloggers out there 
 
 ## {{< fa person-chalkboard title="a person pointing at a chalkboard" >}} Lecture Materials {#lecture-materials}
 
-::: {.callout-important}
-## TODO come back to this
-:::
+Follow along with these slides as we brainstorm our first data science blog posts:
 
 ::: {.center-text}
 [{{< fa person-chalkboard title="A person motioning at a chalkboard" >}} writing data science blogs](materials/blogging-tips.qmd){.btn role="button" target="_blank"} 

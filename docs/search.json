@@ -480,7 +480,7 @@
     "href": "course-materials/materials/blogging-tips.html#intimidating",
     "title": "EDS 296",
     "section": "",
-    "text": "Writing (in any form) can feel intimidating . . .\n\n\n. . . but I hope that after today and over the next ~7 months, you’ll find blogging to be:\n\n\na creative and flexible outlet\na motivator for learning new skills\na way to reflect on your work / find closure after a large effort\na fun way to showcase / market your technical skills (both programming and writing)\n\n\n\nData science blogging can (and should) be more than just the code you’ve written or the tool you’ve learned – this is what we’ll focus on today."
+    "text": "Writing (in any form) can feel intimidating . . .\n\n\n. . . but I hope that after today and over the next ~7 months, you’ll find blogging to be:\n\n\na creative and flexible outlet\na motivator for learning new skills\na way to reflect on your work / find closure after a large effort\na fun way to showcase / market your technical skills (both programming and writing)\n\n\n\nData science blogging can (and should) be more than just the code you’ve written or the tool you’ve learned – this is what we’ll (primarily) focus on today."
   },
   {
     "objectID": "course-materials/materials/blogging-tips.html#how-to",
@@ -543,7 +543,7 @@
     "href": "course-materials/materials/blogging-tips.html#discuss-ideas",
     "title": "EDS 296",
     "section": "",
-    "text": "YOUR TURN\n\n\nShare with your partner:\n\nyour personal brand adjectives, target audience(s), and key messages\ntwo different brainstormed blog post topics, and how they fit your brand\nwhich of your topic ideas you’d like to pursue, and why\n\n\nAfter listening to your partner, share:\n\nwhat excites you about their chosen topic\nif there are variations / angles your partner might consider taking to better fit their brand\nany other initial, constructive thoughts you might have\n\n\nI’ll reset the timer when you and your partner switch roles!\n\n\n\n−+\n04:00"
+    "text": "YOUR TURN\n\n\nShare with your partner:\n\nyour personal brand adjectives, target audience(s), and key messages\ntwo different brainstormed blog post topics, and how they fit your brand\nwhich of your topic ideas you’d like to pursue, and why\n\n\nAfter listening to your partner, share:\n\nwhat excites you about their chosen topic\nif there are variations / angles your partner might consider taking to better fit their brand\nany other initial, constructive thoughts you might have\n\n\nI’ll reset the timer when you and your partner should switch roles!\n\n\n\n−+\n04:00"
   },
   {
     "objectID": "course-materials/materials/blogging-tips.html#craft-story-start",
@@ -648,14 +648,14 @@
     "href": "course-materials/materials/blogging-tips.html#brainstorm-your-story",
     "title": "EDS 296",
     "section": "",
-    "text": "YOUR TURN - brainstorm\n\n\nOn your own, begin brainstorming your story. Consider:\n\nwhat motivated / inspired you to blog about your chosen topic (e.g. was there a specific incident or catalyst)?\nis there a source of tension (e.g. overcoming a technical or learning challenge)?\nhow does your chosen topic relate to your personal and professional interests?\nwhat are your short and long-term learning goals and how does this topic fit within them?\nrecall the key messages your wrote in your branding guide – can you tell a story that helps to support those key messages?\nwho are you writing for (remember, you define your target audience(s) in your personal branding guide!)?\n\n\n\n\n−+\n06:00\n\n\n\n\n(e.g. I thought I had figured out how to solve my data science problem, but package/function/approach X actually didn’t quite do what I needed. I had to explore alternatives, and after a lot of trial and error, I landed on approach Y. Let me tell you about my solution…)"
+    "text": "YOUR TURN - brainstorm\n\n\nOn your own, begin brainstorming your story. Consider:\n\nwhat motivated / inspired you to blog about your chosen topic (e.g. was there a specific incident or catalyst)?\nis there a source of tension (e.g. overcoming a technical or learning challenge)?\nhow does your chosen topic relate to your personal and / or professional interests?\nwhat are your short and long-term learning goals and how does this topic fit within them?\nrecall the key messages your wrote in your branding guide – can you tell a story that helps to support those key messages?\nwho are you writing for (remember, you define your target audience(s) in your personal branding guide!)?\n\n\n\n\n−+\n06:00\n\n\n\n\n(e.g. I thought I had figured out how to solve my data science problem, but package/function/approach X actually didn’t quite do what I needed. I had to explore alternatives, and after a lot of trial and error, I landed on approach Y. Let me tell you about my solution…)"
   },
   {
     "objectID": "course-materials/materials/blogging-tips.html#share-your-story",
     "href": "course-materials/materials/blogging-tips.html#share-your-story",
     "title": "EDS 296",
     "section": "",
-    "text": "YOUR TURN - share\n\n\nWith your partner, take turns sharing your outlined stories. Consider:\n\ntbd\n\n\nBe prepared to share some of your ideas with the class!\n\n\n\n−+\n06:00"
+    "text": "YOUR TURN - share\n\n  \nShare your outlined story with your partner.\n\n\n\nI’ll reset the timer when you and your partner should switch roles!\n\n\n\n−+\n02:00"
   },
   {
     "objectID": "course-materials/materials/blogging-tips.html#add-embellishments-start",
@@ -663,6 +663,41 @@
     "title": "EDS 296",
     "section": "",
     "text": "Add embellishments"
+  },
+  {
+    "objectID": "course-materials/materials/blogging-tips.html#embellishments",
+    "href": "course-materials/materials/blogging-tips.html#embellishments",
+    "title": "EDS 296",
+    "section": "",
+    "text": "Embellishments can improve engagement\n\nOnce your story framework is scaffolded, adding in one (or more) of the following embellishment types can help you engage your readers:\n\n\nHumor\nHooks\nMetaphors\nSupporting media\n\n\nMatt Dray and Adriana De Palma’s blog, rostrum.blog is one that often (always?) leverages embellishments to engage their readers. Examples from their post, Base slaps!, on the following slides.\n\nThe following slide content is adapted from Alex Phillips’ ESM 438 course materials (week 2 slides), with the added example of Base Slaps!."
+  },
+  {
+    "objectID": "course-materials/materials/blogging-tips.html#humor",
+    "href": "course-materials/materials/blogging-tips.html#humor",
+    "title": "EDS 296",
+    "section": "",
+    "text": "1. Humor\n\nTo start, the title (Base slaps!) is pretty punny  (spoiler, it’s about base R):\n\n\n\nAnd ends with this final closing paragraph:\n\n\n“But ultimately, I just wanted to do this terrible ‘base slaps’/‘slap bass’ pun, sorry. But also, I hear that zoomers say ‘slaps’ to mean ‘cool’. I think. Oh dear, this was a flimsy premise for a talk. Cringe-driven development?”\n\n\n\nmaybe you like reading it, maybe you like writing with it, maybe you like both, maybe you like neither\nshould be an authentic extension of you (e.g. if you like sarcasm, go for it!)\nkeep it professional"
+  },
+  {
+    "objectID": "course-materials/materials/blogging-tips.html#hooks",
+    "href": "course-materials/materials/blogging-tips.html#hooks",
+    "title": "EDS 296",
+    "section": "",
+    "text": "2. Hooks\n\nGood hooks inspire wonder, curiosity, humor, or other connecting emotions.\n\n\n\nClassic hooks:\n\nwhat if I told you…\nthink about the last time you…\nhow many of you…\nimagine that…\ntake a look at…\ndid you know…\n\n\n\nMatt opens his abstract for this talk (under the section titled, Premise) with the hook:\n\n\n\n“Did you hear? Base R is dead! Or is it?”"
+  },
+  {
+    "objectID": "course-materials/materials/blogging-tips.html#metaphors-media",
+    "href": "course-materials/materials/blogging-tips.html#metaphors-media",
+    "title": "EDS 296",
+    "section": "",
+    "text": "3/4. Metaphors & Supporting media\n\nUse metaphors to improve connections or visualizations for your audience. And because blog posts are a versatile medium, don’t shy away from including media that helps to demonstrate examples (and importantly, gives your readers a break from a wall of text and code).\n\n\n\n“Re stability, vanilla R has changed little over time. Code written a couple of decades ago has a high chance of running now and will (likely) be executable for a long time into the future6. As a result, I contend that R is a horseshoe crab (unchanged for aeons, cryptically beautiful).”\n\n\n\n“Note that base R is the literal, unyielding base of the teetering tower of packages used by your project (incredible metaphor).”\n\n\n\n\n\n\n\n\n\n\n\n\nBoth quotes and xkcd adaptation come from the section titled, Content. Find many more metaphors and media throughout the blog post."
+  },
+  {
+    "objectID": "course-materials/materials/blogging-tips.html#discuss-embellishments",
+    "href": "course-materials/materials/blogging-tips.html#discuss-embellishments",
+    "title": "EDS 296",
+    "section": "",
+    "text": "YOUR TURN\n\n\nDiscuss with your partner some ways to add embellishments to both of your stories. Consider:\n\n\ndo you like reading humor? do you like writing with humor? what might that look like for you (if you do choose to use humor)?\nhow can you or your partner “hook” readers at the start of your blog posts? or elsewhere in the writing?\nwhat metaphors might you consider using and how do they help improve understanding of complex topics?\nwhat media might you want to include?\n\n\n\n\n−+\n06:00"
   },
   {
     "objectID": "course-materials/materials/blogging-tips.html#write-it-start",
@@ -676,7 +711,7 @@
     "href": "course-materials/materials/blogging-tips.html#complete-blog-post",
     "title": "EDS 296",
     "section": "",
-    "text": "Continue drafting & polishing your post\n\n\nGetting feedback:\n\nTrade with a friend (even better if you can both give feedback to one another)\nSee me at office hours (11/1 & 11/8 from 1:00 - 2:00pm)\n\n\nSubmitting completed blog posts:\n\ndue at the end of EDS 296 (week 6)\nopportunity for Bren to promote blog posts on LinkedIn"
+    "text": "Continue drafting & polishing your post\n\n\nGetting feedback:\n\nTrade with a friend (even better if you can both give feedback to one another)\nSee me at office hours (11/1 & 11/8 from 1:00 - 2:00pm)\n\n\nComplete and publish your blog posts:\n\nnot a course requirement, but I highly encourage you to do so by end of EDS 296 (week 6) while things are fresh!\nopportunity for Bren to promote blog posts on LinkedIn\nreach out if you want feedback on your completed draft"
   },
   {
     "objectID": "course-materials/materials/blogging-tips.html#tips-start",
@@ -697,21 +732,35 @@
     "href": "course-materials/materials/blogging-tips.html#headers",
     "title": "EDS 296",
     "section": "",
-    "text": "Use headers to help readers navigate\n\nuse appropriate headers and include TOC so readers can quickly jump from section to section"
+    "text": "Use headers to help readers navigate content\n\nMost visitors won’t read your entire blog post, but rather want to jump to the parts that are relevant for them – help them easily navigate by creating clear section headers (e.g. # - ####) and enabling a table of contents.\n\nSet toc: true in either your _quarto.yml file (which would make this the default behavior across all your website pages), or in your blog post’s YAML (which turns on table of contents for just that page). You may also adjust the toc-depth (number of section levels to include; defaults to 3).\n\nScreenshot from my blog post, Building (and teaching) a graduate-level data science course"
   },
   {
     "objectID": "course-materials/materials/blogging-tips.html#chunk-options",
     "href": "course-materials/materials/blogging-tips.html#chunk-options",
     "title": "EDS 296",
     "section": "",
-    "text": "Set the appropriate code chunk options\n\nset the appropriate code chunk options (e.g. warning: false / message: false to prevent long text to bog down your blog)\n\ndon’t print out looonngggg data frames or warnings / messages (unless there’s an important and demonstrative reason to do so)\ninclude only the necessary code and make it clear (logical variable / object names, annotations as appropriate)"
+    "text": "Set the appropriate code chunk options\n\nYour data science blog posts will often include example code. Thoughtfully set your code chunk options so that your examples are easy to follow, but don’t bog down your post by requiring readers to scroll past loonnngggg data frames or messages / warnings (unless there’s an important and demonstrative reason to do so). Consider:\n\n\ndo you need to show messages / warnings to demonstrate your point? if not, suppress them (message: false & warning: false)\ndo you need to show the output of your code or just the code? (eval: false & echo: true)\ndo you need to show the code or just the output? (eval: true & echo: true; defaults)"
+  },
+  {
+    "objectID": "course-materials/materials/blogging-tips.html#consider-code",
+    "href": "course-materials/materials/blogging-tips.html#consider-code",
+    "title": "EDS 296",
+    "section": "",
+    "text": "Consider how you write / display your code\n\n\nuse logical variable / object names\ninclude clear, succinct, and nicely structured code annotations, as appropriate (check out the {ARTofR} package)\nconsider folding code so that readers can expand / collapse code as needed (set code-fold: true in your post’s YAML, or on a chunk-by-chunk basis)\n\n\n\n\n\n\n\n\n\n\n\n\n\n   Check out Melissa Widas’ (MEDS 2024) post, Relationship between bee behavior and vineyard types in Germany, which demonstrates the above approaches (Melissa also does a great job telling a story in her intro)."
   },
   {
     "objectID": "course-materials/materials/blogging-tips.html#categories",
     "href": "course-materials/materials/blogging-tips.html#categories",
     "title": "EDS 296",
     "section": "",
-    "text": "Strategically assign categories\n\nsome final takeaways:\n\ni think it’s okay to sometimes use your blog as a stream-of-consiousness brain dump of ideas / examples for yourself, but giving some thought to your post’s structure, story, tone, and theme can serve your brand (credibility/trustworthy)\n\nPotential tip: assign these style posts a category (e.g. quick-thoughts, raw-reflections, code-bites, short-takes; thanks ChatGPT for these suggestions)\nMEDS-project"
+    "text": "Strategically assign categories\n\n\nWe learned last week how to add category tags to individual blog posts. Use these strategically to group related posts. Some ideas / examples:\n\n\nMEDS-related posts (e.g. course projects): MEDS-project, grad-school\nShort / unpolished posts: quick-thoughts, raw-reflections, code-bites, short-takes (thanks ChatGPT for these suggestions)\nPosts that use a particular language: R, Python, JavaScript\nDomain-specific categories: data-viz, machine-learning, GIS, databases, statistics, environmental-modeling\n\n\nNote: To ensure clean URLs, avoid categories with spaces (e.g. rather than MEDS projects, use MEDS-projects)"
+  },
+  {
+    "objectID": "course-materials/materials/blogging-tips.html#media",
+    "href": "course-materials/materials/blogging-tips.html#media",
+    "title": "EDS 296",
+    "section": "",
+    "text": "Embed media\n\nThere are a few ways to embed media (screenshots, screen recordings, gifs, images, etc.):\n\nIn a code chunk using {knitr} (great when you’re using R):\n```{r}\n#| eval: true\n#| echo: false\n#| out-width: \"100%\"\n#| fig-align: \"center\" # or right, left\n#| fig-cap: \"Caption goes here\"\n#| fig-alt: \"Alt text goes here\"\nknitr::include_graphics(\"file/path/to/image/file\")\n```\n\n\nUsing markdown syntax:\n\n![Caption goes here](file/path/to/image/file){width=\"100%\" fig-alt=\"Alt text goes here\"} # no alignment options using markdown; need to use HTML :(\n\n\nUsing HTML syntax:\n\n&lt;img src=\"file/path/to/image/file\" width=\"100%\" alt=\"Alt text goes here\"&gt; # see https://gist.github.com/DavidWells/7d2e0e1bc78f4ac59a123ddf8b74932d for info on how to align images; see https://www.w3schools.com/tags/tag_figcaption.asp when you want to add a figure caption\n\n\n\nNote: I prefer using CSS for styling and aligning my figure captions. See this example image caption and the associated CSS rules (1 & 2)."
   },
   {
     "objectID": "course-materials/week4-writing-blogs.html#anticipated-deliverables",
@@ -725,14 +774,14 @@
     "href": "course-materials/week4-writing-blogs.html#pre-class-prep",
     "title": "Writing skills for data science blogging",
     "section": " Pre-class Prep",
-    "text": "Pre-class Prep\nPlease be sure to complete the following before class:\n\nA. Add potential blog post topics / ideas to your personal branding guide (part VII)\nComing up with topics to blog about can feel intimidating (especially in the beginning), however your personal branding guide can help to steer you in a productive direction. Recall that your personal brand shapes how you present yourself, not only in your aesthetic choices, but also the types of content you choose to publish and the tone you use throughout.\n\n\n\n\n\n\nA few data science bloggers who have a recognizable brand:\n\n\n\n\nCédric Scherer’s blog is one of the first places I turn to when I’m looking for data viz / {ggplot2} content\nCrystal Lewis’ blog features lots of tutorials and conversations about data management practices\nDanielle Navarro’s blog largely chronicles her experiences learning new tools and creating generative art\n\nNOTE: You (most likely) will not have your brand identity fully sorted and solidified by this point (and that’s perfectly okay!). The above examples are meant to show how working towards finding your brand can (over time) help build a pattern of trust that draws visitors back to your website in search of familiar content.\n\n\nReview your personal branding guide and jot down some (2-4, or more if you want!) potential blog post ideas / topics that fit your brand identity (part VII; refer back to the template, if necessary). Be prepared to select one of your ideas during class, where you’ll begin to actually draft your first blog post. Consider the following:\n\nWhat do your personal branding adjectives and key messages say about you and your interests?\nWhat topics blend your current interests and expertise with your future learning goals?\nWhat might draw someone to your website over a different website? Consider how your brand can help to define your niche.\nNot all data science blog posts need to be technical (e.g. include example code) – reflections and commentary on different aspects of your data science journey can be equally as valuable.\nUltimately, you should be choosing something you’re excited to write about (it can be easier to engage a reader when you yourself are jazzed about the topic)!\nImportant: Consider topics that you can feasibly write a blog post on by the end of this course (week 6) – you may also add larger-scoped or more involved topic ideas to your personal branding guide to return to in the future\n\n\n\n\n\n\n\nNeed some help kickstarting the creatvity? Here are some potential blog post topics / ideas to consider:\n\n\n\n\n\n\nhow your past professional or personal interests led you to pursue a degree in environmental data science\nnon-data science skills / experiences that you’ve found to be transferable to your data science learning journey (in perhaps surprising / unexpected ways)\nadvice you wish you had before beginning a data science graduate program\nreflecting on the MEDS 6-week summer coding bootcamp\nyour journey towards discovering your personal brand identity / building your website(!)\nwhat early data science skills you’ve found most valuable or surprising (so far), and why\na mini tutorial on a focused data science skill / topic, e.g. \n\nhow to a particularly function(s) or package has helped you overcome a data challenge, and why / how\na data science workflow or organizational procedure you’ve adopted, and why\nbuilding a data visualization or other creative product\n\n\nIt’s still valuable (and important) to think about how your framing, tone, and focus within each of these suggested topic areas fits your brand identity.\n\n\n\n\n\nB. (Optional) Check out some data science-y blog posts\nReading other data science blogs is the best way to get a sense of not only the breadth of topics that folks in the community are writing about, but also the tone, writing styles, and creative approaches you might take as a blogger. We’ll discuss some examples blog posts during class, though you should feel free to explore ahead of time, if you’re eager:\n\n\n\n\n\n\nA small collection of data science posts and blogs:\n\n\n\n\n\nA handful of posts to showcase some different writing styles and topics areas:\n\nAn introduction to Python for R Users, by Rebecca Barter\nMy first live coding interview, by Maya Gans\nNotes from live code review of {soils}, by Jadey Ryan\nCreating typewriter-styled maps in {ggplot2}, by Nicola Rennie\nPorting the Openscapes website from blogdown to Quarto, by Sam Csik\nGenerative art with grid, by Danielle Navarro\nSlidecrafting 101: Layout, by Emil Hvitfeldt\n\nAnd a few additional fun blogs to keep an eye on:\n\nMeghan Hall\nMeghan Harris\nCrystal Lewis\nBeatriz Milz\nShannon Pileggi\nAlbert Rapp\nNicola Rennie\nCédric Scherer\nCara Thompson\nNick Tierney\nIsabella Velásquez\n\nThis is only a small sampling of the many rad data science bloggers out there – if you stumble upon others that you enjoy, be sure to share them in the class Slack channel!"
+    "text": "Pre-class Prep\nPlease be sure to complete the following before class:\n\nA. Add potential blog post topics / ideas to your personal branding guide (part VII)\nComing up with topics to blog about can feel intimidating (especially in the beginning), however your personal branding guide can help to steer you in a productive direction. Recall that your personal brand shapes how you present yourself, not only in your aesthetic choices, but also the types of content you choose to publish and the tone you use throughout.\n\n\n\n\n\n\nA few data science bloggers who have a recognizable brand:\n\n\n\n\nCédric Scherer’s blog is one of the first places I turn to when I’m looking for data viz / {ggplot2} content\nCrystal Lewis’ blog features lots of tutorials and conversations about data management practices\nDanielle Navarro’s blog largely chronicles her experiences learning new tools and creating generative art\n\nNOTE: You (most likely) will not have your brand identity fully sorted and solidified by this point (and that’s perfectly okay!). The above examples are meant to show how working towards finding your brand can (over time) help build a pattern of trust that draws visitors back to your website in search of familiar content.\n\n\nReview your personal branding guide and jot down some (2-4, or more if you want!) potential blog post ideas / topics that fit your brand identity (part VII; refer back to the template, if necessary). Be prepared to select one of your ideas during class, where you’ll begin to actually draft your first blog post. Consider the following:\n\nWhat do your personal branding adjectives and key messages say about you and your interests?\nWhat topics blend your current interests and expertise with your future learning goals?\nWhat might draw someone to your website over a different website? Consider how your brand can help to define your niche.\nNot all data science blog posts need to be technical (e.g. include example code) – reflections and commentary on different aspects of your data science journey can be equally as valuable.\nUltimately, you should be choosing something you’re excited to write about (it can be easier to engage a reader when you yourself are jazzed about the topic)!\nImportant: Consider topics that you can feasibly write a blog post on by the end of this course (week 6) – you may also add larger-scoped or more involved topic ideas to your personal branding guide to return to in the future\n\n\n\n\n\n\n\nNeed some help kickstarting the creatvity? Here are some potential blog post topics / ideas to consider:\n\n\n\n\n\n\nhow your past professional or personal interests led you to pursue a degree in environmental data science\nnon-data science skills / experiences that you’ve found to be transferable to your data science learning journey (in perhaps surprising / unexpected ways)\nadvice you wish you had before beginning a data science graduate program\nreflecting on the MEDS 6-week summer coding bootcamp\nyour journey towards discovering your personal brand identity / building your website(!)\nwhat early data science skills you’ve found most valuable or surprising (so far), and why\na mini tutorial on a focused data science skill / topic, e.g. \n\nhow to a particularly function(s) or package has helped you overcome a data challenge, and why / how\na data science workflow or organizational procedure you’ve adopted, and why\nbuilding a data visualization or other creative product\n\n\nIt’s still valuable (and important) to think about how your framing, tone, and focus within each of these suggested topic areas fits your brand identity.\n\n\n\n\n\nB. (Optional) Check out some data science-y blog posts\nReading other data science blogs is the best way to get a sense of not only the breadth of topics that folks in the community are writing about, but also the tone, writing styles, and creative approaches you might take as a blogger. We’ll discuss some examples blog posts during class, though you should feel free to explore ahead of time, if you’re eager:\n\n\n\n\n\n\nA small collection of data science posts and blogs:\n\n\n\n\n\nA handful of posts to showcase some different writing styles and topics areas:\n\nAn introduction to Python for R Users, by Rebecca Barter\nMy first live coding interview, by Maya Gans\nNotes from live code review of {soils}, by Jadey Ryan\nCreating typewriter-styled maps in {ggplot2}, by Nicola Rennie\nPorting the Openscapes website from blogdown to Quarto, by Sam Csik\nGenerative art with grid, by Danielle Navarro\nSlidecrafting 101: Layout, by Emil Hvitfeldt\n\nAnd a few additional fun blogs to keep an eye on:\n\nMeghan Hall\nMeghan Harris\nCrystal Lewis\nCosima Meyer\nBeatriz Milz\nShannon Pileggi\nAlbert Rapp\nNicola Rennie\nCédric Scherer\nCara Thompson\nNick Tierney\nIsabella Velásquez\nrostrum.blog (by Matt Dray and Adriana De Palma)\n\nThis is only a small sampling of the many rad data science bloggers out there – if you stumble upon others that you enjoy, be sure to share them in the class Slack channel!"
   },
   {
     "objectID": "course-materials/week4-writing-blogs.html#lecture-materials",
     "href": "course-materials/week4-writing-blogs.html#lecture-materials",
     "title": "Writing skills for data science blogging",
     "section": " Lecture Materials",
-    "text": "Lecture Materials\n\n\n\n\n\n\nTODO come back to this\n\n\n\n\n\n\n\n writing data science blogs"
+    "text": "Lecture Materials\nFollow along with these slides as we brainstorm our first data science blog posts:\n\n writing data science blogs"
   },
   {
     "objectID": "course-materials/week4-writing-blogs.html#continue-working",

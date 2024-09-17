@@ -147,7 +147,7 @@ A screenshot from my Google Analytics dashboard. Views peaked when I [shared my 
 
 . . . 
 
-[Data science blogging can (and should) be more than just the code you've written or the tool you've learned -- this is what we'll focus on today.]{.body-text-m}
+[Data science blogging can (and should) be more than just the code you've written or the tool you've learned -- this is what we'll (primarily) focus on today.]{.body-text-m}
 
 ---
 
@@ -393,7 +393,7 @@ knitr::include_graphics("images/hack20-hex.png")
 
 <br>
 
-[***I'll reset the timer when you and your partner switch roles!***]{.body-text-m}
+[***I'll reset the timer when you and your partner should switch roles!***]{.body-text-m}
 
 ```{r}
 countdown::countdown(
@@ -775,7 +775,7 @@ countdown::countdown(
 
 - what motivated / inspired you to blog about your chosen topic (e.g. was there a specific incident or catalyst)?
 - is there a source of tension (e.g. overcoming a technical or learning challenge)?
-- how does your chosen topic relate to your personal and professional interests? 
+- how does your chosen topic relate to your personal and / or professional interests? 
 - what are your short and long-term learning goals and how does this topic fit within them?
 - recall the key messages your wrote in your branding guide -- can you tell a story that helps to support those key messages?
 - who are you writing for (remember, you define your target audience(s) in your personal branding guide!)?
@@ -809,18 +809,22 @@ countdown::countdown(
 <hr>
 
 <br>
+<br>
+<br>
 
-[**With your partner, take turns sharing your outlined stories. Consider:**]{.body-text-m}
-
-- tbd
+[**Share your outlined story with your partner.**]{.body-text-m}
 
 <br>
 
-[**Be prepared to share some of your ideas with the class!**]{.body-text-m}
+<!-- [**Be prepared to share some of your ideas with the class!**]{.body-text-m} -->
+
+<br>
+
+[***I'll reset the timer when you and your partner should switch roles!***]{.body-text-m}
 
 ```{r}
 countdown::countdown(
-  minutes = 6,
+  minutes = 2,
   # right = 0,
   # Fanfare when it's over
   play_sound = TRUE,
@@ -844,17 +848,177 @@ countdown::countdown(
 
 ---
 
+## {#embellishments data-menu-title="Embellishment types"} 
+
+[{{< fa wand-sparkles title="a wand with sparkles" >}} Embellishments can improve engagement]{.slide-title2}
+
+<hr>
+
+
+[Once your story framework is scaffolded, adding in one (or more) of the following embellishment types can help you engage your readers:]{.body-text-m}
+
+<br>
+
+1. Humor
+2. Hooks
+3. Metaphors
+4. Supporting media
+
+<br>
+
+[[Matt Dray](https://www.matt-dray.com/) and [Adriana De Palma](https://adrianadepalma.com/)'s blog, [rostrum.blog](https://www.rostrum.blog/) is one that often (always?) leverages embellishments to engage their readers. Examples from their post, **[Base slaps!](https://www.rostrum.blog/posts/2023-10-17-nhs-r-2023/)**, on the following slides.]{.body-text-m}
+
+::: {.footer}
+The following slide content is adapted from [Alex Phillips'](https://www.alexandraatleephillips.com/) [ESM 438](https://bren.ucsb.edu/courses/esm-438) course materials [(week 2 slides)](https://docs.google.com/presentation/d/1dxviUquj4xTNY5pzoGSL-pukWgqC_nPqM9jCemiRAuY/edit#slide=id.g20e7ef3cb4c_0_395), with the added example of [Base Slaps!](https://www.rostrum.blog/posts/2023-10-17-nhs-r-2023/).
+:::
+
+---
+
+## {#humor data-menu-title="Humor"} 
+
+[{{< fa wand-sparkles title="a wand with sparkles" >}} 1. Humor]{.slide-title2}
+
+<hr>
+
+To start, the title (**Base slaps!**) is pretty punny {{< fa face-laugh-beam title="a laughing face with squinty eyes" >}} (spoiler, it's about base R):
+
+<br>
+
+```{r}
+#| eval: true
+#| echo: false
+#| out-width: "100%"
+#| fig-align: "center"
+knitr::include_graphics("images/base-slaps.png")
+```
+
+<br>
+
+And ends with this final closing paragraph:
+
+::: {.body-text-s}
+>*"But ultimately, I just wanted to do this terrible ‘base slaps’/‘slap bass’ pun, sorry. But also, I hear that zoomers say ‘slaps’ to mean ‘cool’. I think. Oh dear, this was a flimsy premise for a talk. Cringe-driven development?"*
+:::
+
+- maybe you like reading it, maybe you like writing with it, maybe you like both, maybe you like neither
+- should be an authentic extension of you (e.g. if you like sarcasm, go for it!)
+- keep it professional
+
+---
+
+## {#hooks data-menu-title="Hooks"} 
+
+[{{< fa wand-sparkles title="a wand with sparkles" >}} 2. Hooks]{.slide-title2}
+
+<hr>
+
+[Good hooks inspire wonder, curiosity, humor, or other connecting emotions.]{.body-text-m}
+
+<br>
+
+:::: {.columns}
+
+::: {.column width="50%"}
+[**Classic hooks:**]{.body-text-m}
+
+- what if I told you...
+- think about the last time you...
+- how many of you...
+- imagine that...
+- take a look at...
+- did you know...
+:::
+
+::: {.column width="50%"}
+<br>
+
+Matt opens his abstract for this talk (under the section titled, [Premise](https://www.rostrum.blog/posts/2023-10-17-nhs-r-2023/#premise)) with the hook:
+
+<br>
+
+::: {.body-text-m}
+>*"Did you hear? Base R is dead! Or is it?"*
+:::
+:::
+
+::::
+
+---
+
+## {#metaphors-media data-menu-title="Metaphors & Media"} 
+
+[{{< fa wand-sparkles title="a wand with sparkles" >}} 3/4. Metaphors & Supporting media]{.slide-title2}
+
+<hr>
+
+Use metaphors to improve connections or visualizations for your audience. And because blog posts are a versatile medium, don't shy away from including media that helps to demonstrate examples (and importantly, gives your readers a break from a wall of text and code).
+
+:::: {.columns}
+
+::: {.column width="50%"}
+>*"Re stability, vanilla R has changed little over time. Code written a couple of decades ago has a high chance of running now and will (likely) be executable for a long time into the future6. As a result, I contend that R is a horseshoe crab (unchanged for aeons, cryptically beautiful)."*
+:::
+
+::: {.column width="50%"}
+>*"Note that base R is the literal, unyielding base of the teetering tower of packages used by your project (incredible metaphor)."*
+
+```{r}
+#| eval: true
+#| echo: false
+#| out-width: "40%"
+#| fig-align: "center"
+knitr::include_graphics("images/xkcd.png")
+```
+:::
+
+::::
+
+::: {.footer}
+Both quotes and [xkcd adaptation](https://xkcd.com/2347/) come from the section titled, [Content](https://www.rostrum.blog/posts/2023-10-17-nhs-r-2023/#content). Find many more metaphors and media throughout the [blog post](https://www.rostrum.blog/posts/2023-10-17-nhs-r-2023/).
+:::
+
+---
+
+## {#discuss-embellishments data-menu-title="Your turn - embellishments"} 
+
+[{{< fa wand-sparkles title="a wand with sparkles" >}} YOUR TURN]{.slide-title2}
+
+<hr>
+
+<br>
+
+[**Discuss with your partner some ways to add embellishments to both of your stories. Consider:**]{.body-text-m}
+
+<br>
+
+- do you like reading humor? do you like writing with humor? what might that look like for you (if you do choose to use humor)?
+- how can you or your partner "hook" readers at the start of your blog posts? or elsewhere in the writing?
+- what metaphors might you consider using and how do they help improve understanding of complex topics?
+- what media might you want to include?
+
+```{r}
+countdown::countdown(
+  minutes = 6,
+  # right = 0,
+  # Fanfare when it's over
+  play_sound = TRUE,
+  color_border              = "#FFFFFF",
+  color_text                = "#7aa81e",
+  color_running_background  = "#7aa81e",
+  color_running_text        = "#FFFFFF",
+  color_finished_background = "#ffa07a",
+  color_finished_text       = "#FFFFFF",
+  font_size = "2em",
+  )
+```
+
+---
+
 ## {#write-it-start data-menu-title="Write it (start)" background="#047C90"} 
 
 <div class="vertical-center center-text">
 <p class="custom-subtitle bottombr">{{< fa file-pen title="a file and pen" >}} Write it / get feedback / revise / publish</p>
 </div>
-
----
-
-include media! screenshots, outputs, code, gifs, etc.
-
-one example: https://samanthacsik.github.io/posts/2023-08-01-openscapes-website/
 
 ---
 
@@ -873,10 +1037,11 @@ one example: https://samanthacsik.github.io/posts/2023-08-01-openscapes-website/
 
 <br>
 
-[**Submitting completed blog posts:**]{.body-text-m} 
+[**Complete and publish your blog posts:**]{.body-text-m} 
 
-- due at the end of EDS 296 (week 6)
+- *not* a course requirement, but I *highly encourage* you to do so by end of EDS 296 (week 6) while things are fresh!
 - opportunity for Bren to promote blog posts on LinkedIn
+- reach out if you want feedback on your completed draft
 
 ---
 
@@ -914,11 +1079,25 @@ H/T: [Julie Lowndes](https://openscapes.org/team) for recommending using TL;DRs 
 
 ## {#headers data-menu-title="Headers"} 
 
-[{{< fa plus title="a plus sign" >}} Use headers to help readers navigate]{.slide-title2}
+[{{< fa plus title="a plus sign" >}} Use headers to help readers navigate content]{.slide-title2}
 
 <hr>
 
-use appropriate headers and include TOC so readers can quickly jump from section to section
+Most visitors won't read your entire blog post, but rather want to jump to the parts that are relevant for them -- help them easily navigate by creating clear section headers (e.g. `#` - `####`) and enabling a [table of contents](https://quarto.org/docs/reference/formats/html.html#table-of-contents).
+
+```{r}
+#| eval: true
+#| echo: false
+#| out-width: "100%"
+#| fig-align: "center"
+knitr::include_graphics("images/toc.png")
+```
+
+[Set `toc: true` in either your `_quarto.yml` file (which would make this the default behavior across *all* your website pages), or in your blog post's YAML (which turns on table of contents for *just* that page). You may also adjust the `toc-depth` (number of section levels to include; defaults to 3).]{.body-text-s}
+
+::: {.footer}
+Screenshot from my blog post, [Building (and teaching) a graduate-level data science course](https://samanthacsik.github.io/posts/2024-04-02-data-viz-course/#building-the-course)
+:::
 
 ---
 
@@ -928,10 +1107,45 @@ use appropriate headers and include TOC so readers can quickly jump from section
 
 <hr>
 
-set the appropriate code chunk options (e.g. warning: false / message: false to prevent long text to bog down your blog)
+Your data science blog posts will often include example code. Thoughtfully set your code chunk options so that your examples are easy to follow, but don't bog down your post by requiring readers to scroll past loonnngggg data frames or messages / warnings (unless there's an important and demonstrative reason to do so). Consider:
 
-- don't print out looonngggg data frames or warnings / messages (unless there's an important and demonstrative reason to do so)
-- include only the necessary code and make it clear (logical variable / object names, annotations as appropriate)  
+<br>
+
+- do you need to show messages / warnings to demonstrate your point? if not, suppress them (`message: false` & `warning: false`)
+- do you need to show the output of your code or *just* the code? (`eval: false` & `echo: true`)
+- do you need to show the code or *just* the output? (`eval: true` & `echo: true`; defaults)
+
+---
+
+## {#consider-code data-menu-title="Consider code"} 
+
+[{{< fa plus title="a plus sign" >}} Consider how you write / display your code]{.slide-title2}
+
+<hr>
+
+- use logical variable / object names
+- include clear, succinct, and nicely structured code annotations, as appropriate (check out the [`{ARTofR}` package](https://cran.r-project.org/web/packages/ARTofR/index.html))
+- consider [*folding* code](https://quarto.org/docs/output-formats/html-code.html#folding-code) so that readers can expand / collapse code as needed (set `code-fold: true` in your post's YAML, or on a chunk-by-chunk basis)
+
+:::: {.columns}
+
+::: {.column width="50%"}
+```{r}
+#| eval: true
+#| echo: false
+#| out-width: "100%"
+#| fig-align: "center"
+knitr::include_graphics("images/mwidas.png")
+```
+:::
+
+::: {.column width="50%"}
+<br>
+<br>
+<br>
+[Check out [Melissa Widas](https://mwidas.github.io/)' (MEDS 2024) post, [Relationship between bee behavior and vineyard types in Germany](https://mwidas.github.io/blog-posts/2024-03-05-infographic-bees-wine/), which demonstrates the above approaches (Melissa also does a great job telling a story in her intro).]{.body-text-s}
+:::
+::::
 
 --- 
 
@@ -941,11 +1155,73 @@ set the appropriate code chunk options (e.g. warning: false / message: false to 
 
 <hr>
 
-some final takeaways: 
+<br>
 
-- i think it's okay to sometimes use your blog as a stream-of-consiousness brain dump of ideas / examples for yourself, but giving some thought to your post's structure, story, tone, and theme can serve your brand (credibility/trustworthy)
+[We learned last week how to add [category](https://quarto.org/docs/websites/website-blog.html#categories) tags to individual blog posts. Use these strategically to group related posts. Some ideas / examples:]{.body-text-m}
 
-Potential tip: assign these style posts a category (e.g. quick-thoughts, raw-reflections, code-bites, short-takes; thanks ChatGPT for these suggestions)
+<br>
 
-MEDS-project
+- [**MEDS-related posts (e.g. course projects):**]{.teal-text} MEDS-project, grad-school
+- [**Short / unpolished posts:**]{.teal-text} quick-thoughts, raw-reflections, code-bites, short-takes (thanks ChatGPT for these suggestions)
+- [**Posts that use a particular language:**]{.teal-text} R, Python, JavaScript
+- [**Domain-specific categories:**]{.teal-text} data-viz, machine-learning, GIS, databases, statistics, environmental-modeling
+
+::: {.footer}
+**Note:** To ensure clean URLs, avoid categories with spaces (e.g. rather than **MEDS projects**, use **MEDS-projects**)
+:::
+
+---
+
+## {#media data-menu-title="Embed media"} 
+
+[{{< fa plus title="a plus sign" >}} Embed media]{.slide-title2}
+
+<hr>
+
+There are a few ways to embed media (screenshots, screen recordings, gifs, images, etc.):
+
+<br>
+
+**In a code chunk using `{knitr}` (great when you're using R):**
+
+```{{r}}
+#| eval: true
+#| echo: false
+#| out-width: "100%"
+#| fig-align: "center" # or right, left
+#| fig-cap: "Caption goes here"
+#| fig-alt: "Alt text goes here"
+knitr::include_graphics("file/path/to/image/file")
+```
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+**Using markdown syntax:**
+
+```{r}
+#| eval: false
+#| echo: true
+![Caption goes here](file/path/to/image/file){width="100%" fig-alt="Alt text goes here"} # no alignment options using markdown; need to use HTML :(
+```
+:::
+
+
+::: {.column width="50%"}
+
+**Using HTML syntax:**
+
+```{r}
+#| eval: false
+#| echo: true
+<img src="file/path/to/image/file" width="100%" alt="Alt text goes here"> # see https://gist.github.com/DavidWells/7d2e0e1bc78f4ac59a123ddf8b74932d for info on how to align images; see https://www.w3schools.com/tags/tag_figcaption.asp when you want to add a figure caption
+```
+:::
+
+::::
+
+::: {.footer}
+**Note:** I prefer using CSS for styling and aligning my figure captions. See [this example image caption](https://github.com/samanthacsik/samanthacsik.github.io/blob/main/posts/2024-04-02-data-viz-course/index.qmd#L72) and the associated CSS rules ([1](https://github.com/samanthacsik/samanthacsik.github.io/blob/061b2e1986f718307b56ca16017af74eab2f8730/styles.scss#L134) & [2](https://github.com/samanthacsik/samanthacsik.github.io/blob/061b2e1986f718307b56ca16017af74eab2f8730/styles.scss#L118)).
+:::
 
