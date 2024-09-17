@@ -44,13 +44,14 @@ Coming up with topics to blog about can feel intimidating (especially in the beg
 **NOTE:** You (most likely) will not have your brand identity fully sorted and solidified by this point (and that's perfectly okay!). The above examples are meant to show how working towards finding your brand can (over time) help build a pattern of trust that draws visitors back to your website in search of familiar content.
 :::
 
-[**Review your personal branding guide and jot down some (2 - 4, or more if you want!) potential blog post ideas / topics that fit your brand identity (part VII; refer back to the [template](https://docs.google.com/document/d/1_GDgYPRR5hZzodwXyJV2aBWKU_OTBY3JOwi0dlSyBAQ/edit){target="_blank"}, if necessary). Be prepared to select *one* of your ideas during class, where you'll begin to actually draft your first blog post. Consider the following:**]{.teal-text}
+[**Review your personal branding guide and jot down some (2-4, or more if you want!) potential blog post ideas / topics that fit your brand identity (part VII; refer back to the [template](https://docs.google.com/document/d/1_GDgYPRR5hZzodwXyJV2aBWKU_OTBY3JOwi0dlSyBAQ/edit){target="_blank"}, if necessary). Be prepared to select *one* of your ideas during class, where you'll begin to actually draft your first blog post. Consider the following:**]{.teal-text}
 
 - What do your personal branding adjectives and key messages say about you and your interests? 
 - What topics blend your current interests and expertise with your future learning goals?
 - What might draw someone to *your* website over a different website? Consider how your brand can help to define your niche.
 - Not all data science blog posts need to be technical (e.g. include example code) -- reflections and commentary on different aspects of your data science journey can be equally as valuable.
 - Ultimately, you should be choosing something you're excited to write about (it can be easier to engage a reader when you yourself are jazzed about the topic)!
+- **Important:** Consider topics that you can feasibly write a blog post on by the end of this course (week 6) -- you may also add larger-scoped or more involved topic ideas to your personal branding guide to return to in the future
 
 ::: {.callout-tip collapse=true}
 ## Need some help kickstarting the creatvity? Here are some potential blog post topics / ideas to consider:
@@ -62,8 +63,8 @@ Coming up with topics to blog about can feel intimidating (especially in the beg
 - your journey towards discovering your personal brand identity / building your website(!)
 - what early data science skills you've found most valuable or surprising (so far), and why
 - a mini tutorial on a focused data science skill / topic, e.g. 
-  - how to a particularly function(s) or package has helped overcome a data challenge, and why
-  - a data science workflow or organizational procedure you've adopted, and why
+  - how to a particularly function(s) or package has helped you overcome a data challenge, and why / how
+  - a data science workflow or organizational procedure you've adopted, and why 
   - building a data visualization or other creative product
 
 It's still valuable (and important) to think about how your framing, tone, and focus within each of these suggested topic areas fits your brand identity.
@@ -117,7 +118,7 @@ This is only a small sampling of the *many* rad data science bloggers out there 
 ## {{< fa plus title="plus" >}} What should I continue working on? {#continue-working}
 
 1. [**Seek feedback on your draft / plan from others.**]{.teal-text} Consider switching blog post drafts with one (or more) of your peers, or stick around for office hours to chat with me about your ideas!
-2. [**Continue drafting, writing, and polishing your blog post.**]{.teal-text} You (most likely) won't have a fully-written blog post by the end of class today, but ***you should plan to complete and publish your post by the end of this class.***
+2. [**Continue drafting, writing, and polishing your blog post.**]{.teal-text} You (most likely) won't have a fully-written blog post by the end of class today, but ***you should plan to complete and publish your post by the end of this course (week 6).***
 
 ## {{< fa utensils title="a fork and knife" >}} (Optional) Lunch with an NCEAS Data Scientist
 

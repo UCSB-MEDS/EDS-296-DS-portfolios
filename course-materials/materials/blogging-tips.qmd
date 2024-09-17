@@ -143,6 +143,12 @@ A screenshot from my Google Analytics dashboard. Views peaked when I [shared my 
 - a way to reflect on your work / find closure after a large effort
 - a fun way to showcase / market your technical skills (both programming and writing)
 
+<br>
+
+. . . 
+
+[Data science blogging can (and should) be more than just the code you've written or the tool you've learned -- this is what we'll focus on today.]{.body-text-m}
+
 ---
 
 ## {#how-to data-menu-title="How to?"} 
@@ -151,9 +157,7 @@ A screenshot from my Google Analytics dashboard. Views peaked when I [shared my 
 
 <hr>
 
-<br>
-
-[There's no single formula, but here are some steps you might consider taking to help you along your writing journey:]{.body-text-m}
+[There's no single formula, but here are some steps you might consider taking to help you craft not only informative, but also engaging blog posts:]{.body-text-m}
 
 <br>
 
@@ -177,13 +181,11 @@ A screenshot from my Google Analytics dashboard. Views peaked when I [shared my 
 
 . . . 
 
-[[{{< fa file-pen title="a file and pen" >}}]{.teal-text} Write it!]{.body-text-m}
+[[{{< fa file-pen title="a file and pen" >}}]{.teal-text} Write it / get feedback / revise / publish]{.body-text-m}
 
 ---
 
 ## {#find-topic-start data-menu-title="Find your topic (start)" background="#047C90"} 
-
-[{{< fa lightbulb title="lightbulb" >}} Find your topic]{.slide-title}
 
 <div class="vertical-center center-text">
 <p class="custom-subtitle bottombr">{{< fa lightbulb title="lightbulb" >}} Find your topic</p>
@@ -486,7 +488,7 @@ knitr::include_graphics("images/freytags-pyramid.png")
 <br>
 
 ::: {.footer}
-From [Alex Phillips'](https://www.alexandraatleephillips.com/) [ESM 438](https://bren.ucsb.edu/courses/esm-438) course materials [(week 2 slides)](https://docs.google.com/presentation/d/1dxviUquj4xTNY5pzoGSL-pukWgqC_nPqM9jCemiRAuY/edit#slide=id.g20e7ef3cb4c_0_575)
+Freytag's Pyramid is just one possible narrative structure. From [Alex Phillips'](https://www.alexandraatleephillips.com/) [ESM 438](https://bren.ucsb.edu/courses/esm-438) course materials [(week 2 slides)](https://docs.google.com/presentation/d/1dxviUquj4xTNY5pzoGSL-pukWgqC_nPqM9jCemiRAuY/edit#slide=id.g20e7ef3cb4c_0_575)
 :::
 
 ---
@@ -635,6 +637,27 @@ Adapted from [Alex Phillips'](https://www.alexandraatleephillips.com/) [ESM 438]
 
 ---
 
+## {#intro-concl data-menu-title="Intro / Conclusion"} 
+
+[{{< fa book-open title="an open book" >}} Storytelling / scene-setting in an intro (and conclusion)]{.slide-title2}
+
+<hr>
+
+<br>
+
+[**A common approach:**]{.body-text-m}
+
+- storytelling / scene-setting in the intro (and maybe conclusion)
+- technical instruction / discussion / tutorial-style writing in the body
+
+<br>
+
+. . . 
+
+[Of course, there's no one *right* way to blog (or storytell for that matter) -- don't let this constrain you]{.body-text-m}
+
+---
+
 ## {#sam-story data-menu-title="Storytelling (EXAMPLE - Sam)"} 
 
 [{{< fa book-open title="an open book" >}} EXAMPLE: My first ever blog post]{.slide-title2}
@@ -652,55 +675,38 @@ knitr::include_graphics("images/sam-post-pyramid.png")
 <br>
 
 ::: {.footer}
-[Why create presentations slides bout blogging when you can just blog about it instead?](https://samanthacsik.github.io/posts/2021-09-21-distill-blogs/)
+This storytelling / scene-setting all occurs in the intro / conclusion of my blog post, [Why create presentations slides bout blogging when you can just blog about it instead?](https://samanthacsik.github.io/posts/2021-09-21-distill-blogs/)
 :::
 
 ---
 
-## {#rescue data-menu-title="Rescue"} 
+## {#science-story-structures data-menu-title="Science story structures"} 
 
-[{{< fa book-open title="an open book" >}} An alternative structure: "Rescue"]{.slide-title2}
+[{{< fa book-open title="an open book" >}} No one way to tell a story -- there are many narrative structures!]{.slide-title2}
 
 <hr>
 
-Freytag's Pyramid is not the only story structure! Consider "rescue":
-
-:::: {.columns}
-
-::: {.column width="50%"}
-
-<br>
-<br>
-<br>
-
->*"The key to this story's progression is that the audience steps into the story at a high point in the character's fortunes. They then experience a traumatic loss—followed by a recovery aided by [data] science — as the story unfolds"* 
-:::
-
-::: {.column width="50%"}
 ```{r}
 #| eval: true
 #| echo: false
-#| out-width: "80%"
+#| out-width: "100%"
 #| fig-align: "center"
-knitr::include_graphics("images/rescue.png")
+knitr::include_graphics("images/science-story-structures.png")
 ```
-:::
-
-::::
 
 ::: {.footer}
-Quote and image from [Green et al 2018](https://www.facetsjournal.com/doi/full/10.1139/facets-2016-0079#sec-3) 
+Source: [Uniting science and stories: Perspectives on the value of storytelling for communicating science](https://www.facetsjournal.com/doi/full/10.1139/facets-2016-0079#sec-3) (Green et al. 2018); See additional examples of some of the many other possible [narrative structures](https://www.campfirewriting.com/learn/narrative-structure).
 :::
 
 ---
 
-## {#rescue-ex data-menu-title="Rescue (EXAMPLE - Maya)"} 
+## {#mgans-ex data-menu-title="EXAMPLE - Maya"} 
 
-[{{< fa book-open title="an open book" >}} EXAMPLE (Rescue): Maya Gans]{.slide-title2}
+[{{< fa book-open title="an open book" >}} ANOTHER EXAMPLE: Maya Gans]{.slide-title2}
 
 <hr>
 
-From [My First Live Coding Interview](https://maya.rbind.io/posts/live-coding-interview/), by [Maya Gans](https://maya.rbind.io/):
+[**From [My First Live Coding Interview](https://maya.rbind.io/posts/live-coding-interview/), by [Maya Gans](https://maya.rbind.io/):**]{.body-text-m}
 
 ::: {.body-text-s}
 >***Intro:** "Yesterday I interviewed for a position maintaining and creating ShinyApps. To call that a JOB is crazy to me. I love developing reactive web applications, the fact that you can get paid to do that is still mind blowing. I’m realizing that having fun at work is actually a possibility!*
@@ -731,68 +737,52 @@ countdown::countdown(
 
 ---
 
-## {#mystery data-menu-title="Discovery"} 
+## {#motivation data-menu-title="Describe motivation"} 
 
-[{{< fa book-open title="an open book" >}} An alternative structure: "Discovery"]{.slide-title2}
+[{{< fa book-open title="an open book" >}} Storytell by describing your motivation]{.slide-title2}
 
 <hr>
 
-Or "discovery":
+[**A few examples:**]{.body-text-m}
 
-:::: {.columns}
-
-::: {.column width="50%"}
-
-<br>
-<br>
-<br>
-
->*"tbd"* 
+::: {.body-text-s}
+>*"In previous years, when it gets to the end of the year, I’ve written blog posts about reflecting on a year of #TidyTuesday data visualisations, or making your own #RStats Wrapped in the style of SpotifyWrapped. This year, I wanted to reflect on some of the changes I’ve made to the way I write R code that have helped to streamline my workflows."* **-[Nicola Rennie](https://nrennie.rbind.io/), in [Four ways to streamline your R workflows](https://nrennie.rbind.io/blog/four-ways-streamline-r-workflows/)**
 :::
 
-::: {.column width="50%"}
-```{r}
-#| eval: true
-#| echo: false
-#| out-width: "80%"
-#| fig-align: "center"
-knitr::include_graphics("images/discovery.png")
-```
+<!-- ::: {.body-text-s} -->
+<!-- >*"As I approach four months of unemployment I’m finding I need projects to work on purely for the sake of my mental health. One project that has helped a lot is working on the [ggplot2](https://ggplot2-book.org/) book (which I coauthor with Hadley Wickham and Thomas Lin Pedersen). At the moment I’m working on the book chapters that discuss the ggplot2 extension system: it’s been quite a lot of fun. One really nice thing about working on those chapters is that I’ve ended up learning a lot about the [grid](https://stat.auckland.ac.nz/~paul/grid/grid.html) graphics system upon which ggplot2 is built. At this point we’re really not sure how much grid to incorporate into the book, but as a fun side-project I decided to adapt some of it and use it as the basis for a post on generative art."* **-[Danielle Navarro](https://blog.djnavarro.net/), in [Generative art with grid](https://blog.djnavarro.net/posts/2023-03-31_generative-art-with-grid/)** -->
+<!-- ::: -->
+
+::: {.body-text-s}
+>*"Around 11pm last night I saw [this tweet](https://x.com/tcarpenter216/status/1580771753873518593) [SCREENSHOT OF TWEET]. Tom’s instinct makes perfect sense. My first thought was “[CHICKEN WINGS.”](https://www.businessinsider.com/restaurants-pricing-confusing-math-2018-10) So I spent a couple sleepless hours with this weird (and obviously fake) data set about bird attacks in 1974, because it felt like a good October distraction and an opportunity to get some data wrangling rust off."* **-[Allison Horst](https://allisonhorst.github.io/), in [1974…bird attacks?](https://allisonhorst.github.io/posts/2022-10-14-bird-attacks/)**
 :::
 
-::::
-
-::: {.footer}
-Quote and image from [Green et al 2018](https://www.facetsjournal.com/doi/full/10.1139/facets-2016-0079#sec-3) 
+::: {.body-text-s}
+>*"Hello and welcome back to my multi-part series about what I like to call slidecrafting; The art of putting together slides that are functional and aesthetically pleasing. I will be using [quarto presentations](https://quarto.org/). This is the fifth post, you can find all other posts in the [slidecraft 101](https://emilhvitfeldt.com/project/slidecraft-101/) project."* **-[Emil Hvitfeldt](https://emilhvitfeldt.com/), in [Slidecraft 101: Layout](https://emilhvitfeldt.com/post/slidecraft-layout/)**
 :::
 
 ---
 
-## {#discovery-ex data-menu-title="Discovery (EXAMPLE - Jadey)"} 
+## {#brainstorm-your-story data-menu-title="Your turn - brainstorm your story"} 
 
-[{{< fa book-open title="an open book" >}} EXAMPLE (Discovery): Jadey Ryan]{.slide-title2}
+[{{< fa book-open title="an open book" >}} YOUR TURN - brainstorm]{.slide-title2}
 
 <hr>
 
-From [Notes from live code review of `{soils}`](https://jadeyryan.com/blog/2024-01-22_package-review/), by [Jadey Ryan](https://jadeyryan.com/):
+<br>
 
-::: {.body-text-s}
->***Intro:** "A couple days ago, three ✨expert✨ R package developers and reviewers looked at my package:*
->
->*[Nicholas Tierney](https://aus.social/@njtierney)*
->
->*[Miles McBain](https://fosstodon.org/@milesmcbain)*
->
->*[Adam Sparks](https://rstats.me/@adamhsparks)*
->
->*The idea to livestream a R package review came from Nick Tierney. Others favorited, boosted, and commented on the Mastodon post, including myself. I’ve been working on this {soils} R package and am in the review/revise period of package development. Before I could get second thoughts, I volunteered this package for review. I was quite nervous about putting my work out there for critique, but I’m so happy that I did. And so grateful that Nick, Miles, and Adam all shared their brilliance! 🧠😇*
->
->*I’ve re-watched the session a few times to soak up all the gold nuggets of good practices, tips and tricks, and overall understanding of the package review process. Below, I’ve included the recording of the session, bullet point summaries of what I learned, what I did well, and what I can improve, and then my unpolished and mostly disorganized notes."*
-:::
+[**On your own, begin brainstorming *your* story. Consider:**]{.body-text-m}
+
+- what motivated / inspired you to blog about your chosen topic (e.g. was there a specific incident or catalyst)?
+- is there a source of tension (e.g. overcoming a technical or learning challenge)?
+- how does your chosen topic relate to your personal and professional interests? 
+- what are your short and long-term learning goals and how does this topic fit within them?
+- recall the key messages your wrote in your branding guide -- can you tell a story that helps to support those key messages?
+- who are you writing for (remember, you define your target audience(s) in your personal branding guide!)?
 
 ```{r}
 countdown::countdown(
-  minutes = 2,
+  minutes = 6,
   # right = 0,
   # Fanfare when it's over
   play_sound = TRUE,
@@ -806,74 +796,27 @@ countdown::countdown(
   )
 ```
 
+::: {.notes}
+(e.g. I thought I had figured out how to solve my data science problem, but package/function/approach X actually didn't quite do what I needed. I had to explore alternatives, and after a lot of trial and error, I landed on approach Y. Let me tell you about my solution...)
+:::
+
 ---
 
-## {#intro-concl data-menu-title="Intro / Conclusion"} 
+## {#share-your-story data-menu-title="Your turn - share your story"} 
 
-[{{< fa book-open title="an open book" >}} Storytelling / scene-setting in an intro (and conclusion)]{.slide-title2}
+[{{< fa book-open title="an open book" >}} YOUR TURN - share]{.slide-title2}
 
 <hr>
 
 <br>
 
-Freytag's Pyramid
+[**With your partner, take turns sharing your outlined stories. Consider:**]{.body-text-m}
 
-[**A common approach:**]{.body-text-m}
+- tbd
 
-- storytelling / scene-setting in the intro (and maybe conclusion)
-- technical instruction / tutorial-style writing in the body
+<br>
 
-
-Here are a few exampes: 
-
-
-
-. . . 
-
-Of course, there's no one *right* way to blog (or storytell for that matter) -- don't let this constrain you! 
-
-
-<!-- --- -->
-
-<!-- ## {#sam-story data-menu-title="Storytelling (EXAMPLE - Sam)"}  -->
-
-<!-- [{{< fa book-open title="an open book" >}} Craft your story -- variants]{.slide-title2} -->
-
-<!-- <hr> -->
-
-<!-- ```{r} -->
-<!-- #| eval: true -->
-<!-- #| echo: false -->
-<!-- #| out-width: "100%" -->
-<!-- #| fig-align: "center" -->
-<!-- knitr::include_graphics("images/story-shapes.png") -->
-<!-- ``` -->
-
-<!-- ::: {.footer} -->
-<!-- Source: [Green et al. 2018](https://doi.org/10.1139/facets-2016-0079), courtesy of [Alex Phillips](https://docs.google.com/presentation/d/1dxviUquj4xTNY5pzoGSL-pukWgqC_nPqM9jCemiRAuY/edit#slide=id.g20e7ef3cb4c_0_510) -->
-<!-- ::: -->
-
-<!-- --- -->
-
-## {#discuss-blog-stories data-menu-title="Storytelling (EXAMPLE - discuss)"} 
-
-[{{< fa book-open title="an open book" >}} EXAMPLE: Discuss additional blog post stories]{.slide-title2}
-
-<hr>
-
-[**With a partner, choose and skim one of the following blog posts:**]{.body-text-m}
-
-- [An introduction to Python for R Users](https://rebeccabarter.com/blog/2023-09-11-from_r_to_python){target="_blank"}, by [Rebecca Barter](https://rebeccabarter.com/about){target="_blank"}
-- [My first live coding interview](https://maya.rbind.io/posts/live-coding-interview/){target="_blank"}, by [Maya Gans](https://maya.rbind.io/){target="_blank"}
-- [Creating typewriter-styled maps in {ggplot2}](https://nrennie.rbind.io/blog/creating-typewriter-maps-r/), by [Nicola Rennie](https://nrennie.rbind.io/)
-- [Porting the Openscapes website from blogdown to Quarto](https://samanthacsik.github.io/posts/2023-08-01-openscapes-website/){target="_blank"}, by [Sam Csik](https://samanthacsik.github.io){target="_blank"}
-- [Slidecrafting 101: Layout](https://emilhvitfeldt.com/post/slidecraft-layout/){target="_blank"}, by [Emil Hvitfeldt](https://emilhvitfeldt.com/){target="_blank"}
-
-[**Be prepared to share out:**]{.body-text-m}
-
-- how the author used a story to engage the reader (or not -- not every blog post will use a storytelling approach)
-  - If there is a clear story line, where does it actually take place within the blog post?
-- any other aspects that did or did not resonate with you
+[**Be prepared to share some of your ideas with the class!**]{.body-text-m}
 
 ```{r}
 countdown::countdown(
@@ -893,143 +836,116 @@ countdown::countdown(
 
 ---
 
-## {#discuss-your-story data-menu-title="Your turn - discuss your story"} 
+## {#add-embellishments-start data-menu-title="Add embellishments (start)" background="#047C90"} 
 
-[{{< fa book-open title="an open book" >}} YOUR TURN]{.slide-title2}
-
-<hr>
-
-<br>
-
-[**On your own, begin brainstorming *your* story. Consider:**]{.body-text-m}
-
-- 
-- what inspired you to blog about your chosen topic? 
-- how does your chosen topic relate to your personal and professional interests? 
-- was there a specific incident or catalyst that inspired your curiosity around this topic?
-- what is the tension?
-- what are your short and long-term learning goals and how does this topic fit within them?
-- recall the key messages your wrote in your branding guide -- can you tell a story that helps to support those key messages?
-- who will be reading this blog post (remember your target audience!)?
-
-```{r}
-countdown::countdown(
-  minutes = 10,
-  # right = 0,
-  # Fanfare when it's over
-  play_sound = TRUE,
-  color_border              = "#FFFFFF",
-  color_text                = "#7aa81e",
-  color_running_background  = "#7aa81e",
-  color_running_text        = "#FFFFFF",
-  color_finished_background = "#ffa07a",
-  color_finished_text       = "#FFFFFF",
-  font_size = "2em",
-  )
-```
+<div class="vertical-center center-text">
+<p class="custom-subtitle bottombr">{{< fa wand-sparkles title="a wand with sparkles" >}} Add embellishments</p>
+</div>
 
 ---
 
-- what is the source of tension? (e.g. I thought I had figured out how to solve my data science problem, but package/function/approach X actually didn't quite do what I needed. I had to explore alternatives, and after a lot of trial and error, I landed on approach Y. Let me tell you )
+## {#write-it-start data-menu-title="Write it (start)" background="#047C90"} 
 
-[**Begin outlining ]
-
-
-
----
-
-
+<div class="vertical-center center-text">
+<p class="custom-subtitle bottombr">{{< fa file-pen title="a file and pen" >}} Write it / get feedback / revise / publish</p>
+</div>
 
 ---
-
-BREAK
-
----
-
-## {#look-at-posts data-menu-title="Look at some posts"} 
-
-[Writing (in any form) can feel intimidating . . .]{.slide-title2}
-
-<hr>
-
-The best way to get a sense of what data science blog posts *can* be like is (IMHO) to read some yourself. 
-
-With your partner, choose and read / skim one of the following blog posts: 
-
-- [1974...bird attacks?](https://allisonhorst.github.io/posts/2022-10-14-bird-attacks/), by [Allison Horst](https://allisonhorst.github.io/)
-- [My first live coding interview](https://maya.rbind.io/posts/live-coding-interview/), by [Maya Gans](https://maya.rbind.io/)
-- [Four ways to streamline your R workflows](https://nrennie.rbind.io/blog/four-ways-streamline-r-workflows/), by [Nicola Rennie](https://nrennie.rbind.io/)
-- [Porting the Openscapes website from blogdown to Quarto](https://samanthacsik.github.io/posts/2023-08-01-openscapes-website/), by [Sam Csik](https://samanthacsik.github.io/)
-
-We'll read just a few short snippets from a handful of data science blogs to see:
-
-- the breadth of topics folks write about
-- different writing styles, including tone
-- imagery and media you might include
-- create approaches
-
----
-
-
----
-
-YOUR TURN
-
-- discuss with your partner your topic of choice and how it fits with your intended brand image; it can help to pull up your personal branding guide, for reference
-
-[add timer]
-
-
----
-
-You're allowed to bend or break the rules!
-
-It can be difficult to balance story telling and technical tutorials (or times throughout MEDS where you'll be asked to turn your course projects into blog posts), but consider creative ways to engage your readers. 
-
-Oftentimes, you'll see data science bloggers tell their story in the intro and (sometimes also) concluding paragraphs of their post (and leave the body of the post for all the technical bits): 
-
-- https://maya.rbind.io/posts/live-coding-interview/ 
-- https://meghan.rbind.io/blog/2020-08-03-last-change/ 
-- https://thetidytrekker.com/post/making-circular-maps/making-circular-maps 
-- https://samanthacsik.github.io/posts/2021-09-21-distill-blogs/
-
-Pick one of blog post examples below and discuss with your partner what aspects of the story engaged you as a reader. What other elements (tone, humor, metaphors, hooks, etc.) resonated with you?
-
----
-
-- have them read 2 posts in class and highlight what they do or don't like about them in class; can think about tone, framing, humor, illustrations/visuals (what did they add/subtract); writing is subjective!
-- have a draft outline of a blog post; by end of course, there should a fully finished blog; can amplify on social media
-
----
-
-- storytelling -- core pieces + embellishments (e.g. humor;j should add some but don't have to add all of them)
-- rescue was usign a super frustrating fxn but then found a new bettter one!
-- can break the rules; should have a story but not all of it has to be a part of the story necessarily
-- read some curated SECTIONS of blog posts and discuss things like tone, audience, humor, visuals (things they liked/didnt like as both a reader and a writer
-- draft an outline of their blog post in class and maybe exchange with someone for thoughts
-
----
-
-## Other tips
-
-If a long post, consider including a TL;DR (Too Long; Didn't Read)
-
-HT: Julie Lowndes
-
----
-
-## Other tips
 
 include media! screenshots, outputs, code, gifs, etc.
 
 one example: https://samanthacsik.github.io/posts/2023-08-01-openscapes-website/
 
+---
+
+## {#complete-blog-post data-menu-title="Complete blog post"} 
+
+[{{< fa file-pen title="a file and pen" >}} Continue drafting & polishing your post]{.slide-title2}
+
+<hr>
+
+<br>
+
+[**Getting feedback:**]{.body-text-m}
+
+- Trade with a friend (even better if you can both give feedback to one another)
+- See me at office hours (11/1 & 11/8 from 1:00 - 2:00pm)
+
+<br>
+
+[**Submitting completed blog posts:**]{.body-text-m} 
+
+- due at the end of EDS 296 (week 6)
+- opportunity for Bren to promote blog posts on LinkedIn
+
+---
+
+## {#tips-start data-menu-title="Additional tips (start)" background="#047C90"} 
+
+<div class="vertical-center center-text">
+<p class="custom-subtitle bottombr">{{< fa plus title="a plus sign" >}} A few final tips</p>
+</div>
+
+---
+
+## {#tldr data-menu-title="TL;DR"} 
+
+[{{< fa plus title="a plus sign" >}} Include a TL;DR, especially for long posts]{.slide-title2}
+
+<hr>
+
+[TL;DR - internet slang for Too Long; Didn't Read]{.body-text-m}
+
+Should be a **short and succinct** summary of your main discussion points. It *should not* introduce new / additional information. 
+
+```{r}
+#| eval: true
+#| echo: false
+#| out-width: "100%"
+#| fig-align: "center"
+knitr::include_graphics("images/tldr.png")
+```
+
+::: {.footer}
+H/T: [Julie Lowndes](https://openscapes.org/team) for recommending using TL;DRs in blog posts! I gave it a shot for the first time in my post, [Porting the Openscapes website from blogdown to Quarto](https://samanthacsik.github.io/posts/2023-08-01-openscapes-website/).
+:::
+
+---
+
+## {#headers data-menu-title="Headers"} 
+
+[{{< fa plus title="a plus sign" >}} Use headers to help readers navigate]{.slide-title2}
+
+<hr>
+
+use appropriate headers and include TOC so readers can quickly jump from section to section
+
+---
+
+## {#chunk-options data-menu-title="Chunk options"} 
+
+[{{< fa plus title="a plus sign" >}} Set the appropriate code chunk options]{.slide-title2}
+
+<hr>
+
+set the appropriate code chunk options (e.g. warning: false / message: false to prevent long text to bog down your blog)
+
+- don't print out looonngggg data frames or warnings / messages (unless there's an important and demonstrative reason to do so)
+- include only the necessary code and make it clear (logical variable / object names, annotations as appropriate)  
+
 --- 
+
+## {#categories data-menu-title="Categories"} 
+
+[{{< fa plus title="a plus sign" >}} Strategically assign categories]{.slide-title2}
+
+<hr>
 
 some final takeaways: 
 
 - i think it's okay to sometimes use your blog as a stream-of-consiousness brain dump of ideas / examples for yourself, but giving some thought to your post's structure, story, tone, and theme can serve your brand (credibility/trustworthy)
 
 Potential tip: assign these style posts a category (e.g. quick-thoughts, raw-reflections, code-bites, short-takes; thanks ChatGPT for these suggestions)
-  
-  
+
+MEDS-project
+
