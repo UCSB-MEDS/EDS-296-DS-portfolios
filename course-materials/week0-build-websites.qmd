@@ -50,16 +50,16 @@ Please refer to the [MEDS Installation Guide](https://ucsb-meds.github.io/MEDS-i
 During this session, you'll have the opportunity to add some personal information to your website's landing page. It'll help to have an idea of what you might want to include (at least as a starting point -- your website's content will most certainly evolve over time). Consider the following before attending class:
 
 1. [**Have your professional headshot handy.**]{.teal-text} Your Bren photo is a great option here! Save your photo to your Desktop (or somewhere you can easily find again) for now.
-2. [**Consider which landing page template to use.**]{.teal-text} We'll be applying one of Quarto's five available [built-in templates](https://quarto.org/docs/websites/website-about.html#templates) when we create our website's landing page. Take a peek at the template previews and identify which one(s) you like most (e.g. I'm a fan of `jolla`, but used `trestles` for a long while). Consider how you'd like to arrange your personal bio / info given the layout of your top choice template.
+2. [**Consider which landing page template to use.**]{.teal-text} We'll be applying one of Quarto's five available [built-in templates](https://quarto.org/docs/websites/website-about.html#templates) when we create our website's landing page. Take a peek at the template previews and identify which one(s) you like most (e.g. I'm currently a fan of `jolla`, but used `trestles` for a long while). Consider how you'd like to arrange your personal bio / info given the layout of your top choice template.
 3. [**Draft your personal bio / blurb.**]{.teal-text} Consider reusing parts of your Bren bio, or even drafting a shortened, catchy version of it for your landing page (and make note of the tips, below!). Save your text in a place you can quickly copy from during class (e.g. a Google Doc).
 
 ::: {.callout-tip collapse=true icon=false}
-## Some considerations and tips for website bios / language
+## Some considerations and example website bios
 - **Adjust your bio to fit your chosen landing page [templates](https://quarto.org/docs/websites/website-about.html#templates).** For example, `jolla` works well with short bios or even taglines, while `trestles` might be a better choice if you're looking to add longer and / or multiple sections. 
-- **Adopt an "evergreen content" mindset where possible (especially on your landing page).** "Evergreen content" is a marketing term that is used to describe content that remains relevant and interesting long after it's published. Carefully considering how you phrase information on your website can help it withstand the test of time (or at least for a while) and make website maintenance a bit easier. A couple sustainable language swap examples:
-    - "Two years ago, I..." > "In 2022, I..."
-    <!-- - "I'm a Master of Environmental Data Science student interested in..." > "I'm an environmental data scientist interested in..." -->
-    - "I'm currently working on..." > "I have experience / expertise / interest in..."
+<!-- - **Adopt an "evergreen content" mindset where possible (especially on your landing page).** "Evergreen content" is a marketing term that is used to describe content that remains relevant and interesting long after it's published. Carefully considering how you phrase information on your website can help it withstand the test of time (or at least for a while) and make website maintenance a bit easier. A couple sustainable language swap examples: -->
+<!--     - "Two years ago, I..." > "In 2022, I..." -->
+<!--     <!-- - "I'm a Master of Environmental Data Science student interested in..." > "I'm an environmental data scientist interested in..." --> 
+<!--     - "I'm currently working on..." > "I have experience / expertise / interest in..." -->
 - **Check out a few example websites for bio inspiration.** Here are just a small handful fo websites, each with a slightly different approach to their landing page bios:
     - [Samantha Csik](https://samanthacsik.github.io/){target="_blank"} (yours truly)
     - [Nick Lyon](https://njlyon0.github.io/){target="_blank"} (NCEAS Data Analyst)
@@ -95,8 +95,3 @@ We'll walk through the steps of building and deploying our personal websites tog
 
 Please see the [fall lunch schedule](https://docs.google.com/spreadsheets/d/1pQYEp5WdlE9dz0Ijp9I5GpYMnlZl6B-bg2fP8dVyiW0/edit?usp=sharing){target="_blank"} for details on today's NCEAS guests!
 
-<!-- Join us on the NCEAS Terrace for a networking lunch today (12 - 1pm) with [**Millie Chapman**](https://milliechapman.info/) and [**Camila Vargas Poulsen**](https://camilavargasp.github.io/)! -->
-
-<!-- - **Millie** is a postdoc at the NCEAS and a core team member at Climate Change AI (CCAI). Her research is at the intersection of decision theory, ecology, and data justice, asking how we can develop more effective and equitable strategies to meet global biodiversity targets in an age of AI (https://milliechapman.info/). Millie received my PhD from the University of California Berkeley in the department of Environmental Science, Policy, and Management (ESPM). -->
-
-<!-- - **Camila** is part of the Learning Hub team. She helps manage, maintain, and develop NCEAS’s growing data science training portfolio. She coordinates and conducts training sessions and provides data support to working groups. Previously, Camila has worked as a data manager for the Palmyra Atoll Data Library (PADL) and as a research assistant at the Marine Science Institute, UCSB, curating historical California fisheries data and looking into models to quantify abandoned or lost fishing gear in the ocean. She has also researched social-ecological systems, working with small-scale fisher communities in Chile to understand how collective action can improve coastal resource management. Camila has a Master's in Environmental Science & Management from the Bren School at UCSB and a B.Sc in Biology from Pontificia Universidad Católica de Chile." -->

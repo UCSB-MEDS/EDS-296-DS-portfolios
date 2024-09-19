@@ -85,7 +85,7 @@ Some have suggested that the README name is a play on Lewis Carroll's "Eat Me" a
 
 <hr>
 
-GitHub makes this easy! Check the "Add a README file" box each time to create a repo on GitHub:
+GitHub makes this easy! Check the "Add a README file" box each time you create a repo on GitHub:
 
 ```{r}
 #| eval: true
@@ -360,7 +360,7 @@ countdown::countdown(
 
 <hr>
 
-Any necessary information on where data lives (e.g. is it housed in the repo, on a server, in a library/package etc.) and how to access it in order to run the code
+Any necessary information on where data lives (e.g. is it housed in the repo, on a server, in a library / package etc.) and how to access it in order to run the code
 
 ```{r}
 #| eval: true
@@ -448,7 +448,7 @@ If you chose a repository that contains collaborative work, add authorship infor
 
 ```{r}
 countdown::countdown(
-  minutes = 3,
+  minutes = 2,
   # right = 0,
   # Fanfare when it's over
   play_sound = TRUE,
@@ -567,14 +567,14 @@ The [Openscapes website wiki](https://github.com/Openscapes/website-new)
 :::
 
 ::: {.column width="50%"}
-<br>
-
 - move any documentation-style info from your README to a wiki, as appropriate
 - you can link to wiki pages from your README
 - each wiki page should focus on a single topic
+- **add a wiki by clicking *Wiki* > *Create the first page* (creates landing page) > then add additional pages**
 :::
 
 ::::
+
 
 ---
 

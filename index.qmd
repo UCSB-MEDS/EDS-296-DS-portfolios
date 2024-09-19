@@ -71,14 +71,4 @@ knitr::include_graphics("images/sam.png")
 
 ## Acknowledgements
 
-::: {.callout-important}
-## TODO: 
-:::
-
-- [Alex Phillips]()
-- [Miya Scheble]()
-- [Amanda Asquith-Caya]()
-- [Ruth Oliver]()
-- [Carmen Galaz Garcia]()
-- [Julien Brun]()
-- [Max Czapanskiy]()
+I've got lots of rad colleagues, and many of them helped brainstorm approaches, activities, and provided much needed feedback on aspects of this course. Many thanks to Bren faculty and instructors [Carmen Galaz Garcia](https://bren.ucsb.edu/people/carmen-galaz-garcia), [Max Czapanskiy](https://flukeandfeather.com/), [Ruth Oliver](https://bren.ucsb.edu/people/ruth-oliver), [Alex Phillips](https://www.alexandraatleephillips.com/), and [Julien Brun](https://bren.ucsb.edu/people/julien-brun), Bren career team members [Miya Scheble](https://bren.ucsb.edu/people/miya-scheble) and [Amanda Asquith-Caya](https://bren.ucsb.edu/people/amanda-asquith-caya), and NCEAS Learning Hub members [Camila Vargas Poulsen](https://camilavargasp.github.io/) and [Nick Lyon](https://njlyon0.github.io/).

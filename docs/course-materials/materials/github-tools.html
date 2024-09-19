@@ -338,8 +338,19 @@
 <h2></h2>
 <p><span class="slide-title">Demonstrate by doing</span></p>
 <hr>
-<p>Showcase your technical proficiency and programming skills – coding, workflows, collaborating – by using GitHub’s many tools and features</p>
-<p>Can do so on your own personal repos / projects and also while collaborating with others</p>
+<p>GitHub provides <em>many</em> of cool project management features that facilitate organization, collaboration, coding, and building workflows. By using these tools (while working solo <em>and</em> while working with others), you can demonstrate your technical and programming proficiencies.</p>
+
+<img data-src="images/horst-github-monsters.png" class="quarto-figure quarto-figure-center r-stretch" style="width:100.0%" alt="Four little monsters on grass support another monster starting their climb up a rock face. The climber’s harness is labeled 'Coder', the belayer wears a harness labeled 'Code review', two others consulting a book and route map wear caps labeled 'Documentation' and 'Reuse', and another brings a box labeled 'Project management and snacks'."><div class="footer">
+<p>Art by <a href="https://allisonhorst.com/">Allison Horst</a></p>
+</div>
+</section>
+<section id="issues-start" class="slide level2" data-menu-title="GitHub Issues (start)" data-background="#047C90">
+<h2></h2>
+<div class="vertical-center center-text">
+<p class="custom-subtitle bottombr">
+Track ideas &amp; TODOs using GitHub issues
+</p>
+</div>
 </section>
 <section id="issues" class="slide level2" data-menu-title="Issues">
 <h2></h2>
@@ -354,6 +365,14 @@
 
 <p>how to create, tag, commit issue</p>
 </section>
+<section id="projects-start" class="slide level2" data-menu-title="GitHub Projects (start)" data-background="#047C90">
+<h2></h2>
+<div class="vertical-center center-text">
+<p class="custom-subtitle bottombr">
+Organize and prioritize issues using GitHub projects
+</p>
+</div>
+</section>
 <section id="projects" class="slide level2" data-menu-title="Projects">
 <h2></h2>
 <p><span class="slide-title">Organize and prioritize issues using GitHub projects</span></p>
@@ -367,6 +386,27 @@
 
 <p>steps for creating a project board</p>
 </section>
+<section id="branches-start" class="slide level2" data-menu-title="GitHub brances (start)" data-background="#047C90">
+<h2></h2>
+<div class="vertical-center center-text">
+<p class="custom-subtitle bottombr">
+Branches (review…maybe?)
+</p>
+</div>
+</section>
+<section class="slide level2">
+
+<p>Working on branches</p>
+<p>https://brunj7.github.io/EDS-214-analytical-workflows/day1-github_branches.html</p>
+</section>
+<section id="ghp-start" class="slide level2" data-menu-title="GitHub Pages (start)" data-background="#047C90">
+<h2></h2>
+<div class="vertical-center center-text">
+<p class="custom-subtitle bottombr">
+Host reports, documents, websites, etc with GitHub Pages
+</p>
+</div>
+</section>
 <section id="GHP" class="slide level2" data-menu-title="GitHub Pages">
 <h2></h2>
 <p><span class="slide-title">Hosting reports, documents, websites, etc with GitHub Pages</span></p>
@@ -376,20 +416,132 @@
 
 <p>how to GHP</p>
 </section>
-<section id="GHA" class="slide level2" data-menu-title="GitHub Actions">
+<section id="gha-start" class="slide level2" data-menu-title="GitHub Actions (start)" data-background="#047C90">
 <h2></h2>
-<p><span class="slide-title">Automate workflows with GitHub Actions</span></p>
+<div class="vertical-center center-text">
+<p class="custom-subtitle bottombr">
+Automate workflows with GitHub Actions
+</p>
+</div>
+</section>
+<section id="what-are-GHA" class="slide level2" data-menu-title="What are GHA?">
+<h2></h2>
+<p><span class="slide-title">What are GitHub Actions?</span></p>
 <hr>
+<p><span class="body-text-m"><strong>From GitHub Docs:</strong></span></p>
+<blockquote>
+<p>GitHub Actions (GHA) is a continuous integration and continuous delivery (CI/CD) platform that allows you to automate your build, test, and deployment pipeline.</p>
+</blockquote>
+<p><br></p>
+<p><span class="body-text-m"><strong>You can use GHA to automate <em>pretty much anything</em> (truly)! But some concrete examples:</strong></span></p>
+<div>
+<ul>
+<li class="fragment">building and deploying a GitHub Pages site whenever changes are pushed or merged into <code>main</code> (what we’ll be doing today)</li>
+<li class="fragment">adding appropriate labels whenever someone creates a new issue in your repo</li>
+<li class="fragment">runing tests whenever code is pushed to a repo to ensure new changes don’t break existing code</li>
+<li class="fragment">running data analysis pipelines whenever new data is pushed to the repo</li>
+<li class="fragment">running linters to ensure code adheres to a particular style guide</li>
+</ul>
+</div>
+</section>
+<section id="defs" class="slide level2" data-menu-title="GHA definitions">
+<h2></h2>
+<p><span class="slide-title">Some definitions</span></p>
+<hr>
+
+<img data-src="images/gha-runner.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"><div>
+<ul>
+<li class="fragment"><strong>workflow:</strong> a configurable automated process that will run one or more <em>jobs</em>, which are defined by a YAML file in your repo (e.g.&nbsp;automatically build and redeploy a GitHub Pages site)</li>
+<li class="fragment"><strong>event:</strong> a specific activity in a repo that triggers a <em>workflow</em> run (e.g.&nbsp;pushing modified files to GitHub)</li>
+<li class="fragment"><strong>job:</strong> a set of steps in a <em>workflow</em> that is executed on the same <em>runner;</em> steps are executed in order (e.g.&nbsp;check out repo, install Quarto, install R + dependencies, render &amp; publish Quarto project)</li>
+<li class="fragment"><strong>runner:</strong> a server that runs your <em>workflows</em> when they’re triggered</li>
+</ul>
+</div>
+<div class="footer">
+<p>Read more on <a href="https://docs.github.com/en/actions/about-github-actions/understanding-github-actions">GitHub Docs</a></p>
+</div>
+</section>
+<section id="templates" class="slide level2" data-menu-title="Workflow templates">
+<h2></h2>
+<p><span class="slide-title">Get started with a workflow template</span></p>
+<hr>
+<p><br></p>
+<p>Rather than starting from a blank slate, you can <strong>use as-is <em>or</em> adapt pre-made <a href="https://docs.github.com/en/actions/writing-workflows/using-workflow-templates">workflow templates</a></strong> to create your desired GitHub Actions workflow.</p>
+<div class="fragment">
+<p><br></p>
+<p>The next few slides walk through setting up a *GitHub Action you can use to automate the building and deployment of your Quarto website. We’ll use a <a href="https://quarto.org/docs/publishing/github-pages.html#example-knitr-with-renv">workflow template</a> provided in the Quarto documentation.</p>
+</div>
+<div class="fragment">
+<p><br></p>
+<p><strong>We’ll follow these general steps:</strong></p>
+<ol type="1">
+<li>Set up a virtual environment for our project</li>
+<li>Create a <code>gh-pages</code> branch, where our rendered website files will be stored</li>
+<li>Add a GHA workflow to our repository</li>
+<li>Reconfigure GitHub Pages to serve our website from our <code>gh-pages</code> branch</li>
+</ol>
+<div class="footer">
+<p><strong>IMPORTANT:</strong> The following instructions assume you’ve only included R code in your Quarto website. If you have content (e.g.&nbsp;blog posts) that include Python code, you’ll need to modify our chosen workflow.</p>
+</div>
+</div>
+</section>
+<section id="renv" class="slide level2" data-menu-title="{renv}">
+<h2></h2>
+<p><span class="slide-title">1. Set up a virtual environment</span></p>
+<hr>
+</section>
+<section class="slide level2">
+
+<!-- --- -->
+<!-- ## {#templates data-menu-title="Workflow templates"}  -->
+<!-- [Get started with a workflow template]{.slide-title} -->
+<!-- <hr> -->
+<!-- --- -->
+<!-- https://www.youtube.com/watch?v=arzBRW5XIkg -->
+</section>
+<section class="slide level2">
+
+<p>need to use <a href="https://rstudio.github.io/renv/#:~:text=Use%20renv%3A%3Ainit(),recorded%20into%20a%20lockfile%2C%20renv."><code>{renv}</code> package</a></p>
+<blockquote>
+<p>Use <code>renv::init()</code> to initialize renv in a new or existing project. This will set up a project library, containing all the packages you’re currently using. The packages (and all the metadata needed to reinstall them) are recorded into a lockfile, renv.lock, and a .Rprofile ensures that the library is used every time you open that project.</p>
+<p>As you continue to work on your project, you will install and upgrade packages, either using install.packages() and update.packages or renv::install() and renv::update(). After you’ve confirmed your code works as expected, use renv::snapshot() to record the packages and their sources in the lockfile.</p>
+<p>Later, if you need to share your code with someone else or run your code on new machine, your collaborator (or you) can call renv::restore() to reinstall the specific package versions recorded in the lockfile.</p>
+</blockquote>
+</section>
+<section class="slide level2">
+
+<ul>
+<li><p>install <code>{renv}</code></p></li>
+<li><p>run <code>renv::init()</code></p></li>
+<li><p>say Y when it asks if you want to proceed</p></li>
+<li><p>install <code>{yaml}</code> if prompted (<code>Warning: The 'yaml' package is required to parse dependencies within Quarto Markdown files</code>)</p></li>
+<li><p>go to github repo</p></li>
+<li><p>click on branch dropdown &gt; View all branches &gt; New Branch &gt; in the New branch name field, type <code>gh-pages</code> &gt; click Create new branch</p></li>
+<li><p>return to RStudio</p></li>
+<li><p>using Terminal or New folder button, add a folder named <code>.github</code> in your root directory</p></li>
+<li><p>inside <code>.github/</code> create another folder called <code>workflows</code></p></li>
+<li><p>inside <code>workflows/</code> add a file (using Terminal or New File &gt; Text file) named <code>publish.yml</code></p></li>
+<li><p>copy content from https://quarto.org/docs/publishing/github-pages.html#example-knitr-with-renv into <code>publish.yml</code></p></li>
+<li><p>remove line in <code>_quarto.yml</code> (<code>output-dir: docs</code>)</p></li>
+<li><p>delete <code>docs/</code> folder</p></li>
+<li><p>add commit push to github</p></li>
+<li><p>return to github</p></li>
+<li><p>(you will probably get an email saying [yourUserName/yourSiteName] pages build and deployment workflow run)</p></li>
+<li><p>go to Settings &gt; Pages &gt; switch branch from <code>main</code> to <code>gh-pages</code> and from <code>/docs</code> to <code>/(root)</code> &gt; click Save &gt; check out Actions tab while your site redeploys</p></li>
+</ul>
+</section>
+<section id="orgs-start" class="slide level2" data-menu-title="GitHub Organizations (start)" data-background="#047C90">
+<h2></h2>
+<div class="vertical-center center-text">
+<p class="custom-subtitle bottombr">
+Collaborate teams across shared projects with GitHub organizations
+</p>
+</div>
 </section>
 <section id="GH-orgs" class="slide level2" data-menu-title="GitHub Organizations">
 <h2></h2>
-<p><span class="slide-title">Automate workflows with GitHub Actions</span></p>
+<p><span class="slide-title">tbd</span></p>
 <hr>
-<ul>
-<li><p>What are they?</p></li>
-<li><p>Examples of things we can use GHA for?</p></li>
-<li><p>How to automate deployment of a GHP site using GHA:</p></li>
-</ul>
 
 <div class="quarto-auto-generated-content">
 <div class="footer footer-default">
@@ -609,6 +761,44 @@
         ]
       });
     </script>
+    
+    <script>
+      // htmlwidgets need to know to resize themselves when slides are shown/hidden.
+      // Fire the "slideenter" event (handled by htmlwidgets.js) when the current
+      // slide changes (different for each slide format).
+      (function () {
+        // dispatch for htmlwidgets
+        function fireSlideEnter() {
+          const event = window.document.createEvent("Event");
+          event.initEvent("slideenter", true, true);
+          window.document.dispatchEvent(event);
+        }
+
+        function fireSlideChanged(previousSlide, currentSlide) {
+          fireSlideEnter();
+
+          // dispatch for shiny
+          if (window.jQuery) {
+            if (previousSlide) {
+              window.jQuery(previousSlide).trigger("hidden");
+            }
+            if (currentSlide) {
+              window.jQuery(currentSlide).trigger("shown");
+            }
+          }
+        }
+
+        // hookup for slidy
+        if (window.w3c_slidy) {
+          window.w3c_slidy.add_observer(function (slide_num) {
+            // slide_num starts at position 1
+            fireSlideChanged(null, w3c_slidy.slides[slide_num - 1]);
+          });
+        }
+
+      })();
+    </script>
+
     <script id="quarto-html-after-body" type="application/javascript">
     window.document.addEventListener("DOMContentLoaded", function (event) {
       const toggleBodyColorMode = (bsSheetEl) => {

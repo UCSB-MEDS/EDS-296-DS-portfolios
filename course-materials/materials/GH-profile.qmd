@@ -40,6 +40,8 @@ editor_options:
 
 [But it's also (often) a place where current and / or potential collaborators and employers can:]{.body-text-m}
 
+<br>
+
 [{{< fa code title="code, </>" >}}]{.teal-text} explore your code
 
 [{{< fa file-lines title="a file with lines" >}}]{.teal-text} see your documentation
@@ -308,7 +310,7 @@ knitr::include_graphics("images/profile-readme-source.gif")
     - e.g. opt for *"Find the [EDS 296-1F course description](https://bren.ucsb.edu/courses/eds-296-1f)..."* rather than *"Find the EDS 296-1F course description [here](https://bren.ucsb.edu/courses/eds-296-1f)"*
 
 2. **Add alt text to images:** screen readers read alt text descriptions out loud
-    - e.g. in markdown syntax, `![This is alt text](image-url.com)`, or in html, `<img src="image-url.com" alt="This is alt text">`
+    - e.g. in html, `<img src="image-url.com" alt="This is alt text">`
 
 3. **Use proper heading structure:** helps people understand content structure and more easily navigate sections
     - e.g. use `#` for your title, then the appropriate level-header thereafter (don't skip levels)

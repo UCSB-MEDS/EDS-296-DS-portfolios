@@ -859,12 +859,13 @@ countdown::countdown(
 
 <br>
 
+::: {.body-text-m}
 1. Humor
 2. Hooks
 3. Metaphors
 4. Supporting media
+:::
 
-<br>
 
 [[Matt Dray](https://www.matt-dray.com/) and [Adriana De Palma](https://adrianadepalma.com/)'s blog, [rostrum.blog](https://www.rostrum.blog/) is one that often (always?) leverages embellishments to engage their readers. Examples from their post, **[Base slaps!](https://www.rostrum.blog/posts/2023-10-17-nhs-r-2023/)**, on the following slides.]{.body-text-m}
 
@@ -932,7 +933,7 @@ And ends with this final closing paragraph:
 ::: {.column width="50%"}
 <br>
 
-Matt opens his abstract for this talk (under the section titled, [Premise](https://www.rostrum.blog/posts/2023-10-17-nhs-r-2023/#premise)) with the hook:
+Matt opens his abstract for [this talk](https://www.rostrum.blog/posts/2023-10-17-nhs-r-2023/#video) (under the section titled, [Premise](https://www.rostrum.blog/posts/2023-10-17-nhs-r-2023/#premise)) with the hook:
 
 <br>
 
@@ -1093,10 +1094,10 @@ Most visitors won't read your entire blog post, but rather want to jump to the p
 knitr::include_graphics("images/toc.png")
 ```
 
-[Set `toc: true` in either your `_quarto.yml` file (which would make this the default behavior across *all* your website pages), or in your blog post's YAML (which turns on table of contents for *just* that page). You may also adjust the `toc-depth` (number of section levels to include; defaults to 3).]{.body-text-s}
+<br>
 
 ::: {.footer}
-Screenshot from my blog post, [Building (and teaching) a graduate-level data science course](https://samanthacsik.github.io/posts/2024-04-02-data-viz-course/#building-the-course)
+Set `toc: true` in either your `_quarto.yml` file (which would make this the default behavior across *all* your website pages), or in your blog post's YAML (which turns on table of contents for *just* that page). You may also adjust the `toc-depth` (number of section levels to include; defaults to 3). Screenshot from my blog post, [Building (and teaching) a graduate-level data science course](https://samanthacsik.github.io/posts/2024-04-02-data-viz-course/#building-the-course)
 :::
 
 ---

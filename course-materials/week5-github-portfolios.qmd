@@ -35,86 +35,25 @@ Please be sure to complete the following before class:
 
 [Abigail Haddad](https://github.com/abigailhaddad) is a Machine Learning Engineer at the US Department of Homeland Security. Her [posit::conf(2024)](https://posit.co/conference/) talk, titled, **GitHub: How To Tell Your Professional Story** is an excellent primer for thinking about GitHub as a professional portfolio. [**I *hope* Posit will have this year's talk recordings posted before this class, but just in case they don't, you can watch my [screen recorded version](https://drive.google.com/file/d/1G0Cv9eWRP5HuLyj5FZ46zDbDG2EcPtwV/view?usp=sharing) (you'll need to use your @ucsb.edu account to access Google Drive).**]{.teal-text}
 
-<!-- ::: {.callout-note collapse=true} -->
-<!-- ## Expand for talk notes -->
-
-<!-- **Abstract:** GitHub is more than just a version control tool, it's a way of explaining your professional identity to prospective employers and collaborators – and you can build your profile now, before you're looking for new opportunities. This talk is about how to think of GitHub as an opportunity, not a chore, and how to represent yourself well without making developing your GitHub profile into a part-time job. I'll talk about why GitHub adds value beyond a personal website, what kinds of projects are helpful to share, and some good development practices to get in the habit of, regardless of your project specifics. -->
-
-<!-- Abigail explains why, from a hiring manager's perspective, it's important to demonstrate what you mean by "having a background / degree / experience" in data science:  -->
-
-<!-- >*"There are all sorts of data science and data analytics programs out there, and we don't know what they are. If you told me you were a math undergrad or have an economics PhD, I broadly know what that means. If you tell me you study data science, I actually don't. There isn't really a level of standardization, and even the same class across programs can go into very different levels of depth. And so when I see that on a resume, it's hard for me to tell what that translates to, and what you're bringing to the table."* -->
-
-<!-- TBD -->
-
-<!-- >If you're looking for the lowest hanging fruit in terms of spending a (hopefully) small amount of time in a way that has the greatest returns in both building your skills and showing off your skills, the answer is GitHub -->
-
-<!-- - coding skills -->
-<!-- - problem-solving approaches -->
-<!-- - technical practices and skills -->
-<!-- - communications -->
-
-<!-- - shows how you modularize code -->
-<!-- - how you get to your final product (e.g. visualization) -->
-<!-- - shows that you know how to use git (not everyone does know how) -->
-
-<!-- GitHub is: -->
-<!-- - and industry standard -->
-<!-- - free -->
-<!-- - lasting portfolio / likely to get looked at -->
-
-<!-- Working in public is empowering bc she approaches it from the viewpoint that at any point someone may ask, and she would be willing to share her code by sending them the link to the repo (rather that stressing / scrambling to fix it up) -->
-
-
-<!-- ### How to pick projects  -->
-
-<!-- What skill am I trying to get or show that I have -->
-<!-- If there's a skill that I want, I don't have to wait to learn it (unlike at a job) -->
-
-<!-- If you are Junior in this field and know how to use git, and your code is in functions, and you write a README file, that's actually really huge.  -->
-
-<!-- Pick projects that interest your (e.g. strava dashboard) -->
-
-<!-- Pick the smallest possible project you can do that either teaches or conveys what you are trying to do; you want to show you can do something from start to finish -->
-<!-- there's a lot you can show with a small amount of code, so scope it narrowly and build if you want to -->
-
-<!-- put personal projects on your resume! -->
-
-
-<!-- ### Good development practices -->
-
-<!-- code that's  -->
-<!-- - easy to run -->
-<!-- - easy to build on  -->
-<!-- - easy to understand -->
-
-<!-- Repo essentials: -->
-<!-- - modular -->
-<!-- - all work in code -->
-<!-- - organized -->
-<!-- - documented -->
-<!-- - makes sense -->
-
-<!-- ::: -->
-
-### B. Choose a GitHub repo from a a past homework assignment
+### B. Choose a GitHub repo from a past homework assignment
 
 README files are used to provide essential information about software projects. We'll practice writing effective READMEs, using a past MEDS homework assignment as an example. [**Choose a GitHub repository from the list of past homework assignments, below:**]{.teal-text}
  
 ::: {.callout-important collapse=true}
-## TODO: Choose from these candidate GitHub repositories
+## SAM TODO: Choose from these candidate GitHub repositories
 - get
 - HWs
 - from
 - Ruth & Carmen
 
-**For any non-MEDS students:** If you're enrolled in any data science focused courses (MEDS or other)...
+**For any non-MEDS students:** If you're enrolled in any data science-focused courses (MEDS or other) that have required you to create a GitHub repository(ies), I recommend choosing a one of those. Otherwise, you can choose any repository you feel could use some added documentation.
 :::
 
 ### C. Draft up text to add to your GitHub profile README
 
 A GitHub *profile* README is a special README that is displayed on your profile's landing page (e.g. see [mine](https://github.com/samanthacsik){target="_blank"}). A well-crafted profile README not only welcomes visitors to your page, but can also help you stand out to potential collaborators or employers. It's helpful to include a short bio and highlight some current projects / interests.
 
-Consider what content you might want to include in *your* GitHub profile README. Take a look at a few examples for inspiration, then [**draft up some text / images / etc. in a Google Doc (or other easily accessible location) to refer to during class**]{.teal-text} (it's okay if this is just a first pass -- you can continue to iterate!).
+Consider what content you might want to include in *your* GitHub profile README (and remember to refer back to your branding guide!). Take a look at a few examples for inspiration, then [**draft up some text / images / etc. in a Google Doc (or other easily accessible location) to refer to during class**]{.teal-text} (it's okay if this is just a first pass -- you can continue to iterate!).
 
 ::: {.callout-tip collapse=true}
 ## A few example GitHub profile READMEs
@@ -127,7 +66,7 @@ Consider what content you might want to include in *your* GitHub profile README.
 
 ### D. Have a profile picture handy
 
-We'll update our GitHub profile picture during class, if you haven't done so already. [**Save it to an easy to find place (e.g your desktop).**]{.teal-text}
+We'll update our GitHub profile picture during class, if you haven't done so already. [**Save it to an easy-to-find place (e.g your desktop).**]{.teal-text}
 
 ## {{< fa person-chalkboard title="a person pointing at a chalkboard" >}} Lecture Materials {#lecture-materials}
 
@@ -165,8 +104,4 @@ We'll discuss and practice writing effective GitHub READMEs together today, but 
 
 Please see the [fall lunch schedule](https://docs.google.com/spreadsheets/d/1pQYEp5WdlE9dz0Ijp9I5GpYMnlZl6B-bg2fP8dVyiW0/edit?usp=sharing){target="_blank"} for details on today's NCEAS guests!
 
-<!-- Join us on the NCEAS Terrace for a networking lunch today (12 - 1pm) with [**Abby Meyer**](https://www.avmey.com/) and [**Carlo Broderick**](https://github.com/CarloBroderick)! -->
 
-<!-- - **Abby** is a Geospatial Developer for the McClintock Lab, developing software for marine conservation planning and fisheries management. They work specifically on reporting tools for SeaSketch, a web-based mapping application used for collaborative marine spatial planning. -->
-
-<!-- - **Carlo** Carlo Broderick is a data analyst for the Western Wildfire Resilience Index (WWRI). The WWRI is a science communication tool designed to help people and policymakers understand how resilient their communities are to wildfires. Carlo collaborates with two other data analysts and the broader WWRI team to research, develop, and implement WWRI's methodology. His work focuses on the creation and calculation of the index through reproducible, open source, and collaborative data science. Carlo holds a master's degree in Environmental Data Science from UC Santa Barbara, a Project Management Professional (PMP) certification from UC Berkeley, and a bachelor's degree in Environmental Studies and Economics from UC Santa Cruz. His professional background includes supply chain visibility, SAS project management, and sustainability-focused scientific administration. Passionate about utilizing data science to measure and manage environmental externalities, Carlo has a special interest in satellite image and machine learning (SIML) technology and it's potential impact on sustainable development. His passion for environmental economics can be found in his flaming hot composable plastic takes and his strong aversion to market failures. -->

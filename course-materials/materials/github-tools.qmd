@@ -29,9 +29,28 @@ editor_options:
 
 <hr>
 
-Showcase your technical proficiency and programming skills -- coding, workflows, collaborating -- by using GitHub's many tools and features
+GitHub provides *many* of cool project management features that facilitate organization, collaboration, coding, and building workflows. By using these tools (while working solo *and* while working with others), you can demonstrate your technical and programming proficiencies.
 
-Can do so on your own personal repos / projects and also while collaborating with others
+```{r}
+#| eval: true
+#| echo: false
+#| out-width: "100%"
+#| fig-align: "center"
+#| fig-alt: "Four little monsters on grass support another monster starting their climb up a rock face. The climber’s harness is labeled 'Coder', the belayer wears a harness labeled 'Code review', two others consulting a book and route map wear caps labeled 'Documentation' and 'Reuse', and another brings a box labeled 'Project management and snacks'."
+knitr::include_graphics("images/horst-github-monsters.png")
+```
+
+::: {.footer}
+Art by [Allison Horst](https://allisonhorst.com/)
+:::
+
+---
+
+## {#issues-start data-menu-title="GitHub Issues (start)" background="#047C90"} 
+
+<div class="vertical-center center-text">
+<p class="custom-subtitle bottombr">Track ideas & TODOs using GitHub issues</p>
+</div>
 
 ---
 
@@ -50,6 +69,14 @@ how to create, tag, commit issue
 
 ---
 
+## {#projects-start data-menu-title="GitHub Projects (start)" background="#047C90"} 
+
+<div class="vertical-center center-text">
+<p class="custom-subtitle bottombr">Organize and prioritize issues using GitHub projects</p>
+</div>
+
+---
+
 ## {#projects data-menu-title="Projects"} 
 
 [Organize and prioritize issues using GitHub projects]{.slide-title}
@@ -65,6 +92,28 @@ steps for creating a project board
 
 ---
 
+## {#branches-start data-menu-title="GitHub brances (start)" background="#047C90"} 
+
+<div class="vertical-center center-text">
+<p class="custom-subtitle bottombr">Branches (review...maybe?)</p>
+</div>
+
+---
+
+Working on branches
+
+https://brunj7.github.io/EDS-214-analytical-workflows/day1-github_branches.html
+
+---
+
+## {#ghp-start data-menu-title="GitHub Pages (start)" background="#047C90"} 
+
+<div class="vertical-center center-text">
+<p class="custom-subtitle bottombr">Host reports, documents, websites, etc with GitHub Pages</p>
+</div>
+
+---
+
 ## {#GHP data-menu-title="GitHub Pages"} 
 
 [Hosting reports, documents, websites, etc with GitHub Pages]{.slide-title}
@@ -77,25 +126,169 @@ how to GHP
 
 ---
 
-## {#GHA data-menu-title="GitHub Actions"} 
+## {#gha-start data-menu-title="GitHub Actions (start)" background="#047C90"} 
 
-[Automate workflows with GitHub Actions]{.slide-title}
+<div class="vertical-center center-text">
+<p class="custom-subtitle bottombr">Automate workflows with GitHub Actions</p>
+</div>
+
+---
+
+## {#what-are-GHA data-menu-title="What are GHA?"} 
+
+[What are GitHub Actions?]{.slide-title}
 
 <hr>
+
+[**From GitHub Docs:**]{.body-text-m}
+
+>GitHub Actions (GHA) is a continuous integration and continuous delivery (CI/CD) platform that allows you to automate your build, test, and deployment pipeline.
+
+<br>
+
+[**You can use GHA to automate *pretty much anything* (truly)! But some concrete examples:**]{.body-text-m}
+
+::: {.incremental}
+- building and deploying a GitHub Pages site whenever changes are pushed or merged into `main` (what we'll be doing today)
+- adding appropriate labels whenever someone creates a new issue in your repo
+- runing tests whenever code is pushed to a repo to ensure new changes don't break existing code
+- running data analysis pipelines whenever new data is pushed to the repo
+- running linters to ensure code adheres to a particular style guide
+:::
+
+---
+
+## {#defs data-menu-title="GHA definitions"} 
+
+[Some definitions]{.slide-title}
+
+<hr>
+
+```{r}
+#| eval: true
+#| echo: false
+#| out-width: "80%"
+#| fig-align: "center"
+knitr::include_graphics("images/gha-runner.png")
+```
+
+::: {.incremental}
+- **workflow:** a configurable automated process that will run one or more *jobs*, which are defined by a YAML file in your repo (e.g. automatically build and redeploy a GitHub Pages site)
+- **event:** a specific activity in a repo that triggers a *workflow* run (e.g. pushing modified files to GitHub)
+- **job:** a set of steps in a *workflow* that is executed on the same *runner;* steps are executed in order (e.g. check out repo, install Quarto, install R + dependencies, render & publish Quarto project)
+- **runner:** a server that runs your *workflows* when they're triggered
+:::
+
+::: {.footer}
+Read more on [GitHub Docs](https://docs.github.com/en/actions/about-github-actions/understanding-github-actions)
+:::
+
+---
+
+## {#templates data-menu-title="Workflow templates"}
+
+[Get started with a workflow template]{.slide-title}
+
+<hr>
+
+<br>
+
+Rather than starting from a blank slate, you can **use as-is *or* adapt pre-made [workflow templates](https://docs.github.com/en/actions/writing-workflows/using-workflow-templates)** to create your desired GitHub Actions workflow.
+
+. . . 
+
+<br>
+
+The next few slides walk through setting up a *GitHub Action you can use to automate the building and deployment of your Quarto website. We'll use a [workflow template](https://quarto.org/docs/publishing/github-pages.html#example-knitr-with-renv) provided in the Quarto documentation.
+
+. . .
+
+<br>
+
+**We'll follow these general steps:** 
+
+1. Set up a virtual environment for our project
+2. Create a `gh-pages` branch, where our rendered website files will be stored
+3. Add a GHA workflow to our repository
+4. Reconfigure GitHub Pages to serve our website from our `gh-pages` branch
+
+::: {.footer}
+**IMPORTANT:** The following instructions assume you've only included R code in your Quarto website. If you have content (e.g. blog posts) that include Python code, you'll need to modify our chosen workflow.
+:::
+
+---
+
+## {#renv data-menu-title="{renv}"}
+
+[1. Set up a virtual environment]{.slide-title}
+
+<hr>
+
+
+
+
+---
+
+<!-- --- -->
+
+<!-- ## {#templates data-menu-title="Workflow templates"}  -->
+
+<!-- [Get started with a workflow template]{.slide-title} -->
+
+<!-- <hr> -->
+
+<!-- --- -->
+
+<!-- https://www.youtube.com/watch?v=arzBRW5XIkg -->
+
+---
+
+need to use [`{renv}` package](https://rstudio.github.io/renv/#:~:text=Use%20renv%3A%3Ainit(),recorded%20into%20a%20lockfile%2C%20renv.)
+
+>Use `renv::init()` to initialize renv in a new or existing project. This will set up a project library, containing all the packages you’re currently using. The packages (and all the metadata needed to reinstall them) are recorded into a lockfile, renv.lock, and a .Rprofile ensures that the library is used every time you open that project.
+>
+>As you continue to work on your project, you will install and upgrade packages, either using install.packages() and update.packages or renv::install() and renv::update(). After you’ve confirmed your code works as expected, use renv::snapshot() to record the packages and their sources in the lockfile.
+>
+>Later, if you need to share your code with someone else or run your code on new machine, your collaborator (or you) can call renv::restore() to reinstall the specific package versions recorded in the lockfile.
+
+---
+
+- install `{renv}`
+- run `renv::init()`
+- say Y when it asks if you want to proceed
+- install `{yaml}` if prompted (`Warning: The 'yaml' package is required to parse dependencies within Quarto Markdown files`)
+
+- go to github repo
+- click on branch dropdown > View all branches > New Branch > in the New branch name field, type `gh-pages` > click Create new branch
+
+- return to RStudio
+- using Terminal or New folder button, add a folder named `.github` in your root directory
+- inside `.github/` create another folder called `workflows`
+- inside `workflows/` add a file (using Terminal or New File > Text file) named `publish.yml`
+- copy content from https://quarto.org/docs/publishing/github-pages.html#example-knitr-with-renv into `publish.yml`
+- remove line in `_quarto.yml` (`output-dir: docs`)
+- delete `docs/` folder
+- add commit push to github
+
+- return to github
+- (you will probably get an email saying [yourUserName/yourSiteName] pages build and deployment workflow run)
+- go to Settings > Pages > switch branch from `main` to `gh-pages` and from `/docs` to `/(root)` > click Save > check out Actions tab while your site redeploys
+
+---
+
+## {#orgs-start data-menu-title="GitHub Organizations (start)" background="#047C90"} 
+
+<div class="vertical-center center-text">
+<p class="custom-subtitle bottombr">Collaborate teams across shared projects with GitHub organizations</p>
+</div>
 
 ---
 
 ## {#GH-orgs data-menu-title="GitHub Organizations"} 
 
-[Automate workflows with GitHub Actions]{.slide-title}
+[tbd]{.slide-title}
 
 <hr>
-
-- What are they?
-
-- Examples of things we can use GHA for?
-
-- How to automate deployment of a GHP site using GHA:
 
 
 

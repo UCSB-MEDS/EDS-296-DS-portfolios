@@ -59,11 +59,12 @@ Coming up with topics to blog about can feel intimidating (especially in the beg
 - how your past professional or personal interests led you to pursue a degree in environmental data science
 - non-data science skills / experiences that you've found to be transferable to your data science learning journey (in perhaps surprising / unexpected ways) 
 - advice you wish you had before beginning a data science graduate program
+- writing a data product-focused MEDS Capstone or MESM Group Project proposal
 - reflecting on the MEDS 6-week summer coding bootcamp
 - your journey towards discovering your personal brand identity / building your website(!)
 - what early data science skills you've found most valuable or surprising (so far), and why
 - a mini tutorial on a focused data science skill / topic, e.g. 
-  - how to a particularly function(s) or package has helped you overcome a data challenge, and why / how
+  - how a particular function(s) or package has helped you overcome a data challenge, and why / how
   - a data science workflow or organizational procedure you've adopted, and why 
   - building a data visualization or other creative product
 
@@ -72,7 +73,7 @@ It's still valuable (and important) to think about how your framing, tone, and f
 
 ### B. (Optional) Check out some data science-y blog posts
 
-Reading other data science blogs is the best way to get a sense of not only the breadth of topics that folks in the community are writing about, but also the tone, writing styles, and creative approaches you might take as a blogger. We'll discuss some examples blog posts during class, though you should feel free to explore ahead of time, if you're eager:
+Reading other data science blogs is the best way to get a sense of not only the breadth of topics that folks in the community are writing about, but also the tone, writing styles, and creative approaches you might take as a blogger. We'll discuss some example blog posts during class, though you should feel free to explore ahead of time, if you're eager:
 
 ::: {.callout-tip collapse=true}
 ## A small collection of data science posts and blogs:
