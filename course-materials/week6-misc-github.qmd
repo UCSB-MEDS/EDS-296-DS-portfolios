@@ -20,7 +20,7 @@ knitr::include_graphics("../images/baracktocat.png")
 
 ## {{< fa box-open title="an open box" >}} Anticipated deliverable(s) {#anticipated-deliverables}
 
-There are no concrete deliverables today. However, you may decide to use / implement some (or all) of the tools we discuss, depending on your own personal project needs. Examples include:
+There are no concrete deliverables today. However, you may decide to use / implement some (or all) of the tools we discuss, based on your own personal project needs. Examples include:
 
 - creating GitHub issues on your repositories to better document / track your TODOs 
 - creating a GitHub project to organize and prioritize issues across repositories

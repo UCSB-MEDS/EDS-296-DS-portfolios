@@ -200,7 +200,7 @@
     "href": "course-materials/materials/github-tools.html#show-skills",
     "title": "EDS 296",
     "section": "",
-    "text": "Demonstrate by doing\n\nGitHub provides many of cool project management features that facilitate organization, collaboration, coding, and building workflows. By using these tools (while working solo and while working with others), you can demonstrate your technical and programming proficiencies.\n\n\nArt by Allison Horst"
+    "text": "Demonstrate by doing\n\nGitHub provides many cool project management features that facilitate organization, collaboration, coding, and building workflows. By using these tools (while working solo and while working with others), you can demonstrate your technical and programming proficiencies.\n\n\nArt by Allison Horst"
   },
   {
     "objectID": "course-materials/materials/github-tools.html#issues-start",
@@ -907,7 +907,7 @@
     "href": "course-materials/week6-misc-github.html#anticipated-deliverables",
     "title": "GitHub grab bag + personal brand share outs",
     "section": " Anticipated deliverable(s)",
-    "text": "Anticipated deliverable(s)\nThere are no concrete deliverables today. However, you may decide to use / implement some (or all) of the tools we discuss, depending on your own personal project needs. Examples include:\n\ncreating GitHub issues on your repositories to better document / track your TODOs\ncreating a GitHub project to organize and prioritize issues across repositories\ndeploying documentation / reports / slides / additional websites / etc. using GitHub Pages\nconfiguring a GitHub Actions (GHA) workflow that rebuilds / redeploys your personal website when changes are pushed to GitHub\ncreating a GitHub organization to share and collaborate on repositories across teams"
+    "text": "Anticipated deliverable(s)\nThere are no concrete deliverables today. However, you may decide to use / implement some (or all) of the tools we discuss, based on your own personal project needs. Examples include:\n\ncreating GitHub issues on your repositories to better document / track your TODOs\ncreating a GitHub project to organize and prioritize issues across repositories\ndeploying documentation / reports / slides / additional websites / etc. using GitHub Pages\nconfiguring a GitHub Actions (GHA) workflow that rebuilds / redeploys your personal website when changes are pushed to GitHub\ncreating a GitHub organization to share and collaborate on repositories across teams"
   },
   {
     "objectID": "course-materials/week6-misc-github.html#pre-class-prep",

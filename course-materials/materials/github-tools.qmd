@@ -29,7 +29,7 @@ editor_options:
 
 <hr>
 
-GitHub provides *many* of cool project management features that facilitate organization, collaboration, coding, and building workflows. By using these tools (while working solo *and* while working with others), you can demonstrate your technical and programming proficiencies.
+GitHub provides *many* cool project management features that facilitate organization, collaboration, coding, and building workflows. By using these tools (while working solo *and* while working with others), you can demonstrate your technical and programming proficiencies.
 
 ```{r}
 #| eval: true
