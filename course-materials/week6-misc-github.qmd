@@ -20,11 +20,13 @@ knitr::include_graphics("../images/baracktocat.png")
 
 ## {{< fa box-open title="an open box" >}} Anticipated deliverable(s) {#anticipated-deliverables}
 
-- a configured GitHub Actions (GHA) workflow that rebuilds / redeploys your personal website when changes are pushed to GitHub
-- a practice (i.e. can delete afterwards) GitHub...
-  - organization
-  - issue(s)
-  - project
+There are no concrete deliverables today. However, you may decide to use / implement some (or all) of the tools we discuss, depending on your own personal project needs. Examples include:
+
+- creating GitHub issues on your repositories to better document / track your TODOs 
+- creating a GitHub project to organize and prioritize issues across repositories
+- deploying documentation / reports / slides / additional websites / etc. using GitHub Pages
+- configuring a GitHub Actions (GHA) workflow that rebuilds / redeploys your personal website when changes are pushed to GitHub
+- creating a GitHub organization to share and collaborate on repositories across teams
 
 ## {{< fa clipboard-list title="a clipboard with a To Do list" >}} Pre-class Prep {#pre-class-prep}
 

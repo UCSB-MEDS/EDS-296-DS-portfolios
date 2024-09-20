@@ -54,18 +54,67 @@ Art by [Allison Horst](https://allisonhorst.com/)
 
 ---
 
-## {#issues data-menu-title="Issues"} 
+## {#add-issue data-menu-title="Adding issues"} 
 
-[Track ideas & TODOs using GitHub issues]{.slide-title}
+[Add a new issue from a repo's *Issues* tab]{.slide-title}
 
 <hr>
 
-- create, label, assign issues
-- integrate issues with projects and commits
+>*"GitHub Issues are items you can create in a repository to plan, discuss and track work. Issues are simple to create and flexible to suit a variety of scenarios. You can use issues to track work, give or receive feedback, collaborate on ideas or tasks, and efficiently communicate with others."*
+
+[**A few helpful features:**]{.body-text-m}
+
+- [create task lists](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/about-task-lists) & [convert individual tasks to issues](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/about-task-lists#about-issue-task-lists)
+- [attach files](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/attaching-files)
+- [add permalinks](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-a-permanent-link-to-a-code-snippet)
+- [add labels](https://docs.github.com/en/issues/tracking-your-work-with-issues/quickstart#adding-labels)
+- [assign users](https://docs.github.com/en/issues/tracking-your-work-with-issues/assigning-issues-and-pull-requests-to-other-github-users)
+- [reference issues in other issues, commits, PRs](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue)
+- [configure issue templates](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository)
+
+::: {.footer}
+Learn more by exploring [GitHub Docs](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues)
+:::
 
 ---
 
-how to create, tag, commit issue
+## {#issues-screenshot data-menu-title="Issue screenshot"} 
+
+```{r}
+#| eval: true
+#| echo: false
+#| out-width: "100%"
+#| fig-align: "center"
+knitr::include_graphics("images/example-issue.png")
+```
+
+::: {.footer}
+Explore some real issues on the very real [ggplot2 repository](https://github.com/tidyverse/ggplot2/issues)
+:::
+
+---
+
+## {#use-issues data-menu-title="When to use issues"} 
+
+[When should I use issues?]{.slide-title}
+
+<hr>
+
+<br>
+
+[***Issues are useful and valuable whether you're working alone or with collaborators.***]{.body-text-m}
+
+<br>
+
+. . . 
+
+Like most things, it's great to put some care and thought into writing an issue (*especially* when collaborating or contributing thoughts to a public project e.g. [ggplot2](https://github.com/tidyverse/ggplot2/issues)). . .
+
+<br>
+
+. . . 
+
+. . . *but* I'd also argue that a hasty issue on a personal project can go a long way in helping you remember a helpful resource, or that idea that popped into your mind at a time you couldn't devote much attention to it.
 
 ---
 
@@ -79,16 +128,33 @@ how to create, tag, commit issue
 
 ## {#projects data-menu-title="Projects"} 
 
-[Organize and prioritize issues using GitHub projects]{.slide-title}
+[Add issues from multiple repos to the same project]{.slide-title2}
 
 <hr>
 
+>*"Projects are an adaptable collection of items that stay up-to-date with GitHub data. Your projects can track issues, pull requests, and ideas that you note down. You can add custom fields and create views for specific purposes."*
+
+--- 
+
 - create project board
 - add issues and tasks to projects
+- steps for creating a project board
 
 ---
 
-steps for creating a project board
+## {#use-projects data-menu-title="When to use projects"} 
+
+[When should I use projects?]{.slide-title}
+
+<hr>
+
+```{r}
+#| eval: true
+#| echo: false
+#| out-width: "100%"
+#| fig-align: "center"
+knitr::include_graphics("images/sam-project.png")
+```
 
 ---
 
@@ -123,6 +189,15 @@ https://brunj7.github.io/EDS-214-analytical-workflows/day1-github_branches.html
 ---
 
 how to GHP
+
+---
+
+## {#use-GHP data-menu-title="When to use GHP"} 
+
+[When should I use GHP?]{.slide-title}
+
+<hr>
+
 
 ---
 
@@ -224,7 +299,13 @@ The next few slides walk through setting up a *GitHub Action you can use to auto
 
 <hr>
 
+---
 
+## {#use-GHA data-menu-title="When to use GHA"} 
+
+[When should I use GHA?]{.slide-title}
+
+<hr>
 
 
 ---
@@ -287,6 +368,14 @@ need to use [`{renv}` package](https://rstudio.github.io/renv/#:~:text=Use%20ren
 ## {#GH-orgs data-menu-title="GitHub Organizations"} 
 
 [tbd]{.slide-title}
+
+<hr>
+
+---
+
+## {#use-orgs data-menu-title="When to use organizations"} 
+
+[When should I use organizations?]{.slide-title}
 
 <hr>
 

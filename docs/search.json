@@ -210,11 +210,25 @@
     "text": "Track ideas & TODOs using GitHub issues"
   },
   {
-    "objectID": "course-materials/materials/github-tools.html#issues",
-    "href": "course-materials/materials/github-tools.html#issues",
+    "objectID": "course-materials/materials/github-tools.html#add-issue",
+    "href": "course-materials/materials/github-tools.html#add-issue",
     "title": "EDS 296",
     "section": "",
-    "text": "Track ideas & TODOs using GitHub issues\n\n\ncreate, label, assign issues\nintegrate issues with projects and commits"
+    "text": "Add a new issue from a repo’s Issues tab\n\n\n“GitHub Issues are items you can create in a repository to plan, discuss and track work. Issues are simple to create and flexible to suit a variety of scenarios. You can use issues to track work, give or receive feedback, collaborate on ideas or tasks, and efficiently communicate with others.”\n\nA few helpful features:\n\ncreate task lists & convert individual tasks to issues\nattach files\nadd permalinks\nadd labels\nassign users\nreference issues in other issues, commits, PRs\nconfigure issue templates\n\n\nLearn more by exploring GitHub Docs"
+  },
+  {
+    "objectID": "course-materials/materials/github-tools.html#issues-screenshot",
+    "href": "course-materials/materials/github-tools.html#issues-screenshot",
+    "title": "EDS 296",
+    "section": "",
+    "text": "Explore some real issues on the very real ggplot2 repository"
+  },
+  {
+    "objectID": "course-materials/materials/github-tools.html#use-issues",
+    "href": "course-materials/materials/github-tools.html#use-issues",
+    "title": "EDS 296",
+    "section": "",
+    "text": "When should I use issues?\n\n\nIssues are useful and valuable whether you’re working alone or with collaborators.\n\n\nLike most things, it’s great to put some care and thought into writing an issue (especially when collaborating or contributing thoughts to a public project e.g. ggplot2). . .\n\n\n\n. . . but I’d also argue that a hasty issue on a personal project can go a long way in helping you remember a helpful resource, or that idea that popped into your mind at a time you couldn’t devote much attention to it."
   },
   {
     "objectID": "course-materials/materials/github-tools.html#projects-start",
@@ -228,7 +242,14 @@
     "href": "course-materials/materials/github-tools.html#projects",
     "title": "EDS 296",
     "section": "",
-    "text": "Organize and prioritize issues using GitHub projects\n\n\ncreate project board\nadd issues and tasks to projects"
+    "text": "Add issues from multiple repos to the same project\n\n\n“Projects are an adaptable collection of items that stay up-to-date with GitHub data. Your projects can track issues, pull requests, and ideas that you note down. You can add custom fields and create views for specific purposes.”"
+  },
+  {
+    "objectID": "course-materials/materials/github-tools.html#use-projects",
+    "href": "course-materials/materials/github-tools.html#use-projects",
+    "title": "EDS 296",
+    "section": "",
+    "text": "When should I use projects?"
   },
   {
     "objectID": "course-materials/materials/github-tools.html#branches-start",
@@ -250,6 +271,13 @@
     "title": "EDS 296",
     "section": "",
     "text": "Hosting reports, documents, websites, etc with GitHub Pages"
+  },
+  {
+    "objectID": "course-materials/materials/github-tools.html#use-GHP",
+    "href": "course-materials/materials/github-tools.html#use-GHP",
+    "title": "EDS 296",
+    "section": "",
+    "text": "When should I use GHP?"
   },
   {
     "objectID": "course-materials/materials/github-tools.html#gha-start",
@@ -287,6 +315,13 @@
     "text": "1. Set up a virtual environment"
   },
   {
+    "objectID": "course-materials/materials/github-tools.html#use-GHA",
+    "href": "course-materials/materials/github-tools.html#use-GHA",
+    "title": "EDS 296",
+    "section": "",
+    "text": "When should I use GHA?"
+  },
+  {
     "objectID": "course-materials/materials/github-tools.html#orgs-start",
     "href": "course-materials/materials/github-tools.html#orgs-start",
     "title": "EDS 296",
@@ -299,6 +334,13 @@
     "title": "EDS 296",
     "section": "",
     "text": "tbd"
+  },
+  {
+    "objectID": "course-materials/materials/github-tools.html#use-orgs",
+    "href": "course-materials/materials/github-tools.html#use-orgs",
+    "title": "EDS 296",
+    "section": "",
+    "text": "When should I use organizations?"
   },
   {
     "objectID": "about.html",
@@ -865,7 +907,7 @@
     "href": "course-materials/week6-misc-github.html#anticipated-deliverables",
     "title": "GitHub grab bag + personal brand share outs",
     "section": " Anticipated deliverable(s)",
-    "text": "Anticipated deliverable(s)\n\na configured GitHub Actions (GHA) workflow that rebuilds / redeploys your personal website when changes are pushed to GitHub\na practice (i.e. can delete afterwards) GitHub…\n\norganization\nissue(s)\nproject"
+    "text": "Anticipated deliverable(s)\nThere are no concrete deliverables today. However, you may decide to use / implement some (or all) of the tools we discuss, depending on your own personal project needs. Examples include:\n\ncreating GitHub issues on your repositories to better document / track your TODOs\ncreating a GitHub project to organize and prioritize issues across repositories\ndeploying documentation / reports / slides / additional websites / etc. using GitHub Pages\nconfiguring a GitHub Actions (GHA) workflow that rebuilds / redeploys your personal website when changes are pushed to GitHub\ncreating a GitHub organization to share and collaborate on repositories across teams"
   },
   {
     "objectID": "course-materials/week6-misc-github.html#pre-class-prep",
