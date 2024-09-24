@@ -102,51 +102,52 @@ Explore some real issues on the very real [ggplot2 repository](https://github.co
 
 <br>
 
-[***Issues are useful and valuable whether you're working alone or with collaborators.***]{.body-text-m}
+[***Issues are a useful and valuable tool for tracking TODOs, jotting down ideas, recording bugs, etc., regardless of whether you're working alone or with collaborators.***]{.body-text-m}
 
 <br>
 
 . . . 
 
-Like most things, it's great to put some care and thought into writing an issue (*especially* when collaborating or contributing thoughts to a public project e.g. [ggplot2](https://github.com/tidyverse/ggplot2/issues)). . .
+Like most things, it's great to **put some care and thought into writing an issue** (*especially* when collaborating or contributing thoughts to a public project e.g. [ggplot2](https://github.com/tidyverse/ggplot2/issues)). . .
 
 <br>
 
 . . . 
 
-. . . *but* I'd also argue that a hasty issue on a personal project can go a long way in helping you remember a helpful resource, or that idea that popped into your mind at a time you couldn't devote much attention to it.
+. . . *but* I'd also argue that **a hasty issue on a personal project can still go a long way** in helping you remember a helpful resource, or that idea that popped into your mind at a time you couldn't devote much attention to it.
 
 ---
 
 ## {#projects-start data-menu-title="GitHub Projects (start)" background="#047C90"} 
 
 <div class="vertical-center center-text">
-<p class="custom-subtitle bottombr">Organize and prioritize issues using GitHub projects</p>
+<p class="custom-subtitle bottombr">Organize and prioritize issues (and pull requests) using GitHub projects</p>
 </div>
 
 ---
 
 ## {#projects data-menu-title="Projects"} 
 
-[Add issues from multiple repos to the same project]{.slide-title2}
+[Create a project from your profile's *Projects* tab]{.slide-title2}
 
 <hr>
 
 >*"Projects are an adaptable collection of items that stay up-to-date with GitHub data. Your projects can track issues, pull requests, and ideas that you note down. You can add custom fields and create views for specific purposes."*
 
+[**A few helpful features:**]{.body-text-m}
+
+- [add issues or pull requests](https://docs.github.com/en/issues/planning-and-tracking-with-projects/managing-items-in-your-project/adding-items-to-your-project) (from multiple repos) to the same project
+- [change and / or customize your project layout](https://docs.github.com/en/issues/planning-and-tracking-with-projects/customizing-views-in-your-project/changing-the-layout-of-a-view) (you may also add multiple views)
+- [link projects to relevant repositories](https://docs.github.com/en/issues/planning-and-tracking-with-projects/managing-your-project/adding-your-project-to-a-repository)
+- [manage access (for organization-level projects)](https://docs.github.com/en/issues/planning-and-tracking-with-projects/managing-your-project/managing-access-to-your-projects)
+
+::: {.footer}
+Learn more by exploring [GitHub Docs](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects)
+:::
+
 --- 
 
-- create project board
-- add issues and tasks to projects
-- steps for creating a project board
-
----
-
-## {#use-projects data-menu-title="When to use projects"} 
-
-[When should I use projects?]{.slide-title}
-
-<hr>
+## {#projects-screenshot data-menu-title="Projects screenshot"} 
 
 ```{r}
 #| eval: true
@@ -156,48 +157,193 @@ Like most things, it's great to put some care and thought into writing an issue 
 knitr::include_graphics("images/sam-project.png")
 ```
 
+::: {.footer}
+An example project for [my personal projects](https://github.com/users/samanthacsik/projects/3/views/1). 
+:::
+
 ---
 
-## {#branches-start data-menu-title="GitHub brances (start)" background="#047C90"} 
+## {#use-projects data-menu-title="When to use projects"} 
+
+[When should I use projects?]{.slide-title}
+
+<hr>
+
+<br>
+
+[***If you use issues, projects may offer an additional helpful way to organize your tasks.***]{.body-text-m}
+
+<br>
+
+. . .
+
+Code is oftentimes spread across **multiple repositories** (capstones & GPs are an excellent examples of this!) -- projects can be particularly **helpful for tracking TODOs and progress across them.**
+
+
+<br>
+
+. . . 
+
+**Projects are not *required*** -- you can decide if they are a helpful tool for you / your team.
+
+---
+
+## {#orgs-start data-menu-title="GitHub Organizations (start)" background="#047C90"} 
 
 <div class="vertical-center center-text">
-<p class="custom-subtitle bottombr">Branches (review...maybe?)</p>
+<p class="custom-subtitle bottombr">Collaborate with teams across shared projects using GitHub organizations</p>
 </div>
 
 ---
 
-Working on branches
+## {#GH-orgs data-menu-title="GitHub Organizations"} 
 
-https://brunj7.github.io/EDS-214-analytical-workflows/day1-github_branches.html
+[Create an organization from your GitHub profile]{.slide-title2}
+
+<hr>
+
+>*"Organizations are shared accounts where businesses and open-source projects can collaborate across many projects at once, with sophisticated security and administrative features."*
+
+<br>
+
+Click on the **Create new** ("+") button or by clicking on your profile image (top right corner) > Your organizations > New organization. *Choose the "free" option.*
+
+<br>
+
+[**A few helpful features:**]{.body-text-m}
+
+- [invite users](https://docs.github.com/en/organizations/managing-membership-in-your-organization/inviting-users-to-join-your-organization)
+- [assign roles](https://docs.github.com/en/organizations/managing-peoples-access-to-your-organization-with-roles/using-organization-roles) 
+- [create](https://docs.github.com/en/organizations/organizing-members-into-teams/creating-a-team) and [add members to teams](https://docs.github.com/en/organizations/organizing-members-into-teams/adding-organization-members-to-a-team)
+- [customize your org's profile](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile) (revisit the [README guidelines](https://ucsb-meds.github.io/README-guidelines/#organization-level-readmes) for info on organization READMES)
+
+::: {.footer}
+Learn more by exploring [GitHub Docs](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/about-organizations). Also note the importance of [assigning multiple organization owners](https://docs.github.com/en/organizations/managing-peoples-access-to-your-organization-with-roles/maintaining-ownership-continuity-for-your-organization).
+:::
+
+---
+
+## {#org-screenshot data-menu-title="Organization screenshot"} 
+
+```{r}
+#| eval: true
+#| echo: false
+#| out-width: "100%"
+#| fig-align: "center"
+knitr::include_graphics("images/nceas-org.png")
+```
+
+::: {.footer}
+The [NCEAS Organization](https://github.com/NCEAS) is home to over 100 [repositories](https://github.com/orgs/NCEAS/repositories), and many [members](https://github.com/orgs/NCEAS/people), [teams](https://github.com/orgs/NCEAS/teams), and [projects](https://github.com/orgs/NCEAS/projects)
+:::
+
+---
+
+## {#use-orgs data-menu-title="When to use organizations"} 
+
+[When should I use organizations?]{.slide-title}
+
+<hr>
+
+[***TODO***]{.body-text-m}
+
+<br>
+
+- branding
+
+https://github.com/orgs/community/discussions/69020
 
 ---
 
 ## {#ghp-start data-menu-title="GitHub Pages (start)" background="#047C90"} 
 
 <div class="vertical-center center-text">
-<p class="custom-subtitle bottombr">Host reports, documents, websites, etc with GitHub Pages</p>
+<p class="custom-subtitle bottombr">Host reports, documents, websites, etc. with GitHub Pages</p>
 </div>
 
 ---
 
 ## {#GHP data-menu-title="GitHub Pages"} 
 
-[Hosting reports, documents, websites, etc with GitHub Pages]{.slide-title}
+[GitHub Pages can be enabled for any repo]{.slide-title}
 
 <hr>
 
+<!-- >*"You can use GitHub Pages to host a website about yourself, your organization, or your project directly from a repository on GitHub."* -->
+
+[You can host **one** website or rendered HTML document from any *public* GitHub repository.]{.body-text-m}
+
+[**Hosting additional *websites* via GHP:**]{.body-text-m}
+
+- same process as hosting your personal website (see [week 0 materials](https://ucsb-meds.github.io/creating-quarto-websites/#github-pages)) 
+  - [**NOTE:** you're only allowed **one** user website with the `github.io` suffix, e.g. `<username>.github.io` -- all other URLs will be structured as `<username>.github.io/<repoName>`)]{.body-text-s}
+
+[**Hosting a rendered HTML *document* via GHP:**]{.body-text-m}
+
+- e.g. Quarto doc, Quarto presentation, Quarto manuscript...etc.
+- rendered file must be named `index.html` and live in your repo's root directory; no other configurations necessary
+- deploy from **Settings** > **Pages** > set branch to **main** and directory to **root**
+- re-render `index.html`, then push to GitHub to update deployment
+
 ---
 
-how to GHP
+## {#ghp-screenshot data-menu-title="GHP screenshot"} 
+
+<br>
+
+:::: {.columns}
+
+::: {.column width="50%"}
+```{r}
+#| eval: true
+#| echo: false
+#| out-width: "100%"
+#| fig-align: "center"
+knitr::include_graphics("images/ghp-repo.png")
+```
+:::
+
+::: {.column width="50%"}
+```{r}
+#| eval: true
+#| echo: false
+#| out-width: "100%"
+#| fig-align: "center"
+knitr::include_graphics("images/ghp-settings.png")
+```
+:::
+
+::::
+
+::: {.center-text}
+The materials for [creating your personal website using Quarto](https://ucsb-meds.github.io/creating-quarto-websites/#is-quarto-necessary) (above) is one example of a published document. Similarly, the slides for [customizing your Quarto website](https://ucsb-meds.github.io/customizing-quarto-websites/#/title-slide) are also published using GitHub Pages.
+:::
 
 ---
 
 ## {#use-GHP data-menu-title="When to use GHP"} 
 
-[When should I use GHP?]{.slide-title}
+[When should I use GitHub Pages?]{.slide-title}
 
 <hr>
 
+<br>
+
+<!-- [***You can use GitHub Pages to host a variety of projects and resources from personal GitHub profiles or GitHub organizations. Some examples: -->
+
+[***You can use GitHub Pages to host projects and resources that you want to share publicly with others (e.g. colleagues, clients, potential employers, etc.).***]{.body-text-m}
+
+<br>
+
+. . . 
+
+GitHub Pages can be enabled from any public repo owned by a personal profile *or* organization.
+
+<br>
+
+. . .
+
+Consider hosting instructional documentation, software user guides, reports, project websites, etc.
 
 ---
 
@@ -354,30 +500,6 @@ need to use [`{renv}` package](https://rstudio.github.io/renv/#:~:text=Use%20ren
 - return to github
 - (you will probably get an email saying [yourUserName/yourSiteName] pages build and deployment workflow run)
 - go to Settings > Pages > switch branch from `main` to `gh-pages` and from `/docs` to `/(root)` > click Save > check out Actions tab while your site redeploys
-
----
-
-## {#orgs-start data-menu-title="GitHub Organizations (start)" background="#047C90"} 
-
-<div class="vertical-center center-text">
-<p class="custom-subtitle bottombr">Collaborate teams across shared projects with GitHub organizations</p>
-</div>
-
----
-
-## {#GH-orgs data-menu-title="GitHub Organizations"} 
-
-[tbd]{.slide-title}
-
-<hr>
-
----
-
-## {#use-orgs data-menu-title="When to use organizations"} 
-
-[When should I use organizations?]{.slide-title}
-
-<hr>
 
 
 

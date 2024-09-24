@@ -55,7 +55,7 @@ During this session, you'll have the opportunity to add some personal informatio
 
 ::: {.callout-tip collapse=true icon=false}
 ## Some considerations and example website bios
-- **Adjust your bio to fit your chosen landing page [templates](https://quarto.org/docs/websites/website-about.html#templates).** For example, `jolla` works well with short bios or even taglines, while `trestles` might be a better choice if you're looking to add longer and / or multiple sections. 
+- **Adjust your bio to fit your chosen landing page [template](https://quarto.org/docs/websites/website-about.html#templates).** For example, `jolla` works well with short bios or even taglines, while `trestles` might be a better choice if you're looking to add longer and / or multiple sections. 
 <!-- - **Adopt an "evergreen content" mindset where possible (especially on your landing page).** "Evergreen content" is a marketing term that is used to describe content that remains relevant and interesting long after it's published. Carefully considering how you phrase information on your website can help it withstand the test of time (or at least for a while) and make website maintenance a bit easier. A couple sustainable language swap examples: -->
 <!--     - "Two years ago, I..." > "In 2022, I..." -->
 <!--     <!-- - "I'm a Master of Environmental Data Science student interested in..." > "I'm an environmental data scientist interested in..." --> 
