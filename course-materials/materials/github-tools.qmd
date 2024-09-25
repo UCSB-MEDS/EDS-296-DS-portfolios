@@ -656,3 +656,29 @@ Our final step is to reconfigure our GitHub Pages to now serve our rendered webs
 
 Your Action will also be triggered if you merge a pull request into `main`.
 
+---
+
+##  {#end-break data-menu-title="# Break / END #" background="#047C90"}
+
+<div class="page-center vertical-center">
+<p class="custom-subtitle bottombr">{{< fa mug-hot title="a mug with steam rising out the top" >}} Take a Break</p>
+<p class="caption-text">*~ Portfolio share outs next! ~*</p>
+</div>
+
+```{r}
+countdown::countdown(
+  minutes = 5,
+  # left = 0, right = 0,
+  # Fanfare when it's over
+  play_sound = TRUE,
+  color_border              = "#FFFFFF",
+  color_text                = "#7aa81e",
+  color_running_background  = "#7aa81e",
+  color_running_text        = "#FFFFFF",
+  color_finished_background = "#ffa07a",
+  color_finished_text       = "#FFFFFF",
+  font_size = "2em",
+  )
+```
+
+

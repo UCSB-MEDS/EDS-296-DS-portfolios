@@ -106,7 +106,7 @@ Some examples include:
 
 - potential employers (feel free to be more specific here as well, e.g. potential employers in the environmental data science sector)
 - early career data scientists or environmental scientists
-- environmental data scientists who are also passionate about X ([Jadey Ryan](https://jadeyryan.com/){target="_blank"} is a great example of this!)
+- environmental data scientists who are also passionate about < fill in the blank > ([Jadey Ryan](https://jadeyryan.com/){target="_blank"} is a great example of this!)
 :::
 
 #### III. Select your typefaces / fonts

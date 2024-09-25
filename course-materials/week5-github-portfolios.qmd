@@ -46,7 +46,12 @@ README files are used to provide essential information about software projects. 
 - from
 - Ruth & Carmen
 
-**For any non-MEDS students:** If you're enrolled in any data science-focused courses (MEDS or other) that have required you to create a GitHub repository(ies), I recommend choosing a one of those. Otherwise, you can choose any repository you feel could use some added documentation.
+**From EDS 223: Geospatial Analysis & Remote Sensing**
+
+- [HW1: Map making practice](https://eds-223-geospatial.github.io/assignments/HW1.html) (assigned 9/30, due 10/5)
+- [HW2: Exploring patterns of environmental justice](https://eds-223-geospatial.github.io/assignments/HW2.html) (assigned 10/7, due 10/19)
+
+**For any non-MEDS students:** If you're enrolled in any data science-focused courses (MEDS or other) that have required you to create a GitHub repository(ies), I recommend choosing one of those. Otherwise, you can choose any repository you feel could use some added documentation.
 :::
 
 ### C. Draft up text to add to your GitHub profile README

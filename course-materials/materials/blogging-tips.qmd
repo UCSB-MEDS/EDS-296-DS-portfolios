@@ -1226,3 +1226,13 @@ knitr::include_graphics("file/path/to/image/file")
 **Note:** I prefer using CSS for styling and aligning my figure captions. See [this example image caption](https://github.com/samanthacsik/samanthacsik.github.io/blob/main/posts/2024-04-02-data-viz-course/index.qmd#L72) and the associated CSS rules ([1](https://github.com/samanthacsik/samanthacsik.github.io/blob/061b2e1986f718307b56ca16017af74eab2f8730/styles.scss#L134) & [2](https://github.com/samanthacsik/samanthacsik.github.io/blob/061b2e1986f718307b56ca16017af74eab2f8730/styles.scss#L118)).
 :::
 
+---
+
+##  {#end-break data-menu-title="# BREAK / END #" background="#047C90"}
+
+<div class="page-center vertical-center">
+<p class="custom-subtitle bottombr">{{< fa flag-checkered title="a checkered flag" >}} End</p>
+<p class="caption-text">*~ See you next week! ~*</p>
+</div>
+
+

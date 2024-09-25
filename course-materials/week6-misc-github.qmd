@@ -70,10 +70,6 @@ knitr::include_graphics("images/sam-brand-slide.png")
 
 We'll begin class with an overview of some of GitHub's many tools for organizing, collaborating, and managing data science / software projects, then wrap up with a share out of snippets from each of your portfolios:
 
-::: {.callout-important}
-## TODO: come back to github grab bag lecture
-:::
-
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-6}
@@ -89,12 +85,6 @@ We'll begin class with an overview of some of GitHub's many tools for organizing
 :::
 
 :::
-
-<!-- ::: {.callout-note} -->
-<!-- ## (Optional) Have your personal website added to your Bren profile -->
-
-
-<!-- ::: -->
 
 ## {{< fa plus title="plus" >}} What should I continue working on? {#continue-working}
 
