@@ -90,12 +90,25 @@ We'll begin class with an overview of some of GitHub's many tools for organizing
 
 1. [**Continue creating organized / polished GitHub repositories:**]{.teal-text} Consider this a part of your standard data science workflow from here on out. Your repos should be easy for someone else to navigate and understand using your README (and possibly other documentation, e.g. wiki).
 2. [**Iterate on, and *importantly*, maintain your personal website:**]{.teal-text} Your website establishes your personal brand and acts as your centralized portfolio. Now that it's out in the world, it's important that you maintain it! It should accurately reflect you and your work -- return to it regularly to add new projects and content, and be sure to update text / content as necessary.   
-3. [**Link to your personal website on your resume / cv:**]{.teal-text} Add your website URL to your resume (somewhere in your header typically makes the most sense).
-4. [**Link to your polished GitHub repositories on your resume / cv, too!:**]{.teal-text} You may decide to highlight course and / or capstone projects, personal projects, etc. on your resume -- this is an awesome opportunity to link directly to your associated GitHub repository as well. ***Ensure that these repos are well-organized and documented.***
+3. [**Link to your personal website on your resume / cv:**]{.teal-text} Add your website URL to your resume. The Bren Career Team suggests doing so in the header of your resume, similar to the example screenshot, below. Please refer back to the [resume workshop](https://ucsbbren.my.site.com/s/login/?ec=302&startURL=%2Fs%2Farticle%2FWorkshops-MEDS) for more information. 
 
-::: {.callout-important}
-## TODO: get resume template from Miya
-:::
+```{r}
+#| eval: true
+#| echo: false
+#| out-width: "50%"
+#| fig-align: "center"
+knitr::include_graphics("images/resume-header.png")
+```
+
+4. [**Link to your polished GitHub repositories on your resume / cv, as appropriate:**]{.teal-text} As you tailor your resume for particular job applications, you may consider linking to certain repositories, deliverables, and / or blog posts *if they add value and are also well executed / organized / documented / maintained.* You are encouraged to schedule 1-on-1 meetings or additional resume reviews with the career team as you begin adding pieces of your portfolio to your resume.
+
+```{r}
+#| eval: true
+#| echo: false
+#| out-width: "60%"
+#| fig-align: "center"
+knitr::include_graphics("images/resume-links.png")
+```
 
 ## {{< fa utensils title="a fork and knife" >}} (Optional) Lunch with an NCEAS Data Scientist
 
