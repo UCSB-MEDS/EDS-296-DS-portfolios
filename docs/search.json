@@ -704,7 +704,7 @@
     "href": "course-materials/materials/blogging-tips.html#find-topic-idea1",
     "title": "EDS 296",
     "section": "",
-    "text": "EXAMPLE: Sam’s post ideas (1/4)\n\n\nWorking with APIs (tutorial): comparing workflows using Strava v3 API vs {rStrava} for scraping data\n\n\n\ncombines my personal and professional interests\nbuilds off existing projects (my Strava dashboard)\na learning opportunity (APIs have always been intimidating to me)\nsomething I could also bring into MEDS teaching materials (multipurpose!)\n\n\n\n\n\n\n\n\n\n\n\n\nMy Strava dashboard, a personal project where I use my hiking data to learn about building {shiny} dashboards"
+    "text": "EXAMPLE: Sam’s post ideas (1/4)\n\n\nAutomating shiny app data updates using my Strava dashboard as a case study\n\n\n\ncombines my personal and professional interests\nbuilds off existing projects (my Strava dashboard)\na learning opportunity (Amazon S3 for data storage, GitHub Actions for automation)\nsomething I could also potentially bring into MEDS teaching materials (multipurpose!)\n\n\n\n\n\n\n\n\n\n\n\n\nMy Strava dashboard, a personal project where I use my hiking data to learn about building {shiny} dashboards"
   },
   {
     "objectID": "course-materials/materials/blogging-tips.html#find-topic-idea2",

@@ -263,15 +263,15 @@ Learners · Educators · (Potential Employers)
 
 <br>
 
-[**Working with APIs (tutorial):  comparing workflows using [Strava v3 API](https://developers.strava.com/docs/reference/) vs `{rStrava}` for scraping data**]{.body-text-m}
+[**Automating shiny app data updates using my Strava dashboard as a case study**]{.body-text-m}
 
 :::: {.columns}
 
 ::: {.column width="50%"}
 - combines my personal and professional interests
 - builds off existing projects ([my Strava dashboard](https://samanthacsik.shinyapps.io/strava_dashboard/))
-- a learning opportunity (APIs have always been intimidating to me) 
-- something I could also bring into MEDS teaching materials (multipurpose!)
+- a learning opportunity (Amazon S3 for data storage, GitHub Actions for automation) 
+- something I could also potentially bring into MEDS teaching materials (multipurpose!)
 :::
 
 ::: {.column width="50%"}
