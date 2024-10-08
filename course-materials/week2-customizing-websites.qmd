@@ -203,7 +203,11 @@ Quarto supports adding a personal logo to the top left corner of your website's 
 
 These include your logo, headshot, and any other photos / images you plan to use across your website. You might also include images that influence the overall aesthetic of your brand, but that might not necessarily be used as content on your site.
 
-[**Begin gathering your image assets and add them to your personal branding guide.**]{.teal-text}
+[**Begin gathering your image assets and add them to your personal branding guide.**]{.teal-text} You may consider checking out the following image collections for additional or supplementary images:
+
+- [UC Santa Barbara's Digital Asset Library](https://www.ucsb.edu/terms-of-use-webdam)
+- [Free Ocean Landscapes](https://alexphillipsphoto.pixieset.com/ocean/), by [Alex Phillips](https://alexphillipsphoto.com/aboutme)
+- [Unsplash](https://unsplash.com/) (though many images do require a paid subscription to access)
 :::
 
 ## {{< fa person-chalkboard title="a person pointing at a chalkboard" >}} Lecture Materials {#lecture-materials}
