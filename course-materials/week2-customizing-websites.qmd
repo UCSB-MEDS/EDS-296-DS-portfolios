@@ -205,9 +205,9 @@ These include your logo, headshot, and any other photos / images you plan to use
 
 [**Begin gathering your image assets and add them to your personal branding guide.**]{.teal-text} You may consider checking out the following image collections for additional or supplementary images:
 
-- [UC Santa Barbara's Digital Asset Library](https://www.ucsb.edu/terms-of-use-webdam)
-- [Free Ocean Landscapes](https://alexphillipsphoto.pixieset.com/ocean/), by [Alex Phillips](https://alexphillipsphoto.com/aboutme)
-- [Unsplash](https://unsplash.com/) (though many images do require a paid subscription to access)
+- [UC Santa Barbara's Digital Asset Library](https://www.ucsb.edu/terms-of-use-webdam){target="_blank"}
+- [Free Ocean Landscapes](https://alexphillipsphoto.pixieset.com/ocean/){target="_blank"}, by [Alex Phillips](https://alexphillipsphoto.com/aboutme){target="_blank"}
+- [Unsplash](https://unsplash.com/) (though many images do require a paid subscription to access){target="_blank"}
 :::
 
 ## {{< fa person-chalkboard title="a person pointing at a chalkboard" >}} Lecture Materials {#lecture-materials}
