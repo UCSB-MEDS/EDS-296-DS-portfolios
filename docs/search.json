@@ -420,34 +420,6 @@
     "text": "Take a Break\n\n\n~ Portfolio share outs next! ~\n\n\n\n\n\n−+\n05:00"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "index.html#course-description",
-    "href": "index.html#course-description",
-    "title": "Data science tools for building professional online portfolios",
-    "section": "Course Description",
-    "text": "Course Description\nHaving a polished online presence is essential for showcasing your skills, projects, expertise, and (importantly) your personality. Learners, collaborators, and future employers alike will look to your public online profiles to glean information about you and your work. As data scientists, this often means that they’ll head to one of two places: GitHub and / or your personal website. This course is designed to help you both lay the foundation for creating and maintaining these profiles in an organized, informative, and visually-appealing way. Over the next several weeks, you will:\n\nbegin developing your personal brand\nbuild and deploy your personal website using popular data science tools and frameworks\ncreate your first (of many!) data science blog posts\nlearn about how best to communicate your work to different audiences\nunderstand where and how to document your projects and code on GitHub\nand more!\n\nThroughout the MEDS program, you’ll be asked to turn assignments and projects into science communication pieces on your personal websites blog. These are excellent opportunities to build out your portfolio ahead of your job search."
-  },
-  {
-    "objectID": "index.html#teaching-team",
-    "href": "index.html#teaching-team",
-    "title": "Data science tools for building professional online portfolios",
-    "section": "Teaching Team",
-    "text": "Teaching Team\n\n\n\n\nInstructor\n\n\n\n\n\n\n\n\n\n\n\nSam Csik\nEmail: scsik@ucsb.edu\nLearn more: samanthacsik.github.io"
-  },
-  {
-    "objectID": "index.html#acknowledgements",
-    "href": "index.html#acknowledgements",
-    "title": "Data science tools for building professional online portfolios",
-    "section": "Acknowledgements",
-    "text": "Acknowledgements\nI’ve got lots of rad colleagues, and many of them helped brainstorm approaches, activities, and provided much needed feedback on aspects of this course. Many thanks to Bren faculty and instructors Carmen Galaz Garcia, Max Czapanskiy, Ruth Oliver, Alex Phillips, and Julien Brun, Bren career team members Miya Scheble and Amanda Asquith-Caya, and NCEAS Learning Hub members Camila Vargas Poulsen and Nick Lyon."
-  },
-  {
     "objectID": "clean-code-guide.html",
     "href": "clean-code-guide.html",
     "title": "Writing clean code",
@@ -474,6 +446,27 @@
     "title": "Writing clean code",
     "section": "Style guides",
     "text": "Style guides\n\nTidyverse style guide, by Hadley Wickham – a book that describes the style used throughout the {tidyverse}\nTidy design principles, by Hadley Wickham – a book to help you write better R code (currently under development)"
+  },
+  {
+    "objectID": "index.html#course-description",
+    "href": "index.html#course-description",
+    "title": "Data science tools for building professional online portfolios",
+    "section": "Course Description",
+    "text": "Course Description\nHaving a polished online presence is essential for showcasing your skills, projects, expertise, and (importantly) your personality. Learners, collaborators, and future employers alike will look to your public online profiles to glean information about you and your work. As data scientists, this often means that they’ll head to one of two places: GitHub and / or your personal website. This course is designed to help you both lay the foundation for creating and maintaining these profiles in an organized, informative, and visually-appealing way. Over the next several weeks, you will:\n\nbegin developing your personal brand\nbuild and deploy your personal website using popular data science tools and frameworks\ncreate your first (of many!) data science blog posts\nlearn about how best to communicate your work to different audiences\nunderstand where and how to document your projects and code on GitHub\nand more!\n\nThroughout the MEDS program, you’ll be asked to turn assignments and projects into science communication pieces on your personal websites blog. These are excellent opportunities to build out your portfolio ahead of your job search."
+  },
+  {
+    "objectID": "index.html#teaching-team",
+    "href": "index.html#teaching-team",
+    "title": "Data science tools for building professional online portfolios",
+    "section": "Teaching Team",
+    "text": "Teaching Team\n\n\n\n\nInstructor\n\n\n\n\n\n\n\n\n\n\n\nSam Csik\nEmail: scsik@ucsb.edu\nLearn more: samanthacsik.github.io"
+  },
+  {
+    "objectID": "index.html#acknowledgements",
+    "href": "index.html#acknowledgements",
+    "title": "Data science tools for building professional online portfolios",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\nI’ve got lots of rad colleagues, and many of them helped brainstorm approaches, activities, and provided much needed feedback on aspects of this course. Many thanks to Bren faculty and instructors Carmen Galaz Garcia, Max Czapanskiy, Ruth Oliver, Alex Phillips, and Julien Brun, Bren career team members Miya Scheble and Amanda Asquith-Caya, and NCEAS Learning Hub members Camila Vargas Poulsen and Nick Lyon."
   },
   {
     "objectID": "course-materials/materials/readme-guidelines-slides.html#title-slide",

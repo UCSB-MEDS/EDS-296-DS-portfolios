@@ -82,8 +82,8 @@ A handful of posts to showcase some different writing styles and topics areas:
 
 - [An introduction to Python for R Users](https://rebeccabarter.com/blog/2023-09-11-from_r_to_python){target="_blank"}, by [Rebecca Barter](https://rebeccabarter.com/about){target="_blank"}
 - [My first live coding interview](https://maya.rbind.io/posts/live-coding-interview/){target="_blank"}, by [Maya Gans](https://maya.rbind.io/){target="_blank"}
-- [Notes from live code review of `{soils}`](https://jadeyryan.com/blog/2024-01-22_package-review/), by [Jadey Ryan](https://jadeyryan.com/)
-- [Creating typewriter-styled maps in `{ggplot2}`](https://nrennie.rbind.io/blog/creating-typewriter-maps-r/), by [Nicola Rennie](https://nrennie.rbind.io/)
+- [Notes from live code review of `{soils}`](https://jadeyryan.com/blog/2024-01-22_package-review/){target="_blank"}, by [Jadey Ryan](https://jadeyryan.com/){target="_blank"}
+- [Creating typewriter-styled maps in `{ggplot2}`](https://nrennie.rbind.io/blog/creating-typewriter-maps-r/){target="_blank"}, by [Nicola Rennie](https://nrennie.rbind.io/){target="_blank"}
 - [Porting the Openscapes website from blogdown to Quarto](https://samanthacsik.github.io/posts/2023-08-01-openscapes-website/){target="_blank"}, by [Sam Csik](https://samanthacsik.github.io){target="_blank"}
 - [Generative art with grid](https://blog.djnavarro.net/posts/2023-03-31_generative-art-with-grid/){target="_blank"}, by [Danielle Navarro](https://djnavarro.net/){target="_blank"}
 - [Slidecrafting 101: Layout](https://emilhvitfeldt.com/post/slidecraft-layout/){target="_blank"}, by [Emil Hvitfeldt](https://emilhvitfeldt.com/){target="_blank"}
@@ -100,7 +100,7 @@ And a few additional fun blogs to keep an eye on:
 - [Nicola Rennie](https://nrennie.rbind.io/blog/){target="_blank"}
 - [Cédric Scherer](https://www.cedricscherer.com/){target="_blank"}
 - [Cara Thompson](https://www.cararthompson.com/posts){target="_blank"}
-- [Nick Tierney](https://www.njtierney.com/)
+- [Nick Tierney](https://www.njtierney.com/){target="_blank"}
 - [Isabella Velásquez](https://ivelasq.rbind.io/){target="_blank"}
 - [rostrum.blog](https://www.rostrum.blog/){target="_blank"} (by [Matt Dray](https://www.matt-dray.com/){target="_blank"} and [Adriana De Palma](https://adrianadepalma.com/){target="_blank"})
 
