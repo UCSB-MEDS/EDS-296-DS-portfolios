@@ -837,7 +837,7 @@
     "href": "course-materials/materials/blogging-tips.html#share-your-story",
     "title": "EDS 296",
     "section": "",
-    "text": "YOUR TURN - share\n\n  \nShare your outlined story with your partner.\n\n\n\nI’ll reset the timer when you and your partner should switch roles!\n\n\n\n−+\n02:00"
+    "text": "YOUR TURN - share\n\n  \nShare your outlined story with your partner.\n\n\n\nI’ll reset the timer when you and your partner should switch roles!\n\n\n\n−+\n03:00"
   },
   {
     "objectID": "course-materials/materials/blogging-tips.html#add-embellishments-start",
@@ -872,14 +872,14 @@
     "href": "course-materials/materials/blogging-tips.html#metaphors-media",
     "title": "EDS 296",
     "section": "",
-    "text": "3/4. Metaphors & Supporting media\n\nUse metaphors to improve connections or visualizations for your audience. And because blog posts are a versatile medium, don’t shy away from including media that helps to demonstrate examples (and importantly, gives your readers a break from a wall of text and code).\n\n\n\n“Re stability, vanilla R has changed little over time. Code written a couple of decades ago has a high chance of running now and will (likely) be executable for a long time into the future6. As a result, I contend that R is a horseshoe crab (unchanged for aeons, cryptically beautiful).”\n\n\n\n“Note that base R is the literal, unyielding base of the teetering tower of packages used by your project (incredible metaphor).”\n\n\n\n\n\n\n\n\n\n\n\n\nBoth quotes and xkcd adaptation come from the section titled, Content. Find many more metaphors and media throughout the blog post."
+    "text": "3/4. Metaphors & Supporting media\n\nUse metaphors to improve connections or visualizations for your audience. And because blog posts are a versatile medium, don’t shy away from including media that helps to demonstrate examples (and importantly, gives your readers a break from a wall of text and code).\n\n\n\n“Re stability, vanilla R has changed little over time. Code written a couple of decades ago has a high chance of running now and will (likely) be executable for a long time into the future. As a result, I contend that R is a horseshoe crab (unchanged for aeons, cryptically beautiful).”\n\n\n\n“Note that base R is the literal, unyielding base of the teetering tower of packages used by your project (incredible metaphor).”\n\n\n\n\n\n\n\n\n\n\n\n\nBoth quotes and xkcd adaptation come from the section titled, Content. Find many more metaphors and media throughout the blog post."
   },
   {
     "objectID": "course-materials/materials/blogging-tips.html#discuss-embellishments",
     "href": "course-materials/materials/blogging-tips.html#discuss-embellishments",
     "title": "EDS 296",
     "section": "",
-    "text": "YOUR TURN\n\n\nDiscuss with your partner some ways to add embellishments to both of your stories. Consider:\n\n\ndo you like reading humor? do you like writing with humor? what might that look like for you (if you do choose to use humor)?\nhow can you or your partner “hook” readers at the start of your blog posts? or elsewhere in the writing?\nwhat metaphors might you consider using and how do they help improve understanding of complex topics?\nwhat media might you want to include?\n\n\n\n\n−+\n06:00"
+    "text": "YOUR TURN\n\n\nDiscuss with your partner some ways to add embellishments to both of your stories. Consider:\n\n\ndo you like reading humor? do you like writing with humor? what might that look like for you (if you do choose to use humor)?\nhow can you or your partner “hook” readers at the start of your blog posts? or elsewhere in the writing?\nwhat metaphors might you consider using and how do they help improve understanding of complex topics?\nwhat media might you want to include?\n\n\n\n\n−+\n10:00"
   },
   {
     "objectID": "course-materials/materials/blogging-tips.html#write-it-start",
@@ -921,7 +921,7 @@
     "href": "course-materials/materials/blogging-tips.html#chunk-options",
     "title": "EDS 296",
     "section": "",
-    "text": "Set the appropriate code chunk options\n\nYour data science blog posts will often include example code. Thoughtfully set your code chunk options so that your examples are easy to follow, but don’t bog down your post by requiring readers to scroll past loonnngggg data frames or messages / warnings (unless there’s an important and demonstrative reason to do so). Consider:\n\n\ndo you need to show messages / warnings to demonstrate your point? if not, suppress them (message: false & warning: false)\ndo you need to show the output of your code or just the code? (eval: false & echo: true)\ndo you need to show the code or just the output? (eval: true & echo: true; defaults)"
+    "text": "Set the appropriate code chunk options\n\nYour data science blog posts will often include example code. Thoughtfully set your code chunk options so that your examples are easy to follow, but don’t bog down your post by requiring readers to scroll past loonnngggg data frames or messages / warnings (unless there’s an important and demonstrative reason to do so). Consider:\n\n\ndo you need to show messages / warnings to demonstrate your point? if not, suppress them: message: false & warning: false\nshow just the code, but not the output (e.g. loading libraries): eval: false & echo: true\nshow just the output (and not code): eval: true & echo: false \n\n\nRemember, you can set options in your blog post’s YAML or on a chunk-by-chunk basis."
   },
   {
     "objectID": "course-materials/materials/blogging-tips.html#consider-code",

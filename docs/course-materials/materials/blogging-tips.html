@@ -654,7 +654,7 @@
 <p><span class="body-text-m"><strong><em>I’ll reset the timer when you and your partner should switch roles!</em></strong></span></p>
 <div class="cell">
 <div class="cell-output-display">
-<div class="countdown" id="timer_0327874d" data-update-every="1" data-play-sound="true" tabindex="0" style="right:0;bottom:0;font-size:2em;">
+<div class="countdown" id="timer_261f25fa" data-update-every="1" data-play-sound="true" tabindex="0" style="right:0;bottom:0;font-size:2em;">
 <div class="countdown-controls"><button class="countdown-bump-down">−</button><button class="countdown-bump-up">+</button></div>
 <code class="countdown-time"><span class="countdown-digits minutes">04</span><span class="countdown-digits colon">:</span><span class="countdown-digits seconds">00</span></code>
 </div>
@@ -830,7 +830,7 @@
 </div>
 <div class="cell">
 <div class="cell-output-display">
-<div class="countdown" id="timer_1ce05c45" data-update-every="1" data-play-sound="true" tabindex="0" style="right:0;bottom:0;font-size:2em;">
+<div class="countdown" id="timer_efd7feca" data-update-every="1" data-play-sound="true" tabindex="0" style="right:0;bottom:0;font-size:2em;">
 <div class="countdown-controls"><button class="countdown-bump-down">−</button><button class="countdown-bump-up">+</button></div>
 <code class="countdown-time"><span class="countdown-digits minutes">02</span><span class="countdown-digits colon">:</span><span class="countdown-digits seconds">00</span></code>
 </div>
@@ -877,7 +877,7 @@
 </ul>
 <div class="cell">
 <div class="cell-output-display">
-<div class="countdown" id="timer_582032e1" data-update-every="1" data-play-sound="true" tabindex="0" style="right:0;bottom:0;font-size:2em;">
+<div class="countdown" id="timer_206ae5a1" data-update-every="1" data-play-sound="true" tabindex="0" style="right:0;bottom:0;font-size:2em;">
 <div class="countdown-controls"><button class="countdown-bump-down">−</button><button class="countdown-bump-up">+</button></div>
 <code class="countdown-time"><span class="countdown-digits minutes">06</span><span class="countdown-digits colon">:</span><span class="countdown-digits seconds">00</span></code>
 </div>
@@ -909,9 +909,9 @@
 <p><span class="body-text-m"><strong><em>I’ll reset the timer when you and your partner should switch roles!</em></strong></span></p>
 <div class="cell">
 <div class="cell-output-display">
-<div class="countdown" id="timer_818fdc57" data-update-every="1" data-play-sound="true" tabindex="0" style="right:0;bottom:0;font-size:2em;">
+<div class="countdown" id="timer_776c145f" data-update-every="1" data-play-sound="true" tabindex="0" style="right:0;bottom:0;font-size:2em;">
 <div class="countdown-controls"><button class="countdown-bump-down">−</button><button class="countdown-bump-up">+</button></div>
-<code class="countdown-time"><span class="countdown-digits minutes">02</span><span class="countdown-digits colon">:</span><span class="countdown-digits seconds">00</span></code>
+<code class="countdown-time"><span class="countdown-digits minutes">03</span><span class="countdown-digits colon">:</span><span class="countdown-digits seconds">00</span></code>
 </div>
 </div>
 </div>
@@ -999,7 +999,7 @@
 <div class="columns">
 <div class="column" style="width:50%;">
 <blockquote>
-<p><em>“Re stability, vanilla R has changed little over time. Code written a couple of decades ago has a high chance of running now and will (likely) be executable for a long time into the future6. As a result, I contend that R is a horseshoe crab (unchanged for aeons, cryptically beautiful).”</em></p>
+<p><em>“Re stability, vanilla R has changed little over time. Code written a couple of decades ago has a high chance of running now and will (likely) be executable for a long time into the future. As a result, I contend that R is a horseshoe crab (unchanged for aeons, cryptically beautiful).”</em></p>
 </blockquote>
 </div><div class="column" style="width:50%;">
 <blockquote>
@@ -1034,9 +1034,9 @@
 </ul>
 <div class="cell">
 <div class="cell-output-display">
-<div class="countdown" id="timer_60dbc70a" data-update-every="1" data-play-sound="true" tabindex="0" style="right:0;bottom:0;font-size:2em;">
+<div class="countdown" id="timer_a73e7c22" data-update-every="1" data-play-sound="true" tabindex="0" style="right:0;bottom:0;font-size:2em;">
 <div class="countdown-controls"><button class="countdown-bump-down">−</button><button class="countdown-bump-up">+</button></div>
-<code class="countdown-time"><span class="countdown-digits minutes">06</span><span class="countdown-digits colon">:</span><span class="countdown-digits seconds">00</span></code>
+<code class="countdown-time"><span class="countdown-digits minutes">10</span><span class="countdown-digits colon">:</span><span class="countdown-digits seconds">00</span></code>
 </div>
 </div>
 </div>
@@ -1104,10 +1104,13 @@
 <p>Your data science blog posts will often include example code. Thoughtfully set your code chunk options so that your examples are easy to follow, but don’t bog down your post by requiring readers to scroll past loonnngggg data frames or messages / warnings (unless there’s an important and demonstrative reason to do so). Consider:</p>
 <p><br></p>
 <ul>
-<li>do you need to show messages / warnings to demonstrate your point? if not, suppress them (<code>message: false</code> &amp; <code>warning: false</code>)</li>
-<li>do you need to show the output of your code or <em>just</em> the code? (<code>eval: false</code> &amp; <code>echo: true</code>)</li>
-<li>do you need to show the code or <em>just</em> the output? (<code>eval: true</code> &amp; <code>echo: true</code>; defaults)</li>
+<li>do you need to show messages / warnings to demonstrate your point? if not, suppress them: <code>message: false</code> &amp; <code>warning: false</code></li>
+<li>show just the code, but not the output (e.g.&nbsp;loading libraries): <code>eval: false</code> &amp; <code>echo: true</code></li>
+<li>show just the output (and not code): <code>eval: true</code> &amp; <code>echo: false</code> <!-- - permit code folding (`code-fold: true` or `code-fold: show`; also [`code-tools: true`](https://quarto.org/docs/output-formats/html-code.html#code-tools)) --></li>
 </ul>
+<div class="footer">
+<p>Remember, you can set options in your blog post’s YAML or on a chunk-by-chunk basis.</p>
+</div>
 </section>
 <section id="consider-code" class="slide level2" data-menu-title="Consider code">
 <h2></h2>

@@ -824,7 +824,7 @@ countdown::countdown(
 
 ```{r}
 countdown::countdown(
-  minutes = 2,
+  minutes = 3,
   # right = 0,
   # Fanfare when it's over
   play_sound = TRUE,
@@ -957,7 +957,7 @@ Use metaphors to improve connections or visualizations for your audience. And be
 :::: {.columns}
 
 ::: {.column width="50%"}
->*"Re stability, vanilla R has changed little over time. Code written a couple of decades ago has a high chance of running now and will (likely) be executable for a long time into the future6. As a result, I contend that R is a horseshoe crab (unchanged for aeons, cryptically beautiful)."*
+>*"Re stability, vanilla R has changed little over time. Code written a couple of decades ago has a high chance of running now and will (likely) be executable for a long time into the future. As a result, I contend that R is a horseshoe crab (unchanged for aeons, cryptically beautiful)."*
 :::
 
 ::: {.column width="50%"}
@@ -999,7 +999,7 @@ Both quotes and [xkcd adaptation](https://xkcd.com/2347/) come from the section 
 
 ```{r}
 countdown::countdown(
-  minutes = 6,
+  minutes = 10,
   # right = 0,
   # Fanfare when it's over
   play_sound = TRUE,
@@ -1112,9 +1112,14 @@ Your data science blog posts will often include example code. Thoughtfully set y
 
 <br>
 
-- do you need to show messages / warnings to demonstrate your point? if not, suppress them (`message: false` & `warning: false`)
-- do you need to show the output of your code or *just* the code? (`eval: false` & `echo: true`)
-- do you need to show the code or *just* the output? (`eval: true` & `echo: true`; defaults)
+- do you need to show messages / warnings to demonstrate your point? if not, suppress them: `message: false` & `warning: false`
+- show just the code, but not the output (e.g. loading libraries): `eval: false` & `echo: true`
+- show just the output (and not code): `eval: true` & `echo: false`
+<!-- - permit code folding (`code-fold: true` or `code-fold: show`; also [`code-tools: true`](https://quarto.org/docs/output-formats/html-code.html#code-tools)) -->
+
+::: {.footer}
+Remember, you can set options in your blog post's YAML or on a chunk-by-chunk basis.
+:::
 
 ---
 
