@@ -54,7 +54,7 @@ Coming up with topics to blog about can feel intimidating (especially in the beg
 - **Important:** Consider topics that you can feasibly write a blog post on by the end of this course (week 6) -- you may also add larger-scoped or more involved topic ideas to your personal branding guide to return to in the future
 
 ::: {.callout-tip collapse=true}
-## Need some help kickstarting the creatvity? Here are some potential blog post topics / ideas to consider:
+## Need some help kickstarting the creativity? Here are some potential blog post topics / ideas to consider:
 
 - how your past professional or personal interests led you to pursue a degree in environmental data science
 - non-data science skills / experiences that you've found to be transferable to your data science learning journey (in perhaps surprising / unexpected ways) 
