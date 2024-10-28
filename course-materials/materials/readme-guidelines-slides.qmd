@@ -236,7 +236,7 @@ Add a brief description to your repo's README, then share with your neighbor
 
 ```{r}
 countdown::countdown(
-  minutes = 3,
+  minutes = 4,
   # right = 0,
   # Fanfare when it's over
   play_sound = TRUE,
@@ -282,15 +282,33 @@ Open and close a code block with three backticks at the start and end. Use the p
 
 <hr>
 
-This is also a reminder to create an intuitive folder structure within your repository! Reorganize files as needed / appropriate. Here's one example of an intuitive repo structure -- this will vary depending on your project:
+:::: {.columns}
 
+::: {.column width="50%"}
+<br>
+<br>
+
+This is also a reminder to create an intuitive folder structure within your repository! 
+
+<br>
+
+**Reorganize files as needed / appropriate** *(but note that if you move files around, you may need to update file paths in your code)*. 
+
+<br>
+
+Here's one example of an intuitive repo structure -- this will vary depending on your project:
+:::
+
+::: {.column width="50%"}
 ```{r}
 #| eval: true
 #| echo: false
-#| out-width: "100%"
+#| out-width: "80%"
 #| fig-align: "center"
 knitr::include_graphics("images/repo-structure.png")
 ```
+:::
+::::
 
 ```{md}
 #| eval: false
@@ -338,7 +356,7 @@ Add a section to describe the contents of your repo (you may choose to create a 
 
 ```{r}
 countdown::countdown(
-  minutes = 4,
+  minutes = 6,
   # right = 0,
   # Fanfare when it's over
   play_sound = TRUE,

@@ -319,7 +319,9 @@ knitr::include_graphics("images/profile-readme-source.gif")
     - e.g. use `*` or `-` for each list item, rather than special characters or emojis
 
 ::: {.footer}
-The above pointers come from the [github.blog](https://github.blog/) post, [5 tips for making your GitHub profile page accessible](https://github.blog/developer-skills/github/5-tips-for-making-your-github-profile-page-accessible/)
+The above pointers come from the [github.blog](https://github.blog/) post, [5 tips for making your GitHub profile page accessible](https://github.blog/developer-skills/github/5-tips-for-making-your-github-profile-page-accessible/). 
+
+**Importantly, these tips apply for *all* web pages, not just your GitHub profile README!**
 :::
 
 ---
