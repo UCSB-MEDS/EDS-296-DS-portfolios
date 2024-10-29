@@ -110,6 +110,9 @@ knitr::include_graphics("images/resume-header.png")
 knitr::include_graphics("images/resume-links.png")
 ```
 
+5. [**Let Sam know if you want your personal website linked on your Bren profile:**]{.teal-text} A great way to publicize your personal website is to share it on your Bren profile page (e.g. see [mine](https://bren.ucsb.edu/people/samantha-csik){target="_blank"}). Reach out if you want yours added (it doesn't have to be "complete," but it should be professional -- I'm happy to provide feedback)!
+6. [**Also let Sam know if you're interested in having the [Bren LinkedIn account](https://www.linkedin.com/school/brenucsb){target="_blank"} share your data science blog post:**]{.teal-text} Sharing blog posts on social media platforms can drive engagement and draw readers to your website! If you're proud of your (non-MEDS-required, i.e. homework) data science blog post, we are excited to share it. Reach out to Sam to discuss any feedback and for other next steps.
+
 ## {{< fa utensils title="a fork and knife" >}} (Optional) Lunch with an NCEAS Data Scientist
 
 Please see the [fall lunch schedule](https://docs.google.com/spreadsheets/d/1pQYEp5WdlE9dz0Ijp9I5GpYMnlZl6B-bg2fP8dVyiW0/edit?usp=sharing){target="_blank"} for details on today's NCEAS guests!
