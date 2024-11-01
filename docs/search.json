@@ -186,7 +186,7 @@
     "href": "course-materials/materials/GH-profile.html#gh-accessibility",
     "title": "EDS 296",
     "section": "",
-    "text": "Improve your GitHub profile page accessibility\n\nA few simple ways to ensure that assistive technology can help users understand and navigate your README:\n\nMake links descriptive: assistive technologies present links in isolation, so provide context\n\ne.g. opt for “Find the EDS 296-1F course description…” rather than “Find the EDS 296-1F course description here”\n\nAdd alt text to images: screen readers read alt text descriptions out loud\n\ne.g. in html, &lt;img src=\"image-url.com\" alt=\"This is alt text\"&gt;\n\nUse proper heading structure: helps people understand content structure and more easily navigate sections\n\ne.g. use # for your title, then the appropriate level-header thereafter (don’t skip levels)\n\nStructure lists with proper markup: helps people understand lists as they are intended\n\ne.g. use * or - for each list item, rather than special characters or emojis\n\n\n\nThe above pointers come from the github.blog post, 5 tips for making your GitHub profile page accessible.\nImportantly, these tips apply for all web pages, not just your GitHub profile README!"
+    "text": "Improve your GitHub profile page accessibility\n\nA few simple ways to ensure that assistive technology can help users understand and navigate your README:\n\n\nMake links descriptive: assistive technologies present links in isolation, so provide context\n\ne.g. opt for “Find the EDS 296-1F course description…” rather than “Find the EDS 296-1F course description here”\n\n\n\n\n\nAdd alt text to images: screen readers read alt text descriptions out loud\n\ne.g. in html, &lt;img src=\"image-url.com\" alt=\"This is alt text\"&gt;\n\n\n\n\n\nUse proper heading structure: helps people understand content structure and more easily navigate sections\n\ne.g. use # for your title, then the appropriate level-header thereafter (don’t skip levels)\n\n\n\n\n\nStructure lists with proper markup: helps people understand lists as they are intended\n\ne.g. use * or - for each list item, rather than special characters or emojis\n\n\n\nThe above pointers come from the github.blog post, 5 tips for making your GitHub profile page accessible.\nImportantly, these tips apply for all web pages, not just your GitHub profile README!"
   },
   {
     "objectID": "course-materials/materials/GH-profile.html#end-break",
@@ -487,7 +487,7 @@
     "href": "course-materials/materials/readme-guidelines-slides.html#readme",
     "title": "EDS 296",
     "section": "",
-    "text": "READMEs provide essential project info\n\n\n\n\n\nDate back to at least 1974 with the invention of PDP-10\nText files that live in project directories (often the root directory)\nInclude info about the software / product to users, developers, and / or contributors\nALL CAPS because ASCII system sorts upppercase before lowercase letters (ls lists READMEs near the top)\nGitHub displays a repo’s (root directory) README on its landing page\n\nwritten in Markdown\n\n\n\n\n\n\n\n\n\n\n\n\n\nSome have suggested that the README name is a play on Lewis Carroll’s “Eat Me” and “Drink Me” scene from Alice’s Adventures in Wonderland. Image source: 150 years of “Alice in Wonderland”"
+    "text": "READMEs provide essential project info\n\n\n\n\n\n(Maybe) originates from PDP-10, as early as 1974\nText files that live in project directories (often the root directory)\nInclude info about the software / product to users, developers, and / or contributors\nALL CAPS because ASCII system sorts upppercase before lowercase letters (ls lists READMEs near the top)\nGitHub displays a repo’s (root directory) README on its landing page\n\nwritten in Markdown\n\n\n\n\n\n\n\n\n\n\n\n\n\nSome have suggested that the README name is a play on Lewis Carroll’s “Eat Me” and “Drink Me” scene from Alice’s Adventures in Wonderland. Image source: 150 years of “Alice in Wonderland”\n\n\n\n\nPDP-10 released in 1966 and is considered one of the most important computers ever created – it made time-share computing common\nA very early version of readme can be found in the form of readme.txt from a PDP-10 DECUS project dated 27th November 1974. This file contained information on how to operate the circuit analysis program for this specific PDP."
   },
   {
     "objectID": "course-materials/materials/readme-guidelines-slides.html#always-include-readme",
@@ -515,7 +515,7 @@
     "href": "course-materials/materials/readme-guidelines-slides.html#1b-title",
     "title": "EDS 296",
     "section": "",
-    "text": "1. A short, but descriptive title\n\n    \n\nUpdate your repo’s README title, then share with your neighbor\n\n\n\n\n−+\n01:00"
+    "text": "1. A short, but descriptive title\n\n    \n\nUpdate your repo’s README title, then share with your neighbor\n\n\n\n\n−+\n02:00"
   },
   {
     "objectID": "course-materials/materials/readme-guidelines-slides.html#2a-purpose",
@@ -550,7 +550,7 @@
     "href": "course-materials/materials/readme-guidelines-slides.html#3b-files-housed",
     "title": "EDS 296",
     "section": "",
-    "text": "3b. A concise description of what’s housed in the repository\n\n   \n\nAdd a section to describe the contents of your repo (you may choose to create a repo map), then share with your neighbor.\n\n\n\n\n−+\n06:00"
+    "text": "3b. A concise description of what’s housed in the repository\n\n   \n\nAdd a section to describe the contents of your repo (you may choose to create a repo map, but it’s not required), then share with your neighbor.\n\n\n\n\n−+\n06:00"
   },
   {
     "objectID": "course-materials/materials/readme-guidelines-slides.html#4a-data-access",
@@ -593,6 +593,13 @@
     "title": "EDS 296",
     "section": "",
     "text": "6b. References\n\n    \n\nAdd any necessary references / acknowledgements, then share with your neighbor.\n\n\n\n\n−+\n02:00"
+  },
+  {
+    "objectID": "course-materials/materials/readme-guidelines-slides.html#other-considerations",
+    "href": "course-materials/materials/readme-guidelines-slides.html#other-considerations",
+    "title": "EDS 296",
+    "section": "",
+    "text": "Things you should consider including in your repo READMEs\n\n\nDepending on your project, you may consider adding the following pieces of information as well:\n\n\nhow to install or where to start\na quick demo\nwhat to do if a bug is spotted\nhow to contribute\nlicense\n\n\nSee the MEDS README Guidelines for more details"
   },
   {
     "objectID": "course-materials/materials/readme-guidelines-slides.html#concise",

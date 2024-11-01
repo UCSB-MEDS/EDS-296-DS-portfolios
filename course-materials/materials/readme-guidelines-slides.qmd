@@ -56,10 +56,10 @@ knitr::include_graphics("images/readme-guidelines.png")
 
 <br>
 
-- Date back to [at least 1974](https://medium.com/@NSomar/readme-md-history-and-components-a365aff07f10) with the invention of [PDP-10](https://en.wikipedia.org/wiki/PDP-10)
+- (Maybe) originates from [PDP-10](https://en.wikipedia.org/wiki/PDP-10){target="_blank"}, [as early as 1974](https://medium.com/@NSomar/readme-md-history-and-components-a365aff07f10){target="_blank"}
 - Text files that live in project directories (often the *root* directory)
 - Include info about the software / product to users, developers, and / or contributors
-- ALL CAPS because [ASCII](https://en.wikipedia.org/wiki/ASCII) system sorts upppercase before lowercase letters (`ls` lists READMEs near the top)
+- ALL CAPS because [ASCII](https://en.wikipedia.org/wiki/ASCII){target="_blank"} system sorts upppercase before lowercase letters (`ls` lists READMEs near the top)
 - GitHub displays a repo's (root directory) README on its landing page
   - written in Markdown
 :::
@@ -76,6 +76,11 @@ Some have suggested that the README name is a play on Lewis Carroll's "Eat Me" a
 :::
 :::
 ::::
+
+::: {.notes}
+- PDP-10 released in 1966 and is considered one of the most important computers ever created -- it made time-share computing common
+- A very early version of readme can be found in the form of readme.txt from a PDP-10 DECUS project dated 27th November 1974. This file contained information on how to operate the circuit analysis program for this specific PDP.
+:::
 
 ---
 
@@ -180,7 +185,7 @@ Update your repo's README title, then share with your neighbor
 
 ```{r}
 countdown::countdown(
-  minutes = 1,
+  minutes = 2,
   # right = 0,
   # Fanfare when it's over
   play_sound = TRUE,
@@ -351,7 +356,7 @@ knitr::include_graphics("images/repo-structure.png")
 <br>
 
 ::: {.center-text .teal-text .body-text-xl}
-Add a section to describe the contents of your repo (you may choose to create a repo map), then share with your neighbor.
+Add a section to describe the contents of your repo (you may choose to create a repo map, but it's not required), then share with your neighbor.
 :::
 
 ```{r}
@@ -535,6 +540,30 @@ countdown::countdown(
   font_size = "2em",
   )
 ```
+
+---
+
+## {#other-considerations data-menu-title="Other README considerations"} 
+
+[Things you should *consider* including in your repo READMEs]{.slide-title}
+
+<hr>
+
+<br>
+
+[Depending on your project, you may consider adding the following pieces of information as well:]{.body-text-m}
+
+<br>
+
+- how to install or where to start
+- a quick demo
+- what to do if a bug is spotted
+- how to contribute
+- license
+
+::: {.center-text .body-text-m}
+See the [MEDS README Guidelines](https://ucsb-meds.github.io/README-guidelines/#consider-including){target="_blank"} for more details
+:::
 
 ---
 
