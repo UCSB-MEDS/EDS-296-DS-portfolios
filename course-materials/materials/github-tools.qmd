@@ -41,7 +41,7 @@ knitr::include_graphics("images/horst-github-monsters.png")
 ```
 
 ::: {.footer}
-Art by [Allison Horst](https://allisonhorst.com/)
+Art by [Allison Horst](https://allisonhorst.com/){target="_blank"}
 :::
 
 ---
@@ -60,20 +60,20 @@ Art by [Allison Horst](https://allisonhorst.com/)
 
 <hr>
 
->*"GitHub Issues are items you can create in a repository to plan, discuss and track work. Issues are simple to create and flexible to suit a variety of scenarios. You can use issues to track work, give or receive feedback, collaborate on ideas or tasks, and efficiently communicate with others."*
+>*"GitHub Issues are items you can create in a repository to plan, discuss and track work. Issues are simple to create and flexible to suit a variety of scenarios. You can use issues to **track work, give or receive feedback, collaborate on ideas or tasks, and efficiently communicate with others**."*
 
 [**A few helpful features:**]{.body-text-m}
 
-- [create task lists](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/about-task-lists) & [convert individual tasks to issues](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/about-task-lists#about-issue-task-lists)
-- [attach files](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/attaching-files)
-- [add permalinks](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-a-permanent-link-to-a-code-snippet)
-- [add labels](https://docs.github.com/en/issues/tracking-your-work-with-issues/quickstart#adding-labels)
-- [assign users](https://docs.github.com/en/issues/tracking-your-work-with-issues/assigning-issues-and-pull-requests-to-other-github-users)
-- [reference issues in other issues, commits, PRs](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue)
-- [configure issue templates](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository)
+- [create task lists](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/about-task-lists){target="_blank"} & [convert individual tasks to issues](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/about-task-lists#about-issue-task-lists){target="_blank"}
+- [attach files](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/attaching-files){target="_blank"}
+- [add permalinks](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-a-permanent-link-to-a-code-snippet){target="_blank"}
+- [add labels](https://docs.github.com/en/issues/tracking-your-work-with-issues/quickstart#adding-labels){target="_blank"}
+- [assign users](https://docs.github.com/en/issues/tracking-your-work-with-issues/assigning-issues-and-pull-requests-to-other-github-users){target="_blank"}
+- [reference issues in other issues, commits, PRs](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue){target="_blank"}
+- [configure issue templates](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository){target="_blank"}
 
 ::: {.footer}
-Learn more by exploring [GitHub Docs](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues)
+Learn more by exploring [GitHub Docs](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues){target="_blank"}
 :::
 
 ---
@@ -89,7 +89,7 @@ knitr::include_graphics("images/example-issue.png")
 ```
 
 ::: {.footer}
-Explore some real issues on the very real [ggplot2 repository](https://github.com/tidyverse/ggplot2/issues)
+Explore some real issues on the very real [ggplot2 repository](https://github.com/tidyverse/ggplot2/issues){target="_blank"}
 :::
 
 ---
@@ -108,7 +108,7 @@ Explore some real issues on the very real [ggplot2 repository](https://github.co
 
 . . . 
 
-Like most things, it's great to **put some care and thought into writing an issue** (*especially* when collaborating or contributing thoughts to a public project e.g. [ggplot2](https://github.com/tidyverse/ggplot2/issues)). . .
+Like most things, it's great to **put some care and thought into writing an issue** (*especially* when collaborating or contributing thoughts to a public project e.g. [ggplot2](https://github.com/tidyverse/ggplot2/issues){target="_blank"}). . .
 
 <br>
 
@@ -132,17 +132,17 @@ Like most things, it's great to **put some care and thought into writing an issu
 
 <hr>
 
->*"Projects are an adaptable collection of items that stay up-to-date with GitHub data. Your projects can track issues, pull requests, and ideas that you note down. You can add custom fields and create views for specific purposes."*
+>*"Projects are an **adaptable collection of items** that stay up-to-date with GitHub data. Your projects can **track issues, pull requests, and ideas that you note down**. You can add custom fields and create views for specific purposes."*
 
 [**A few helpful features:**]{.body-text-m}
 
-- [add issues or pull requests](https://docs.github.com/en/issues/planning-and-tracking-with-projects/managing-items-in-your-project/adding-items-to-your-project) (from multiple repos) to the same project
-- [change and / or customize your project layout](https://docs.github.com/en/issues/planning-and-tracking-with-projects/customizing-views-in-your-project/changing-the-layout-of-a-view) (you may also add multiple views)
-- [link projects to relevant repositories](https://docs.github.com/en/issues/planning-and-tracking-with-projects/managing-your-project/adding-your-project-to-a-repository)
-- [manage access (for organization-level projects)](https://docs.github.com/en/issues/planning-and-tracking-with-projects/managing-your-project/managing-access-to-your-projects)
+- [add issues or pull requests](https://docs.github.com/en/issues/planning-and-tracking-with-projects/managing-items-in-your-project/adding-items-to-your-project){target="_blank"} (from multiple repos) to the same project
+- [change and / or customize your project layout](https://docs.github.com/en/issues/planning-and-tracking-with-projects/customizing-views-in-your-project/changing-the-layout-of-a-view) (you may also add multiple views){target="_blank"}
+- [link projects to relevant repositories](https://docs.github.com/en/issues/planning-and-tracking-with-projects/managing-your-project/adding-your-project-to-a-repository){target="_blank"}
+- [manage access (for organization-level projects)](https://docs.github.com/en/issues/planning-and-tracking-with-projects/managing-your-project/managing-access-to-your-projects){target="_blank"}
 
 ::: {.footer}
-Learn more by exploring [GitHub Docs](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects)
+Learn more by exploring [GitHub Docs](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects){target="_blank"}
 :::
 
 --- 
@@ -158,7 +158,7 @@ knitr::include_graphics("images/sam-project.png")
 ```
 
 ::: {.footer}
-An example project for [my personal projects](https://github.com/users/samanthacsik/projects/3/views/1). 
+An example project for [my personal projects](https://github.com/users/samanthacsik/projects/3/views/1){target="_blank"}. 
 :::
 
 ---
@@ -202,7 +202,7 @@ Code is oftentimes spread across **multiple repositories** (capstones & GPs are 
 
 <hr>
 
->*"Organizations are shared accounts where businesses and open-source projects can collaborate across many projects at once, with sophisticated security and administrative features."*
+>*"Organizations are **shared accounts** where businesses and open-source projects can **collaborate across many projects at once**, with sophisticated security and administrative features."*
 
 <br>
 
@@ -212,13 +212,13 @@ Click on the **Create new** ("+") button or by clicking on your profile image (t
 
 [**A few helpful features:**]{.body-text-m}
 
-- [invite users](https://docs.github.com/en/organizations/managing-membership-in-your-organization/inviting-users-to-join-your-organization)
-- [assign roles](https://docs.github.com/en/organizations/managing-peoples-access-to-your-organization-with-roles/using-organization-roles) 
-- [create](https://docs.github.com/en/organizations/organizing-members-into-teams/creating-a-team) and [add members](https://docs.github.com/en/organizations/organizing-members-into-teams/adding-organization-members-to-a-team) to teams
-- [customize your organization's profile](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile) (revisit the [README guidelines](https://ucsb-meds.github.io/README-guidelines/#organization-level-readmes) for info on organization READMES)
+- [invite users](https://docs.github.com/en/organizations/managing-membership-in-your-organization/inviting-users-to-join-your-organization){target="_blank"}
+- [assign roles](https://docs.github.com/en/organizations/managing-peoples-access-to-your-organization-with-roles/using-organization-roles){target="_blank"}
+- [create](https://docs.github.com/en/organizations/organizing-members-into-teams/creating-a-team){target="_blank"} and [add members](https://docs.github.com/en/organizations/organizing-members-into-teams/adding-organization-members-to-a-team){target="_blank"} to teams
+- [customize your organization's profile](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile){target="_blank"} (revisit the [README guidelines](https://ucsb-meds.github.io/README-guidelines/#organization-level-readmes){target="_blank"} for info on organization READMES)
 
 ::: {.footer}
-Learn more by exploring [GitHub Docs](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/about-organizations). Also note the **importance of [assigning multiple organization owners](https://docs.github.com/en/organizations/managing-peoples-access-to-your-organization-with-roles/maintaining-ownership-continuity-for-your-organization)**.
+Learn more by exploring [GitHub Docs](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/about-organizations){target="_blank"}. Also note the **importance of [assigning multiple organization owners](https://docs.github.com/en/organizations/managing-peoples-access-to-your-organization-with-roles/maintaining-ownership-continuity-for-your-organization){target="_blank"}**.
 :::
 
 ---
@@ -234,7 +234,7 @@ knitr::include_graphics("images/nceas-org.png")
 ```
 
 ::: {.footer}
-The [NCEAS Organization](https://github.com/NCEAS) is home to over 100 [repositories](https://github.com/orgs/NCEAS/repositories), and many [members](https://github.com/orgs/NCEAS/people), [teams](https://github.com/orgs/NCEAS/teams), and [projects](https://github.com/orgs/NCEAS/projects)
+The [NCEAS Organization](https://github.com/NCEAS){target="_blank"} is home to over 100 [repositories](https://github.com/orgs/NCEAS/repositories){target="_blank"}, and many [members](https://github.com/orgs/NCEAS/people){target="_blank"}, [teams](https://github.com/orgs/NCEAS/teams){target="_blank"}, and [projects](https://github.com/orgs/NCEAS/projects){target="_blank"}
 :::
 
 ---
@@ -253,7 +253,7 @@ The [NCEAS Organization](https://github.com/NCEAS) is home to over 100 [reposito
 
 . . . 
 
--  **creating a professional image** for a team or project with a unique name, brand, and / or website (MEDS Capstone projects should all have an organization e.g. [Outdoor Equity](https://github.com/outdoor-equity) (MEDS 2022), [PYFOREST](https://github.com/cp-PYFOREST) (MEDS 2023), [CASAschools](https://github.com/CASAschools) (MEDS 2024))
+-  **creating a professional image** for a team or project with a unique name, brand, and / or website (MEDS Capstone projects should all have an organization e.g. [Outdoor Equity](https://github.com/outdoor-equity){target="_blank"} (MEDS 2022), [PYFOREST](https://github.com/cp-PYFOREST){target="_blank"} (MEDS 2023), [CASAschools](https://github.com/CASAschools){target="_blank"} (MEDS 2024))
 
 . . . 
 
@@ -265,7 +265,7 @@ The [NCEAS Organization](https://github.com/NCEAS) is home to over 100 [reposito
 
 
 ::: {.footer}
-See this [community discussion](https://github.com/orgs/community/discussions/69020) for more information.
+See this [community discussion](https://github.com/orgs/community/discussions/69020){target="_blank"} for more information.
 :::
 
 ---
@@ -288,10 +288,14 @@ See this [community discussion](https://github.com/orgs/community/discussions/69
 
 [You can host **one** website or rendered HTML document from any *public* GitHub repository.]{.body-text-m}
 
+. . .
+
 [**Hosting additional *websites* via GHP:**]{.body-text-m}
 
-- same process as hosting your personal website (see [week 0 materials](https://ucsb-meds.github.io/creating-quarto-websites/#github-pages)) 
+- same process as hosting your personal website (see [week 0 materials](https://ucsb-meds.github.io/creating-quarto-websites/#github-pages){target="_blank"}) 
   - [**NOTE:** you're only allowed **one** user website with the `github.io` suffix, e.g. `<username>.github.io` -- all other URLs will be structured as `<username>.github.io/<repoName>`)]{.body-text-s}
+
+. . . 
 
 [**Hosting a rendered HTML *document* via GHP:**]{.body-text-m}
 
@@ -299,6 +303,10 @@ See this [community discussion](https://github.com/orgs/community/discussions/69
 - rendered file must be named `index.html` and live in your repo's root directory; no other configurations necessary
 - deploy from **Settings** > **Pages** > set branch to **main** and directory to **root**
 - re-render `index.html`, then push to GitHub to update deployment
+
+<!-- ::: {.footer} -->
+<!-- See the [creating-quarto-websites repo](https://github.com/UCSB-MEDS/creating-quarto-websites){target="_blank"} for an example of a hosted HTML document. -->
+<!-- ::: -->
 
 ---
 
@@ -331,7 +339,7 @@ knitr::include_graphics("images/ghp-settings.png")
 ::::
 
 ::: {.center-text}
-The materials for [creating your personal website using Quarto](https://ucsb-meds.github.io/creating-quarto-websites/#is-quarto-necessary) (above) is one example of a published document. Similarly, the slides for [customizing your Quarto website](https://ucsb-meds.github.io/customizing-quarto-websites/#/title-slide) are also published using GitHub Pages.
+The materials for [creating your personal website using Quarto](https://ucsb-meds.github.io/creating-quarto-websites/#is-quarto-necessary){target="_blank"} (above) is one example of a published document. Similarly, the slides for [customizing your Quarto website](https://ucsb-meds.github.io/customizing-quarto-websites/#/title-slide){target="_blank"} are also published using GitHub Pages.
 :::
 
 ---
@@ -343,8 +351,6 @@ The materials for [creating your personal website using Quarto](https://ucsb-med
 <hr>
 
 <br>
-
-<!-- [***You can use GitHub Pages to host a variety of projects and resources from personal GitHub profiles or GitHub organizations. Some examples: -->
 
 [***You can use GitHub Pages to host projects and resources that you want to share publicly with others (e.g. colleagues, clients, potential employers, etc.).***]{.body-text-m}
 
@@ -376,7 +382,7 @@ Consider hosting instructional documentation, software user guides, reports, pro
 
 <hr>
 
->*"GitHub Actions (GHA) is a <sup>1</sup>continuous integration and <sup>2</sup>continuous delivery (CI/CD) platform that allows you to automate your build, test, and deployment pipeline."*
+>*"GitHub Actions (GHA) is a <sup>1</sup>continuous integration and <sup>2</sup>continuous delivery (CI/CD) platform that allows you to **automate your build, test, and deployment pipeline**."*
 
 <br>
 
@@ -391,7 +397,7 @@ Consider hosting instructional documentation, software user guides, reports, pro
 :::
 
 ::: {.footer}
-<sup>1</sup>Continuous integration is a software practice that requires frequently committing code to a shared repository. <sup>2</sup>Continuous deployment is the practice of using automation to publish and deploy software updates. Learn more by exploring [GitHub Docs](https://docs.github.com/en/actions/about-github-actions/understanding-github-actions).
+<sup>1</sup>Continuous integration is a software practice that requires frequently committing code to a shared repository. <sup>2</sup>Continuous deployment is the practice of using automation to publish and deploy software updates. Learn more by exploring [GitHub Docs](https://docs.github.com/en/actions/about-github-actions/understanding-github-actions){target="_blank"}.
 :::
 
 ---
@@ -418,7 +424,7 @@ knitr::include_graphics("images/gha-runner.png")
 :::
 
 ::: {.footer}
-Read more on [GitHub Docs](https://docs.github.com/en/actions/about-github-actions/understanding-github-actions)
+Read more on [GitHub Docs](https://docs.github.com/en/actions/about-github-actions/understanding-github-actions){target="_blank"}
 :::
 
 ---
@@ -473,13 +479,13 @@ knitr::include_graphics("images/gha-log.png")
 
 . . . 
 
-Setting up a GHA workflow from scratch can be a bit intimidating, so it's great to **make use of [workflow templates](https://docs.github.com/en/actions/writing-workflows/using-workflow-templates), which can be used as-is or modified for your custom workflow**. You can sometimes also find templates provided by other tools for automating specific tasks (e.g. Quarto provides templates for executing [R](https://quarto.org/docs/publishing/github-pages.html#example-knitr-with-renv) or [Python](https://quarto.org/docs/publishing/github-pages.html#example-jupyter-with-venv) code and rendering output to GitHub Pages).
+Setting up a GHA workflow from scratch can be a bit intimidating, so it's great to **make use of [workflow templates](https://docs.github.com/en/actions/writing-workflows/using-workflow-templates), which can be used as-is or modified for your custom workflow**. You can sometimes also find templates provided by other tools for automating specific tasks (e.g. Quarto provides templates for executing [R](https://quarto.org/docs/publishing/github-pages.html#example-knitr-with-renv){target="_blank"} or [Python](https://quarto.org/docs/publishing/github-pages.html#example-jupyter-with-venv){target="_blank"} code and rendering output to GitHub Pages).
 
 <br>
 
 . . . 
 
-It can be helpful to **read a bit more about the [YAML syntax used in workflow files](https://docs.github.com/en/actions/writing-workflows/workflow-syntax-for-github-actions)** before diving into creating or modifying your own workflows.
+It can be helpful to **read a bit more about the [YAML syntax used in workflow files](https://docs.github.com/en/actions/writing-workflows/workflow-syntax-for-github-actions){target="_blank"}** before diving into creating or modifying your own workflows.
 
 ---
 
@@ -490,20 +496,20 @@ It can be helpful to **read a bit more about the [YAML syntax used in workflow f
 </div>
 
 ::: {.footer}
-[I'm very much a newbie when it comes to GitHub Actions, but I've found Melissa Van Bussel's video on [Publishing a Quarto Project with GitHub Pages + GitHub Actions](https://www.youtube.com/watch?v=arzBRW5XIkg) to be a really helpful place to start (and it inspired this demo, along with discussion with [Camila Vargas Poulsen](https://camilavargasp.github.io/) & [Nick Lyon](https://njlyon0.github.io/)).]{.baby-blue-text}
+[I'm very much a newbie when it comes to GitHub Actions, but I've found Melissa Van Bussel's video on [Publishing a Quarto Project with GitHub Pages + GitHub Actions](https://www.youtube.com/watch?v=arzBRW5XIkg){target="_blank"} to be a really helpful place to start (and it inspired this demo, along with discussion with [Camila Vargas Poulsen](https://camilavargasp.github.io/){target="_blank"} & [Nick Lyon](https://njlyon0.github.io/){target="_blank"}).]{.baby-blue-text}
 :::
 
 ---
 
 ## {#mysite-example data-menu-title="mysite example"}
 
-[Let's demonstrate with `mysite` (from [week 0](https://ucsb-meds.github.io/creating-quarto-websites/#create-website-scaffolding))]{.slide-title2}
+[Let's demonstrate with `mysite` (from [week 0](https://ucsb-meds.github.io/creating-quarto-websites/#create-website-scaffolding){target="_blank"})]{.slide-title2}
 
 <hr>
 
 <br>
 
-The next few slides walk through **setting up a GitHub Action that automates the building and deployment of a basic Quarto website, which may contain R code** (e.g. rendered as part of a blog post). *Up until now, I've been manually building `mysite` locally, then pushing the rendered files (in the `docs/` folder) to GitHub, where GitHub Pages redeploys from.*
+The next few slides walk through **setting up a GitHub Action that automates the building and deployment of a basic Quarto website, which may contain R code** (e.g. rendered as part of a blog post). *Up until now, I've been manually building `mysite` locally, then pushing the rendered files (in the `docs/` folder) to GitHub, where GitHub Pages deploys from.*
 
 <br>
 
@@ -532,7 +538,7 @@ Rather than building a workflow from scratch, **we'll use a [workflow template](
 
 <br>
 
-Whenever an event triggers a GHA workflow, GitHub spins up a [virtual machine](https://docs.github.com/en/actions/using-github-hosted-runners/using-github-hosted-runners/about-github-hosted-runners) (**i.e. a runner**) where our defined jobs are executed. You can think of a runner as a brand new (mostly blank slate) computer. **We'll make use of a GitHub-hosted runner**, though you can host your own runners. 
+Whenever an event triggers a GHA workflow, GitHub spins up a [virtual machine](https://docs.github.com/en/actions/using-github-hosted-runners/using-github-hosted-runners/about-github-hosted-runners){target="_blank"} (**i.e. a runner**) where our defined jobs are executed. You can think of a runner as a brand new (mostly blank slate) computer. **We'll make use of a GitHub-hosted runner**, though you can host your own runners. 
 
 <br>
 
@@ -556,7 +562,7 @@ As a result, **an automated GHA workflow will take more time to complete** than 
 
 <br>
 
-We'll want to set up a virtual environment for our project to ensure that our code is reproducible across different machines (including both our local development environment *and* the GitHub-hosted runner, where our workflow will be executed). Here, we'll do so using the [`{renv}` package](https://rstudio.github.io/renv/index.html).
+We'll want to set up a virtual environment for our project to ensure that our code is reproducible across different machines (including both our local development environment *and* the GitHub-hosted runner, where our workflow will be executed). Here, we'll do so using the [`{renv}` package](https://rstudio.github.io/renv/index.html){target="_blank"}.
 
 <br>
 
@@ -570,7 +576,7 @@ We'll want to set up a virtual environment for our project to ensure that our co
 <!-- (e.g. `Warning: The 'yaml' package is required to parse dependencies within Quarto Markdown files`) -->
 
 ::: {.footer}
-(Re)Familiarizing yourself with the [`{renv}` workflow](https://rstudio.github.io/renv/index.html#workflow) is helpful here!
+(Re)Familiarizing yourself with the [`{renv}` workflow](https://rstudio.github.io/renv/index.html#workflow){target="_blank"} is helpful here!
 :::
 
 ---
@@ -600,7 +606,7 @@ The `gh-pages` branch is a special branch that you can use to store your built w
 
 <hr>
 
-Rather than building a workflow from scratch, we can use the [one conveniently provided in the Quarto documentation](We'll use the [workflow template](https://quarto.org/docs/publishing/github-pages.html#example-knitr-with-renv) provided by Quarto)!
+Rather than building a workflow from scratch, we can use the [one conveniently provided in the Quarto documentation](https://quarto.org/docs/publishing/github-pages.html#example-knitr-with-renv){target="_blank"}!
 
 <br>
 
@@ -610,7 +616,7 @@ Rather than building a workflow from scratch, we can use the [one conveniently p
 2. add a folder named `.github` in your root directory (you can use the Terminal or the New Folder button)
 3. inside `.github/` create another folder called `workflows`
 4. inside `workflows/` add a file named `publish.yml` (you can use the Terminal or New File > Text file button)
-5. copy the workflow content [from the Quarto documentation](https://quarto.org/docs/publishing/github-pages.html#example-knitr-with-renv) into `publish.yml`
+5. copy the workflow content [from the Quarto documentation](https://quarto.org/docs/publishing/github-pages.html#example-knitr-with-renv){target="_blank"} into `publish.yml`
 6. remove (or comment out) `output-dir: docs` from `_quarto.yml` 
 7. delete the `docs/` folder (we'll no longer be rendering to / deploying from this directory)
 8. add, commit, and push everything to GitHub

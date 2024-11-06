@@ -249,7 +249,7 @@
     "href": "course-materials/materials/github-tools.html#projects",
     "title": "EDS 296",
     "section": "",
-    "text": "Create a project from your profile’s Projects tab\n\n\n“Projects are an adaptable collection of items that stay up-to-date with GitHub data. Your projects can track issues, pull requests, and ideas that you note down. You can add custom fields and create views for specific purposes.”\n\nA few helpful features:\n\nadd issues or pull requests (from multiple repos) to the same project\nchange and / or customize your project layout (you may also add multiple views)\nlink projects to relevant repositories\nmanage access (for organization-level projects)\n\n\nLearn more by exploring GitHub Docs"
+    "text": "Create a project from your profile’s Projects tab\n\n\n“Projects are an adaptable collection of items that stay up-to-date with GitHub data. Your projects can track issues, pull requests, and ideas that you note down. You can add custom fields and create views for specific purposes.”\n\nA few helpful features:\n\nadd issues or pull requests (from multiple repos) to the same project\nchange and / or customize your project layout (you may also add multiple views){target=“_blank”}\nlink projects to relevant repositories\nmanage access (for organization-level projects)\n\n\nLearn more by exploring GitHub Docs"
   },
   {
     "objectID": "course-materials/materials/github-tools.html#projects-screenshot",
@@ -305,7 +305,7 @@
     "href": "course-materials/materials/github-tools.html#GHP",
     "title": "EDS 296",
     "section": "",
-    "text": "GitHub Pages can be enabled for any repo\n\n\nYou can host one website or rendered HTML document from any public GitHub repository.\nHosting additional websites via GHP:\n\nsame process as hosting your personal website (see week 0 materials)\n\nNOTE: you’re only allowed one user website with the github.io suffix, e.g. &lt;username&gt;.github.io – all other URLs will be structured as &lt;username&gt;.github.io/&lt;repoName&gt;)\n\n\nHosting a rendered HTML document via GHP:\n\ne.g. Quarto doc, Quarto presentation, Quarto manuscript…etc.\nrendered file must be named index.html and live in your repo’s root directory; no other configurations necessary\ndeploy from Settings &gt; Pages &gt; set branch to main and directory to root\nre-render index.html, then push to GitHub to update deployment"
+    "text": "GitHub Pages can be enabled for any repo\n\n\nYou can host one website or rendered HTML document from any public GitHub repository.\n\nHosting additional websites via GHP:\n\nsame process as hosting your personal website (see week 0 materials)\n\nNOTE: you’re only allowed one user website with the github.io suffix, e.g. &lt;username&gt;.github.io – all other URLs will be structured as &lt;username&gt;.github.io/&lt;repoName&gt;)\n\n\n\n\nHosting a rendered HTML document via GHP:\n\ne.g. Quarto doc, Quarto presentation, Quarto manuscript…etc.\nrendered file must be named index.html and live in your repo’s root directory; no other configurations necessary\ndeploy from Settings &gt; Pages &gt; set branch to main and directory to root\nre-render index.html, then push to GitHub to update deployment"
   },
   {
     "objectID": "course-materials/materials/github-tools.html#ghp-screenshot",
@@ -319,7 +319,7 @@
     "href": "course-materials/materials/github-tools.html#use-GHP",
     "title": "EDS 296",
     "section": "",
-    "text": "When should I use GitHub Pages?\n\n\n\nYou can use GitHub Pages to host projects and resources that you want to share publicly with others (e.g. colleagues, clients, potential employers, etc.).\n\n\nGitHub Pages can be enabled from any public repo owned by a personal profile or organization.\n\n\n\nConsider hosting instructional documentation, software user guides, reports, project websites, etc."
+    "text": "When should I use GitHub Pages?\n\n\nYou can use GitHub Pages to host projects and resources that you want to share publicly with others (e.g. colleagues, clients, potential employers, etc.).\n\n\nGitHub Pages can be enabled from any public repo owned by a personal profile or organization.\n\n\n\nConsider hosting instructional documentation, software user guides, reports, project websites, etc."
   },
   {
     "objectID": "course-materials/materials/github-tools.html#gha-start",
@@ -368,7 +368,7 @@
     "href": "course-materials/materials/github-tools.html#mysite-example",
     "title": "EDS 296",
     "section": "",
-    "text": "Let’s demonstrate with mysite (from week 0)\n\n\nThe next few slides walk through setting up a GitHub Action that automates the building and deployment of a basic Quarto website, which may contain R code (e.g. rendered as part of a blog post). Up until now, I’ve been manually building mysite locally, then pushing the rendered files (in the docs/ folder) to GitHub, where GitHub Pages redeploys from.\n\n\nRather than building a workflow from scratch, we’ll use a workflow template provided in the Quarto documentation.\n\n\n\nWe’ll follow these general steps:\n\nSet up a virtual environment for our project\nCreate a gh-pages branch, where our rendered website files will be stored\nAdd a GHA workflow to our repository\nReconfigure GitHub Pages to serve our website from our gh-pages branch"
+    "text": "Let’s demonstrate with mysite (from week 0)\n\n\nThe next few slides walk through setting up a GitHub Action that automates the building and deployment of a basic Quarto website, which may contain R code (e.g. rendered as part of a blog post). Up until now, I’ve been manually building mysite locally, then pushing the rendered files (in the docs/ folder) to GitHub, where GitHub Pages deploys from.\n\n\nRather than building a workflow from scratch, we’ll use a workflow template provided in the Quarto documentation.\n\n\n\nWe’ll follow these general steps:\n\nSet up a virtual environment for our project\nCreate a gh-pages branch, where our rendered website files will be stored\nAdd a GHA workflow to our repository\nReconfigure GitHub Pages to serve our website from our gh-pages branch"
   },
   {
     "objectID": "course-materials/materials/github-tools.html#runners",
