@@ -339,7 +339,7 @@ knitr::include_graphics("images/ghp-settings.png")
 ::::
 
 ::: {.center-text}
-The materials for [creating your personal website using Quarto](https://ucsb-meds.github.io/creating-quarto-websites/#is-quarto-necessary){target="_blank"} (above) is one example of a published document. Similarly, the slides for [customizing your Quarto website](https://ucsb-meds.github.io/customizing-quarto-websites/#/title-slide){target="_blank"} are also published using GitHub Pages.
+The [materials](https://github.com/UCSB-MEDS/creating-quarto-websites){target="_blank"} for [creating your personal website using Quarto](https://ucsb-meds.github.io/creating-quarto-websites/){target="_blank"} (above) is one example of a published document. Similarly, the slides for [customizing your Quarto website](https://ucsb-meds.github.io/customizing-quarto-websites/#/title-slide){target="_blank"} are also published using GitHub Pages.
 :::
 
 ---
