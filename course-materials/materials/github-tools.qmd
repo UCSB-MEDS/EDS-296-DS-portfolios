@@ -137,7 +137,7 @@ Like most things, it's great to **put some care and thought into writing an issu
 [**A few helpful features:**]{.body-text-m}
 
 - [add issues or pull requests](https://docs.github.com/en/issues/planning-and-tracking-with-projects/managing-items-in-your-project/adding-items-to-your-project){target="_blank"} (from multiple repos) to the same project
-- [change and / or customize your project layout](https://docs.github.com/en/issues/planning-and-tracking-with-projects/customizing-views-in-your-project/changing-the-layout-of-a-view) (you may also add multiple views){target="_blank"}
+- [change and / or customize your project layout](https://docs.github.com/en/issues/planning-and-tracking-with-projects/customizing-views-in-your-project/changing-the-layout-of-a-view){target="_blank"} (you may also add multiple views)
 - [link projects to relevant repositories](https://docs.github.com/en/issues/planning-and-tracking-with-projects/managing-your-project/adding-your-project-to-a-repository){target="_blank"}
 - [manage access (for organization-level projects)](https://docs.github.com/en/issues/planning-and-tracking-with-projects/managing-your-project/managing-access-to-your-projects){target="_blank"}
 

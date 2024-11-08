@@ -249,7 +249,7 @@
     "href": "course-materials/materials/github-tools.html#projects",
     "title": "EDS 296",
     "section": "",
-    "text": "Create a project from your profile’s Projects tab\n\n\n“Projects are an adaptable collection of items that stay up-to-date with GitHub data. Your projects can track issues, pull requests, and ideas that you note down. You can add custom fields and create views for specific purposes.”\n\nA few helpful features:\n\nadd issues or pull requests (from multiple repos) to the same project\nchange and / or customize your project layout (you may also add multiple views){target=“_blank”}\nlink projects to relevant repositories\nmanage access (for organization-level projects)\n\n\nLearn more by exploring GitHub Docs"
+    "text": "Create a project from your profile’s Projects tab\n\n\n“Projects are an adaptable collection of items that stay up-to-date with GitHub data. Your projects can track issues, pull requests, and ideas that you note down. You can add custom fields and create views for specific purposes.”\n\nA few helpful features:\n\nadd issues or pull requests (from multiple repos) to the same project\nchange and / or customize your project layout (you may also add multiple views)\nlink projects to relevant repositories\nmanage access (for organization-level projects)\n\n\nLearn more by exploring GitHub Docs"
   },
   {
     "objectID": "course-materials/materials/github-tools.html#projects-screenshot",
