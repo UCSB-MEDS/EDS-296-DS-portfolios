@@ -3,13 +3,13 @@ project:
   output-dir: docs
 
 website:
-  # announcement:
-  #   icon: info-circle
-  #   dismissable: false
-  #   type: primary
-  #   position: above-navbar
-  #   content: "This website is currently under development! Course materials are undergoing continued revision as we approach / begin Fall Quarter 2024."
-  # # This website is currently under development! Updates are likely to continue until EDS 296 begins in Fall 2024.
+  announcement:
+    icon: info-circle
+    dismissable: false
+    type: primary
+    position: above-navbar
+    content: "EDS 296 will not run as a course in Fall 2025. MEDS students should instead attend the MEDS Career & Professional Development workshop series offered on Wednesdays from 11:00am - 12:45pm {{< fa face-smile >}}"
+  # This website is currently under development! Updates are likely to continue until EDS 296 begins in Fall 2024.
   title: "EDS 296"
   navbar:
     right:
