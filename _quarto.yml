@@ -8,7 +8,7 @@ website:
     dismissable: false
     type: primary
     position: above-navbar
-    content: "EDS 296 will not run as a course in Fall 2025. MEDS students should instead attend the MEDS Career & Professional Development workshop series offered on Wednesdays from 11:00am - 12:45pm {{< fa face-smile >}}"
+    content: "EDS 296 will not run as a course in Fall 2025. MEDS students should instead attend the MEDS Career & Professional Development workshop series offered on Wednesdays from 11:00am - 12:45pm {{< fa face-smile >}} <br> Find the new workshop website at: <https://ucsb-meds.github.io/career-professional-dev/>"
   # This website is currently under development! Updates are likely to continue until EDS 296 begins in Fall 2024.
   title: "EDS 296"
   navbar:
