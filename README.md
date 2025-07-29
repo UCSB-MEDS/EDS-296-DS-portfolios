@@ -1,3 +1,5 @@
+# This content is no longer being run as a course (and therefore, this website is no longer maintained). Please see the materials for our new [MEDS Career & Professional Development Workshop Series](https://ucsb-meds.github.io/career-professional-dev/) instead.
+
 # EDS 296: Data science tools for building professional online portfolios
 
 ![Screenshot 2024-09-03 at 12 30 58 PM](https://github.com/user-attachments/assets/80aa7341-b982-49a5-9cb8-6b4e04f45068)
